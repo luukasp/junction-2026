@@ -1,0 +1,33 @@
+services:
+  db:
+    image: mariadb:11.4
+    environment:
+      MARIADB_DATABASE: ${MARIADB_DATABASE:-equal_care}
+      MARIADB_USER: ${MARIADB_USER:-equal_care}
+      MARIADB_PASSWORD: ${MARIADB_PASSWORD:-local_dev_password}
+      MARIADB_ROOT_PASSWORD: ${MARIADB_ROOT_PASSWORD:-local_root_password}
+    ports:
+      - "127.0.0.1:3306:3306"
+    volumes:
+      - mariadb_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "healthcheck.sh", "--connect", "--innodb_initialized"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+  api:
+    build: .
+    environment:
+      DATABASE_URL: mysql+pymysql://${MARIADB_USER:-equal_care}:${MARIADB_PASSWORD:-local_dev_password}@db:3306/${MARIADB_DATABASE:-equal_care}?charset=utf8mb4
+      CORS_ORIGINS: '${CORS_ORIGINS:-["http://localhost:5173","http://127.0.0.1:5173"]}'
+      DATA_DIR: /srv/data/processed
+    ports:
+      - "127.0.0.1:8000:8000"
+    volumes:
+      - ../data:/srv/data:ro
+    depends_on:
+      db:
+        condition: service_healthy
+    command: ["sh", "-c", "backend init-db && uvicorn app.main:app --host 0.0.0.0 --port 8000"]
+volumes:
+  mariadb_data:
