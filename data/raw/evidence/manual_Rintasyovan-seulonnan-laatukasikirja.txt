@@ -1,0 +1,1930 @@
+ RINTASYÖVÄN
+ SEULONNAN
+LAATUKÄSIKIRJA
+
+
+
+
+         Päivitetty 25.5.2026
+SISÄLLYS
+
+ASIANTUNTIJARYHMÄN KOKOONPANO                4
+                                                   9. SEULONNAN JATKOTUTKIMUKSET ELI
+1. TIIVISTELMÄ                               5     VARMISTUSTUTKIMUKSET                            18
+                                                   9.1    Täydentävä mammografia                   18
+2. TERMISTÖ JA LYHENTEET                     6     9.2    Ultraäänikuvaus                          19
+                                                   9.3    Muut varmistustutkimukset                20
+3. JOHDANTO                                  7     9.4    Radiologinen yhteenveto                  20
+3.1   Muutokset aiempaan julkaisuun          7     9.5    Näytteenotto                             20
+                                                   9.5.1 Rintamuutosten näytteenotto               20
+4. TAUSTAA                                   8     9.5.2 Näytteenotto saman puolen
+4.1   Rintasyöpä                             8            epäilyttävistä kainaloimusolmukkeista    20
+4.2   Rintasyövän seulonta                   8     9.5.3 Näytteiden histopatologinen/sytologinen
+4.2.1 Hyödyt ja haitat                       8            tutkiminen                               21
+                                                   9.6    Varmistustutkimusten vastaus ja
+5. SEULONTAOHJELMAN ORGANISAATIO                          lähete erikoissairaanhoitoon             21
+JA VASTUUT                                  10     9.6.1 Vastauksen kertominen                     21
+5.1   Lainsäädäntö                          10     9.6.2 Lähete erikoissairaanhoitoon              22
+5.1.2 Seulontayksikkö                       11     9.6.3 Palaute erikoissairaanhoidosta
+5.2   Seulonnan ohjaus ja valvonta          11            seulontayksikköön                        22
+
+
+6. SEULONTAPROTOKOLLA                       12     10. HOITO ERIKOISSAIRAANHOIDOSSA                23
+6.1   Seulonnan kohdeväestö                 12     10.1   Radiologia                               23
+6.2   Kutsuttavien poiminnat ja                    10.2 Kirurgia                                   24
+      poiminnan ajankohdat                  12     10.3   Patologia                                25
+6.3   Kutsun sisältö                        13     10.4 Onkologia                                  25
+6.4   Muistutuskutsu                        14     10.5   Moniammatilliset syöpäpotilaan
+                                                          hoidon suunnittelukokoukset
+7. SEULONTAKUVAUS                           15            eli MDT-kokoukset                        23
+7.1   Digitaalinen mammografia              15
+7.2   Seulontakuvauksen laadunvalvonta      15     11. AMMATTITAITO JA KOULUTUS                    24
+7.3   Kuvaustapahtuma                       15     11.1   Röntgenhoitajien ammattitaito,
+                                                          koulutus, itsearviointi                  24
+8. KUVIEN TULKINTA JA                              11.2   Radiologien ammattitaito,
+SEULONNAN TULOS                             16            koulutus, itsearviointi                  24
+8.1   Normaalivastaus                       16     11.3   Patologien ammattitaito                  25
+8.2   Yhteisluentaan ohjaaminen             16     11.4   Kirurgien ammattitaito                   25
+8.3   Tekniseen uusintaan kutsuminen        17     11.5   Onkologien ammattitaito                  25
+8.4   Varmistustutkimuksiin kutsuminen      17
+8.5   Seulonnan vastauksen kertominen       17
+
+
+
+
+2                        RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+12. TIETOJEN TOIMITUS- JA RAPORTOINTI 26               17. LIITTEET                                      38
+12.1   Seulontatietojen rekisteröinti             26   17.1   Seulontaikäisten naisten syöpien
+                                                              seulonnan laadunarviointiin
+13. SEULONNAN MONITOROINTI JA                                 liittyvä mallilomake (LIITE I)             38
+OHJELMAN LAADUNVARMISTUS                          28   17.1.1 Parametrit mammografiassa                  38
+13.1   Suomen Syöpärekisteri                      28   17.1.2 Toteamiseen liittyvät seikat               39
+13.2   Hyvinvointialueet                          28   17.1.3 Syövän toteamisen jälkeen tehtävä
+                                                              arviointi, kun tiedetään missä ja miten
+14. VIESTINTÄ JA TIEDOTUS                         30          syöpä toteamishetkellä näkyy               39
+14.1   Viestinnän tavoite                         30   17.1.4 Välisyöpien luokittelu                     39
+14.2   Viestinnän sisällöt                        30   17.1.5 Pohdintaa, miksi syöpä jäi havaitsematta
+14.3   Osallistumisen parantaminen                30          aiemmissa tutkimuksissa?                   40
+14.4 Viestinnän saavutettavuus                    30   17.2   Laadunvalvontaliite (LIITE II)             41
+14.5   Tiedotus- ja viestintäkanavat              31   17.2.1 Röntgenhoitajan itsearviointi              41
+                                                       17.2.2 Radiologin itsearviointiin
+15. RINTASYÖPÄSEULONNAN                                       tarvittavat tiedot                         42
+TULEVAISUUDEN TAVOITTEISTA                        32   17.2.3 Seulontayksikön laadunvalvontaan
+15.1   Uusi eurooppalainen                                    tarvittavat tiedot                         43
+       syöpäseulontasuositus                      32   17.2.4 Välisyöpien arviointi                      44
+       Ikäryhmäsuositukset                        32   17.2.5 Patologia                                  44
+       Oireettomien riskiperusteinen seuranta 32       17.2.6 Seulontaan osallistuvien
+       Sukuriskiin perustuva seuranta             32          asiakaskokemus seulonnasta                 44
+       Rinnan tiiviyteen perustuva yksilöllinen
+       täydentävä kuvantaminen                    32
+15.2   Digitaalinen tomosynteesi                  33
+15.3   Tekoäly                                    33
+
+
+16. LÄHDELUETTELO                                 34
+
+
+
+
+3                      RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+ASIANTUNTIJARYHMÄN KOKOONPANO
+
+PUHEENJOHTAJA
+
+Johanna Alanko, erikoislääkäri, Suomen Terveystalo
+
+
+
+JÄSENET
+
+Otso Arponen, dosentti, radiologiaan erikoistuva lääkäri, TAYS
+
+
+Maarit Bärlund, dosentti, erikoislääkäri, TAYS, Tampereen yliopisto
+
+
+Sirpa Heinävaara, dosentti, tutkimusjohtaja, Suomen Syöpärekisteri
+
+
+Ulla Karhunen-Enckell, erikoislääkäri, TAYS, Tampereen yliopisto
+
+
+Vesa Kataja, dosentti, ylilääkäri, Etelä-Savon hyvinvointialue
+
+
+Katariina Kortelainen, kehittämisasiantuntija, Suomen Röntgenhoitajat
+
+
+Noora Malmberg, yleiskirurgi, Varsinais-Suomen hyvinvointialue
+
+
+Taneli Mattila, erikoislääkäri, OYS
+
+
+Anders Ståhls, erikoislääkäri, HUS Diagnostiikkakeskus
+
+
+Mazen Sudah, dosentti, erikoislääkäri, KYS
+
+
+Niina Törölä, röntgenhoitaja, Rintaklinikka, TAYS
+
+
+Meri Utriainen, LT, erikoislääkäri, HUS Syöpäkeskus
+
+
+Maija Vahteristo, FT, kehittämispäällikkö, Suomen Syöpärekisteri
+
+
+
+
+4                       RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+1. TIIVISTELMÄ                                              Rintasyövän seulonnan järjestäminen on hyvin-
+Seulonnan avulla rintasyöpä pyritään löytämään              vointialueiden tehtävä. Nykytilanteessa hyvin-
+varhaisessa vaiheessa ennen kuin se aiheuttaa oirei-        vointialue voi toteuttaa seulonnat omana toimintana,
+ta. Tavoitteena on vähentää rintasyövästä aiheutuvaa        yhdessä muiden hyvinvointialueiden kanssa tai
+kuolleisuutta. Seulontakokonaisuus on laadukas              ostopalveluna. Seulontaohjelman tulee sisältää asian-
+ketju toimia, joilla varmistetaan, että mahdollisim-        mukainen laadunhallinta- ja laadunvarmistusme-
+man moni mammografiakuvasta diagnosoitavissa                nettely. Hyvinvointialueen vastuulla on myös tarjota
+oleva rintasyöpä löytyy ajoissa.                            riittävästi tietoa oikeudesta seulontaan, seulonnan
+                                                            tavoitteista ja vaikuttavuudesta, seulontaan mah-
+Rintasyöpään sairastuu Suomessa vuosittain noin             dollisesti liittyvistä riskeistä sekä seulonnan järjes-
+5000 naista. Heistä runsas puolet on 50–69-vuo-             tämisestä. Hyvinvointialue vastaa myös seulonnan
+tiaita, jotka kutsutaan seulontaan kahden vuoden            jatkotutkimusten järjestämisestä ja erikoissairaan-
+välein. Seulontaikäisten naisten rintasyövistä noin         hoidosta.
+kaksi kolmasosaa löydetään seulonnassa. Seulontaan
+osallistuneiden kuolleisuus rintasyöpään on noin            Hyvinvointialueen tulee toimittaa seulonnasta yksilö-
+kolmanneksen alhaisempi verrattuna tilanteeseen,            tason tiedot Suomen Syöpärekisterin ylläpitämään
+jossa seulontaa ei olisi. Seulonnasta voi olla myös         joukkotarkastusrekisteriin, jonka perusteella seulon-
+haittaa, sillä pieni osa seulonnassa löytyneistä syö-       nan laatua ja vaikuttavuutta voidaan arvioida.
+vistä on sellaisia, jotka eivät koskaan kehittyisi hoitoa   Suomen Syöpärekisteri raportoi seulontatilastot,
+vaativiksi. Lisäksi yksi kuudesta seulontaan säännöl-       joissa on laatuindikaattoreita seulontaketjun toimi-
+lisesti osallistuvasta naisesta lähetetään vähintään        vuudesta.
+kerran tarpeettomasti jatkotutkimuksiin.
+
+
+
+
+5                       RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+2. TERMISTÖ JA LYHENTEET
+ADH            Atyyppinen duktaalinen hyperplasia
+DCIS           In situ duktaalinen karsinooma
+DVV            Digi- ja väestötietovirasto
+ESP            European Society of Pathology
+EUSOMA         European Society of Breast Cancer Specialists
+IAP            International Academy of Pathology
+
+
+KIP            Kohdennettu imusolmukepoisto
+LCIS           In situ lobulaarinen karsinooma
+MDT-kokous     Moniammatillinen syöpäpotilaan hoidon suunnittelukokous
+MRI            Rintojen magneettikuvaus
+OECI           Organization of European Cancer Institutes
+PAD            Patologisanatominen diagnoosi
+STUK           Säteilyturvakeskus
+THL            Terveyden ja hyvinvoinnin laitos
+TNM-luokitus   Pahanlaatuisten kasvaimien levinneisyyttä kuvaava kansainvälinen
+               luokittelujärjestelmä, joka perustuu kasvaimen T (= tuumori) kokoon
+               sekä arvioon etäpesäkkeiden esiintymisestä alueellisissa imusolmukkeissa
+               (N = nodus) ja muissa elimissä (M = metastaasi)
+UÄ             Ultraääni
+
+
+
+
+6                  RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+3. JOHDANTO                                              25.5.2026 hyväksyttyyn päivitykseen tehtiin seuraavat
+Rintasyövän seulonnan laatukäsikirja on tarkoitettu      sisällölliset muutokset, joiden lisäksi viitteitä ja link-
+päätöksenteon ja toiminnan tueksi rintasyövän seu-       kejä ajantasaistettu:
+lonnan organisoinnista ja käytännön toteutuksesta        •   Tarkennettu rintasyöpäseulonnan kohderyhmän
+vastaaville tahoille. Käsikirjassa annetaan tutkimus-        määrittely sukupuolivähemmistöjen osalta
+tietoon ja käytännön kokemukseen perustuvia suo-         •   Lisätty maininta siitä, että ultraääni ei sovellu
+situksia toimivan ja kustannusvaikuttavan organisoi-         ensisijaiseksi tai korvaavaksi seulontatestiksi
+dun rintasyövän seulontaohjelman toteuttamiseen.         •   Tarkennettu ohjeistuksia saavutettavuudesta ja
+Rintasyövän hoitoa tässä käsikirjassa ei varsinaisesti       esteettömyydestä, eli seulontayksiköiden tulee
+käsitellä. Tarkempaa tietoa hoitosuosituksista löytyy        olla esteettömiä ja mammografialaitteiden han-
+mm. Suomen Rintasyöpäryhmän ry:n valtakunnalli-              kinnassa tulee kiinnittää huomiota laitteen sää-
+sesta diagnostiikka- ja hoitosuosituksesta , (https://
+                                           1
+                                                             dettävyyteen, niin että tutkimus voidaan toteut-
+rintasyoparyhma.yhdistysavain.fi/hoitosuositus/).            taa myös silloin, kun seisten tehty tutkimus ei ole
+                                                             vaihtoehto
+Vastuu seulontojen järjestämisestä siirtyi vuoden        •   Lisätty maininta suositellusta ikäryhmälaajennuk-
+2023 alussa kunnilta 21 hyvinvointialueelle sekä             sesta, eli 46–48-vuotiaisiin kahden vuoden seu-
+Helsingin kaupungille. Lisäksi Ahvenanmaan maa-              lontavälillä ja 70–74-vuotiaisiin kolmen vuoden
+kunta on vastuussa seulonnan järjestämisestä alueel-         seulontavälillä.
+laan. Tämän laatukäsikirjan on tarkoitus täsmen-         •   Täsmennetty, että myös seulontatoimijan vaihtu-
+tää, miten laadukas rintasyöpäseulonta järjestetään.         essa hyvinvointialueen on varmistettava seulon-
+Järjestämisessä huomioitavat yksityiskohtaiset vaa-          tatietojen siirtyminen seuraavan toimijan käyt-
+timukset esitetään kappaleissa Seulontaohjelman              töön
+organisaatio ja vastuut, Seulontaprotokolla, Seulonta-   •   Täsmennetty, että myös seulontakierrosten välillä
+kuvaus, Kuvien tulkinta ja seulonnan tulos, Seu-             tehdyt seulonnan jatkotutkimuksiin liittyvät kont-
+lonnan jatkotutkimukset eli varmistustutkimukset,            rollit ovat maksuttomia
+Ammattitaito ja koulutus, Tietojen toimitus- ja          •   Uusi ohjeistus implanttirintojen kuvaukseen:
+raportointi, Seulonnan monitorointi ja ohjelman              perusprojektioiden lisäksi tulee ottaa Eklund-pro-
+laadunvarmistus sekä Viestintä ja tiedotus. Hoito            jektiot molemmista rinnoista
+erikoissairaanhoidossa -kappaleessa on määritelty        •   Täsmennetty, että poistetun rinnan aluetta tai
+laatukriteerit erikoissairaanhoidossa työskentelevien        poiston jälkeen rekonstruoitua rintaa ei tule
+toimijoiden ammattitaidon osalta.                            kuvata
+                                                         •   Päivitetty tutkimusosion Tekoäly-kappale uusim-
+3.1 MUUTOKSET AIEMPAAN JULKAISUUN                            man tutkimustiedon perusteella
+                                                         •   Päivitetty laadunvalvontaliitteen röntgenhoita-
+Laatukäsikirjan ensimmäinen versio julkaistiin               jien itsearviointiohjeistus
+18.4.2024.                                               •   Päivitetty terminologia ja sanamuodot uusimman
+                                                             BI-RADS -painoksen mukaisiksi
+                                                         •   Täsmennetty ohjeistusta seulottavan informoin-
+                                                             nista mikäli tehdään lähete erikoissairaanhoitoon.
+
+
+
+
+7                      RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+4. TAUSTAA                                                väestössä syntymävuoteen perustuva satunnaistus.
+                                                          Tällöin vain osa kohdeväestöön kuuluvista naisista
+● Rintasyöpä on naisten yleisin syöpäsairaus.             kutsuttiin seulontaan, osan toimiessa verrokkeina.
+● Rintasyöpäseulonnan ensitesti on mammografia.           Satunnaistetusta seurantatutkimuksesta saadut
+● Mammografiakuvat tulkitsee kaksi radiologia             ensimmäiset tulokset viittasivat siihen, että ohjelma
+    toisistaan riippumatta.                               oli yhtä vaikuttava kuin aiempien tutkimusten perus-
+● Jatkotutkimuksia tarvitsevat kutsutaan viipymättä       teella osattiin odottaa3,4.
+    varmistustutkimuksiin.
+● Ketjun vaiheet tilastoidaan laadun ja vaikutta-         Valtakunnallinen rintasyövän seulontaohjelma
+    vuuden seuraamista ja arviointia varten joukko-       alkoi Suomessa vuonna 1992. Vastuu seulonnan
+    tarkastusrekisteriin.                                 järjestämisestä kuului kunnille. Seulontaan kutsut-
+● Seulonta vähentää kuolleisuutta rintasyöpään,           tiin tuolloin 50–59-vuotiaat naiset 20–26 kuukau-
+    mutta siitä aiheutuu myös ylidiagnostiikkaa.          den välein. Vuonna 2007 voimaan tulleen Valtio-
+                                                          neuvoston Seulonta-asetuksen jälkeen rintasyövän
+                                                          seulonta laajeni vuosina 2007–2016 asteittain
+4.1 RINTASYÖPÄ                                            60–69-vuotiaaseen naisväestöön koko maassa. Osa
+Rintasyöpä on naisten yleisin syöpä, johon joka kah-      kunnista kutsui seulontaan myös 60–64-vuotiaat
+deksas nainen sairastuu elämänsä aikana. Vuonna           naiset ohjelman alusta alkaen4.
+2021 rintasyöpään sairastui yli 5000 naista ja siihen
+kuoli lähes 1000 naista. Rintasyövän ilmaantuvuus         Rintasyövän seulonta on laadukas ketju toimia, joilla
+on kasvanut 1950-luvulta lähtien. Rintasyövän riski       varmistetaan, että mahdollisimman moni mammo-
+suurenee iän myötä ja 60 % rintasyövistä todetaan         grafiakuvasta diagnosoitavissa oleva rintasyöpä löytyy
+60 ikävuoden jälkeen .  2
+                                                          ajoissa. Ensitesti on mammografia, johon seulonta-
+                                                          ikäiset naiset kutsutaan.
+Ikääntymisen lisäksi lisääntymiskäyttäytymisen
+muutokset on osaltaan suurentaneet rintasyövän            Mammografiakuvat ottaa röntgenhoitaja niin, että
+riskiä: ensisynnytysikä on noussut, lapsiluku on          koko rinta näkyy kuvassa tasaisesti. Kuvat tulkitsee
+pienentynyt ja imetysajat ovat lyhentyneet. Vaihde-       kaksi radiologia toisistaan riippumatta. Jatkotutki-
+vuosioireiden hoidossa käytettävä pitempiaikainen         muksia tarvitsevat naiset kutsutaan viipymättä
+hormonikorvaushoito suurentaa rintasyövän riskiä,         varmistustutkimuksiin. Varmistustutkimukset tekee
+varsinkin jos se sisältää sekä estrogeenia että kelta-    radiologi, joka huolehtii myös potilaan informoin-
+rauhashormonia (progestiinia). Myös ylipaino ja           nista ja lähetteen tekemisestä erikoissairaanhoitoon.
+runsas alkoholinkäyttö lisäävät riskiä sairastua rinta-   Ketjun vaiheet tilastoidaan laadun ja vaikuttavuu-
+syöpään. Nykykäsityksen mukaan 5–10 % rintasyö-           den seuraamista ja arviointia varten joukkotarkastus-
+vistä selittyy perinnöllisellä alttiudella .
+                                          1
+                                                          rekisteriin. Ketjun jokaisen osan laadun täytyy olla
+                                                          kunnossa ja sitä on syytä valvoa, jotta tavoitteisiin
+4.2 RINTASYÖVÄN SEULONTA                                  päästäisiin.
+Seulonnassa rintasyöpä pyritään löytämään varhai-
+sessa vaiheessa ennen kuin se aiheuttaa oireita.          4.2.1 Hyödyt ja haitat
+Seulonnan tavoite on vähentää rintasyövästä aiheu-        Rintasyöpäseulonnassa mammografia on ainoa
+tuvaa kuolleisuutta. Rintasyövän seulonta käynnistyi      tutkimusmenetelmä, jolla on osoitettu olevan
+Suomessa ensimmäisten maiden joukossa vuonna              vaikutusta rintasyöpäkuolleisuuteen. Suomessa
+1987. Ensimmäisen viiden vuoden aikana, vuosina           seulonta on vähentänyt kuolleisuutta rintasyöpään
+1987–1991, toteutettiin valitussa seulonnan kohde-        noin 20 % kutsuttujen keskuudessa verrattuna
+
+
+
+8                           RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+tilanteeseen ilman seulontaa5. Seulontaan osallis-       tutkimuksiin7. Kansainvälisen tutkimuksen mukaan
+tuneilla rintasyöpäkuolleisuus on vähentynyt noin        seulontaan kutsutuilla 50–69-vuotiailla naisilla yli-
+kolmanneksen verrattuna tilanteeseen ilman seu-          diagnostiikan on arvioitu olevan korkeintaan 10 %8.
+lontaa6.                                                 Kotimaisen tutkimuksen mukaan ylidiagnostiikka on
+                                                         5–7 % seulontaan kutsutuilla 50–59-vuotiailla naisilla9.
+Seulonta kohdistuu terveeseen väestöön, joten siitä      Rintasyövän seulonnalla estetään vuosittain noin 100
+aiheutuu väistämättä myös haittoja. Suoraan seu-         rintasyöpäkuolemaa, mutta siitä aiheutuu noin 150
+lottavaan henkilöön vaikuttavat haitat ovat sekä         tarpeettomasti todettua rintasyöpää4.
+fyysisiä että psyykkisiä. Haitat voivat ilmetä myös
+yhteiskunnan tasolla, kuten ylidiagnostiikasta aiheu-    Kansallista seulontaohjelmaa kehittäessä on pun-
+tuvina ylimääräisinä kustannuksina. Syöpäseulon-         nittava ohjelman aiheuttamat hyödyt ja haitat koko
+nassa ylidiagnostiikalla tarkoitetaan yleisesti sitä,    väestön tasolla, ja saavutettava näissä hyväksyttävä
+että seulonnalla havaitaan sellainen syöpä, joka ei      tasapaino. Seulonnan haitoista, kuten hyödyistäkin,
+olisi aiheuttanut haittaa henkilölle tämän elinaikana,   tulisi myös tiedottaa seulottavaa henkilöä selkeästi jo
+vaikka se olisi jäänyt diagnosoimatta.                   kutsuvaiheessa.
+
+
+Rintasyövän seulontaan 50–69-vuotiaina kutsutuista
+18 % saa vähintään kerran tarpeettomasti kutsun jatko-
+
+
+
+
+9                       RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+5. SEULONTAOHJELMAN                                        Osallistuminen seulontatestiin ja mahdollisiin
+ORGANISAATIO JA VASTUUT                                    jatkotutkimuksiin on maksutonta. Myös
+                                                           seulonnan jatkotutkimuksiin liittyviin kontrolleihin
+● Hyvinvointialueet ovat vastuussa oman alueensa           osallistuminen on maksutonta.
+  seulontatoiminnan järjestämisestä ja laadun-
+  valvonnasta.                                             Vastuu seulontojen järjestämisestä siirtyi vuoden
+● Seulonta on järjestettävä 50–69-vuotiaille naisille      2023 alussa kunnilta 21 hyvinvointialueelle sekä
+  20–26 kuukauden välein.                                  Helsingin kaupungille. Lisäksi Ahvenanmaan
+● Hyvinvointialueen on nimettävä rintasyöpä-               maakunta on vastuussa seulonnan järjestämisestä
+  seulonnan vastuuhenkilö, joka on rintaradio-             alueellaan. Seulonta järjestetään hyvinvointialueen
+  logiaan perehtynyt radiologi. Hänen tehtävänään          ennalta päättämän ohjelman mukaisesti, ja hyvin-
+  on vastata seulonnan toteutuksesta ja laadun-            vointialueen on nimettävä rintasyöpäseulonnan
+  valvonnasta.                                             vastuuhenkilö, joka on rintaradiologiaan perehtynyt
+● Hyvinvointialueen tulee seurata ja arvioida              radiologi. Hänen tehtävänään on vastata seulonnan
+  seulontaprosessin laatua ja seulontatestien luotet-      toteutuksesta ja laadunvalvonnasta.
+  tavuutta säännöllisesti, sekä toimittaa seulonnasta
+  yksilötason tiedot Suomen Syöpärekisterin yllä-          Hyvinvointialueet voivat toteuttaa seulonnan joko
+  pitämään joukkotarkastusrekisteriin.                     omana toimintanaan tai ulkoistaa seulonnan toteut-
+● Kansallinen syöpäseulontojen ohjausryhmä                 tamisen valitsemalleen palveluntuottajalle. Molem-
+  ohjeistaa syöpäseulontojen käynnistämistä,               missa tilanteissa ohjelman tulee sisältää asianmu-
+  toteutusta ja kehittämistä.                              kainen laadunhallinta- ja laadunvarmistusmenettely.
+● Syöpäseulontojen ohjausryhmä on nimennyt                 Hyvinvointialue vastaa myös seulonnan jatkotutki-
+  jokaiselle syöpäseulontaohjelmalle asiantuntija-         musten järjestämisestä ja erikoissairaanhoidosta.
+  ryhmän, jonka tehtävänä on antaa tarkempia 		
+  ohjeita syöpäseulontojen toteuttamisesta.                Hyvinvointialueen tulee seurata ja arvioida koko
+● Seulontaohjelman valvonnasta vastaavat ensi-             seulontaprosessin laatua ja seulontatestien luotet-
+  sijaisesti hyvinvointialueet itse.                       tavuutta säännöllisesti, sekä toimittaa seulonnasta
+                                                           yksilötason tiedot Suomen Syöpärekisterin ylläpitä-
+                                                           mään joukkotarkastusrekisteriin, jonka perusteella
+5.1 LAINSÄÄDÄNTÖ                                           seulonnan laatua ja vaikuttavuutta voidaan arvioida.
+Terveydenhuoltolain 14 § mukaisesti hyvinvointi-           Terveyden ja hyvinvoinnin laitos (THL) on antanut
+alueen on järjestettävä alueellaan pysyvästi asuville      Suomen Syöpärekisterin tehtäväksi seurata ja arvi-
+valtakunnallisen seulontaohjelman mukaiset seulon-         oida yhteistyössä muiden alan toimijoiden kanssa
+nat . Seulonta-asetuksessa ja sen muutoksissa
+     10                     11                     12,13
+                                                           käynnissä olevia seulontaohjelmia ja niissä käytettäviä
+on säädetty tarkemmin, että rintasyövän seulonta           menetelmiä.
+on järjestettävä 50–69-vuotiaille naisille 20–26
+kuukauden välein. Lisäksi seulonta-asetuksessa14           Muun kuin valtakunnallisen seulontaohjelman
+määrätty, että, rintasyövän seulonta järjestetään          mukaisen seulonnan järjestämiseksi (esimerkiksi
+myös henkilöille, joiden sukupuoli on sukupuolen           seulonnan ikäryhmiä laajennettaessa) hyvinvointi-
+vahvistamista koskevan lainsäädännön nojalla               alueen on ennen seulonnan aloittamista arvioitava,
+vahvistettu mieheksi tai naiseksi sekä henkilöille,        millaisia vaatimuksia seulonta asettaa terveyden-
+jotka pitkäaikaisesti käyttävät tai ovat käyttäneet        huollon palvelujärjestelmälle ja miten seulonta
+rintasyöpäriskiä lisäävää hormonivalmistetta.              siihen vaikuttaa.
+
+
+
+
+10                      RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+5.1.2 Seulontayksikkö                                      tämistä sekä valmistelee syöpäseulontoihin liittyvät
+Seulonnan toteuttamisesta vastaavalla seulontayksi-        asetukset ja lait yhteistyössä sosiaali- ja terveysmi-
+köllä on oltava soveltuvat tilat, laitteet ja henkilöstö   nisteriön kanssa. Ohjausryhmä koostuu alueellisten
+seulontakutsujen ja -vastausten lähettämistä sekä          syöpäkeskusten ja Suomen Syöpärekisterin asian-
+mammografiakuvien ottamista ja luentaa varten.             tuntijajäsenistä ja sosiaali- ja terveysministeriön
+Tämän primaarivaiheen ohella seulontayksikkö               edustajasta. Syöpäseulontojen ohjausryhmä on
+vastaa myös koko seulontaketjun (kutsut, testit ja         nimennyt jokaiselle syöpäseulontaohjelmalle asian-
+niiden tulokset, jatkotutkimukset ja niiden tulokset,      tuntijaryhmän, jonka tehtävänä on antaa tarkempia
+erikoissairaanhoito ja sen tulokset) yksilötason tieto-    ohjeita syöpäseulontojen toteuttamisesta, ja hyvin-
+jen toimittamisesta Suomen Syöpärekisterin joukko-         vointialueet vastaavat näiden ohjeiden toimeen-
+tarkastusrekisteriin .
+                    12
+                                                           panosta.
+
+
+Seulontayksiköllä on oltava toimintaa tukevat tieto-       Seulontaohjelman valvonnasta vastaavat ensisijaisesti
+järjestelmät, joissa on huomioitu koko seulontaket-        hyvinvointialueet itse. Aluehallintovirastot vastaavat
+jun tiedonkeruu ja tiedon toimittaminen joukkotar-         muun terveydenhuollon tavoin myös hyvinvointi-
+kastusrekisteriin Suomen Syöpärekisterin määrittä-         alueiden järjestämän seulonnan valvonnasta. Alue-
+män tietomallin ja parametriston mukaisina.                hallintovirastot myös käsittelevät kantelut lukuun
+                                                           ottamatta tapauksia, joissa epäillään hoitovirheen
+5.2 SEULONNAN OHJAUS JA VALVONTA                           johtaneen potilaan kuolemaan tai vaikeaan pysyvään
+Kansallinen syöpäseulontojen ohjausryhmä ohjeistaa         vammautumiseen.
+syöpäseulontojen käynnistämistä, toteutusta ja kehit-
+
+
+
+
+11                       RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+                                                             70–74-vuotiaisiin kolmen vuoden seulontavälillä.
+6. SEULONTAPROTOKOLLA
+                                                             Lisäksi seulonta-asetuksessa14 todetaan, että rinta-
+● Rintasyövän seulonnan kohderyhmänä ovat                    syövän seulonta järjestetään myös henkilöille, joiden
+     seulonta-asetuksen mukaisesti 50–69-vuotiaat            sukupuoli on sukupuolen vahvistamista koskevan
+     naiset 20–26 kuukauden välein.                          lainsäädännön nojalla vahvistettu mieheksi tai nai-
+● Asiantuntijaryhmä suosittaa, että seulontaohjel            seksi sekä henkilöille, jotka pitkäaikaisesti käyttävät
+     maa laajennetaan 46–48-vuotiaisiin kahden vuo           tai ovat käyttäneet rintasyöpäriskiä lisäävää hormoni-
+     den seulontavälillä ja 70–74-vuotiaisiin kolmen         valmistetta.
+vuoden seulontavälillä.                                      Rintasyöpäseulonnan asiantuntijaryhmän linjauksen
+● Suomen Syöpärekisteri toimittaa listan seulon-             mukaisesti seulontaa tulee järjestää rintasyöpäriskin
+     taan kutsuttavien henkilötunnuksista kunkin 		          perusteella transnaisille, muunsukupuolisille ja muille
+     kalenterivuoden alussa hyvinvointialueiden              sukupuolivähemmistöihin kuuluville henkilöille, jotka
+     osoittamille seulontatoimijoille.                       ovat käyttäneet feminisoivaa hormonihoitoa vähin-
+● Seulonnan toteuttajan on mahdollista hyödyntää             tään viisi vuotta. Lisäksi seulontaa tulee järjestää tran-
+     Suomen Syöpärekisterin tarjoamaa maksullista            smiehille ja muunsukupuolisille henkilöille, joille ei
+     kutsupalvelua.                                          ole tehty rintojen poistoa.
+● Kutsukirjettä ei voida lähettää henkilöille, joilla
+
+     on turvakielto, tai jotka ovat vahvistaneet suku-       Sukupuolensa mieheksi vahvistaneille henkilöille
+     puolensa mieheksi, vaan heitä tulee ohjeistaa           ei lähetetä erillisiä kutsuja seulontaan, sillä kutsut
+     ottamaan itse yhteyttä seulonnan toteuttajaan.          perustuvat Digi- ja väestötietovirastossa (DVV)
+● Kutsuja tulee lähettää ja kuvauksia tehdä tasaisesti       olevaan sukupuolimerkintään. Nämä henkilöt ovat
+     ympäri vuoden lomakaudet huomioiden, jotta 		           kuitenkin oikeutettuja osallistumaan seulontaan.
+     lähetteiden virta erikoissairaanhoitoon on tasainen.
+● Seulontakutsun saaneella on oikeus osallistua              6.2 KUTSUTTAVIEN POIMINNAT JA POIMINNAN
+     seulontaan seuraavan vuoden maaliskuun                  AJANKOHDAT
+     loppuun saakka.                                         Seulontaan kutsuttavat syntymävuosikohortit poimi-
+● Seulontakutsu pitää osoittaa kutsuttavalle                 taan väestötietojärjestelmästä (DVV). Suomen Syöpä-
+     henkilökohtaisesti ja sen pitää olla kirjallinen.       rekisteri toimittaa listan seulontaan kutsuttavien
+● Kutsukirjeen tulee olla omalla äidinkielellä               henkilötunnuksista kunkin kalenterivuoden alussa
+     suomeksi tai ruotsiksi tai kaksikielisenä. Jos hyvin-   hyvinvointialueiden osoittamille seulontatoimijoille.
+     vointialueella on merkittäviä kielivähemmistöjä,        Seulontojen järjestämisen sujuvoittamiseksi on mah-
+     on syytä harkita kutsun kääntämistä muille kielille.    dollista hyödyntää Suomen Syöpärekisterin tarjoamaa
+● Jos seulontaan kutsuttu ei ole osallistunut                maksullista kutsupalvelua, jossa seulonnan järjestä-
+     seulontaan, seulonnan toteuttaja lähettää hänelle       jälle toimitetaan henkilötunnusten lisäksi nimi- ja
+     muistutuskutsun kuuden viikon päästä                    osoitetiedot seulontakutsujen lähettämistä varten.
+     ensimmäisen kutsun lähettämisestä.                      Yhteystiedot poimitaan väestötietojärjestelmästä.
+
+
+                                                             Henkilöt, joilla on voimassa oleva turvakielto, tai
+6.1 SEULONNAN KOHDEVÄESTÖ                                    jotka ovat vahvistaneet sukupuolensa mieheksi, eivät
+Rintasyövän seulonnan kohderyhmänä ovat seu-                 tule tässä poiminnassa mukaan. Hyvinvointialueen
+lonta-asetuksen mukaisesti 50–69-vuotiaat naiset             tulee kuitenkin tarjota myös näille ryhmille riittävästi
+20–26 kuukauden välein. Rintasyöpäseulonnan asi-             tietoa seulonnasta ja vaivaton mahdollisuus varata
+antuntijaryhmä on suositellut seulonnan laajennusta          aika seulontaan. Seulonnan järjestäjän on lisäksi
+46–48-vuotiaisiin kahden vuoden seulontavälillä ja           tarjottava internetsivuillaan ohjeet, miten seulontaan
+
+
+
+12                        RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+                                                        Poiminta seulontaan ikäryhmän perusteella
+
+
+
+     Ei osallistuneet                                                         Kutsu
+
+                                         Tarvittaessa muistutus
+
+
+                                                              Mammografiakuvaus
+
+                                                             Kaksoisluenta
+
+                                                                                Yhteisluenta
+
+                                                                                               Varmistustutkimukset
+                                                                                                          Lisäkuvaukset
+
+
+                                                                                                           Kudosnäyte
+              Normaali vastaus
+
+                                                                                                     Hoito erikoissairaanhoidossa
+
+        Seuraava kutsu
+        2 vuoden päästä riippumatta edellisen kuvauksen tuloksesta tai peruuttamisesta.              Seuranta erikoissairaanhoidossa
+
+
+Kuva 1. Rintasyövän seulontaohjelman seulontaprotokolla.
+
+
+
+
+oikeutettu voi osallistua seulontaan, vaikka ei olisi-                           ruuhkien syntymistä rintasyöpää hoitaviin kirurgian
+kaan saanut kutsukirjettä.                                                       ja onkologian yksiköihin. Seulontakutsun saaneella
+                                                                                 on oikeus osallistua seulontaan seuraavan vuoden
+Seulontayksikön on lähetettävä kutsut postitse siten,                            maaliskuun loppuun saakka. Näin ollen vuoden
+että asetuksen mukainen 20–26 kuukauden                                          lopussa seulontakutsun saaneillakin on vähintään
+seulontaväli toteutuu jokaisen henkilön kohdalla                                 kolme kuukautta aikaa osallistua seulontaan.
+riippumatta seulonnan tuottajan mahdollisesta
+vaihtumisesta. Tieto lähetetyistä kutsuista toimite-                             6.3 KUTSUN SISÄLTÖ
+taan laadunvarmistusta varten Suomen Syöpä-                                      Kutsu lähetetään kohdeväestöön kuuluvalle
+rekisterin ylläpitämään joukkotarkastusrekisteriin.                              henkilölle paperisena tai sähköisenä suomi.fi
+                                                                                 -palvelun tai muun vastaavan vahvaa tunnistautu-
+Ensimmäiset seulontakutsut lähetetään tammi-                                     mista edellyttävän kanavan kautta, jonka henkilö on
+kuussa, jotta kuvaukset päästään aloittamaan helmi-                              ottanut käyttöön. Kutsukirje on joko kaksikielinen tai
+kuun alusta. Seulontakutsuja tulee lähettää ja                                   vastaanottajan omalla äidinkielellä, jos äidinkieli on
+seulontakuvauksia tulee tehdä tasaisesti ympäri vuo-                             suomi tai ruotsi. Jos hyvinvointialueella on merkittä-
+den lomakaudet huomioiden, jotta lähetteiden virta                               viä kielivähemmistöjä, on syytä harkita kutsun kään-
+erikoissairaanhoitoon on tasainen. Näin ehkäistään                               tämistä myös muille kielille.
+
+
+
+13                           RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+Kutsun tulee sisältää seuraavat tiedot:
+●   Kuvausajankohta ja -paikka                           Kutsukirjeistä on olemassa Suomen Syöpärekisterin
+●   Mahdollisuus kuvausajankohdan vaihtoon. Kuvaus       tuottamat ja ylläpitämät pohjat (kieliversiot suo-
+    ajankohdan vaihtaminen tulee olla tehtävissä         meksi, ruotsiksi, englanniksi, pohjoissaameksi ja
+    helposti ja tietoturvallisesti. Kuvausaikoja tulee   venäjäksi), joita on mahdollista käyttää pohjana tai
+    olla tarjolla riittävästi myös iltaisin ja/tai       sellaisenaan kutsukirjeenä. Kutsumallit kuten muut-
+    viikonloppuisin.                                     kin Suomen Syöpärekisterin seulontamateriaalit ovat
+                                                         löydettävissä verkkosivuilta16, https://syoparekisteri.
+Osallistumispäätöksen tekemiseksi kutsukirjeen           fi/seulonta/syopaseulontojen-jarjestaminen/.
+tulee sisältää tiedot:
+●   Seulonnan tarkoituksesta                             6.4 MUISTUTUSKUTSU
+●   Seulontatutkimuksen tekemisestä                      Jos seulontaan kutsuttu ei ole osallistunut seulon-
+●   Sairauden varhaisen toteamisen merkityksestä         taan, seulontatoimija lähettää hänelle muistutus-
+●   Seulonnan hyödyistä ja haitoista                     kutsun kuuden (6) viikon päästä ensimmäisen kut-
+●   Jatkotutkimuksista ja niiden tekemisestä             sun lähettämisestä. Malli muistutuskutsuksi on saa-
+    sekä merkityksestä                                   tavissa suomeksi, ruotsiksi ja englanniksi Suomen
+●   Seulonnan laaduntarkkailun olemassaolosta            Syöpärekisterin verkkosivuilta muiden rintasyövän
+Lisäksi kirjeessä tulee olla:                            seulonnan kutsu- ja vastauskirjepohjien tavoin16.
+●   Tieto, miten seulonnan vastaus tiedotetaan
+    osallistujalle
+●   Tieto, miten nopeasti seulonnan vastaus toimite-
+    taan (TAVOITE kahden viikon kuluessa, viimeis-
+    tään 3 viikon kuluessa seulontakuvauksesta)15
+●   Yhteystiedot lisätietojen saamiseksi
+●   Maininta osoitelähteestä (DVV:n väestötieto-
+    järjestelmä)
+
+
+
+
+14                          RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+7. SEULONTAKUVAUS                                           kuvista ei ole mahdollista nähdä koko rinnan kudosta
+                                                            riittävällä tarkkuudella, henkilö on kutsuttava tekni-
+● Mammografia on ensisijainen seulontamenetelmä.            seen uusintakuvaukseen.
+● Ultraääni ei sovellu ensisijaiseksi tai korvaavaksi
+
+seulontatestiksi.                                           7.2 SEULONTAKUVAUKSEN LAADUNVALVONTA
+● Kuvaukseen kuuluu kaksi kuvausprojektiota 		              Toiminnanharjoittajan on järjestettävä säteilylle al-
+     molemmista rinnoista: kraniokaudaalisuunta             tistavan toiminnan laadunvarmistus. Sen toteuttami-
+     ja viistosuunta.                                       seksi on laadittava laadunvarmistusohjelma11,17.
+● Toiminnanharjoittajan on järjestettävä säteilylle         Sisäiseen laadunvarmistukseen kuuluu seuranta
+     altistavan toiminnan laadunvarmistus.                  ja itsearviointi19. Hyvänä käytäntönä on antaa itse
+● Kuvaustapahtuman yhteydessä kartoitetaan mah-             arviointisuunnitelma ja -raportti vuosittain hyvin-
+     dolliset oireet sekä kliinisen tutkimisen löydökset.   vointialueille, jolloin laadun toteutumista voidaan
+                                                            seurata (mm. henkilöstön pätevyys ja koulutus,
+7.1 DIGITAALINEN MAMMOGRAFIA                                toiminnan määrä ja laatu).
+Mammografia on ensisijainen rintasyövän seulonta-
+menetelmä ja suoradigitaalinen mammografia-                 7.3 KUVAUSTAPAHTUMA
+kuvaus on suositeltavin kuvaustapa. Ultraääni ei            Kuvaustapahtuman yhteydessä kartoitetaan mm.
+sovellu ensisijaiseksi tai korvaavaksi seulontatestiksi.    naisen/asiakkaan raportoimat oireet sekä katselun
+                                                            (inspektio) ja käsin tunnustelun (palpaation)
+Kuvantamislaitteen ja sen oheislaitteiden (mm.              löydökset. Nämä on kirjattava seulonnan esitietoihin,
+kuvalevyjen ja kuvalukijan, jos käytössä) sekä              jotta kuvia tulkitsevat radiologit voivat ottaa ne
+kuvausohjelmistojen tulee olla teknisiltä ominai-           huomioon15. Esitietojen kysely, tutkimuksen suoritta-
+suuksiltaan mammografiatutkimuksiin soveltuvia.             minen ja mahdollisiin kysymyksiin vastaaminen tulee
+Laitteen sekä sen käyttöön liittyvien oheislaitteiden       tapahtua kiireettömästi asianmukaisissa tiloissa koh-
+ja välineiden on täytettävä Säteilyturvakeskuksen           tuullisella etäisyydellä tutkittavan kotipaikasta.
+(STUK) päätöksessä esitetyt käytönaikaiset hyväksyt-        ●   Seulontatutkimus tulee suorittaa joko oman
+tävyysvaatimukset .     17
+                                                                kunnan alueella tai naapurikunnassa, jonne pääsee
+                                                                hyvin julkisilla kulkuneuvoilla.
+Kuvaukseen kuuluu kaksi kuvausprojektiota molem-            ●   Kuvaustapahtuman haastatteluun ja kuvaukseen
+mista rinnoista: kraniokaudaalisuunta ja viis-                  on hyvä varata vähintään 5+5 minuuttia.
+tosuunta . Kuvaukseen kuuluu kaksi kuvausprojek-
+            15
+
+
+tiota molemmista rinnoista: kraniokaudaalisuunta            Asiakkaan suostumus (tai kielto) seulontatietojen siir-
+ja viistosuunta. Implanttirinnoista otetaan perus-          tämisestä tulee kirjata potilaskertomukseen. Suos-
+projektioiden lisäksi molemmissa suunnissa implan-          tumus oikeuttaa vertailukuvien saamisen muista
+tinsiirtotekniikkaan perustuvat erityisprojektiot           seulontayksiköistä ja palautetietojen saamisen jatko-
+(Eklund-projektiot), jotta implantin peittämä ja sen        hoitopaikasta seulonnan toteuttajalle.
+painama rintakudos saadaan mahdollisimman hyvin             Seulontayksiköiden tulee olla esteettömiä. Mammo-
+näkyviin. Poistetun rinnan aluetta ei tarvitse kuvata.      grafialaitteiden hankinnassa tulee kiinnittää huo-
+Myöskään poiston jälkeen rekonstruoitua rintaa ei           miota laitteen säädettävyyteen ja erityisesti siihen,
+tarvitse kuvata                                             että tutkimus voidaan toteuttaa myös silloin, kun seis-
+                                                            ten tehty tutkimus ei ole vaihtoehto. Mikäli mammo-
+Kuvien otossa tulee pyrkiä täyttämään hyvän kuvan           grafiatutkimus ei onnistu seulottavalle, tulee luenta
+kriteerit . Seulontakuvia tulkitsevat radiologit ovat
+          18
+                                                            merkitä keskeytetyksi, ja jättää seulonta tekemättä.
+viime kädessä vastuussa kuvien laadusta. Mikäli
+
+
+
+15                           RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+8. KUVIEN TULKINTA JA                                         Myös kuvanneen röntgenhoitajan kirjaamat esitiedot
+SEULONNAN TULOS                                               otetaan tulkinnassa huomioon ja niiden perusteella
+                                                              herännyt epäily pahanlaatuisuudesta pitää johtaa
+● Kuvat tulkitsee kaksi eri radiologia toisistaan             kuvien yhteisluentaan (kuten kyhmy, sisäänvetäymä,
+    riippumatta.                                              verinen vuoto nännistä), vaikkei seulontakuvissa
+● Tarvittaessa tehdään yhteisluenta.                          muutoksia havaittaisi.
+● Tarvittaessa henkilö kutsutaan tekniseen
+
+    uusintaan.                                                Seulontakuvaus arvioidaan asteikon 0–5 mukaisesti
+● Varmistustutkimuksiin kutsutaan yhteisluennan               ●   Epäonnistunut = 0
+    perusteella tapaukset, joissa pahanlaatuisuutta           ●   Normaali = 1
+    ei voida poissulkea tai sitä epäillään, tai joiden        ●   Hyvänlaatuinen = 2
+    oireet voivat viitata syöpään.                            ●   Pahanlaatuisuutta ei poissuljettu = 3
+● Seulonnan vastaus on toimitettava henkilö-                  ●   Pahanlaatuiseksi epäiltävä = 4
+    kohtaisesti viimeistään 3 viikon kuluttua                 ●   Melkein varmasti pahanlaatuinen = 5
+    seulontakuvauksesta.
+                                                              8.1 NORMAALIVASTAUS
+Kuvien tulkinta järjestetään kaksoissokkona: Kuvat            ”Seulonnan tulos on negatiivinen, molempien
+tulkitsee kaksi eri radiologia toisistaan riippumatta .  15
+                                                              radiologien yksilöllinen tulos on negatiivinen”
+Tarvittaessa tehtävä yhteisluenta toteutetaan joko
+yhteisenä tilaisuutena tai etäyhteydellä.                     Mikäli seulontakuvauksen tulos on molemmilla
+●   Kuvien tulkinta tulee tehdä vähintään viiden              lukijoilla 1 tai 2 eikä kumpikaan ole ohjannut kuvia
+    megapikselin monitoreilta.                                yhteisluentaan, asiakkaalle ilmoitetaan asiasta ja hän
+●   Ennen kuvien tulkintaa varmistetaan, että                 saa ikäryhmänsä mukaisesti seuraavan seulonta-
+    asiakkaan aikaisemmat mammografiakuvat ovat               kutsun jatkossa.
+    saatavilla. Vertailu aiempiin kuviin on erittäin
+    tärkeää, koska löydöksen muuttuminen (ennen               8.2 YHTEISLUENTAAN OHJAAMINEN
+    kaikkea kasvutaipumus) on yksi piirre, joka voi           ”Radiologin yksilöllinen tulos on positiivinen”
+    viitata pahanlaatuisuuden mahdollisuuteen.
+                                                              Mikäli radiologi on epävarma löydöksen hyvänlaatui-
+Kumpikin radiologi tulkitsee seulontatutkimuksen              suudesta, hän voi ohjata tulokset 1 tai 2 yhteisluen-
+kuvat itsenäisesti, ja arvioi                                 taan yhdessä pohdittavaksi. Jommankumman tai
+●   riittävätkö kuvat tuloksen arviointiin vai tarvitaanko    molempien radiologien tulokset 3, 4 tai 5 ohjataan
+    (tekninen) uusintakuvaus,                                 aina yhteisluentaan.
+●   kuvalöydöksen luonteen ja päättää ohjataanko
+    kuvat yhteisluentaan.                                     Yhteisluennassa kuvia tulkinneet radiologit päättävät
+                                                              tapaukset,
+Kuvalöydöksen luonteen arvioinnissa kiinnitetään              ●   joita ei tarvitse jatkotutkia (yhteisluennan tulos
+huomiota pesäkemäisiin muutoksiin, rakennehäiri-                  1 tai 2) ja joille lähetetään normaalivastaus
+öihin, asymmetrioihin ja mikrokalkkeihin, erityisesti         ●   jotka kutsutaan varmistustutkimuksiin
+niiden muuttumiseen tai kasvamiseen aiemmasta                     (yhteisluennan tulos 3, 4 tai 5)
+ja sellaisiin radiologisiin piirteisiin, jotka viittaavat
+mahdolliseen pahanlaatuisuuteen.
+
+
+
+
+16                        RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+8.3 TEKNISEEN UUSINTAAN KUTSUMINEN
+”Seulonnassa ei vielä tulosta, radiologin tulkinnassa ei
+tulosta”
+
+
+Mikäli luennan tulos on epäonnistunut eli 0, luenta
+voidaan keskeyttää ennen vastauksen antamista,
+jolloin henkilö kutsutaan tekniseen uusintaan. Vaih-
+toehtoisesti voidaan yhteisluennassa päättää kutsua
+henkilö tekniseen uusintaan, jolloin yhteisluennan
+tuloskin on 0. Tekninen uusintakuvaus luetaan
+kaksoisluentana kuten seulontakuvaus.
+
+
+Mikäli henkilön kunto ei salli mammografiakuvien
+ottamista, luenta määritellään epäonnistuneeksi ja
+saa arvon 0. Tällöin seulonta jää tekemättä eikä
+seulonnan vastausta voida antaa.
+
+8.4 VARMISTUSTUTKIMUKSIIN KUTSUMINEN
+“Seulonnan tulos on positiivinen”
+
+
+Varmistustutkimuksiin kutsutaan
+●   yhteisluennassa mammografiakuvien perusteella
+    jatkotutkimuksia vaativiksi päätetyt tapaukset eli
+    yhteisluennan tulos 3, 4 tai 5.
+●   naiset, jotka ovat seulontakuvauksen yhteydessä
+    valittaneet syöpään viittaavia oireita (ks. esitiedot)
+    tai röntgenhoitaja on asettelun aikana tuntenut
+    kyhmyn naisen rinnassa.
+
+8.5 SEULONNAN VASTAUKSEN KERTOMINEN
+Vastaus on toimitettava henkilökohtaisesti kutsussa
+ilmoitettuun määräaikaan mennessä, viimeistään
+3 viikon kuluttua seulontakuvauksesta15. Vastaus
+toimitetaan kirjeitse paperisena tai sähköisenä
+suomi.fi-palvelun tai muun vastaavan vahvaa tun-
+nistautumista edellyttävän kanavan kautta, jonka
+henkilö on ottanut käyttöön. Jos seulonnan tulos on
+positiivinen, henkilö saa kutsun jatkotutkimuksiin.
+
+
+
+
+17                        RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+9. SEULONNAN JATKOTUTKIMUKSET                            voi olla korkeintaan 10 vuotta vanha. Ultraäänilait-
+ELI VARMISTUSTUTKIMUKSET                                 teessa tulee olla rintakuvantamiseen tarkoitettu
+                                                         ohjelmisto ja kuvausanturin taajuusalue mieluiten
+● Jatkotutkimuksiin ohjataan naiset, joilla rinta-		     15 MHz ja pinnallisille muutoksille 18–24 MHz.
+  syöpää ei voitu poissulkea mammografiakuvien
+  perusteella tai herää epäily syövästä.                 Varmistustutkimusten tekijä tekee radiologisen
+● Tavoitteena on, että jatkotutkimukset tehdään 		       diagnoosin (BI-RADS 1–5)21 päättäen, tarvitaanko
+  kuu­kauden kuluessa seulontakuvauksesta.               muutoksesta neulanäyte ja kuinka epäilyttävä
+● Varmistustutkimuksissa tehdään tarpeen                 muutos radiologisesti on. Näyte otetaan mahdolli-
+  mukaan täydentäviä kuvauksia.                          suuksien mukaan samalla käynnillä. Näytteenoton
+● Näyte otetaan mahdollisuuksien mukaan                  tarkoituksena on, että taudin laajuus kummankin
+  samalla käynnillä.                                     rinnan ja kainaloiden alueella on selvitetty niin, että
+● Varmistustutkimukset tehnyt lääkäri ilmoittaa          tutkittava voi varmistustutkimusten jälkeen mennä
+  tutkimustuloksen tutkittavalle ja tekee tarvittaessa   tarvittaessa suoraan leikkaukseen.
+  kiireellisen lähetteen erikoissairaanhoitoon.
+                                                         Varmistustutkimukset tehnyt lääkäri ilmoittaa tutki-
+Jos seulonnan tulos on positiivinen eli syöpää ei        mustuloksen tutkittavalle. Mikäli tutkimusten tulos
+voitu mammografiakuvien perusteella poissulkea           on hyvänlaatuinen ilman näytteenottoa, tutkittava
+tai kuvaus herätti epäilyn syövästä, seulontatutki-      kuulee sen heti. Mikäli tutkimusten tulos vaatii
+muksesta vastuussa oleva radiologi tekee lähetteen       näytteenottoa, näytevastauksen kuulemiseen sovi-
+kiireellisenä jatkotutkimuksiin, jotka toteutetaan       taan aika näytteenoton yhteydessä. Näytevastauksen
+voimassa olevan valtakunnallisen diagnostiikka- ja       saatuaan tutkimuksen tehnyt radiologi vetää radio-
+hoitosuosituksen mukaisesti      .
+                              1,20
+                                                         logiset ja patologiset vastaukset yhteen ja ilmoittaa
+                                                         tutkimustuloksen tutkittavalle. Varmistustutkimuk-
+Tavoitteena on, että jatkotutkimukset tehdään kuu-       set tehnyt lääkäri tekee tarvittaessa kiireellisen lähet-
+kauden kuluessa seulontakuvauksesta eli noin viikon      teen erikoissairaanhoitoon.
+sisällä yhteisluennan ajankohdasta . 15
+
+                                                         9.1 TÄYDENTÄVÄ MAMMOGRAFIA
+Jatkotutkimuspaikan tulee olla kohtuullisen välimat-     Varmistustutkimuksissa otetaan tarpeen mukaan täy-
+kan etäisyydellä tutkittavan kotipaikasta (korkeintaan   dentäviä mammografiakuvia, kohdekuvia, kohdesuu-
+sama kuin erikoissairaanhoidon etäisyys).                rennoksia, tomosynteesikuvaus tai varjoainetehosteinen
+                                                         mammografiakuvaus parhaaksi katsotuissa suunnissa.
+Jatkotutkimukset eli varmistustutkimukset toteute-       ●   Löydösrinnasta otetaan aina sivusuunnassa ensi-
+taan seulontayksikössä siten, että tutkimuksesta             sijaisesti tomosynteesi tai vaihtoehtoisesti lisäkuva.
+vastaa radiologian erikoislääkäri, jolla on seulonta-        Tämä on erityisen tärkeää, jos kyseessä on pieni
+mammografian erityispätevyys.                                mammografialöydös, jolloin löydöksen korkeus on
+                                                             helpompi määrittää.
+Varmistustutkimuksissa tehdään tarpeen mukaan            ●   Täydentäviä kuvia otetaan kohteesta, jos yli 25 %
+täydentäviä kuvauksia. Varmistustutkimuksia tehtä-           tuumorin reunasta on peittynyt. Kuvat otetaan
+essä käytössä tulee olla vähintään viiden megapikse-         muutoksen luonteen (onko todellinen vai ei) ja sen
+lin monitorit, jotta diagnostiikan tarkkuus etenkin          reunojen sekä mahdollisten muutokseen liittyvien
+lisäkuvia tulkittaessa on riittävä ja asianmukainen.         mikrokalkkien laajuuden arviointia varten.
+Varmistustutkimuksissa tehdään aina täydentävä           ●   Mikäli ensisijaisesti ei epäillä syöpää ja löydöksen
+ultraääni (UÄ). Ultraäänilaite, jolla kuvaus tehdään,        hyvänlaatuinen luonne on varmennettavissa ultra-
+
+
+
+18                     RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+    äänellä (kysta), voidaan täydentävä mammografia          ●   Yläulkoneljännes, yläsisäneljännes, alasisä-
+    jättää tekemättä. Mikäli kysta ei varmistu ultra-            neljännes, alaulkoneljännes, sentraalinen tai
+    äänellä, on täydentävät kuvat otettava ennen                 useampaan neljännekseen ulottuva
+    näytteenottoa.                                           ●   Rinnan etuosa, keskiosa, takaosa
+●   Tomosynteesikuvaus korvaa pääsääntöisesti
+    kohdekuvat pesäkkeiden, rakennehäiriöiden                9.2 ULTRAÄÄNIKUVAUS
+    ja/tai asymmetrioiden osalta.                            Varmistustutkimuksissa tehdään aina täydentävä
+●   Mikrokalkeista otetaan sivu- ja kraniokaudaali-          ultraääni, jonka tulee sisältää molempien rintojen ja
+    suunnan kohdesuurennokset.                               kainaloiden tutkiminen. Ultraäänitutkimukseen kuu-
+                                                             luu myös molempien rintojen tunnustelu eli palpaatio.
+Mammografiakuvista luokitellaan muutoksen
+piirteet radiologin lausuntoon ja näiden perusteella         Ultraäänikuvauksessa löydöksen sijainti on merkit-
+arvioidaan löydöksen riskiä olla joko hyvänlaatuinen         tävä ultraäänessä otettuihin pysäytyskuviin.
+tai pahanlaatuinen.
+●   Pesäke                                                   Löydöksen koko, paikka kellotauluperiaatteen mukai-
+     ●   Muoto: pyöreä, ovaali, lobuloitunut tai epäsään-    sesti (1–12) ja etäisyys nännistä on merkittävä radio-
+     nöllinen                                                login lausuntoon ja lähetteeseen.
+     ●   Reuna: tarkkarajainen, peittyvärajainen, epätark-
+     karajainen tai spikulainen                              Laadun varmistamiseksi voidaan vaatia ultraäänen
+     ●   Tiiviys verrattuna rintarauhaskudokseen:            pysäytyskuva molemmista rinnoista ja pysäytyskuva
+         tiiviimpi, yhtä tiivis, vähemmän tiivis tai         kainalon imusolmukkeesta molemmin puolin, jos
+         rasvaa sisältävä                                    epäillään, ettei ohjetta näiden sisällyttämisestä tutki-
+●   Mikrokalkit                                              mukseen noudateta.
+     ●   Hyvänlaatuisiksi sopivat
+     ●   Pahanlaatuisuuden suhteen epäilyttävät              Ultraäänitutkimuksen löydöksen epäilyttävyyttä
+          ●   Amorfiset                                      arvioidaan radiologin lausuntoon mammografia-
+          ●   Karkeat heterogeeniset                         kuvien tapaan BI-RADS-luokittelun21 mukaisesti.
+          ●   Hennot pleomorfiset                            Lausuntoon kuvataan kudosten yleinen kaikura-
+          ●   Hennot lineaariset tai haarautuvat             kenne: tasainen rasvakudos, tasainen rauhaskudos,
+●   Rakennehäiriö                                            epätasainen/hankalasti tulkittava ja
+●   Asymmetriat                                              ●   Löydöksen orientaatio: kudoksen suuntainen tai
+     ●   Asymmetria: yhden projektion löydös                     suunnan vastainen
+     ●   Globaalinen asymmetria: vähintään                   ●   Löydöksen kaikurakenne, muoto ja reunat
+         yksi neljännes                                      ●   Aiheuttaako löydös katvetta tai kaikuvoimistumaa
+     ●   Fokaalinen asymmetria: vähemmän                     ●   Sisältääkö löydös mikrokalkkia tai makrokalkkia
+         kuin yksi neljännes                                      ●   jotka voivat sijaita tiehyessä ja venyttää sitä
+     ●   Kehittyvä asymmetria: uusi tai aikaisempiin         ●   Sisältääkö löydös sekä kaiuttomia että solideja
+     kuviin verrattuna selvästi lisääntynyt asymmetria           osia = sekamuotoinen pesäke
+                                                             Löydösten tarkempi määrittely löytyy Rintadiagnostii-
+Seulontakuvien ja täydentävän mammografian                   kan oppaan uusimmasta versiosta20
+perusteella lausunnossa ilmoitetaan radiologisen             ja BI-RADS -oppikirjasta21.
+muutosalueen koko, mahdollinen monipesäkkeisyys
+ja sijainti rinnan neljännesten mukaan ja syvyys-
+suunnassa:
+
+
+
+19                          RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+9.3 MUUT VARMISTUSTUTKIMUKSET                                   ●   Neulanäytteen osuminen kohteeseen on varmis-
+Poikkeavasti erittävä rinta tutkitaan varmistustutki-               tettava riittävän monella näytteellä ja UÄ-anturia
+muksissa galaktografialla (duktografia), jonka perus-               poikittain neulan suhteen kääntämällä.
+teella arvioidaan, onko tiehyeen ulkonäkö normaali,             ●   Laadun varmistamiseksi voidaan vaatia ultraäänen
+hyvänlaatuiseksi tai pahanlaatuiseksi epäiltävä.                    pysäytyskuva, jossa neula on kohteessa, mikäli 		
+Epäselvissä tai oireisissa tapauksissa kysta tyhjen-                näytevastausten ja radiologisten löydösten välillä
+netään punktiolla.                                                  havaitaan liian usein ristiriitaa.
+                                                                ●   Näytteenoton yhteydessä pienet muutokset, joiden
+9.4 RADIOLOGINEN YHTEENVETO                                         erottumista näytteenoton jälkeen ei voida taata,
+Varmistuskuvausten perusteella tutkimusten tekijä                   tulee merkata koililla/klipsillä.
+tekee radiologisen diagnoosin (BI-RADS 1–5 )     21             ●   Mikäli UÄ:ssä näkyy erilliset pesäkkeet yli 1 cm
+päättäen, tarvitaanko muutoksesta näyte ja kuinka                   etäisyydellä toisistaan, on molemmista otettava
+epäilyttävä muutos radiologisesti on.                               näyte omiin purkkeihinsa. Jos epäselviä pesäkkeitä
+                                                                    on enemmän kuin 2, otetaan näytteet toisistaan
+BI-RADS:                                                            kauimmaisista pesäkkeistä.
+●   Normaali = 1
+●   Hyvänlaatuinen = 2                                          Pahanlaatuisuuden suhteen epäilyttävistä mikro-
+●   Todennäköisesti hyvänlaatuinen = 3                          kalkkimuutoksista otetaan stereotaksia- tai tomo-
+     ●   Seulonnassa hyvänlaatuisuus yleensä varmiste-          synteesiohjatusti vähintään 6 vakuuminäytettä
+     		taan näytteellä (seulonnan tarkoitus poissulkea          (vähintään 10 g:n neulalla).
+     		syöpä), mutta joissain tapauksissa päädytään             ●   Stereotaksia- tai tomosynteesiohjatut näytteet 		
+     		kontrolliin seulontojen välissä. Kontrollien                 otetaan seulontasopimuksen mukaisesti joko 		
+     		osuus pitää olla alle 1 % jatkotutkituista, 		               seulontayksikössä tai rintasyövän diagnostiikkaa
+     		TAVOITE 0 %).                                                tekevässä sairaalassa.
+●   Epäilyttävä pahanlaatuisen suhteen = 4                      ●   Kalkkien näkyminen näytepaloissa on varmis-
+     ●   Näyte on otettava, mutta hyvänlaatuinen näytevas-          tettava näytepalat kuvaamalla, ja tarvittaessa
+     		taus, joka selittää löydöksen, voidaan hyväksyä.             otettava samassa yhteydessä lisää näytteitä, mikäli
+●   Viittaa vahvasti pahanlaatuiseen = 5                            paloissa ei kalkkeja ole.
+     ●   Näyte on otettava eikä hyvänlaatuista näytevastaus-    ●   Yli 3 cm kokoisista kalkkiryhmistä syytä ottaa
+     		 ta voi hyväksyä. Tarvittaessa on otettava uudet näyt-       2 näytettä eri reunoista, mikäli alue ei ole täysin
+     		teet tai tehtävä perkutaaninen kirurginen poisto.            yhtenäinen, sekä kaikista multisentrisista ryhmistä
+                                                                    myös omat näytteet.
+9.5 NÄYTTEENOTTO
+Näytteenoton tarkoituksena on, että taudin laajuus              9.5.2 Näytteenotto saman puolen epäilyttävistä
+kummankin rinnan ja kainaloiden alueella on selvi-              kainaloimusolmukkeista
+tetty niin, että tutkittu voi varmistustutkimusten              Pahanlaatuisuuden suhteen epäilyttävissä rinta-
+jälkeen mennä suoraan leikkaukseen.                             löydöksissä on otettava saman puolen poikkeavasta
+                                                                kainaloimusolmukkeesta näytteet voimassa olevan
+9.5.1 Rintamuutosten näytteenotto                               valtakunnallisen diagnostiikka- ja hoitosuosituksen
+Rinnan solideista pesäkkeistä ja rakennehäiriöistä ote-         mukaisesti1.
+taan vähintään 3–4 paksuneulanäytettä 14 g:n neulalla
+ultraääni-, stereotaksia- tai tomosynteesiohjauksessa.          Näytteet otetaan epäilyttävän imusolmukkeen kuori-
+Ultraäänessä näkyvistä muutoksista otetaan pää-                 kerroksesta joko 14–16 g:n paksuneulalla tai ohut-
+sääntöisesti näyte ultraääniohjauksessa.                        neulalla.
+
+
+
+20                         RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+9.5.3 Näytteiden histopatologinen/sytologinen             mukana SNOMED M- ja T-koodit, ICD-O-3-koodit
+tutkiminen                                                tai SNOMED CT koodit.
+Lähete patologin tutkimukseen
+Tutkimuslähetteeseen on radiologin kirjattava: mistä      Ohutneulanäyte luokitellaan
+näyte on otettu (kumpi rinta, mikä neljännes tai          ●   Epäonnistunut = 0
+kummasta kainalosta), muutoksen koko, mahdolli-           ●   Normaali = 1
+nen monipesäkkeisyys, onko pesäke, rakennehäiriö          ●   Hyvänlaatuinen = 2
+vai kalkit ja mikä on radiologinen epäilyksen aste.       ●   Pahanlaatuisuutta ei poissuljettu = 3
+Lähetteeseen on myös kirjattava esitiedoissa olevat       ●   Pahanlaatuiseksi epäiltävä = 4
+sairaudet kuten aiemmin sairastettu syöpä ja rintaan      ●   Melkein varmasti pahanlaatuinen = 5
+kohdistunut sädehoito, ja mikäli kohdasta on aiem-
+min otettu näytteitä.                                     9.6 VARMISTUSTUTKIMUSTEN VASTAUS JA
+                                                          LÄHETE ERIKOISSAIRAANHOITOON
+Patologin tutkimus
+Patologi tulkitsee näytteet viikon kuluessa (5 arkipäi-   9.6.1 Vastauksen kertominen
+vää) ja tarvittavien lisävärjäysten tuloksien saamiseen   Varmistustutkimukset tehnyt radiologi ilmoittaa
+saa kulua korkeintaan kaksi viikkoa (10 arkipäivää).      tutkimustuloksen tutkitulle.
+
+Perusvärjäysten lisäksi tarvittavat värjäykset            Mikäli jatkotutkimusten tulos on hyvänlaatuinen
+ADH-muutosta (atyyppinen duktaalinen hyperplasia)         ilman näytteenottoa, tutkittava kuulee sen heti.
+diagnosoitaessa patologin tulisi varmistua diagnoo-
+sista tekemällä suositeltavat immunovärjäykset,           Näytevastauksen kuulemiseen sovitaan aika näyt-
+estrogeenireseptorivärjäys (ERalfa) ja sytokeratiini-     teenoton yhteydessä noin 1 viikon (5 arkipäivää)
+värjäys CK5/6.                                            päähän, jolloin neulanäytteiden vastausten tulee olla
+                                                          valmiina. Mikäli näyte vaatii lisävärjäysten tekemistä,
+Myoepiteelivärjäykset (p63 ja SMMHC) suositellaan         alustavan vastauksen jälkeen, lopullisen vastauksen
+tehtäväksi, kun tulkitsee skleroottisen leesion           on oltava valmiina 2 viikon kuluttua.
+rauhasrakenteet invasiiviseksi duktaaliseksi
+karsinoomaksi.                                            Näytevastauksen saatuaan tutkimuksen tehneen
+                                                          radiologin tulee päättää jatkotoimenpiteistä ja
+LCIS:n (in situ lobulaarinen karsinooma) ja DCIS:n        ilmoittaa vastaus tutkittavalle.
+solidin kasvuvariantin (in situ duktaalinen karsi-        ●   Hyvänlaatuinen, ei ristiriitaa radiologiseen
+nooma) erottaminen toisistaan perustuu E-cadherin             löydökseen, ei jatkotoimenpiteitä.
+immunovärjäykseen.                                        ●   Pahanlaatuinen tai poistettavaksi suositeltu
+                                                              riskileesio, lähete erikoissairaanhoitoon.
+In situ papillaarista karsinoomaa diagnosoitaessa         ●   Ristiriita radiologisen löydöksen ja näytevas-
+patologin tulisi tehdä myoepiteelivärjäykset (p63 ja          tauksen välillä, pikaisesti uusi näytteenotto tai 		
+SMMHC) varmistuakseen myoepiteelin puuttumi-                  lähete jatkotutkimuksiin erikoissairaanhoidossa.
+sesta papillaarisissa rakenteissa.
+                                                          Mikäli lähete erikoissairaanhoitoon katsotaan tarpeel-
+Paksuneula-, vakuumi- ja ohutneulanäytteen vastaus        liseksi, on suositeltavaa informoida potilasta, milloin
+Patologi kuvailee paksuneula-/vakuuminäytteen             sairaalasta otetaan yhteyttä, mitä siellä tapahtuu ja
+vastauksessaan näytteen histologian ja määrittelee        mistä potilas voi saada tukea varsinkin, jos hänellä on
+patologisanatomisen diagnoosin (PAD), jossa               todettu rintasyöpä. Yhteistyössä erikoissairaanhoidon
+
+
+
+21                      RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+                                                           lopullisesta histologisesta löydöksestä tulee toimittaa
+kanssa voidaan näistä asioista laatia tiedote. Tällaisen   alla kuvatun mukaisesti seulonnan toteuttajalle, joka
+tiedotteen voi antaa varmuuden vuoksi jo näytteen-         toimittaa tiedot edelleen Suomen Syöpärekisterin
+ottotilanteessa, jotta vältetään viiveet postin kulussa.   joukkotarkastusrekisteriin12. Hyvinvointialue vastaa
+                                                           siitä, että tiedot siirtyvät seulontatoimijan seulonta-
+Mikäli jatkotutkimusten tulos jää epäselväksi ja           järjestelmään ja sieltä edelleen joukkotarkastusrekis-
+tarvitaan kontrollitutkimus, sopii varmistustutki-         teriin. Seulontayksikön vastuulääkäri voi myös kat-
+mukset tehnyt radiologi kontrollin tekemisestä ja          soa erikoissairaanhoidon tiedot Kannasta, jos potilas
+sopivasta ajankohdasta henkilön kanssa.                    ei ole tietojen katsomista kieltänyt.
+
+9.6.2 Lähete erikoissairaanhoitoon                         Kaikista erikoissairaanhoitoon
+Varmistustutkimukset tehnyt lääkäri tekee tarvit-          lähetetyistä tarvitaan:
+taessa kiireellisen sähköisen lähetteen erikois-           ●   PAD (patologisanatominen diagnoosi, jossa 		
+sairaanhoitoon.                                                mukana SNOMED M- ja T-koodit (tai SNOMED
+                                                               CT koodit))
+Lähetteen tulee sisältää                                   ●   Toimenpiteen päivämäärä tai mahdollisen
+●   oleellinen anamneesi (sairaudet, leikkaukset, 		           neoadjuvanttihoidon hoitopäätöspäivämäärä
+    sukuanamneesi, tupakointi kyllä/ei, pituus             ●   Toimenpiteen koodinumero(t)
+    ja paino)                                              ●   Jos mitään hoitoa ei anneta, mutta erikoissairaan-
+●   kliiniset löydökset (palpaatio, inspektio; mahd. 		        hoidossa on tehty lisätutkimuksia (MRI eli
+    rinnan ihon punoitus, kuroumat ja nännieritys)             rintojen magneettikuvaus, vakuuminäyte), niiden
+●   radiologiset löydökset                                     päivämäärä ja tulos
+●   patologin lausunto ja patologisanatominen                   ●   0 Ei tietoa
+    diagnoosi(t)                                                ●   2 Sopii hyvänlaatuiseen
+                                                                ●   3 Pahanlaatuiseksi epäiltävä
+Kuvat seulonnasta ja jatkotutkimuksista toimitetaan             ●   PAD
+jatkohoitopaikkaan.                                        ●   Päätöspäivämäärä, jos mitään hoitoa ei anneta eikä
+                                                               erikoissairaanhoidossa tehty kuvantamista eikä
+Patologian näyteblokit (ainakin syövistä ja epäselvistä        uutta näytteenottoa.
+tapauksista) toimitetaan jatkohoitopaikkaan.
+                                                           Sekä syöpätapauksista:
+Sairaalaan lähetettyjä seurataan sen varmistamiseksi,      ●   Kasvaimen koko (mm) leikkausresekaatissa tai
+että he pääsevät asianmukaisesti tutkimuksiin ja               MRI:ssä, jos esiliitännäishoitoon eli neoadjuvantti-
+hoitoon. Sähköisessä lähetejärjestelmässä tulee olla           hoitoon
+palautejärjestelmä, josta tämä on varmistettavissa.        ●   Mahdollinen monipesäkkeisyys leikkausresekaa-
+                                                               tissa tai MRI:ssä, jos neoadjuvanttihoitoon
+Potilaslain mukaisesti henkilöltä on kysyttävä suos-       ●   Muutoksen sijainti leikkausresekaatissa tai 		
+tumus tietojen, kuvien ja näytteiden siirtoon seu-             MRI:ssä, jos neoadjuvanttihoitoon
+lonnan toteuttajan ja hoitavan sairaalan välillä.          ●   Kasvaimen gradus
+Suostumuksen tulisi olla pyydettynä ja kirjattuna          ●   Paikallinen imusolmukelevinneisyys sekä vartija-
+potilaskertomukseen jo seulonnan alkuvaiheessa.                imusolmukebiopsiasta että kainaloevakuaatiosta
+                                                               erikseen: metastaattisten imusolmukkeiden luku-
+9.6.3 Palaute erikoissairaanhoidosta                           määrä ja kaikkien poistettujen imusolmukkeiden
+seulontayksikköön                                              lukumäärä
+Tiedot erikoissairaanhoidossa tehdyistä hoidoista ja       ●   TNM-luokitus
+
+
+
+22                       RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+10. HOITO ERIKOISSAIRAAN-                                  10.3 PATOLOGIA
+HOIDOSSA                                                   ●   Kudosnäytteiden histologinen tutkimus ja
+                                                               patologisanatominen diagnoosi(t)
+● Hoito erikoissairaanhoidossa toteutetaan                 ●   Arvio riittävistä leikkausmarginaaleista
+    Suomen Rintasyöpäryhmän valtakunnallisen
+    diagnostiikka- ja hoitosuosituksen mukaisesti.         10.4 ONKOLOGIA
+● Moniammatilliset syöpäpotilaan hoidon suunnit-           ●   Neoadjuvanttihoito (esiliitännäishoito)
+    telukokoukset eli MDT-kokoukset ovat syövän            ●   Adjuvanttihoito (liitännäishoito)
+    hoidon ja diagnostiikan kultainen standardi.
+● Seulontaradiologeille ja -patologeille tulee             10.5 MONIAMMATILLISET SYÖPÄPOTILAAN
+    mahdollistaa osallistuminen MDT-kokouksiin,            HOIDON SUUNNITTELUKOKOUKSET ELI
+    ja heille suositellaan säännöllistä osallistumista     MDT-KOKOUKSET
+    MDT-kokouksiin.                                        ●   Moniammatilliset syöpäpotilaan hoidon suunnitte-
+                                                               lukokoukset eli MDT-kokoukset (multidisciplinary
+                                                               team meeting) ovat kansainvälisesti tunnustettu
+Hoito ja jatkoseuranta erikoissairaanhoidossa toteu-           syövän hoidon ja diagnostiikan kultainen stadardi22.
+tetaan Suomen Rintasyöpäryhmän valtakunnallisen            ●   European Society of Breast Cancer Specialists 		
+diagnostiikka- ja hoitosuosituksen mukaisesti .  1
+                                                               (EUSOMA) ja Euroopan syöpäverkostojen
+                                                               (Organization of European Cancer Institutes, 		
+10.1 RADIOLOGIA                                                OECI) laatukriteerien mukaan kaikille tai yli
+●   Tarvittavat täydentävät kuvaukset kuten MRI                95 %:lle varhaisvaiheen rintasyöpäpotilaista tulisi
+    tai varjoainetehosteinen mammografia                       laatia hoitosuositus MDT-kokouksessa sekä ennen
+●   Tarvittavat lisänäytteet                                   leikkausta että leikkauksen jälkeen23,24
+●   Leikkauskohteen merkkaus                               ●   Erikoistuvien lääkäreiden, nuorien erikoislääkärei-
+●   Valittujen muutosten vakuumipoistot                        den ja hoitajien tulee osallistua MDT-kokouksiin
+                                                               koulutusmielessä ja heille on järjestettävä siihen
+10.2 KIRURGIA                                                  mahdollisuus.
+Käytettävissä olevat kirurgiset menetelmät kaikissa        ●   Seulontaradiologeille ja -patologeille tulee
+rintasyöpää leikkaavissa yksiköissä                            hyvinvointialueelta mahdollistaa osallistuminen
+●   Rintaa säästävä kirurgia                                   MDT-kokouksiin ja heille suositellaan säännöllistä
+     ●   Tarvittaessa käytetään onkoplastisia menetelmiä       osallistumista MDT-kokouksiin.
+         rinnan muodon ja rintojen kokosymmetrian               ●   Tietosuojasäännökset eivät saa estää tämän 		
+         säilyttämiseksi.                                           toteutumista vaan vaitiolo-/salassapitosopimus
+●   Mastektomia                                                     käytäntö on järjestettävä.
+     ●   Koko rinnan rekonstruktioon soveltuville          ●   MDT-kokouskäsittelystä kirjataan WZC15 Syöpä-
+         tarjotaan mahdollisuutta välittömään                  potilaan hoidon moniammatillinen suunnittelu-
+         rekonstruktioon.                                      kokous (MDT) -toimenpidekoodi.
+●   Kainalokirurgia                                        ●   Seulontaikäisten syöpien toteamistapa on syytä 		
+     ●   Vartijaimusolmukebiopsia tai kainaloevakuaatio        huomioida ja arvioida mahdolliset välisyövät laadun-
+         kainalon tautitilanteen mukaan                        valvontaan ja koulutukseen liittyen (ks. liite I).
+     ●   Neadjuvanttihoidetuille kohdennettu imu-              Hyvinvointialueen tulee luoda toimiva käytäntö
+         solmukepoisto (KIP, targeted axillary                 välisyöpien raportoimiseksi ja niistä kertyvän
+         dissection), mikäli kuvantaen saavutetaan             tiedon hyödyntämiseksi laadunvalvonnassa
+         hoitovastetta                                         esimerkiksi liitteen I mukaisesti.
+
+
+
+23                          RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+11. AMMATTITAITO JA KOULUTUS                                  lellään yksi kokonainen työpäivä viikossa. Vuosi-
+                                                              tasolla kuvausmäärät tarkoittavat lomat huomioi-
+● Seulontakuvauksia tekevän röntgenhoitajan on                den 3000 mammografiakuvaa eli 750 asiakasta18.
+    täytynyt suorittaa Suomen Röntgenhoitajaliiton        ●   Kuvauksia tekevien henkilöiden on osallistuttava
+    mammografiakurssi (Suomen Röntgenhoitaja-                 asianmukaiseen täydennyskoulutukseen (kaksi
+    liiton myöntämä pätevyystodistus) tai sitä                koulutuspäivää vuodessa, kotimainen tai ulko-
+    vastaava kotimainen tai ulkomainen kurssi.                mainen rinta- ja säteilysuojelukoulutus).
+● Ainakin toisella seulontakuvia tulkitsevalla            ●   Itsearviointi vuosittain, katso Liite II.
+    radiologian erikoislääkärillä on oltava seulonta-
+    mammografian erityispätevyys.                         11.2 RADIOLOGIEN AMMATTITAITO,
+● Seulontamammografiatutkimuksia suorittavien             KOULUTUS, ITSEARVIOINTI
+    ja kuvia tulkitsevien henkilöiden on osallistuttava   Seulontamammografiakuvien tulkitsijoina on oltava
+    asianmukaiseen täydennyskoulutukseen.                 kaksi radiologian erikoislääkäriä, joilla on kokemusta
+● Seulontamammografiatutkimuksia suorittavien             mammografiatoiminnasta ja -kuvien tulkinnasta.
+    ja kuvia tulkitsevien henkilöiden on ylläpidettävä    Ainakin toisella heistä on oltava seulontamammo-
+    pätevyyttä suorittamalla riittävästi kuvauksia/		     grafian erityispätevyys. Mammografiakuvia tulkitse-
+    kuvien luentoja vuosittain.                           vien henkilöiden on osallistuttava täydennyskoulu-
+● Varmistustutkimusten tekijällä tai niistä vastaavalla   tukseen sekä säännölliseen ylläpitokoulutukseen17.
+    tulee olla seulontamammografian erityispätevyys.      ●   Mammografiakuvien tulkitsijan on oltava
+● Myös patologeilta, kirurgeilta ja onkologeilta              Suomessa laillistettu lääkäri, jolla on radiologian
+    edellytetään riittävää perehtyneisyyttä rintasyövän       erikoislääkärin tutkinto ja joka voi toimia itsenäi-
+    hoitoon ja diagnostiikkaan, MDT-kokouksiin                sesti Suomessa laillistettuna ammattihenkilönä.
+    osallistumista sekä täydennyskouluttautumista.        ●   Suomen Lääkäriliiton tai Suomen Radiologiyhdis-
+                                                              tyksen erityispätevyysneuvottelukunta myöntää
+11.1 RÖNTGENHOITAJIEN AMMATTITAITO,                           seulontamammografian erityispätevyyden25.
+KOULUTUS, ITSEARVIOINTI                                   ●   Ainakin toisella kuvien tulkitsijalla (SEULOJA 1)
+Seulontakuvauksien tekijän tulee olla röntgenhoitaja,         on oltava seulontamammografian erityispätevyys
+jolla on kokemusta kliinisestä mammografia-                   ja TAVOITE: yli 3500, MINIMI: 2000 seulonnan
+kuvauksesta, ja joka on osallistunut seulonta-                luentaa vuodessa aiempina vuosina.
+kuvauksia käsittelevään täydennyskoulutukseen.                 ●   EU-suosituksen mukaan parhaaseen laatuun pääs-
+Seulontakuvauksia tekevän röntgenhoitajan on täyty-                tään, kun tulkitsija tekee 3500–11000 seulonnan
+nyt suorittaa Suomen Röntgenhoitajaliiton mammo-                   luentaa / vuosi (tutkimusnäytön aste alhainen)26.
+grafiakurssi (Suomen Röntgenhoitajaliiton myön-                ●   Seulontamäärävaatimukset on suhteutettava
+tämä pätevyystodistus) tai sitä vastaava kotimainen                tarpeeseen ja kokeneiden tulkitsijoiden saata-
+tai ulkomainen kurssi .17
+                                                                   vuuteen alueella.
+●   Röntgenhoitajan on kuvattava vähintään 200 		         ●   Toisenkin kuvien tulkitsijan (SEULOJA 2) tulee 		
+    mammografiakuvaa eli 50 kliiniseen mammo-                 olla ennen seulontatyön aloitusta tehnyt riittävän
+    grafiaan tulevaa asiakasta ennen kuin hän voi             määrän mammografiatutkimuksia kokeneen 		
+    siirtyä tekemään seulontamammografioita .    18
+                                                              radiologin ohjauksessa sairaalassa ja/tai seulonta-
+●   Seulontapätevyyden säilyttämiseksi hänen pitää            yksikössä osallistuen luentaan kolmantena lukijana.
+    suorittaa seulontamammografiatutkimuksia                   ●   Riittäväksi määräksi katsotaan vähintään
+    seuraavasti: vähintään 400 kuvaa eli 100                       6 kuukautta, johon voidaan mukaan lukea myös
+    tutkittavaa kuukaudessa. Hänen tulee tehdä vähin-              erikoistumisaikana tehdyt kuukaudet.
+    tään neljä kokonaista työpäivää kuukaudessa, mie-          ●   Ohjauksessa ollessaan on täytynyt osallistua
+
+
+
+24                      RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+     		yliopisto- tai keskussairaalan järjestämiin pre- ja   Academy of Pathology, ja ESP, European Society of
+     		postoperatiivisia rintasyöpätapauksia käsittele-      Pathology).
+     		viin MDT-kokouksiin MINIMI: kerran kuukau-
+     		dessa, TAVOITE: vähintään joka toinen viikko.         Tavoitteena on, että leikkauspreparaatin tutkii pato-
+●   Varmistustutkimusten tekijällä tai niistä vastaa-        logian erikoislääkäri, jolla on riittävä perehtyneisyys
+    valla tulee olla seulontamammografian erityis-           rintasyöpäpatologiaan ja joka on ylläpitänyt taitojaan
+    pätevyys.                                                käytännön työssä ja osallistumalla alan jatkokoulutuk-
+●   Varmistustutkimusten tekijän tulee osallistua            seen (Suomen IAP ja ESP).
+    yliopisto- tai keskussairaalan järjestämiin
+    pre- ja postoperatiivisia rintasyöpätapauksia            11.4 KIRURGIEN AMMATTITAITO
+    käsitteleviin MDT-kokouksiin säännöllisesti.             Tavoitteena on, että rintasyöpää leikkaa kattavasti
+     ●   MINIMI kerran kuukaudessa TAVOITE                   rintasyövän diagnostiikkaan, hoitoon ja eri leikkaus-
+     		vähintään kaksi kertaa kuukaudessa pois               menetelmiin perehtynyt kirurgian erikoislääkäri tai
+     		lukien lomakaudet.                                    erikoistuva lääkäri erikoislääkärin ohjauksessa27.
+     ●   Etämahdollisuus on käytännöllinen ja sen            ●   Kirurgi ylläpitää taitojaan käytännön työssä,
+     		järjestäminen on suotavaa.                                osallistumalla MDT-kokouksiin sekä alan koti-
+     ●   Tietosuojasäännökset eivät saa estää tämän 		           maiseen ja ulkomaiseen jatkokoulutukseen.
+     		toteutumista vaan vaitiolo-/salassapitosopimus        ●   Rintasyövän hoitoon perehtyneet kirurgit koulut-
+     		käytäntö on järjestettävä.                                tavat erikoistuvia lääkäreitä, joilla on myös
+●   Seulontayksikön kokeneiden radiologien tulee                 mahdollisuus osallistua kansallisiin ja kansain-
+    velvoittaa osallistumaan uusien mammografia-                 välisiin koulutuksiin.
+    kuvien tulkitsijoiden koulutukseen.
+     ●   Menettelytavoista ja korvauksista sovittava         Keskittämisasetuksen mukaan rintasyöpää leikataan
+     		paikallisesti.                                        yksiköissä, joissa tehdään vähintään 150 rintasyöpä-
+●   Seulojien tulee osallistua kotimaiseen tai ulko-         leikkausta vuodessa ja kukin kirurgi tekee vähintään
+    maiseen rintaradiologian täydennys-/ylläpito-		          50 rintasyöpäleikkausta vuodessa.
+    koulutukseen yhteensä vähintään 3 päivää 		
+    vuodessa, joista 1 päivän voisi korvata säteily-         11.5 ONKOLOGIEN AMMATTITAITO
+    suojelukoulutuksella.                                    Tavoitteena on, että rintasyövän liitännäislääkehoi-
+●   Seulojien tavoite on saavuttaa työssään vähintään        don suunnittelusta ja toteutuksesta vastaa rinta-
+    85 % sensitiivisyys ja 85 % spesifisyys.                 syövän diagnostiikkaan, lääkehoitoon ja hoitojen
+     ●   Tämä on seulontapätevyyden saamiseen                mahdollisten haittavaikutusten hoitoon perehtynyt
+     		vaadittavan tentin hyväksymisraja.                    syöpätautien erikoislääkäri tai erikoistuva lääkäri
+     ●   Käytännön työssä itsearvioinnin ja laadun-          erikoislääkärin ohjauksessa. Sädehoidon suunnittelun
+     		valvonnan toteuttamiseen tulee kehittää toimi-        tulisi tapahtua sädehoitoon perehtyneen kokeneen
+     		vat käytännöt. Yksityiskohdat, katso Liite II.        syöpätautien erikoislääkärin tai hänen ohjauksessaan
+                                                             toimivan erikoistuvan lääkärin toimesta.
+11.3 PATOLOGIEN AMMATTITAITO
+Tavoitteena on, että rintanäytteiden (paksu- tai ohut-       ●   Syöpätautien erikoislääkärin ja erikoistuvan
+neulanäyte sekä kirurginen biopsia) analysoinnin                 lääkärin tulisi kliinisen työn ja MDT-kokousten 		
+suorittaa patologian erikoislääkäri, jolla on riittävä       lisäksi säännöllisesti osallistua työnantajan
+perehtyneisyys rintasyöpäpatologiaan ja joka on yllä-            tarjoamaan sisäiseen toimipaikkakoulutukseen 		
+pitänyt taitojaan käytännön työssä ja osallistumalla         sekä muuhun alan kotimaiseen ja ulkomaiseen
+alan jatkokoulutukseen (Suomen IAP, International                jatkokoulutukseen.
+
+
+
+25                        RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+12. TIETOJEN TOIMITUS JA
+RAPORTOINTI                                                   12.1 SEULONTATIETOJEN REKISTERÖINTI
+                                                              Seulonnasta vastaavan toimijan, eli hyvinvointialueen
+● Seulonnasta vastaavan toimijan tehtävä on koota             tai sen ulkoistaman palveluntarjoajan, tehtävä on koota
+  tiedot seulontaketjun kaikista vaiheista Suomen             tiedot seulontaketjun kaikista vaiheista Suomen Syöpä-
+  Syöpärekisterin joukkotarkastusrekisteriin                  rekisteriin raportoimista varten (Kuva 2). Olennaista tie-
+  raportoimista varten.                                       donkeruussa on myös eri prosessin vaiheiden (esim.
+● Seulonnan yhteydessä syntyvien potilastietojen              kutsuminen, näytteen otto ja analysointi, jatkotutki-
+  rekisterinpitäjänä toimii hyvinvointialue, vaikka           mukset) yhteyden säilyminen, jotta tietoja voidaan
+  se hankkisi palvelun ulkopuoliselta palvelujen 		           analysoida yhtenäisenä seulontaketjuna.
+tuottajalta.
+● Suomen Syöpärekisteriin toimitettujen tietojen              Seulonnan yhteydessä syntyvien potilastietojen,
+  perusteella arvioidaan seulonnan laatua ja                  mukaan lukien näytteet ja kuvat, rekisterinpitäjänä
+  vaikuttavuutta.                                             toimii hyvinvointialue, vaikka se hankkisi palvelun
+
+
+
+
+                                                   MUISTUTUS
+                                                         !
+
+
+
+
+ SYÖPÄREKISTERI IT
+
+
+
+
+                                                                  MAMMOGRAFIA
+                          KUTSUTTAVAT
+
+                   KOOTUT
+                 TULOSTIEDOT
+                                           KUTSU SEULONTAAN          KUVIEN
+                       PAHAN-                                        LUENTA
+                     LAATUINEN
+                      LÖYDÖS
+
+
+                                                                                               2v
+
+
+                                                                           NORMAALI
+                                                                            VASTAUS
+
+     ERIKOISSAIRAANHOITO                SEULONTAYKSIKÖN
+                                        TIETOJÄRJESTELMÄ
+
+                                                                        LISÄTUTKIMUKSIA
+                                                                         VAATIVA TULOS
+
+
+
+
+           PATOLOGIA
+
+
+
+
+                          POIKKEAVA         VARMISTUS-
+                           LÖYDÖS            TUTKIMUS
+
+Kuva 2. Tiedonkulku seulontayksikön ja muiden toimijoiden välillä.
+
+
+
+26                      RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+ulkopuoliselta palvelujen tuottajalta. Seulontatiedot
+ovat potilasasiakirjoja ja ne ovat salassa pidettäviä.       Syöpäseulonnan toteuttajan on huolehdittava siitä,
+Seulonnan toteuttajalla on kuitenkin lakisääteinen           että seulonnan eri vaiheista toimitetaan yksilötason
+oikeus käsitellä kaikkia seulontatietoja, myös jatko-        tiedot Suomen Syöpärekisterin joukkotarkastus-
+tutkimus- ja erikoissairaanhoidon tietoja. Vastaavasti       rekisteriin. Suomen Syöpärekisteriin toimitettujen tie-
+jatkotutkimus- ja erikoissairaanhoidon yksiköillä on         tojen perusteella arvioidaan seulonnan laatua ja vai-
+lakisääteinen oikeus toimittaa nämä tiedot seulonnan         kuttavuutta. On suositeltavaa, että tietojen toimitus
+toteuttajalle.                                               tapahtuu automaattisesti säännöllisin väliajoin, mutta
+                                                             kertyneet tiedot tulee olla toimitettuna joukkotarkas-
+Edellisten seulontakertojen potilasasiakirjojen (kuten       tusrekisteriin viimeistään seulontavuotta
+aiemmin seulonnassa tehdyt havainnot ja lausunnot)           seuraavan vuoden elokuun loppuun mennessä.
+ja seulontakuvien tulee olla seuraavalla seulontakier-
+roksella tulkinnan tukena. Seulontatoimijan vaihtu-          Sujuvan tiedonkeruun varmistamiseksi seulonnan
+essa hyvinvointialueen on varmistettava, että nämä           tuottajien on tarjottava raportointijärjestelmä jat-
+seulontatiedot siirretään kattavasti seuraavan toi-          kotutkimus- ja hoitotietojen raportointiin. Jatkotut-
+mijan käyttöön ja ovat käytössä seulonnan alkaessa.          kimuksia suorittava erikoislääkäri raportoi jatkotut-
+Hyvä käytäntö olisi, että hyvinvointialue itse arkistoisi    kimuksen tiedot seulonnan tuottajan sähköiseen
+asiakirjat, näytteet ja kuvat, jolloin ne olisivat varmim-   raportointijärjestelmään.
+min saatavissa ja käytettävissä myös seulontatoimijan
+vaihtuessa.                                                  THL:n hallintopäätöksen (THL/5274/5.03.00/2023)
+                                                             mukaisesti seulonnan yksilötasoiset kutsu- ja tarkas-
+Mikäli asiakirjojen, kuvien ja näytteiden arkistointi        tustiedot sekä ensimmäisen tarjotun hoidon tiedot
+ulkoistetaan seulonnan tuottajalle:                          on toimitettava Suomen Syöpärekisterin määritelty-
+●   Seulontatietojen arkistointi- ja säilytyspaikasta on     jen tietomallin ja parametriston mukaisina. Tarkem-
+    sovittava ja niiden saatavuus on varmistettava.          mat ohjeet sekä tietomallin ja parametriston kuvaus
+●   Mammografiakuvia säilytettäessä ja siirrettäessä         ovat saatavilla Suomen Syöpärekisterin verkkosi-
+    kuvien diagnostisen tason tulee säilyä muuttu-           vuilta28.
+    mattomana.
+●   Tiedon siirrosta aiheutuvat kustannukset ja              Laki sosiaali- ja terveydenhuollon asiakastietojen
+    mahdolliset riskit tulee huomioida ostopalvelu-          käsittelystä (703/2023)29 velvoittaa arkistoimaan uusia
+    sopimuksessa.                                            kuva-aineistoja Kanta-arkistoon. Laki tulee
+●   On sovittava myös, miten seulontakuvat ovat              voimaan 1.1.2024 ja koskee mm. seulontatutki-
+    maksuttomasti saatavissa käyttöön, jos tutkittava        muksista syntyviä kuva-aineistoja. Takaraja uusien
+    muuttaa tai tarvitsee kuvia seulontojen välillä.         kuva-aineistojen arkistoinnille on 1.10.2029.
+
+
+
+
+27                       RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+13. SEULONNAN MONITOROINTI JA                            on asetettu suositus- ja tavoitetasot15, jotka on määri-
+OHJELMAN LAADUNVARMISTUS                                 telty yksityiskohtaisesti laadunvalvontaliitteessä (Liite
+                                                         II).
+● Rintasyöpäseulonnan laadunvarmistukseen
+
+  kuuluu röntgenhoitajien ja radiologien itse-           13.2 HYVINVOINTIALUEET
+  arviointi sekä seulontayksikön laadunvalvonta.         Seulonta-asetuksen11 sekä Sosiaali- ja terveysminis-
+● Suomen Syöpärekisteri arvioi seulonnan laatua ja       teriön ohjeiden mukaisesti yliopistollista sairaalaa
+  vaikuttavuutta ja raportoi tilastoilla seulonnan       ylläpitävien hyvinvointialueiden ja Uudellamaalla
+  laatuindikaattoreita seulontaketjun toimivuudesta.     HUS-yhtymän on huolehdittava valtakunnallisen
+● Hyvinvointialueiden ja Uudellamaalla HUS-              seulontaohjelman mukaisten jatkotutkimusten ja
+  yhtymän on huolehdittava valtakunnallisen              seulontaprosessin laadunvarmistuksesta.
+  seulontaohjelman mukaisten jatkotutkimusten
+  ja seulontaprosessin laadunvarmistuksesta.             Hyvinvointialueen tulee nimetä rintasyöpäseulonnan
+● Hyvinvointialueen tulee nimetä rintasyöpä-             vastuuhenkilö, joka on rintaradiologiaan perehtynyt
+  seulonnan vastuuhenkilö.                               radiologi. Hänen tehtävänään on vastata seulonnan
+● Hyvinvointialueiden tulee varmistaa seulonnan          toteutuksesta ja laadunvalvonnasta ja hänelle on oltava
+  osaajien koulutus ja jatkokoulutus, jotta laadukas     tämän tehtävän suorittamiseen riittävästi aikaa.
+  ja tavoitteet täyttävä rintasyöpäseulonta on
+  mahdollista.                                           Hyvinvointialueiden on hyvä huomioida laaduntark-
+● Jokaisessa seulontayksikössä tulee olla nimetty        kailussaan laatuindikaattorit mahdollisimman moni-
+  laatuvastaava.                                         puolisesti. Näin ollen hyvinvointialueiden on syytä
+                                                         laaduntarkkailussaan huomioida Suomen Syöpä-
+Rintasyöpäseulonnan laadunvarmistukseen kuuluu           rekisterin raportoimien indikaattoreiden lisäksi seu-
+röntgenhoitajien ja radiologien itsearviointi sekä       lonnan pahanlaatuisten löydösten osuus, mahdolli-
+seulontayksikön laadunvalvonta. Suositukset laadun-      set vaihtelut eri seulontatoimijoiden välillä ja niiden
+valvonnan periaatteista ja kriteereistä on esitetty      vaihtuessa, pienten syöpien ja DCIS-tasoisten löy-
+laadunvalvontaliitteessä (Liite II). Laadunvarmistuk-    dösten osuus sekä seulontojen välillä ilmenneet ns.
+seen kuuluu yksilötasolla vuosittainen tehtävä itse-     välisyövät. Myös seulonnassa otettujen näytteiden
+arviointi, ja lisäksi hyvinvointialueen on valvottava    tulkinnan laatuun on syytä kiinnittää huomiota ja
+oman alueensa seulontayksilöiden toiminnan laatua.       palautteen antaminen seulontanäytteitä tulkitseville
+Suomen Syöpärekisteri vastaa seulontatoiminnan           patologeille pitää tehdä mahdolliseksi. Tavoitteita
+laadunvalvonnasta maanlaajuisesti.                       ja ohjeita löytyy Laadunvalvontaliitteestä (Liite II) ja
+                                                         seulontaikäisten naisten syöpien arviointiin on mal-
+13.1 SUOMEN SYÖPÄREKISTERI                               likaavake liitteenä I. Näiden tietojen rekisteröinnistä
+Suomen Syöpärekisteri arvioi seulonnan laatua ja         on laadittava asianmukainen suunnitelma.
+vaikuttavuutta. Se raportoi seulonnan laatua seulonta-
+tilastoilla, joissa on seulonnan laatuindikaattoreita    Seulontasopimukseen tulee kirjata laatuvaatimukset
+seulontaketjun toimivuudesta. Seulontatilastot jul-      sekä se, miten niitä valvotaan ja mitä tehdään, jos
+kaistaan vuosittain maanlaajuisesti sekä hyvinvoin-      suosituksiin tai tavoitteisiin ei päästä.
+tialueittain noin kahden vuoden viiveellä . Suomen
+                                           30
+
+
+Syöpärekisterin seulontatilastoissa raportoidaan kan-    Hyvinvointialueiden tulee varmistaa seulonnan
+sainvälisten suositusten mukaisia laatuindikaattoreita   osaajien koulutus ja jatkokoulutus, jotta laadukas ja
+aikasarjoina, joten seulontavuosien välinen vertailu     tavoitteet täyttävä rintasyöpäseulonta on mahdollista.
+on mahdollista. Raportoiduilla laatuindikaattoreille
+
+
+
+28                     RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+Tavoitteena tulee olla seulontayksikkö-, röntgen-
+hoitaja- ja radiologikohtainen laaduntarkkailu ja
+laadun kehittämisohjelma.
+
+
+Jokaisessa seulontayksikössä tulee olla nimetty laatu-
+vastaava, jonka vastuulla on seulonnan tulosten
+tarkkailu, itsearvioinnista huolehtiminen ja palaut-
+teen antaminen seulontaa tekeville radiologeille ja
+röntgenhoitajille15.
+
+
+
+
+29                     RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+14. VIESTINTÄ JA TIEDOTUS                                      Seulontaan liittyvä viestintä on ensisijaisesti hyvin-
+                                                               vointialueiden vastuulla. Hyvinvointialueen tulee
+● Seulontaan liittyvä viestintä on ensisijaisesti              huolehtia siitä, että sen asukkaiden saatavilla on
+  hyvinvointialueiden vastuulla.                               riittävästi tietoa seulonnan tavoitteista ja vaikuttavuu-
+● Viestinnän tulee antaa hyvä käsitys seulonnan                desta, seulontaan mahdollisesti liittyvistä riskeistä
+  tarkoituksesta ja seulontaprosessin kulusta.                 sekä seulonnan järjestämisestä11.
+● Hyvää tiedotusta tarvitaan kaikissa seulonta-
+
+  ketjun eri vaiheissa: kutsusta seulontakuvauk-               14.2 VIESTINNÄN SISÄLLÖT
+  seen, seulontavastaukseen ja mahdollisiin jatko-             Hyvää viestintää tarvitaan kaikissa seulontaketjun eri
+  tutkimuksiin.                                                vaiheissa: kutsusta seulontakuvaukseen, seulontavas-
+● Poikkeavan tuloksen saaneisiin tulee kiinnittää              taukseen ja mahdollisiin jatkotutkimuksiin. Seulon-
+  erityistä huomiota tiedottamisessa.                          taan kutsutulla tulee koko ajan olla pääsy selkeään ja
+● Viestinnällä tulisi pyrkiä tavoittamaan myös                 oikeaan kirjalliseen tietoon.
+  sellaiset henkilöt, jotka eivät ole osallistuneet
+  seulontaohjelmaan.                                           Saatavilla tulee olla sekä tiivistettyä perustason tietoa,
+● Tiedotemateriaalia voi olla tarpeen räätälöidä               että yksityiskohtaisempaa tietoa seulonnan eri vai-
+  erilaisille vastaanottajille sopiviksi ottaen                heista. Seulontakutsujen ja -materiaalien tulee sisäl-
+  huomioon esimerkiksi sosioekonomiset,                        tää samat tiedot joka puolella maata, jotta alueellinen
+  kielelliset ja kulttuuriset erot sekä erityisryhmät.         yhdenvertaisuus toteutuu. Syöpärekisteri tarjoaa ja
+● Seulonnan kutsukirje on tärkeä ensimmäinen                   päivittää materiaaleja (mm. esitteet, kutsukirjeet,
+  kontakti seulottavaan.                                       vastauskirjeet) vapaasti saatavilla seulontatoimijoi-
+● Röntgenhoitajia olisi hyvä kouluttaa myös                    den käyttöön16. Materiaaleja on saatavilla eri kielillä.
+  viestinnällisesti.
+                                                               Poikkeavan tuloksen saaneisiin tulee kiinnittää eri-
+                                                               tyistä huomiota tiedottamisessa.
+14.1 VIESTINNÄN TAVOITE
+Seulonta on vähentänyt rintasyövän kuolleisuutta               14.3 OSALLISTUMISEN PARANTAMINEN
+merkittävästi. Seulonnan hyötyjen on myös arvioitu             Viestinnällä tulisi pyrkiä tavoittamaan myös sellaiset
+ylittävän siitä koituvat haitat. Jotta seulonta olisi          henkilöt, jotka eivät ole osallistuneet seulontaohjel-
+jatkossakin vaikuttavaa, ohjelmasta viestittäessä              maan. Muistutuskutsut ovat avainasemassa osallis-
+tulee tavoitella mahdollisimman hyvää seulonta-                tumisen parantamisessa, ja niitä tulee käyttää rutii-
+osallistumista kohdeväestössä.                                 ninomaisesti joka puolella maata32. Alueilla, joilla
+                                                               seulontaosallistuminen on keskimääräistä mata-
+Viestinnän tulee antaa hyvä käsitys seulonnan tarkoi-          lampaa, voidaan tarpeen mukaan toteuttaa alueellisia
+tuksesta ja seulontaprosessin kulusta. Viestinnän tulee        viestintätoimia ja kampanjoita.
+myös lisätä turvallisuudentunnetta seulontaketjun eri
+vaiheissa. Hyvällä viestinnällä ja tiedottamisella voi-        Viestinnän pitää korostaa seulonnan tarpeellisuutta,
+daan minimoida mahdollisia seulonnan aiheuttamia               kuitenkin niin, että seulottavan itsemääräämisoikeus
+psykologisia haittoja. Samanaikaisesti terveydenhuol-          ja mahdollisuus kieltäytyä seulonnasta eivät vaarannu.
+lon henkilökunnalle ja mammografiatutkimuksiin
+hakeutuneille naisille on tarpeellista viestiä, että oireet-   14.4 VIESTINNÄN SAAVUTETTAVUUS
+tomien seulonnan kohdeikää nuoremman ja vanhem-                Merkittävä haaste seulontaohjelmasta viestiessä ovat
+man naisen kuvantamista tulisi välttää . 31
+                                                               erilaiset tiedon vastaanottajat. Tiedotemateriaalia voi
+                                                               olla tarpeen räätälöidä erilaisille vastaanottajille sopi-
+
+
+
+30                       RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+                                                                 ●   Suomen Rintasyöpäryhmän hoitosuositus1: 		
+viksi. Esimerkiksi sosioekonomiset, kielelliset ja kult-             https://rintasyoparyhma.yhdistysavain.fi/
+tuuriset erot tulee ottaa huomioon. Tietoa tulee olla                hoitosuositus/
+saatavilla eri kanavista ja eri kielillä, ja tarvittaessa voi-
+daan tehdä yhteistyötä esimerkiksi erilaisten etnisten           Röntgenhoitajat ovat suorassa kontaktissa seulottavien
+yhteisöjen kanssa . 33
+                                                                 kanssa, joten heitä olisi hyvä kouluttaa myös viestin-
+                                                                 nällisesti. Röntgenhoitajat voivat vastata seulottavien
+On huolehdittava, että rintasyöpäriskissä olevat suku-           kysymyksiin tai kertoa, mistä lisätietoa on saatavilla.
+puolivähemmistöihin kuuluvat henkilöt tietävät ole-              Näin saadaan lisättyä luottamusta seulontaohjelmaan.
+vansa oikeutettuja maksuttomaan seulontaan, vaikka               Myös kirjallista materiaalia, kuten seulontaesitteitä
+kutsua ei tällä hetkellä henkilötunnuksen muuttumisen            olisi hyvä olla saatavilla kuvauspaikoilla.
+jälkeen tulisikaan automaattisesti . Asiasta tulee tie-
+                                     14
+
+
+dottaa rintasyöpäseulonnasta kertovilla nettisivuilla            Henkilön, jolla on poikkeava seulontatulos, tulisi
+ja muissa seulontamateriaaleissa.                                halutessaan saada ottaa henkilökohtaisesti yhteyttä
+                                                                 terveydenhuollon ammattilaiseen lisätietoja saadak-
+Myös vammaisten henkilöiden oikeus rintasyöpäseu-                seen. Yhteystiedot tätä varten voi ilmoittaa esimer-
+lontaan tulee turvata. Seulontaa koskevan viestinnän             kiksi seulontatuloksen vastauskirjeessä. Ammatti-
+tulee olla saavutettavaa sekä näkö‑ että kuulovam-               laisen tulee korostaa, että poikkeava seulontatulos
+maisille, ja tarvittaessa seulonnasta tulee olla saata-          ei tarkoita syöpää tai edes sen esiastetta. Psykologista
+villa selkokielistä materiaalia.                                 tukea voi saada esimerkiksi Syöpäyhdistyksen
+                                                                 neuvontapalvelusta.
+Paikkakuntaa seulontavuonna muuttaneille tulisi jär-
+jestää yhteydenottokanava seulontaan osallistumisen              Hyvinvointialueiden tulee tiedottaa kaikista seulonta-
+turvaamiseksi.                                                   ohjelman muutoksista. Tiedotuksessa suositellaan
+                                                                 useiden kanavien käyttöä, esimerkiksi lehdistötiedo-
+14.5 TIEDOTUS- JA VIESTINTÄKANAVAT                               tetta ja some-viestintää.
+Seulonnan kutsukirje on tärkeä ensimmäinen kon-
+takti seulottavaan. Sen tulee olla tiivis ja selkeä ja
+sisältää valmiiksi varattu aika ja paikka kuvaukselle,
+sekä ohjeet niiden muuttamiseen. Aikaa olisi hyvä
+voida muuttaa netissä ja puhelimitse. Lisäksi kut-
+sussa tulee kertoa, mistä yksityiskohtaisempaa tietoa
+on saatavilla.
+
+
+Kattavaa ja ajantasaista tietoa on saatavilla inter-
+netissä, esimerkiksi seuraavilla sivustoilla:
+●   Terveyskylän Tutkimukseen tulijan talo34:
+    https://www.terveyskyla.fi/tutkimukseen/
+    kuvantamistutkimuksia/mammografia-
+    ja-muut-rintarauhasen-tutkimukset
+●   Syöpäjärjestöt35: rintaseulonta.fi
+
+
+
+
+31                        RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+15. RINTASYÖPÄSEULONNAN                                      Oireettomien riskiperusteinen seuranta
+TULEVAISUUDEN TAVOITTEISTA                                   Nykyinen suositus kehottaa myös harkitsemaan
+                                                             yksilöllistä seulontaa (personalized approaches)
+● Euroopan unionin neuvosto päivitti syöpäseulonta-          rintasyövän seulontaan. Yksilöllinen rintasyövän
+  suosituksensa joulukuussa 2022.                            seulonta perustuu yksilölliseen rintasyöpäriskin
+● Seulontamenetelmäksi suositellaan digitaalista             arviointiin, johon vaikuttaa mm. periytyvä rintasyöpä-
+  mammografiaa tai digitaalista tomografiaa.                 alttius ja rinnan tiiviys.
+● Rintasyövän seulonnan kohderyhmää suositellaan
+
+  laajennettavan 50–69-vuotiaista 45–74-vuotiaisiin.         Sukuriskiin perustuva seuranta
+● Suositus kehottaa myös harkitsemaan yksilöllistä           Yksi tärkeimmistä rintasyövän riskitekijöistä on
+  seulontaa ottaen huomioon periytyvä rintasyöpä-            perinnöllinen riski sairastua rintasyöpään. Koska
+  alttius ja rinnan tiiviys.                                 perinnöllistä riskiä selvitetään aktiivisesti geeni-
+● Tekoälyn hyödyntämistä rintasyövän seulonnassa             paneelitutkimuksilla, kasvava joukko perinnöllisessä
+  tutkitaan.                                                 riskissä olevia naisia tunnistetaan vuosittain.
+
+
+                                                             Perinnöllinen riski eroaa väestöriskistä useilla eri
+15.1 UUSI EUROOPPALAINEN SYÖPÄ-                              tavoilla. Merkittäviä eroja ovat huomattavasti väestö-
+SEULONTASUOSITUS                                             tasoa korkeampi elinikäinen riski sairastua rinta-
+Euroopan unionin neuvosto päivitti syöpäseulon-              syöpään, sairastumisriskin alkaminen nuoremmista
+tasuosituksensa joulukuussa 2022 . Suosituksen
+                                    36
+                                                             ikäryhmistä ja rintasyövän alatyyppien poikkeava
+mukaan seulontamenetelmänä voidaan käyttää digi-             jakautuminen. Riskiä vähentäviä toimenpiteitä
+taalista mammografiaa tai digitaalista tomografiaa.          harkitaan kaikkein korkeimmassa riskissä olevien
+Rintojen MRI:tä on suositeltua käyttää seulontatestinä       naisten kohdalla. Toisaalta perinnöllinen riski muis-
+vain perustellusta syystä. Suosituksessa otettiin kan-       tuttaa ikäriskiä siten, että se kohdistuu terveisiin
+taa myös seulonnan ikäryhmiin ja yksilölliseen riskiin       naisiin ilman yksilötasolla tunnistettavia ulkoisia
+perustuvaan seulontaan.                                      riskitekijöitä. Samoin kuin ikäriskin perusteella
+                                                             seulottavat, myös perinnöllisessä riskissä olevat
+Ikäryhmäsuositukset                                          naiset tarvitsevat säännöllistä rintojen kuvantamis-
+Nykyisen EU:n neuvoston suosituksen mukaan rinta-            tutkimuksiin perustuvaa seurantaa.
+syövän seulonnan kohderyhmää suositellaan laajen-
+nettavan 50–69-vuotiaista 45–74-vuotiaisiin naisiin ja       Korkean rintasyöpäriskin naisia seurataan tällä
+kustannusvaikuttavuustutkimukset     37,38
+                                              tukevat seu-   hetkellä terveydenhuollon palvelujärjestelmässä,
+lonnan kohdeiän laajentamista nykyisestä erityisesti         ks. tarkemmin Rintasyövän valtakunnallinen
+nuorempiin, 45–49-vuotiaisiin naisiin. Suomen Syöpä-         diagnostiikka- ja hoitosuositus1.
+rekisterissä toteutettu tutkimus rintasyöpäseulonnan
+ikäryhmälaajennuksen kustannusvaikuttavuudesta               Rinnan tiiviyteen perustuva yksilöllinen
+osoitti, että myös Suomessa seulonnan laajentaminen          täydentävä kuvantaminen
+erityisesti 45–49-vuotiaisiin naisiin olisi kustannusvai-    Rauhaskudoksen ja sidekudoksen tiiviys mammo-
+kuttavaa . Näiden suomalaisten tulosten ja kansain-
+         39
+                                                             grafiakuvassa on rintasyövän itsenäinen riskitekijä ja
+välisen tutkimustiedon perusteella rintasyöpäseu-            se voi peittää syövän näkymisen mammografia-
+lonnan asiantuntijaryhmä päätti suositella seulonnan         kuvassa. Tiedetään, ettei mammografiaseulonta ole
+laajennusta 46–48-vuotiaisiin kahden vuoden välein           tiivisrintaisille naisille riittävän tehokas ja yksilöllisiä
+ja 70–74-vuotiaisiin 3 vuoden välein .   40
+                                                             rinnantiiviyteen perustuvia muilla menetelmillä teh-
+                                                             täviä täydentäviä seulontoja suositellaan Euroopassa
+
+
+
+32                       RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+ja maailmalla41. Rinnan tiiviyttä voidaan arvioida joko
+tietokoneavusteisesti tai visuaalisesti. Rinnan tiiviy-     viittaavat siihen, että tekoäly voi parantaa seulonnan
+den arviointi ei ole vielä rutiinia rintasyöpä-             herkkyyttä ja tehostaa resurssien käyttöä43-47. Eni-
+seulonnassa eikä sen jakauma suomalaisilla seulon-          ten tutkittu tapa hyödyntää tekoälyä seulonnassa
+taikäisillä naisilla ole tiedossa. Onkin tärkeää selvit-    on määrittää luentojen intensiteetti tekoälysovelluk-
+tää vertailukelpoisella tavalla, paljonko tiivisrintaisia   sen antaman riskiarvon avulla sekä käyttää tekoälyä
+suomalaisia naisia on, ja miten heidän seulontansa          kuvien lukemisen tukena. Tällöin vain keskikorkean tai
+voitaisiin toteuttaa tarkoituksenmukaisella ja kustan-      korkean riskiarvon saaneet kuvat lukee kaksi radiolo-
+nusvaikuttavalla tavalla.                                   gia tekoälyavusteisesti, ja matalan riskiarvon saaneet
+                                                            kuvat lukee vain yksi radiologi tekoälyavusteisesti.
+15.2 DIGITAALINEN TOMOSYNTEESI                              Tekoälyavusteinen luenta tarkoittaa sitä, että tekoä-
+Digitaalista rinnan tomosynteesikuvausta on tutkittu        lyohjelma riskipisteytyksen lisäksi merkitsee kuviin
+rintasyövän seulontamenetelmänä, mutta sen parem-           todennäköisesti pahanlaatuiset alueet ja toimii näin
+muudesta mammografiaan nähden ei ole saatu yksi-            radiologin apuna.
+selitteisiä tuloksia . Tomosynteesin yhtenä haitta-
+                   42
+
+
+puolena on kuvaustapahtumaan ja kuvan tulkintaan            Ruotsalaisen satunnaistetun tutkimuksen tulosten
+käytettävän ajan lisääntyminen. Myös tomosynteesin          perusteella tekoälyn hyödyntäminen seulonnassa
+korkeampi sädeannos on otettava huomioon. STUK:n            lisää kliinisesti merkittävien syöpien havaitsemista,
+ohjeen mukaan kuvauksen keskimääräinen annos ei             vähentää radiologien lukutyömäärää 44 %46 ja johtaa
+saisi ylittää asetettua vertailutasoa17. Mikäli tomo-       välisyöpien määrän pienenemiseen47. Näiden tulosten
+synteesiä suunniteltaisiin seulontamenetelmäksi,            perusteella tekoälyä ollaan ottamassa Ruotsissa laa-
+vertailutasoja pitäisi todennäköisesti nostaa.              jasti käyttöön rintasyövän seulontaohjelmassa. Muu-
+Valtioneuvoston asetuksen mukaan seulonnan                  tamalla alueella tekoäly on jo käytössä osana rutii-
+toimeenpanoa varten laaditussa ohjelmassa on                niseulontaa. Myös Tanskassa tekoäly on jo käytössä
+otettava kantaa seulontamenetelmän soveltuvuuteen,          seulontaohjelmassa kahdella alueella, ja kolmannella
+mutta asetusteksti ei varsinaisesti määrittele, millä       alueella on pilottitutkimus käynnissä. Norjassa puo-
+menetelmällä rintasyöpäseulonta tehdään.                    lestaan on käynnissä laaja prospektiivinen, satunnais-
+                                                            tettu pilottitutkimus, jossa arvioidaan tekoälyn käyt-
+15.3 TEKOÄLY                                                töä osana kansallista seulontaohjelmaa.
+Pohjoismaissa (Ruotsi, Norja ja Tanska) on tutkittu
+tekoälyn hyödyntämistä mammografioiden luen-                Tekoälyn käyttöön ottamista rintasyövän seulonnassa
+nassa väestötason seulonnoissa sekä retrospektii-           on perusteltua ja ajankohtaista tutkia myös suomalai-
+visissä että prospektiivisissa asetelmissa, ja tulokset     sessa väestöpohjaisessa seulontaohjelmassa.
+
+
+
+
+33                      RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+16. LÄHDELUETTELO                                          9. Heinävaara S, Sarkeala T, Anttila A. Overdiagno-
+1. Suomen Rintasyöpäryhmän ry:n valtakunnallinen           sis due to breast cancer screening: updated estima-
+diagnostiikka- ja hoitosuositus [Internet]. Suomen         tes of the Helsinki service study in Finland.
+Rintasyöpäryhmä ry; Available from: https://rinta-         Br J Cancer. 2014 Sep;111(7):1463–8.
+syoparyhma.yhdistysavain.fi/?x118281=178858
+                                                           10. Terveydenhuoltolaki 30.12.2010/1326 [Internet].
+2. Suomen Syöpärekisterin tautitilastot [Internet].        Oikeusministeriö; Available from: https://
+Available from: https://syoparekisteri.fi/tilastot/        www.finlex.fi/fi/laki/ajantasa/2010/20101326
+tautitilastot/
+                                                           11. Valtioneuvoston asetus seulonnoista 6.4.2011/
+3. Hakama M, Pukkala E, Heikkila M, Kallio M.              339 [Internet]. Oikeusministeriö; Available from:
+Effectiveness of the public health policy for breast       https://www.finlex.fi/fi/laki/ajantasa/2011/20110339
+cancer screening in Finland: population based
+cohort study. BMJ. 1997 Mar 22;314(7084):864–864.          12. Valtioneuvoston asetus seulonnoista annetun
+                                                            valtioneuvoston asetuksen muuttamisesta
+4. Rintasyövän seulonnan vuosikatsaus 2018                 908/2018 [Internet]. Oikeusministeriö;
+[Internet]. Suomen Syöpärekisteri; Available from:         Available from: https://www.finlex.fi/fi/laki/
+https://syoparekisteri.fi/assets/files/2018/12/            alkup/2018/20180908
+rintasyo%CC%88pa%CC%88raportti_2018-1.pdf?
+pdf=Rintasyo%CC%88v%C3%A4n%20seulonta-                     13. Valtioneuvoston asetus seulonnoista annetun
+ohjelman%20vuosikatsaus_2018                                valtioneuvoston asetuksen muuttamisesta
+                                                           1243/2022 [Internet]. Oikeusministeriö;
+5. Sarkeala T, Heinävaara S, Anttila A. Organised          Available from: https://www.finlex.fi/fi/laki/
+mammography screening reduces breast cancer                alkup/2022/20221243
+mortality: A cohort study from Finland. Int J Cancer.
+2008 Feb 1;122(3):614–9.                                   14. Valtioneuvoston asetus seulonnoista annetun
+                                                           valtioneuvoston asetuksen 2 ja 5 §:n muutta-
+6. Heinävaara S, Sarkeala T, Anttila A. Impact of          misesta 622/2023 [Internet]. Oikeusministe-
+organised mammography screening on breast                  riö; Available from: https://www.finlex.fi/fi/laki/
+cancer mortality in a case–control and cohort study.       alkup/2023/20230622
+Br J Cancer. 2016 Apr;114(9):1038–44.
+                                                           15. Perry N, Broeders M, De Wolf C et al. European
+7. Singh D, Pitkäniemi J, Malila N, Anttila A. Cumu-       guidelines for quality assurance in breast cancer
+lative risk of false positive test in relation to breast   screening and diagnosis. 4th ed. Luxembourg:
+symptoms in mammography screening: a historical            Office for official publications of the European
+prospective cohort study. Breast Cancer Res Treat.         Communities; 2006.
+2016 Sep;159(2):305–13.
+                                                           16. Suomen Syöpärekisteri: Syöpäseulontojen
+8. Puliti D, Duffy SW, Miccinesi G et al. Overdiag-        järjestäminen [Internet]. Suomen Syöpärekisteri;
+nosis in Mammographic Screening for Breast Can-            Available from: https://syoparekisteri.fi/seulonta/
+cer in Europe: A Literature Review. J Med Screen.          syopaseulontojen-jarjestaminen/
+2012 Sep;19(1_suppl):42–56.
+
+
+
+
+34                     RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+17. Säteilyturvallisuus mammografiatutkimuksissa,        screening and diagnosis. [Internet]. European
+25.1.2013 [Internet]. Säteilyturvakeskus; Available      Commission; 2022. Available from: https://
+from: https://www.stuklex.fi/fi/ohje/ST3-8               healthcare-quality.jrc.ec.europa.eu/en/ecibc/
+                                                         european-breast-cancer-guidelines
+18. Kalliomäki Hanna. Mammografian kuvausopas
+2021. Suomen röntgenhoitajaliitto ry; 2021.              27. Kovacs T, Rubio IT, Markopoulos C et al. Theo-
+                                                         retical and practical knowledge curriculum for
+19. Sosiaali- ja terveysministeriön asetus säteilyn      European Breast Surgeons. European Journal of
+lääketieteellisestä käytöstä [Internet]. Oikeusminis-    Surgical Oncology. 2020 Apr;46(4):717–36.
+teriö; Available from: https://www.finlex.fi/fi/laki/
+alkup/2000/20000423                                      28. Suomen Syöpärekisteri: Seulontatietojen
+                                                         ilmoittaminen [Internet]. Suomen Syöpärekisteri;
+20. Sudah Mazen. Rintadiagnostiikan opas 5. pai-         Available from: https://syoparekisteri.fi/seulonta/
+nos [Internet]. 2024. Available from: https://rintasy-   seulontatietojen-ilmoittaminen/
+oparyhma.yhdistysavain.fi/?x118281=173893
+                                                         29. Laki sosiaali- ja terveydenhuollon asiakastieto-
+21. Newell, MS, Destounis SV, Leung, JWT et al.          jen käsittelystä 703/2023 [Internet]. Oikeusminis-
+ACR BI-RADS® v2025 Manual. Reston, VA, Ameri-            teriö; Available from: https://www.finlex.fi/fi/laki/
+can College of Radiology; 2025.                          alkup/2023/20230703
+
+22. Bärlund Maarit, Kellokumpu-Lehtinen Pirkko-          30. Suomen Syöpärekisteri: Seulontatilastot
+Liisa. Syöpäpotilaan hoidon moniammatilliset             [Internet]. Suomen Syöpärekisteri; Available from:
+suunnittelukokoukset - laadukkaan syövänhoidon           https://syoparekisteri.fi/tilastot/seulontatilastot/
+kultastandardi. Duodecim. 2023;139(2):98–106.
+                                                         31. Säteilylaki 859/2018 [Internet]. Oikeusmi-
+23. Biganzoli L, Cardoso F, Beishon M, Cameron           nisteriö; Available from: https://finlex.fi/fi/laki/
+D, Cataliotti L, Coles CE, et al. The requirements       alkup/2018/20180859
+of a specialist breast centre. The Breast. 2020
+Jun;51:65–84.                                            32. Virtanen A, Anttila A, Luostarinen T, Malila N,
+                                                         Nieminen P. Improving cervical cancer screening
+24. Blaauwgeers Harriët, Burrion JB, De Paoli P.         attendance in F inland. Intl Journal of Cancer
+Accreditation and designation user manual V. 3.0.        [Internet]. 2015 Mar 15 [cited 2023 Nov 14];136(6).
+Brussel: Organisation of European Cancer                 Available from: https://onlinelibrary.wiley.com/
+Institutes; 2019.                                        doi/10.1002/ijc.29176
+
+25. Suomen Lääkäriliitto: Seulontamammografian           33. Sarkeala Tytti, Lamminmäki Maarit. Miten
+erityispätevyys [Internet]. Suomen Lääkäriliitto;        houkuttelen syöpäseulontoihin? Duodecim.
+Available from: https://www.laakariliitto.fi/palvelut/   2022;138(16):1369–71.
+koulutukset/erityispatevyydet/seulontamammo-
+grafia/                                                  34. Terveyskylän Tutkimukseen tulijan talo: Mammo-
+                                                         grafia ja muut rintarauhasen tutkimukset [Internet].
+26. European Commission Initiative on Breast             Terveyskylä; Available from: https://www.terveys-
+Cancer. European guidelines on breast cancer
+
+
+
+
+35                     RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+kyla.fi/tutkimukseen/kuvantamistutkimuksia/             41. Mann RM, Athanasiou A, Baltzer PAT,
+mammografia-ja-muut-rintarauhasen-tutkimukset           Camps-Herrero J, Clauser P, Fallenberg EM, et al.
+                                                        Breast cancer screening in women with extremely
+35. Ilman syöpää: Rintasyovän seulonta eli mam-         dense breasts recommendations of the European
+mografia [Internet]. Syöpäjärjestöt; Available from:    Society of Breast Imaging (EUSOBI). Eur Radiol.
+https://www.ilmansyopaa.fi/tarkkaile-kehoasi/rinta-     2022 Jun;32(6):4036–45.
+syovan-seulonta-eli-mammografia/
+                                                        42. Houssami N, Zackrisson S, Blazek K, Hunter
+36. Council Recommendation on strengthening             K, Bernardi D, Lång K, et al. Meta-analysis of pros-
+prevention through early detection: A new EU            pective studies evaluating breast cancer detection
+approach on cancer screening replacing Council          and interval cancer rates for digital breast tomosyn-
+Recommendation 2003/878/EC [Internet]. Council          thesis versus mammography population screening.
+of the European Union; Available from: https://         European Journal of Cancer. 2021 May;148:14–23.
+data.consilium.europa.eu/doc/document/
+ST-14770-2022-INIT/en/pdf                               43. Larsen M, Aglen CF, Lee CI, Hoff SR,
+                                                        Lund-Hanssen H, Lång K, et al. Artificial Intel-
+37. Kregting LM, Sankatsing VDV, Heijnsdijk EAM         ligence Evaluation of 122 969 Mammography
+et al. Finding the optimal mammography screening        Examinations from a Population-based Screening
+strategy: A cost-effectiveness analysis of 920          Program. Radiology. 2022 Jun;303(3):502–11.
+modelled strategies. Intl Journal of Cancer. 2022 Jul
+15;151(2):287–96.                                       44. Lauritzen AD, Rodríguez-Ruiz A, Von Euler-
+                                                        Chelpin MC et al. An Artificial Intelligence–based
+38. Shafik N, Ilmonen P, Viitasaari L, Sarkeala T,      Mammography Screening Protocol for Breast Can-
+Heinävaara S. Flexible transition probability model     cer: Outcome and Radiologist Workload. Radiology.
+for assessing cost-effectiveness of breast cancer       2022 Jul;304(1):41–9.
+screening extension to include women aged 45-49
+and 70-74. Paci E, editor. PLoS ONE. 2023 Jun           45. Lång K, Hofvind S, Rodríguez-Ruiz A, Anders-
+23;18(6):e0287486.                                      son I. Can artificial intelligence reduce the interval
+                                                        cancer rate in mammography screening? Eur
+39. Siegfrids F, Heinävaara S, Sarkeala T et al..       Radiol. 2021 Aug;31(8):5940–7.
+Cost-effectiveness of expanding the target popu-
+lation of biennial screening for breast cancer from     46. Lång K, Josefsson V, Larsson AM et al. Artifi-
+ages 50-69 to 45 and/or 74: A cohort modelling          cial intelligence-supported screen reading versus
+study in the Finnish setting. Health Econ Rev.          standard double reading in the Mammography
+2025;15(1):35. doi:10.1186/s13561-025-00628-5           Screening with Artificial Intelligence trial (MASAI):
+                                                        a clinical safety analysis of a randomised, cont-
+40. Rintasyövän seulonnan asiantuntijaryhmän            rolled, non-inferiority, single-blinded, screening
+esitys seulonnan kohdeikäryhmän laajentamisesta.        accuracy study. The Lancet Oncology. 2023
+6.3.2025 Available from: https://fican.fi/wp-con-       Aug;24(8):936–44. Society of Breast Imaging (EUS-
+tent/uploads/2025/03/Rintasyovan-seulonnan-asi-         OBI). Eur Radiol. 2022 Jun;32(6):4036–45.
+antuntijaryhman-esitys-seulonnan-kohdeikaryh-
+man-laajentamisesta-1.pdf                               47. Houssami N, Zackrisson S, Blazek K, Hunter K,
+                                                        Bernardi D, Lång K, et al. Meta-analysis of prospec-
+
+
+
+
+36                    RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+tive studies evaluating breast cancer detection and      Hernström V, Josefsson V, Sartor H, et al. Screening
+interval cancer rates for digital breast tomosynthe-     performance and characteristics of breast cancer
+sis versus mammography population screening.             detected in the Mammography Screening with
+European Journal of Cancer. 2021 May;148:14–23.          Artificial Intelligence trial (MASAI): a randomised,
+                                                         controlled, parallel-group, non-inferiority, sing-
+42. Larsen M, Aglen CF, Lee CI, Hoff SR,                 le-blinded, screening accuracy study. Lancet Digit
+Lund-Hanssen H, Lång K, et al. Artificial Intel-         Health. 2025;7(3):e175-e183. doi:10.1016/S2589-
+ligence Evaluation of 122 969 Mammography                7500(24)00267-X
+Examinations from a Population-based Screening
+Program. Radiology. 2022 Jun;303(3):502–11.
+
+43. Lauritzen AD, Rodríguez-Ruiz A, Von Euler-
+Chelpin MC, Lynge E, Vejborg I, Nielsen M, et al.
+An Artificial Intelligence–based Mammography
+Screening Protocol for Breast Cancer: Outcome
+and Radiologist Workload. Radiology. 2022
+Jul;304(1):41–9.
+
+44. Lång K, Hofvind S, Rodríguez-Ruiz A, Anders-
+son I. Can artificial intelligence reduce the interval
+cancer rate in mammography screening? Eur
+Radiol. 2021 Aug;31(8):5940–7.
+
+45. Lång K, Josefsson V, Larsson AM, Larsson S,
+Högberg C, Sartor H, et al. Artificial intelligen-
+ce-supported screen reading versus standard
+double reading in the Mammography Screening
+with Artificial Intelligence trial (MASAI): a clinical
+safety analysis of a randomised, controlled, non-in-
+feriority, single-blinded, screening accuracy study.
+The Lancet Oncology. 2023 Aug;24(8):936–44.
+
+Gommers J, Hernström V, Josefsson V, Sartor H,
+Schmidt D, Hjelmgren A, Larsson AM, Hofvind S,
+Andersson I, Rosso A, Hagberg O, Lång K. Inter-
+val cancer, sensitivity, and specificity comparing
+AI-supported mammography screening with stan-
+dard double reading without AI in the MASAI study:
+a randomised, controlled, non-inferiority, sing-
+le-blinded, population-based, screening-accuracy
+trial. Lancet. 2026 Jan 31;407(10527):505-514. doi:
+10.1016/S0140-6736(25)02464-X. PMID: 41620232.
+
+
+
+
+37                     RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+17. LIITTEET
+17.1 SEULONTAIKÄISTEN NAISTEN SYÖPIEN SEULONNAN
+LAADUNARVIOINTIIN LIITTYVÄ MALLILOMAKE (LIITE I)
+
+Paikallisen hyvinvointialueen vastuuradiologin tulee           Löydökset/analyysit merkittävä erottuvasti kysyttyi-
+saada tieto kaikista uusista seulontaikäisten syövistä         hin kohtiin.
+(2 v seulonnan päättymiseen asti).
+                                                               Lomake tallennetaan hyvinvointialueen oman käy-
+Vastuurintaradiologin tulee arvioida syövät laadun-            tännön mukaan koulutus- ja laadunvalvontatarkoi-
+valvontaan ja koulutukseen liittyen. Suositus on               tuksiin. Ihanteellisinta olisi saada myös kuvat liite-
+tehdä arviointi alla olevan jaottelun mukaisesti.              tyksi kaavakkeen mukaan, jotta löydösten läpikäynti
+Seulovien radiologien kanssa on pyrittävä käymään              jälkikäteen järjestettävissä laadunvalvontakokouk-
+löydökset säännöllisesti läpi joko MDT-kokouksen               sissa olisi mahdollista.
+yhteydessä tai erikseen järjestettävissä kokouksissa.
+
+
+17.1.1 Parametrit mammografiassa
+
+  Rinnan tiiviys                a                   b                   c                     d
+
+  Pesäke/muoto                pyöreä             ovaali            lobuloitunut      epäsäännöllinen
+
+  Pesäke/reuna            tarkkarajainen       peittyvä-            epätarkka-            spikulainen
+                                               rajainen              rajainen
+
+  Pesäke/tiiviys             tiiviimpi         yhtä tiivis       vähemmän tiivis            rasvaa
+  rauhaskudosta                                                                            sisältävä
+
+  Mikrokalkit               amorfiset       karkeat hetero-           hennot        hennot lineaariset
+                                               geeniset            pleomorfiset      tai haarautuvat
+
+  Mikrokalkit/jakauma        diffuusi        regionaalinen            ryhmä               lineaarinen    segmentaalinen
+
+  Rakennehäiriö                kyllä                ei
+
+  Asymmetria               asymmetria         globaalinen           fokaalinen             kehittyvä
+
+  Muu                      ihon vetäymä     nännin vetäymä            ihon           suurentunut imu-
+                                                                  paksuuntuma       solmuke kainalossa
+
+  Sijainti               yläsivuneljännes   yläsisäneljännes     alasivuneljännes    alasisäneljännes     sentraalinen
+
+
+
+
+38                      RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+17.1.2 Toteamiseen liittyvät seikat
+
+ Syövän toteamispäivämäärä
+ Oireet                                                                kyhmy                  muu
+
+ Viimeisimmän seulonnan päivämäärä
+ Mahdollisten varmistusten päivämäärä
+ Otettu sivukuva                                                        kyllä                      ei
+
+ Kohdekuva/tomosynteesi                                                 kyllä                      ei
+
+ UÄ                                                                     kyllä                      ei
+
+ PNB (paksuneulanäyte)
+ Imusolmukenäyte                                                        kyllä                      ei
+
+ Muutoksen mitat (kookkain, jos monipesäkkeinen)                             x                     y                  z
+
+
+
+
+17.1.3 Syövän toteamisen jälkeen tehtävä arviointi, kun tiedetään
+missä ja miten syöpä toteamishetkellä näkyy
+
+ Onko muutoksesta merkkejä edellisessä                                 kyllä                  ei               ei osallistunut
+ seulontamammografiassa?
+ Tämä on jälkikäteen arvioiden hyvin tavallista.
+
+ Aiemmin näkyneen muutoksen mitat                                        x                    y                       z
+
+ Syövän toteamistapa                                               seulonnassa       seulontojen välissä
+
+
+
+
+17.1.4 Välisyöpien luokittelu
+
+  TERMI                           MÄÄRITELMÄ
+  Aito välisyöpä                  aiemmissa seulontakuvissa ei näkyviä merkkejä
+
+  Minimaaliset merkit             epäspesifiset pienet poikkeavuudet, erittäin hidas kasvu/kalkkien lisääntyminen; Minimal-signs
+
+  Näkymätön                       ei näy mammografiassa; Occult
+
+  Ei huomattu                     muutos olisi diagnosoitavissa jo aiemmassa mammografiassa; Missed
+
+
+
+
+39                        RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+17.1.5 Pohdintaa, miksi syöpä jäi havaitsematta aiemmissa tutkimuksissa?
+missä ja miten syöpä toteamishetkellä näkyy
+
+Oliko mammografiakuvauksessa teknisiä puutteita esim. asetteluvirhe, huono projektio, laitevika?
+Inhimillinen virhe johtuen esim. pitkään suhteellisen ennallaan pysyneestä muutoksesta,
+joka alun perin tulkittu hyvänlaatuiseksi.
+
+
+
+
+Onko alue tutkittu aiemmin?
+
+Ei
+
+Jos on niin pvm             ; onko otettu sivukuva, tomosynteesi, kohdesuurennuskuvat, UÄ, näyte?
+
+
+
+
+Miksi lomakkeen täyttäjän mielestä päädyttiin väärään negatiiviseen tulkitaan:
+
+
+
+
+Lomakkeen täyttävän rintaradiologin nimi
+
+
+
+Kaksoisluettu
+
+
+
+
+40                        RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+17.2 LAADUNVALVONTALIITE (LIITE II)
+
+Hyvinvointialueen seulonnan vastuuhenkilölle on           HDE-mittaristoa. Arvioinnin tekee pääsääntöisesti rönt-
+toimitettava itsearviointitulokset ja seulontayksikön     genhoitaja itse tai mahdollisesti vastuuhoitajan kanssa
+laadunvalvontaan tarvittavat tiedot vuosittain.           puolivuosittain ja vähintään joka toinen vuosi myös
+                                                          vastuuradiologi arvioi kuvat.
+Seulontayksikössä järjestetään yksikön vastuu-
+röntgenhoitajan ja vastuuradiologin johdolla itsearvi-    Seulontayksikössä järjestetään yksikön vastuuröntgen-
+ointitilaisuus vähintään vuosittain, jossa käydään läpi   hoitajan ja vastuuradiologin johdolla itsearviointitilai-
+itsearvioinnin tuloksia ja tietoon saatuja välisyöpiä.    suus vähintään vuosittain, jossa käydään läpi itsearvi-
+                                                          oinnin tuloksia ja tietoon saatuja välisyöpiä.
+17.2.1 Röntgenhoitajan itsearviointi
+Röntgenhoitajan itsearvioinnissa arvioidaan vuosittain    Itsearvioinnin tavoitteena on saada röntgenhoitajat
+röntgenhoitajan ottamista kuvista satunnaisesti valitut   ymmärtämään omien kuviensa mahdolliset laatupoik-
+vähintään 10 asiakkaan kuvat, yhteensä 20.                keamat ja näin parantaa mammografiakuvien laatua.
+                                                          (Mammografian kuvausopas 2026. Suomen Röntgen-
+Mammografiakuvien arvioinnissa käytetään MIMO- tai        hoitajat ry)
+
+
+                                        ETUKUVAT (CC)                    VIISTOKUVAT (MLO)
+ LUOKITTELU                       SUOSITUS          TAVOITE       SUOSITUS          TAVOITE
+ Hyviä kuvia                     70 %             75 %           50 %             60 %
+
+ Diagnostisia kuvia              30 %             25 %           50 %             40 %
+
+ Ei-diagnostisia kuvia           0%               0%             0%               0%
+
+ Teknisiä uusintakuvauksia       ≤3%              ≤2%            ≤3%              ≤2%
+
+
+
+
+41                       RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+17.2.2 Radiologin itsearviointiin tarvittavat tiedot
+
+ TERMI                       MÄÄRITELMÄ                          LYHENNE    SUOSITUS           TAVOITE
+ Radiologin luennat          Radiologin lukemien                 RL         1.Seuloja ≥ 2000   1.Seuloja ≥ 3500
+                             seulontojen yhteismäärä                        2.Seuloja          2.Seuloja ≥ 3500
+                                                                            6 kk koulutus
+
+ Radiologin                  Radiologi on lähettänyt             RP         < 15 %             kokeneella vähemmän,
+ positiivinen tulos          yhteisluentaan                                                    aloittelijalla enemmän,
+                                                                                               yhteisluennasta jatkoon
+                                                                                               < 3 %, ks. seulonnan
+                                                                                               tavoitteet
+
+ Radiologin                  Radiologi todennut hyvän-           RN         ≥ 85 %             90–95 %, jottei yhteis-
+ negatiivinen tulos          laatuiseksi ilman yhteis-                                         luentaan kuluisi
+                             luentaan (eli RL-RP)                                              liikaa aikaa
+
+ Radiologin oikea            Seulonnan jatkotutki-               ROP                           100 %
+ positiivinen tulos          muksissa pahanlaatuiseksi
+                             todetut RP:sta
+
+ Oikea positiivinen tulos    RL:stä kaikki jatkotutkimuksissa    OP
+                             löydetyt pahanlaatuiset
+
+ Oikea negatiivinen tulos    RL:stä kaikki, joista ei löytynyt   ON
+                             pahanlaatuista, ON = RL-OP
+
+ Radiologin sensitiivisyys   herkkyys; radiologin havait-        ROP / OP   ≥ 85 %
+                             semien oikeiden positiivisten
+                             tulosten osuus kaikista
+                             oikeista positiivisista eli
+                             todennäköisyys, jolla sairas
+                             todetaan sairaaksi
+
+ Radiologin spesifisyys      luennan tarkkuus; luennassa         RN / ON    ≥ 85 %
+                             oikeiksi negatiivisiksi
+                             tulkittujen osuus kaikista
+                             terveistä tutkittavista eli
+                             todennäköisyys, jolla
+                             terve todetaan terveeksi
+
+
+
+
+42                        RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+17.2.3 Seulontayksikön laadunvalvontaan                      De Wolf C, et al. European guidelines for quality
+tarvittavat tiedot                                           assurance in breast cancer screening and diagnosis.
+Seulonnan toteuttaminen suositus- ja/tai tavoite-            4th ed. 2006).
+tason mukaisesti kuvaa laadukasta ja vaikuttavaa seu-
+lontaa. Tällöin myös seulonnan haitat on tasapainos-         Nämä indikaattorit on laskettava vuosittain ja niiden
+sa suhteessa hyötyihin. Indikaattoreiden tulisi täyttää      ajallisia muutoksia tarkasteltava. Koko maan tulosten
+eurooppalaiset laatukriteerit (Perry N, Broeders M,          lisäksi on raportoitava myös alueelliset luvut.
+
+
+
+
+ LAATUINDIKAATTORI                    MÄÄRITELMÄ                           SUOSITUSTASO             TAVOITETASO
+ Kutsujen kattavuus                   seulontaan kutsutut/                                          100 %
+                                      seulonnan kohdeväestö
+
+ Osallistumisaktiivisuus              seulontaan osallistuneet             > 70 %                   > 75 %
+                                      (=kuvatut ja luetut)/
+                                      seulontaan kutsutut
+
+ Jatkotutkimuksiin                    positiivinen seulontatulos/          <7%                      <5%
+ lähetettyjen osuus                   seulontaan osallistuneet             <5%                      < 3%
+                                         -ensimmäinen kierros
+                                         -muut kierrokset
+
+ Erikoissairaanhoidon
+ jatkotutkimukset *
+
+ Pahanlaatuisten                      Rinnan pahanlaatuiset
+ kasvainten osuus                     kasvaimet/Kirurgiassa käyneet
+
+ DCIS kasvainten osuus kaikista       Rinnan DCIS kasvaimet/rinnan         10 %                     > 15 %
+ pahanlaatuisista kasvaimista         pahanlaatuiset kasvaimet
+
+ HYVINVOINTIALUEEN OMAAN
+ LAADUN ARVIOINTIIN LISÄKSI
+
+ Seulontayksikön                      Seulontayksikön sensitiivisyyttä
+ sensitiivisyys                       voidaan karkeasti arvioida vertaa-
+                                      malla pahanlaatuisten löydösten
+                                      osuutta seulontaan osallistu-
+                                      neista koko maan tulokseen
+
+ Seulonnassa löydettyjen pienten      10 mm tai pienempien                 Ensimmäisellä            Ensimmäisellä
+ syöpien osuus                        invasiivisten syöpien osuus          kierroksella 20 %        kierroksella ≥ 25 %
+                                                                           Jatkokierroksilla 25 %   Jatkokierroksilla ≥ 30 %
+
+
+*Erikoissairaanhoitoon lähetettyjen osuutta nostaa, jos osa tutkimuksista kuten stereotaksia-/
+tomosynteesiohjatut näytteenotot tehdään erikoissairaanhoidossa
+
+
+
+
+43                      RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+17.2.4 Välisyöpien arviointi                               piirteitä käyttää hyväksi itsearvioinnissa ja tehostetta-
+Eurooppalaisen seulonnan laatusuosituksen mukaan           essa seulontaradiologien koulutusta.
+välisyöpien määrä tulee pyrkiä pitämään mahdolli-
+simman pienenä. Seulontaradiologien tulee tarkas-          17.2.5 Patologia
+tella jokaista välisyöpää ja naisen edelliset seulonta-    Seulonnasta löytyneiden sairaalahoitoa vaativien
+kuvat on syytä uudelleen lukea liittyen radiologien        tapausten histopatologisten näytteiden osoittautuessa
+itsearviointiin ja jatkokoulutukseen. (Perry N,            ristiriitaisiksi lopullisen diagnoosin kanssa on
+Broeders M, De Wolf C, et al. European guidelines          syytä kehittää palautejärjestelmä patologien
+for quality assurance in breast cancer screening and       kesken, esimerkiksi käsittelemällä tapaukset kaksi
+diagnosis. 4th ed. 2006)                                   kertaa vuodessa järjestettävissä yhteispalavereissa.
+                                                           Tapausten tallentaminen tehdään hyvinvointialueen
+Kun hoitavat lääkärit toteavat rintasyövän välisyö-        oman käytännön mukaan koulutus- ja laadun-
+väksi, siitä ilmoitetaan hyvinvointialueen seulonnan       valvontatarkoituksiin.
+vastuuhenkilölle, joka analysoi löydöksen verrattuna
+edellisiin seulontakuviin ja rekisteröi tiedot HV:lla      17.2.6 Seulontaan osallistuvien asiakas-
+sovitulla tavalla ja käy tiedot läpi säännöllisesti seu-   kokemus seulonnasta
+lontaradiologien kanssa. Mallikaavake (Liite I).           Seulontayksikköä suositellaan seuraamaan seulon-
+                                                           taan osallistuvien kokemusta seulontakuvauksesta
+Seulonnan kutsuun olisi kirjattava tieto laadun val-       Net Promoter Score (NPS) -kyselyllä. Se on kansain-
+vonnasta myös seulontakierrosten välissä löytyvien         välinen asiakaskokemukseen sisältyvän suositteluha-
+syöpien osalta.                                            lukkuuden mittari, jonka avulla saadaan asiakkaan
+                                                           näkökulma kysymykseen. Kuinka todennäköisesti
+Välisyöpien osuutta ikäryhmän syövistä tulee tarkkailla    suosittelisit seulontayksikön palvelua läheisillesi?
+ja mahdolliseen osuuden nousuun tulee reagoida.            Asiakas arvioi suositteluhalukkuutensa asteikolla
+                                                           0–10. Samalla hän voi täydentää arvioitaan sanalli-
+Seulonnassa löytyvien syöpien ja välisyöpien radio-        sesti vastaamalla kysymykseen ”Mikä vaikutti koke-
+logisia piirteitä tulee (Liite I) vertailla ja varsinkin   mukseesi?”.
+väärien negatiivisten seulontatulosten radiologisia
+
+
+
+
+44                        RINTASYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+

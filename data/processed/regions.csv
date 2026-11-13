@@ -1,0 +1,24 @@
+area_code,area_name_en,area_name_fi,screening_mainland_coverage,source_url,geography_reference
+HVA01,East Uusimaa,Itä-Uudenmaan hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA02,Central Uusimaa,Keski-Uudenmaan hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA03,West Uusimaa,Länsi-Uudenmaan hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA04,Vantaa and Kerava,Vantaan ja Keravan hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA05,Southwest Finland,Varsinais-Suomen hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA06,Satakunta,Satakunnan hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA07,Kanta-Häme,Kanta-Hämeen hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA08,Pirkanmaa,Pirkanmaan hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA09,Päijät-Häme,Päijät-Hämeen hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA10,Kymenlaakso,Kymenlaakson hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA11,South Karelia,Etelä-Karjalan hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA12,South Savo,Etelä-Savon hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA13,North Savo,Pohjois-Savon hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA14,North Karelia,Pohjois-Karjalan hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA15,Central Finland,Keski-Suomen hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA16,South Ostrobothnia,Etelä-Pohjanmaan hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA17,Ostrobothnia,Pohjanmaan hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA18,Central Ostrobothnia,Keski-Pohjanmaan hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA19,North Ostrobothnia,Pohjois-Pohjanmaan hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA20,Kainuu,Kainuun hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA21,Lapland,Lapin hyvinvointialue,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA90,City of Helsinki,Helsingin kaupunki,True,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01
+HVA91,Åland,Ahvenanmaa,False,https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/ksyyt/13u5.px,2026-01-01

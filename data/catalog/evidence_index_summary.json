@@ -1,0 +1,7 @@
+{
+  "documents": 45,
+  "chunks": 1992,
+  "chunk_char_limit": 1800,
+  "overlap_chars": 150,
+  "note": "Retrieval corpus only. Contains contextual prose and source numbers; curated CSVs remain the analysis layer."
+}

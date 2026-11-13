@@ -1,0 +1,492 @@
+Standardiserat vårdförlopp tjock- och ändtarmscancer
+Till sidinnehåll
+Till cancercentrum.se
+Sök i hela kunskapsbanken
+Sökordsförslag
+Kunskapsbanken
+Kunskapsbanken
+Vårdprogram
+Vårdförlopp
+Stöddokument
+Regimbiblioteket
+Basfakta om läkemedel
+Läkemedelsregimer – Vuxen
+Barn
+Läkemedelsregimer – Barn
+Patientinformation – Barn
+Patientinformation
+Patient i cancervården
+Cancerformer
+Sök
+Vårdprogram
+Vårdförlopp
+Stöddokument
+Regimbiblioteket
+Basfakta om läkemedel
+Läkemedelsregimer – Vuxen
+Barn
+Läkemedelsregimer – Barn
+Patientinformation – Barn
+Patientinformation
+Patient i cancervården
+Cancerformer
+Mitt konto
+Uppdateringar
+Cancerstudier
+Om databasen
+Patientmedverkan
+Registera cancerstudie
+Registrera ny användare
+Uppdatera befintligt konto
+Användaradministration
+Om Kunskapsbanken
+Om vårdprogram
+Om vårdförlopp
+Integritetspolicy
+Kontakt
+Version 4.3, 2026-05-04
+Kortversion för primärvården
+Ladda ner PDF
+Till vårdprogram
+Till regimer
+Standardiserat vårdförlopp tjock- och ändtarmscancer
+Stäng
+Introduktion
+Expandera
+Förändringar jämfört med tidigare version
+Ingång till standardiserat vårdförlopp
+Expandera
+Misstanke
+Välgrundad misstanke – kriterier för start av utredning enligt standardiserat vårdförlopp
+Remiss till utredning vid välgrundad misstanke
+Hantering av återfall (recidiv) eller ny primärtumör
+Utredning och beslut om behandling
+Expandera
+Flödesschema för vårdförloppet
+Utredningsförlopp
+Beslut om behandling
+Uppföljning av standardiserat vårdförlopp
+Expandera
+Ledtider för nationell uppföljning
+Beräkning av ledtider
+Övrig uppföljning
+Arbetsgruppens sammansättning
+Bilaga 1 Kodningsvägledning
+Kapitel
+Standardiserat vårdförlopp tjock- och ändtarmscancer
+Spara
+Introduktion
+Spara
+Det standardiserade vårdförloppet gäller koloncancer, C18.0-C18.9 med PAD 096, 996 samt rektalcancer, C20.9 med PAD 096, 996. Observera att kod C19 inte ska användas.
+Syftet med standardiserade vårdförlopp (SVF) är att alla som utreds för cancermisstanke ska uppleva en välorganiserad, helhetsorienterad professionell vård utan onödig väntetid oavsett var i landet patienten söker vård. Det innebär att samtliga steg i processen och samtliga ledtider är beräknade utifrån hur många dagar som krävs för att genomföra ingående utredningar fram till start av behandling, utan hänsyn till nuvarande organisation och arbetssätt. Respektive region ansvarar för att organisation och resurser möjliggör genomförandet. Vårdförloppet bygger på det nationella vårdprogrammet för diagnosen och de nationella vårdprogrammen för cancerrehabilitering och palliativ vård samt i relevanta fall bäckencancerrehabilitering. Se även vårdprogram för ohälsosamma levnadsvanor. Vårdprogramgruppen ansvarar för att se över vårdprogrammet och vårdförloppet årligen.
+Vid misstanke om malignitet hos barn och ungdomar under 18 år ska inte ett SVF startas. I dessa fall ska närmaste barnklinik och/eller barnonkologiska klinik kontaktas redan samma dag för skyndsam vidare utredning.
+Expandera
+Spara
+Förändringar jämfört med tidigare version
+2026-05-04
+Uppföljning av standardiserat vårdförlopp, avsnittet Ledtider för nationell uppföljning: fotnoten om kodning av palliativ behandling är korrigerad.
+2024-11-05
+Strukturella ändringar, samma för alla vårdförlopp:
+Förenklade texter: Kapitlet Generellt om standardiserade vårdförlopp är borttagen. Generiska texter nedkortade och kontaktsjuksköterska har lyfts in i utredningsblocken med länk till nationell uppdragsbeskrivning.
+Avsnitt om t.ex. MDK, klassifikation och kvalitetsindikatorer är borttagna för att undvika upprepning av information som finns i vårdprogrammen.
+Diagnosspecifik remissinformation: Generiskt remissinnehåll borttaget för att fokusera på det som är diagnosspecifikt.
+2023-08-10
+Tillägg av koder i flödesschemat.
+2022-04-26
+Om tjock- och ändtarmscancer:
+Förtydligande av att kod C19 inte ska användas.
+Uppdaterad statistik.
+Misstanke
+Åldersgränsen för ändrade avföringsvanor ändrad från 50 till 40 år.
+Rektoskopi vid misstanke har ändrats till i första hand rektoskopi, i undantagsfall accepteras proktoskopi. (även under Välgrundad misstanke).
+Nytt: Vid ändring av annars stabila avföringsvanor ska FHb tas.
+Nytt: Positivt FHb som isolerat fynd ska utredas enligt rutin och inte enligt SVF (detta stod tidigare under Välgrundad misstanke).
+Följande text är struken: Ändrade avföringsvanor som ensamt symtom bör utredas enligt ordinarie rutiner. Observera dock att ändrade avföringsvanor i kombination med anemi eller blod i avföringen ger stark misstanke om tjock- och ändtarmscancer och ska utredas enligt standardiserat vårdförlopp.
+I remissen ska anges ev. kommentarer om patientens förutsättningar att genomgå koloskopi, t.ex. behov av inneliggande laxering (tidigare endast ”ev. behov av inneliggande laxering inför koloskopi”)
+Välgrundad misstanke:
+Nytt kriterium för välgrundad misstanke: Ändrade avföringsvanor i mer än 4 veckor hos patienter över 40 år i kombination med positivt FHb.
+Blödningsanemi ändrat till järnbristanemi för bättre samstämmighet med andra SVF
+Nytt: Positivt fekalt Hb funnet inom organiserat screeningprogram utreds enligt screeningprogrammets rutiner.
+Följande text är struken: Fekalt Hb har lågt prediktivt värde för kolorektalcancer och ska utredas enligt rutin. Positivt fekalt Hb funnet inom screeningprogram, hos en symtomfri individ, ska utredas enligt rutin men inte enligt standardiserat vårdförlopp.
+Följande text är struken: Ändrade avföringsvanor i kombination med anemi eller blod i avföringen ger stark misstanke om tjock- och ändtarmscancer och ska utredas enligt standardiserat vårdförlopp.
+Utredningsförlopp:
+Nytt: Text om prehabilitering i samband med behandlingsbeslut för patienter utan fjärrmetastaser.
+Ledtider:
+Ledtiden från Beslut välgrundad misstanke till start av första behandling kirurgi, strålbehandling, läkemedelsbehandling eller stent eller stomiuppläggning (behandling, annan) förlängd från 39 till 46 dagar (från 53 till 60 dagar för utökad utredning). Syftet är att möjliggöra prehabilitering.
+I tabellen med ingående ledtider tydliggörs att det är tiden från behandlingsbeslut till start av första behandling som är förlängd, från 14 till 21 dagar.
+Flödesschemat är uppdaterat med ovanstående ändringar. Standardtexter är uppdaterade enligt senaste mall.
+Arbetsgruppen är uppdaterad.
+Expandera
+Spara
+Ingång till standardiserat vårdförlopp
+Spara
+Misstanke
+Följande ska föranleda misstanke, enskilt eller tillsammans:
+blod i avföringen
+anemi
+ändring av annars stabila avföringsvanor i > 4 veckor utan annan förklaring hos patienter över 40 år.
+Där misstanken har väckts ska följande utföras inom 10 kalenderdagar:
+anamnes inklusive IBD och ärftlighet
+rektalpalpation
+i första hand rektoskopi och i andra hand proktoskopi
+vid anemi: anemiutredning
+vid ändring av annars stabila avföringsvanor: FHb
+Om undersökningarna visar annan blödningskälla ska denna behandlas med uppföljning efter 4 veckor.
+Positivt FHb som isolerat fynd ska utredas enligt rutin och inte enligt SVF.
+Individer med riskfaktorer bör särskilt uppmärksammas avseende symtom som ger misstanke om tjock- och ändtarmscancer. Det finns också anledning att vara vaksam för kombinationer av symtom, se nationellt vårdprogram.
+Expandera
+Välgrundad misstanke – kriterier för start av utredning enligt standardiserat vårdförlopp
+Välgrundad misstanke föreligger vid ett eller flera av följande:
+synligt blod i avföringen där rektalpalpation och prokto-/rektoskopi inte visar annan uppenbar blödningskälla (eller där blödningen kvarstår efter 4 veckor trots adekvat behandling av annan blödningskälla)
+järnbristanemi utan annan uppenbar orsak
+ändrade avföringsvanor i mer än 4 veckor hos patienter över 40 år i kombination med positivt FHb
+fynd vid prokto-/rektoskopi eller rektalpalpation som inger misstanke om kolorektalcancer
+fynd vid bild- eller vävnadsdiagnostik eller koloskopi som inger misstanke om kolorektalcancer
+Observera att blodförtunnande medicinering inte minskar sannolikheten för att individer med blod i avföringen eller anemi har en bakomliggande kolorektalcancer.
+Positivt fekalt Hb funnet inom organiserat screeningprogram utreds enligt screeningprogrammets rutiner.
+Expandera
+Remiss till utredning vid välgrundad misstanke
+Innan SVF-remiss skickas, beakta att patienten önskar, har nytta av och klarar av utredningen. Beslutet ska fattas i samråd med patienten och eventuellt närstående om patienten önskar det.
+Remiss vid välgrundad misstanke om tjock- och ändtarmscancer ska innehålla kommentarer om patientens förutsättningar att genomgå koloskopi, t.ex. behov av inneliggande laxering.
+Remissen ska även innehålla kontaktuppgifter (telefonnummer) till patienten och inremitterande för att möjliggöra snabb kontakt.
+Den som remitterar till utredning ska informera patienten om att det finns anledning att göra fler undersökningar för att ta reda på om patienten har eller inte har cancer och att utredningen sker enligt standardiserat vårdförlopp.
+Expandera
+Hantering av återfall (recidiv) eller ny primärtumör
+Patienter som behandlats för tjock- eller ändtarmscancer och får återfall (recidiv) under pågående uppföljning ska utredas utanför SVF. Däremot ska ett nytt SVF startas för de patienter som får ny primärtumör under pågående uppföljning eller insjuknar igen efter att ha avslutat uppföljningskontroller enligt nationellt vårdprogram.
+Expandera
+Spara
+Utredning och beslut om behandling
+Spara
+Flödesschema för vårdförloppet
+Expandera
+Utredningsförlopp
+Patienter där screening visat kolorektalcancer ska omedelbart bokas för block B, C och D.
+Patienter bör erbjudas plats i kliniska studier när sådana finns, även om det påverkar utredningen eller ledtiderna.
+Utredningen ska planeras i samråd med patienten och närstående om patienten önskar det. Uppmärksamma särskilt om patienten har minderåriga barn. Alla patienter i reproduktiv ålder ska få information om hur behandlingen kommer att påverka fertiliteten, och vid behov erbjudas kontakt med en fertilitetsenhet för rådgivning och eventuell behandling.
+SVF kan avslutas om patienten inte önskar, har nytta av eller klarar av utredning eller potentiell behandling.
+Block A
+Block B
+Koloskopi med biopsi av ev. tumör (krävs ej vid redan utförd DT kolon som otvetydigt visar cancer)
+Vid rektalcancer: Rektoskopi med värdering av tumör (lokalisation, nivå och fixering)
+Vid inkonklusiv koloskopi kan DT kolon utföras
+Patienten tilldelas
+kontaktsjuksköterska
+Strukturerad bedömning av rehabiliteringsbehov inklusive levnadsvanor enl. vårdprogram
+DT thorax buk (med iv-kontrast)
+Vid rektalcancer: Även MRT bäcken plus eventuellt transrektalt ultraljud vid tidig tumör
+Block C
+Block D
+Anamnes och klinisk undersökning, inkl. värdering av allmäntillstånd och samsjuklighet
+MDK
+Resultat av block A
+Åtgärd
+Makroskopisk misstanke om cancer
+Omedelbart besked om resultat av utredningen. Kontaktsjuksköterska utses.
+Block B, C och D utförs utan att PAD inväntas.
+Ingen makroskopisk misstanke om cancer men PAD visar adenocarcinom
+Besked om resultat av utredningen. Kontakt­sjuksköterska utses. Patienten kontaktas.
+Block B, C och D utförs.
+Misstanke om diagnos som inte omfattas av det standardiserade vårdförloppet, eller ingen diagnos
+Besked om resultat av utredningen. Kan utföras av inremitterande. Patienten remitteras ev. till relevant enhet för utredning. Därefter avslutas det standardiserade vårdförloppet.
+Resultat av block B–D
+Åtgärd
+Ej fjärrmetastaser
+Behandlingsbeslut utan ytterligare tumörutredning.
+Prehabilitering/optimering av patienten (fysisk förmåga, nutrition, psykosociala aspekter, levnadsvanor).
+Fjärrmetastaser där kurativ behandling inte är aktuell
+Behandlingsbeslut utan ytterligare tumörutredning.
+Utredningen visar att polypektomin är en tillräcklig åtgärd.
+Besked om utredningsresultat till patienten. Därefter avslutas vårdförloppet med kod Ingen ytterligare åtgärd.*
+Fjärrmetastaser eller lokalt avancerad sjukdom där kurativ behandling kan vara aktuell
+Utökad, individualiserad tumörutredning enligt nationellt vårdprogram följt av ny MDK.
+* Höggradig dysplasi ska avslutas med kod VB278 – Misstanke om cancer avskrivs.
+Expandera
+Beslut om behandling
+Beslut om behandling ska fattas av den behandlande läkaren i samråd med patienten, och tillsammans med de närstående om patienten önskar det.
+Expandera
+Spara
+Uppföljning av standardiserat vårdförlopp
+Spara
+Ledtider för nationell uppföljning
+Följande ledtider används för nationell uppföljning av de standardiserade vårdförloppen (SVF) med målet att 80 % av de patienter som utreds i ett SVF ska utredas inom ledtiderna.
+Basutredning
+Från
+(start av SVF)
+Till
+(avslut av SVF)
+Tid
+Beslut välgrundad misstanke
+Start av första behandling, kirurgi, strålbehandling, läkemedelsbehandling eller stent eller stomiuppläggning (behandling, annan)
+46 kalenderdagar
+Beslut välgrundad misstanke
+Behandlingsbeslut, palliativ behandling (”start av första behandling”)*
+25 kalenderdagar
+Beslut välgrundad misstanke
+”Behandlingsbeslut” om att polypektomin var tillräcklig som behandling.
+Kodas som Ingen ytterligare åtgärd.
+25 kalenderdagar
+Utökad utredning
+Från
+(start av SVF)
+Till
+(avslut av SVF)
+Tid
+Beslut välgrundad misstanke
+Start av första behandling, kirurgi, strålbehandling, läkemedelsbehandling eller stent eller stomiuppläggning (behandling, annan)
+60 kalenderdagar
+Beslut välgrundad misstanke
+Behandlingsbeslut, palliativ behandling (”start av första behandling”)*
+39 kalenderdagar
+* När beslut tas om att ge palliativ behandling avslutas det standardiserade vårdförloppet med koden Start av första behandling, palliativ. Behandlingsbeslutet tillsammans med patienten ska anges som mätpunkt. De symtomlindrande insatserna bör dock inledas redan under utredningen.
+När en patient ingår i kliniska studier kan ledtiderna påverkas. Se
+kodningsvägledningen
+för riktlinjer om hur detta ska rapporteras.
+Expandera
+Beräkning av ledtider
+Rekommenderade ledtider före start av SVF.
+Från
+Till
+Tid
+Misstanke – beslut om utredning för att bekräfta eller utesluta välgrundad misstanke
+Beslut välgrundad misstanke eller ej
+10 kalenderdagar
+Rekommenderade ledtider för de delar av utredningen som ingår i SVF.
+Från
+Till
+Tid
+Beslut välgrundad misstanke
+Välgrundad misstanke – remiss mottagen
+1 kalenderdag
+Välgrundad misstanke – remiss mottagen
+Första besök i specialiserad vård
+(block A – koloskopi)
+10 kalenderdagar
+Block A, basutredning
+Behandlingsbeslut
+14 kalenderdagar*
+Block A, utökad utredning
+Behandlingsbeslut
+28 kalenderdagar*
+Behandlingsbeslut
+Start av första behandling
+21 kalenderdagar
+* Tiden från block A till behandlingsbeslutet förutsätter att övriga block utförs utan att PAD-svaret från koloskopin inväntas. Det innebär att tiden kan bli längre när PAD-svaret visar cancer som överraskningsfynd.
+Expandera
+Övrig uppföljning
+Utöver ledtider följs även inklusion i SVF med målet att 70 % av nya cancerfall inom aktuella diagnoser ska utredas i ett standardiserat vårdförlopp. Patienternas upplevelse följs genom PREM-enkäter. Vårdens kvalitet följs via kvalitetsregister för respektive diagnos.
+Statistik redovisas på
+cancercentrum.se
+.
+Expandera
+Spara
+Arbetsgruppens sammansättning
+Spara
+Vårdprogramgruppen ansvarar för att uppdatera det standardiserade vårdförloppet. Se lista med gruppens medlemmar i
+nationellt vårdprogram för tjock- och ändtarmscancer
+.
+I samband med revisionen hösten 2021 utökades arbetsgruppen med primärvårds- och endoskopikompetens. Följande personer deltog i arbetet:
+Andreas Söderström, överläkare, kirurgkliniken, Sunderby sjukhus, Sunderbyn
+Annika Sjövall, docent, överläkare, kolorektalsektionen, Karolinska universitetssjukhuset, Stockholm
+Birger Pålsson, docent, överläkare, kirurgkliniken och FoUU, Kronoberg, Lund och Växjö
+Björn Strandell, distriktsläkare, Skebäcks vårdcentral, Örebro, medicinsk rådgivare, Hälsovalsenheten Region Örebro län
+Bärbel Jung, med. dr., överläkare kirurgkliniken, Universitetssjukhuset Linköping
+Dan Asplund, med. dr., överläkare, kirurgkliniken Sahlgrenska universitetssjukhuset/östra, Göteborg
+Dirk Vleugels, specialist i allmänmedicin, chefläkare Närhälsan, Skövde
+Erik Alestig, med. dr., vårdenhetsöverläkare, gastroenterologi, Sahlgrenska universitetssjukhuset, Mölndal
+Kjell Blomqvist, specialist i allmänmedicin, Åby vårdcentral, Åby
+Lennart Blomqvist, professor, radiolog, Karolinska universitetssjukhuset, Stockholm
+Mark Albeek, specialist i allmänmedicin, Liljeholmens vårdcentral, Stockholm
+Mattias Prytz, med. dr, överläkare, kirurgkliniken, NU-sjukvården, Trollhättan
+Rares Sculeanu, specialist i allmänmedicin, Laponia hälsocentral, Gällivare
+Richard Palmqvist, professor, patolog, Norrlands universitetssjukhus, Umeå
+Rikard Svernlöv, överläkare, mag-tarmmedicinska kliniken, Universitetssjukhuset i Linköping
+Stefan Willmarsson, överläkare, kirurgkliniken, Centralsjukhuset, Karlstad
+Ulf Gustafsson, docent, överläkare, kirurgkliniken, Danderyds sjukhus, Stockholm
+Vuokko Elner, patientrepresentant, ILCO Tarm- uro och stomiförbundet
+Ylva Falkén, med. dr., överläkare, kirurgkliniken, Danderyds sjukhus, Stockholm
+Åsa Collin, läkare, kirurgkliniken, Akademiska sjukhuset, Uppsala
+Expandera
+Spara
+Spara
+Bilaga 1 Kodningsvägledning
+Spara
+Senast uppdaterad: 2024-11-05
+En diagnosövergripande kodningsvägledning finns på sidan
+Mätning och kodning, cancercentrum.se
+.
+Obligatorisk kod: Start av SVF
+VB210 – Beslut välgrundad misstanke
+Datum då
+beslut
+fattas om att välgrundad misstanke föreligger, i enlighet med kriterierna i
+vårdförloppsbeskrivningen
+. Observera att SVF inte ska startas när en patient kommer in med buksymtom och opereras akut på misstanke om tjock- och ändtarmscancer. Detta gäller även om cancermisstanken bekräftas vid operationen
+Hantering av recidiv (återfall) eller ny primärtumör
+Patienter som får recidiv under pågående uppföljning ska inte inkluderas i SVF.  Däremot ska nytt SVF starta för patienter som får ny primärtumör under pågående uppföljning eller insjuknar igen efter att ha avslutat uppföljningskontroller enligt nationellt vårdprogram.
+Obligatorisk kod vid överflyttning mellan regioner
+VB291 – Patient mottagen från annan region
+Den region som avslutar SVF (vid start av behandling eller av annan orsak) ska rapportera hela vårdförloppet till den nationella väntetidsdatabasen, även när SVF har startats i en annan region.
+Regionen ska då rapportera
+datum för välgrundad misstanke (VB210)
+datum för remissmottagande (VB291) samt vilken region som remitterat patienten
+datum för avslut (VB250 till VB278)
+patientens folkbokföringslänskod.
+När en SVF-patient remitteras till en annan region är det därför viktigt att remissen innehåller information om datum för välgrundad misstanke.
+Remitterande region kan använda kod VB290 för intern uppföljning (frivillig kod).
+Obligatorisk kod vid utökad utredning
+Koderna används för att i ledtidsmätningen skilja på behandlingsstart efter basutredning respektive utökad utredning. Endast kod 44 är obligatorisk. Avsaknad av kod tolkas som basutredning.
+Utökad utredning i detta vårdförlopp innebär att patienten genomgår kompletterande diagnostik efter den första MDK. Utredningen är individualiserad men ska omfatta ny MDK.
+VB244 – Behandlingsbeslut efter utökad utredning
+Koden ska endast användas när patienten har genomgått utökad utredningen enligt ovan. Den ska
+inte
+användas för att utredningen tar längre tid p.g.a. samsjuklighet eller liknande.
+VB243 – Behandlingsbeslut efter basutredning
+är en frivillig kod som kan användas för att markera behandlingsbeslutet efter basutredningen, alltså när patienten inte genomgått den utökade utredningen.
+Frivillig kod under utredning
+VB222 – Kirurgisk åtgärd för diagnostik (datum för polypektomi)
+Koden är frivillig att använda och används aldrig för att avsluta vårdförloppet. Om utförd polypektomi visar sig vara tillräcklig behandling av en cancerpolyp avslutas vårdförloppet med kod VB273, se nedan. Observera att höggradig dysplasi inte ska avslutas med kod VB273 utan även fortsättningsvis med VB278 – Misstanke om cancer avskrivs.
+Obligatorisk kod för avslut
+Det är obligatoriskt att ange EN avslutskod, antingen för start av behandling eller för avslut av annan orsak.
+Koder när SVF avslutas vid start av behandling
+VB250 – Start av första behandling, kirurgi
+Datum för start av kirurgisk behandling med initialt kurativ intention. Koden används även som avslut om första behandling är RF-behandling (radiofrequency) av en levermetastas.
+VB252 – Start av första behandling, läkemedel
+Datum för start av cancerspecifik läkemedelsbehandling med initialt kurativ intention. Används även för kombinerad behandling (radiokemoterapi) som startar med läkemedelsbehandling.
+VB254 – Start av första behandling, strålning
+Datum för start av strålbehandling med initialt kurativ intention. Används även för kombinerad behandling (radiokemoterapi) som startar med strålbehandling.
+VB258 – Start av första behandling, palliativ
+Behandlingsbeslutet tillsammans med patienten ska anges som mätpunkt vid all palliativ behandling, både palliativ tumörspecifik behandling och palliativ symtomlindrande behandling. De symtomlindrande insatserna bör dock inledas redan under utredningen.
+VB259 – Start av första behandling, annan: Inläggning av stent eller stomi
+Datum för inläggning av stent eller stomi.
+VB273 – Ingen ytterligare åtgärd
+Datum för beslut om att utförd polypektomi var tillräcklig som behandling av en cancerpolyp. Detta beslut ska betraktas som start av behandling. Observera att höggradig dysplasi inte ska avslutas med denna kod utan med VB278 – Misstanke om cancer avskrivs.
+Koder när SVF avslutas av annan orsak
+VB270 – Kriterier för välgrundad misstanke ej uppfyllda
+Remissgranskning visar att patienten är anmäld till SVF på felaktig grund; ingen utredning startas.
+VB272 – Annan cancer – utredningen resulterar i annan cancerdiagnos
+Utredningen resulterar i att en annan cancerdiagnos ställs. Koden sätts vid datum för det avslutande samtalet. Annat SVF kan startas om sådant finns.
+VB274 – Andra medicinska skäl
+Efter läkarbedömning, när annan allvarlig sjukdom eller andra omständigheter behöver behandlas eller åtgärdas först och som
+avsevärt
+(> 3 veckor) förlänger ledtiden. Kan t.ex. användas
+vid annan samtidig cancer, stroke, akut hjärtinfarkt, svår demens, allvarligt missbruk eller liknande.
+när patienten inkluderas i klinisk studie om det förväntas förlänga ledtiden avsevärt (> 3 veckor).
+när patienten avlider innan start av behandling. Detta gäller oavsett var i vårdförloppet man är.
+VB276 – Patientens val
+Patienten tackar aktivt nej till erbjuden tid eller uteblir vid flera tillfällen vilket
+avsevärt
+(> 3 veckor) förlänger ledtiden. Används även om patienten tackar aktivt nej till att utredas eller behandlas enligt ett standardiserat vårdförlopp liksom om patienten väljer att behandlas utomlands. När en patient enbart begär ett senare datum för utredning eller behandling ska koden inte användas (eftersom det standardiserade vårdförloppet inte ska avslutas). Se i stället riktlinjer för avvikelseregistrering vid rapportering av standardiserat vårdförlopp. Du hittar dokumentet ”Riktlinjer för avvikelseregistrering vid rapportering av SVF” på cancercentrum.se, under rubriken ”Mer information” på
+sidan Mätning och kodning
+.
+VB278 – Misstanke om cancer avskrivs
+Utredningen resulterar i att en annan diagnos än cancer ställs, eller att ingen diagnos ställs och fortsatt handläggning sker utanför SVF. Gäller även vid höggradig dysplasi.
+Frivilliga koder för lokal uppföljning
+Koderna kan rapporteras till väntetidsdatabasen men följs inte på nationell nivå.
+VB215 – Välgrundad misstanke om cancer
+- remiss mottagen i specialiserad vård
+Datum då remiss tas emot.
+VB220 – Välgrundad misstanke om cancer
+- remiss bedömd av koordinator/läkare i specialiserad vård
+Datum då remiss är bedömd.
+VB225 – Första besök i specialiserad vård
+Datum för första besök för utredning eller bedömning.
+VB235 – Multidisciplinär konferens (MDK)
+Datum för multidisciplinär konferens.
+VB240 – Information om diagnos/utrednings­resultat
+Datum då patienten informeras om diagnos/utrednings­resultat.
+VB243 – Behandlingsbeslut efter basutredning
+Datum för behandlingsbeslut i samråd med patienten.
+VB290 – Patient överflyttad till annan region
+Datum då patienten remitterats till annan region. Koden ska
+inte
+rapporteras till den nationella väntetidsdatabasen (Signe) om patienten även rapporteras in med en avslutskod. Med avslutskod menas kod för start av behandling eller avslut av annan orsak.
+Förändringar i kodningsvägledningen
+2024-11-05
+VB274 Andra medicinska skäl: inklusion i klinisk studie tillagt som exempel på användning av koden. Samma för alla vårdförlopp.
+2023-12-14
+VB290 – Patient överflyttad till annan region: Ny förtydligande text, samma för alla vårdförlopp.
+2023-08-10
+VB222 – Kirurgisk åtgärd för diagnostik (datum för polypektomi): ny förtydligande text.
+Förtydligat benämningen av kod VB272 från ”Annan cancer – utredningen resulterar i cancerdiagnos” till ”Annan cancer – utredningen resulterar i
+annan
+cancerdiagnos”.
+Tillägg av kod VB290 – Patient överflyttad till annan region.
+Tillägg av koder i flödesschemat.
+2023-03-27
+Tillägg av ”eller ny primärtumör” i rubriken Hantering av recidiv (återfall) eller ny primärtumör och ny förtydligande text i avsnittet.
+Ändrat rubriken ”Kod under utredning” till ”Frivillig kod under utredning”.
+Ny förtydligande text för koderna
+VB210 – Beslut välgrundad misstanke
+VB222 – Kirurgisk åtgärd för diagnostik (datum för polypektomi)
+VB250 – Start av första behandling, kirurgi
+VB273 – Ingen ytterligare åtgärd
+VB272 – Annan cancer – utredningen resulterar i cancerdiagnos
+VB274 – Andra medicinska skäl
+VB276 – Patientens val
+VB278 – Misstanke om cancer avskrivs.
+Tillägg av inledande text i avsnittet Frivilliga koder för lokal uppföljning.
+Flödesschemat har uppdaterats med information om kod VB244.
+2022-
+01-14
+VB274 – Andra medicinska skäl: Ny förtydligande text, samma för alla vårdförlopp.
+VB291 – Patient mottagen från annat landsting/region: Ny förtydligande text, samma för alla vårdförlopp.
+2019-01-08
+Rättelse: Justering av den beskrivande texten till behandlingskoderna för kirurgi, läkemedel och strålbehandling. Dessa ska endast användas vid initialt kurativ intention.
+2018-12-17
+Obligatorisk kod vid utökad utredning: I beskrivningen av vad utökad utredning är har PET-DT strukits. Ändringen är också inlagd i flödesschemat.
+VB258 – Start av första behandling, palliativ: Den beskrivande texten är utbytt.
+VB222 – Kirurgisk åtgärd för diagnostik är tillagd.
+VB273 – Ingen ytterligare åtgärd är tillagd.
+Tidigare kommentar om borttagna koder är struken.
+2017-12-15
+Förtydligande av hur recidiv (återfall) ska hanteras. Förtydligande av att endast en avslutskod ska användas. Ny layout.
+2017-01-30
+Borttagen: Kod VB256 – Start av första behandling kombinerad. Använd i stället koden för strålning (VB254) eller läkemedel (VB252) beroende på vilken behandling som ges först. Koden kommer att utgå när Socialstyrelsen uppdaterar koderna.
+Expandera
+Spara
+Stäng
+För att kunna spara genvägen behöver du logga in!
+E-postadress
+Lösenord
+Logga in
+Glömt lösenordet?
+Skapa konto
+Till toppen
+Webbplatsen använder kakor
+Vi använder kakor för att ge dig en bättre upplevelse av vår webbplats. Genom att surfa vidare godkänner du att vi använder kakor.
+Nödvändiga cookies (obligatorisk)
+Gör att våra tjänster är säkra och fungerar som de ska. Därför går de inte att inaktivera.
+Funktionella cookies
+Hjälper oss att tillhandahålla förbättrad funktionalitet och anpassning.
+Statistik-cookies
+Ger oss information om hur vår webbplats används som gör att vi kan underhålla, driva och förbättra användarupplevelsen.
+Spara och godkänn
+Godkänn alla kakor
+Inställningar för kakor
+Om kakor på cancercentrum.se
+Kunskapsbank för cancervården
+I kunskapsbanken finns alla nationella vårdprogram, vägledningar och standardiserade vårdförlopp samt Nationella regimbiblioteket från Regionala cancercentrum (RCC).
+Till cancercentrum.se
+Kontakta RCC
+Postadress
+Sveriges Kommuner och Regioner,  118 82 Stockholm
+Besöksadress
+Hornsgatan 20, Stockholm
+Telefonnummer
+08-452 70 00
+E-postadress
+info@cancercentrum.se
+Regimbiblioteket
+E-postadress
+ulrika.landin@skane.se
+Genvägar
+Mitt konto
+Om Kunskapsbanken
+Tillgänglighetsredogörelse
+Kakor
+Kunskapsstöd inom övriga diagnoser
+vardpersonal.1177.se
+Till cancercentrum.se
+×
+Stäng
+Stäng

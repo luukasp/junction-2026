@@ -1,0 +1,3800 @@
+Cancer in Finland 2021
+Cancer in Finland 2021
+Karri Seppä, Tomas Tanskanen, Sanna Heikkinen, Nea Malila and Janne Pitkäniemi
+Finnish Cancer Registry
+1 June 2023
+1
+Foreword
+The Finnish Cancer Registry has completed the cancer statistics on the year 2021
+(
+cancerregistry.fi/statistics/cancer-statistics
+)
+. The objective of the statistics is to provide a comprehensive overview of Finland’s cancer burden. The report compiles statistical data on new cancer cases, the number of cancer deaths and patient survival, for instance. In addition, the report presents the number of people living with and after cancer, the years of life lost due to cancer as well as predictions of the cancer burden in 2040.
+All told, there were 36,543 new cancer cases and 13,355 cancer deaths recorded in 2021. The most common cancer types in women were breast cancer and colorectal cancer. In men, the most common cancer types were prostate cancer and colorectal cancer. In prostate cancer and breast cancer in women, the five-year survival was over 90%. In colorectal cancer, the five-year survival was around 70% The most common causes of cancer deaths in women were breast cancer and lung cancer. In men, lung cancer was the leading cause of cancer deaths, followed by prostate cancer.
+The previous statistical report looked at the impact of the Covid-19 pandemic on the cancer burden and estimated that 1,600 fewer cancer cases (4.3%) were diagnosed in 2020 than would have been expected without the pandemic. According to the new statistics, the shortfall in 2020 has not been reduced, but rather about 900 additional cancer cases accumulated in 2021. The shortfall in the number of new cancer cases and the factors affecting it are examined in chapter 3 of this report.
+For the first time, this report looks at the cancer burden in terms of years of life lost. The Finnish population was estimated to lose almost 200,000 years of life to cancer in a single year. Women lose the most years of life to breast cancer and men to lung cancer. A total of 18,000 years of life are lost due to breast cancer. 34,500 years of life are lost due to lung cancer, 21,000 of them in the male population.
+This report again does not include an analysis of short-term changes in the cancer burden, as the gap caused by the Covid-19 pandemic in the diagnosis of new cases undermines the reliability of the analyses. The cancer statistics in this report have been compiled in line with the clinical cancer classification system (ICD-10), going back as far as 1953, the year the Finnish Cancer Registry was founded. Due to changes in the classification of haematological cancers, the time series of these diseases is only comparable from 2007 onwards.
+The data sources of the Finnish Cancer Registry are healthcare providers and pathology laboratories. The coverage of data from pathology laboratories is high, but it is a challenge to obtain information on cancers for which there are no samples in the laboratories. We will work closely with healthcare units and developers of patient information systems to improve the data coverage. We have published the updated clinical notifications statistics for the third time on our website
+(
+syoparekisteri.fi/tilastot/kliinisten-ilmoitusten-tilasto
+)
+.
+The disclosure of cancer data on 2021 for research purposes began in April 2023. The Finnish Cancer Registry is a research institute under the Cancer Society of Finland that maintains the national registry of all diagnosed cancer cases and a registry on cervical, breast and colorectal cancer screening. The Finnish Institute for Health and Welfare is the controller of the cancer registry and as such has given the Cancer Society of Finland responsibility for the operation of the registries.
+We want to extend our sincerest thanks to all our partners for their good cooperation. Comprehensive and long time series represent a valuable national capital.
+Helsinki, 31 May 2023
+Janne Pitkäniemi, Professor
+Tomas Tanskanen, MD
+Karri Seppä, Docent
+Director
+Chief Medical Officer
+Research Manager
+tel. +358 50 372 3335
+tel. +358 50 320 8035
+tel. +358 50 441 8556
+2
+Cancer situation in 2021
+There were a total of 36 543 new cancer cases diagnosed in Finland in 2021. Of these, 17 440 were diagnosed in women and 19 103 in men. A total of 13 355 people died from cancer in 2021 (TABLE
+2.1
+). More than 315,000 Finns who had been diagnosed with cancer were alive at the end of 2021: 56% were women and 44% were men. The five-year relative survival rate of cancer patients monitored between 2019 and 2021 was 70%.
+TABLE 2.1:
+New cancer cases and cancer deaths in 2021, cancer prevalence and five-year relative survival ratio of patients in the Finnish population separately for women and men.
+Total population
+Female
+Male
+36 543
+new cases
+17 440
+new cases
+19 103
+new cases
+13 355
+cancer deaths
+6 090
+cancer deaths
+7 265
+cancer deaths
+315 230
+living patients
+176 686
+living patients
+138 544
+living patients
+70%
+five-year survival rate
+71%
+five-year survival rate
+69%
+five-year survival rate
+FIGURE 2.1: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2021.
+Figure (FIGURE
+2.1
+) shows the age-standardised cancer incidence and mortality and the relative survival rate of patients from 1953 to 2021. Cancer incidence increased in women by 0.7% on average per year between 1990 and 2006 and by 1.0% on average per year between 2007 and 2019 (TABLE
+15.5
+). In men, the previous increase (1.0% per year in 1990–2003, TABLE
+15.6
+) has levelled out (-0.2% per year in 2004–2019). The impact of the Covid-19 pandemic on cancer incidence is assessed in chapter 3. Cancer mortality decreased among women and men: on average by 0.5% per year (2006–2021) in women and by 1.1% per year in men (2008–2021, TABLE
+15.7
+and TABLE
+15.8
+). The relative survival rate has improved steadily in women, and the previous rapid improvement in the survival rate in men has slowed down since the early 2000s.
+FIGURE 2.2: Number and incidence of new cancer cases (per 100,000 person-years and age standardised to the 2014 Finnish population), stratified by cancer type in men (Figures A and B) and women (C and D) in 1953–2021. Other digestive organs include cancer of the oesophagus, small intestine, anus, liver, gallbladder and bile ducts, pancreas and other or unspecified digestive organs.
+Figure (FIGURE
+2.2
+) shows the annual number of new cancer cases and the age-standardised incidence of the most common types of cancer by gender. In the 1950s, around 2 000 new cases of stomach cancer were diagnosed annually in Finland, and it was the most common cancer among both men and women. Today, around 640 new cases of stomach cancer are diagnosed annually. The incidence of lung cancer has also decreased in men since the 1970s. The incidence of prostate cancer began to increase significantly in the 1990s. In women, the incidence of breast cancer has increased throughout the period considered.
+FIGURE 2.3: Number of new cancer deaths and mortality rate (per 100,000 person-years and age standardised to the 2014 Finnish population), stratified by cancer type, in men (Figures A and B) and women (C and D) in 1953–2021. Other digestive organs include cancer of the oesophagus, small intestine, anus, liver, gallbladder and bile ducts, pancreas and other or unspecified digestive organs.
+Figure (FIGURE
+2.3
+) shows the number of cancer deaths and the age-standardised mortality in men and women since 1953. The number of cancer deaths in women has grown relatively steadily throughout the period considered, while in men the strong increase declined in the 1980s and 1990s, but accelerated thereafter. The changes in prostate cancer mortality in men and breast cancer mortality in women have had a relatively small impact on the change in overall cancer mortality. This has been mostly influenced by a significant decrease in stomach cancer mortality in both men and women, and by a decrease in lung cancer mortality in men. In women, lung cancer mortality has increased, and lung cancer is now a major cause of cancer deaths.
+FIGURE 2.4: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population) in 1953–2021, and projected development until 2040 by sex. The incidence prediction has also been presented for 2021 and is based on the trend observed until 2019.
+The age-standardised incidence of cancer is predicted to increase moderately (FIGURE
+2.4
+). From 2021 to 2040, the average annual increase is projected to be 0.3% for women and 0.2% for men. The decline in mortality is projected to continue. On average, mortality in women is set to decrease by 0.5% per year and mortality in men by 0.6% per year.
+FIGURE 2.5: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population) in the population aged 25 and over by sex and level of education in 1986–2021.
+As a whole, the incidence of cancer and the mortality rate were highest among those with a basic education and lowest among those with a higher education (FIGURE
+2.5
+). The greatest differences were observed for lung cancer. However, the incidence of the most common cancer types among women and men, breast cancer and prostate cancer, was highest among people with a higher education. Overall, the greatest differences between educational levels were found in men’s cancer mortality, where the mortality rate among those with a basic education was higher than among those with a higher education for all cancers included in the examination. Similarly, the cancer mortality among highly educated women was generally slightly lower than among those with a basic level of education.
+3
+The Covid-19 pandemic and the cancer burden
+The Covid-19 pandemic started in Finland in early 2020, and the infections began to spread more widely in March. It was estimated that, because of the pandemic, there were 1,600 fewer cancer cases (4.3%) diagnosed in 2020 than would have been expected without the pandemic (see report: Cancer in Finland 2020).
+This report compares the number of cancer cases diagnosed in 2021 with the prediction. The shortfall in the number of cases diagnosed compared with the prediction has been divided into a shortfall caused by a typical delay in registration and a shortfall caused by other reasons (e.g., the Covid-19 pandemic). The number of cases in 2021 is expected to increase by around 1,000 cases over the next three years, that is, the shortfall due to the registration delay was 2.9% (TABLE
+3.1
+). The non-registration-related shortfall in the number of new cancers in 2021 was about 900 cases (2.6%), based on the previous cancer incidence. The shortfall due to reasons other than delays in cancer registration thus decreased significantly compared to the 2020 shortfall.
+The shortfall due to the registration delay was particularly high in the case of pancreatic cancer (16.9%) and lymphatic and haematopoietic cancers (8.4%). This is explained by the fact that data in the cancer registry are also supplemented based on of death certificate data, and the cause of death is often the first source of data for the registration of these cancers. However, for some people whose death certificate contains a cancer entry, it is possible to trace the year in which the cancer was diagnosed back to the calendar year preceding the year of death.
+The shortfalls due to reasons other than registration delays were greatest for melanoma of the skin and prostate cancer: 235 cases (11.6%) for melanoma of the skin and 415 cases for prostate cancer (7.3%). There were around 180 more cases of squamous cell carcinoma of the skin than expected based on the prediction. However, there is considerable uncertainty in predicting cancer incidence in both skin and prostate cancers, because changes in the use of early detection methods have a significant impact on cancer incidence and are difficult to predict. The prediction for melanoma of the skin assumed a continued long-term increase. If the increase in incidence were assumed to stop and remain at the average level of 2015–2019, the shortfall due to reasons other than registration delay would be only 32 cases (1.7%). The prostate cancer prediction assumed that the incidence would remain at the same average level as in 2015–2019. Assuming that the downward trend in incidence between 2005 and 2019 continues, the shortfall would be only 173 cases (3.2%).
+TABLE 3.1:
+Number of cases diagnosed in 2021 and prediction based on cancer incidence in preceding years, for all cancers combined and separately for the most common cancers. The shortfall in the number of cases diagnosed compared with the prediction has been divided into a shortfall caused by a typical delay in registration and a shortfall caused by the Covid-19 pandemic.
+Shortfall
+Cancer type
+Detected
+Prediction
+Registration
+Other
+All sites together
+1
+34 213
+36 187
+1 050
+( 2.9 %)
+924
+( 2.6 %)
+Prostate
+5 214
+5 648
+19
+( 0.3 %)
+415
+( 7.3 %)
+Breast (women)
+5 105
+5 313
+15
+( 0.3 %)
+192
+( 3.6 %)
+Colon and rectum
+3 825
+3 843
+52
+( 1.3 %)
+-34
+( -0.9 %)
+Lymphoid and haematopoietic tissue
+3 559
+3 771
+316
+( 8.4 %)
+-104
+( -2.8 %)
+Lung, trachea
+2 856
+3 126
+176
+( 5.6 %)
+94
+( 3.0 %)
+Skin, squamous cell carcinoma
+2 165
+1 977
+-3
+(-0.2 %)
+-184
+( -9.3 %)
+Melanoma of the skin
+1 779
+2 018
+4
+( 0.2 %)
+235
+( 11.6 %)
+Bladder and urinary tract
+1 397
+1 532
+16
+( 1.0 %)
+119
+( 7.8 %)
+Pancreas
+1 190
+1 482
+250
+(16.9 %)
+42
+( 2.8 %)
+Kidney
+1 036
+1 097
+31
+( 2.8 %)
+30
+( 2.7 %)
+1
+excluding skin cancers other than melanoma of the skin
+4
+Statistical methods
+4.1
+Definitions
+Incidence
+The number of new cancer cases in the population or part of it over a specific period of time (e.g. one calendar year). The incidence rate is the number of cases per 100,000 person-years.
+Mortality
+Number of deaths attributable to cancer in the population or part of it over a specific period of time. The mortality rate is the number of deaths per 100,000 person-years.
+Prevalence
+The number of people in the population or part of it who have been diagnosed with cancer and who are alive at a specific point in time. The prevalence proportion is the corresponding number in relation to the population.
+Age-standardised incidence, mortality and prevalence
+In this report, incidence, mortality and prevalence have been standardised to the age structure of the Finnish population in 2014 with a view to, for example, improving the comparability of calendar-year figures, taking into account changes in the age structure.
+Risk of cancer
+Estimate of the proportion of people in the population who will develop cancer.
+Risk of developing and dying from cancer
+Estimate of the proportion of people in the population who will develop and die from cancer.
+Relative survival rate
+Estimate of the proportion of patients who are alive after a certain period of time after diagnosis, if the cancer would be the only factor affecting the mortality. It is used as an indicator of cancer patient survival.
+Age-standardised relative survival rate
+In this report, an age-standardised relative survival rate for patients diagnosed in Finland during the most recent three-year period. It is aimed, for example, at improving the comparability of calendar-year figures, taking into account changes in the age structure.
+Cancer burden
+The harms caused by cancer in the population. The most commonly used indicators are incidence, cancer mortality and relative survival rate.
+The regional statistics are based on the persons’ municipality of residence in the year the cancer was diagnosed, except in the case of cancer mortality, where they are based on the municipality of residence in the year of death.
+In the statistics presented by educational level, the population was divided into three groups according to the highest degree obtained. The educational data are based on Statistics Finland’s Register of Completed Education and Degrees and the classification of educational levels. Persons at the basic educational level had not obtained a degree at a higher level than basic education, primary school (folk school), civic school or middle school. The upper secondary level of education included persons who had completed the matriculation examination or a vocational qualification (e.g. 1–3-year vocational qualifications and basic vocational qualifications as well as specialist vocational qualifications). The tertiary level of education included those who had completed lowest level tertiary education (e.g. technician engineer diploma, diploma in business and administration and diploma in nursing, which are not polytechnic degrees), lower-degree level tertiary education or higher-degree level tertiary education
+4.2
+New cancer cases – incidence
+The cancer statistics are based on reports on the number of new
+cancer cases diagnosed
+over a specific period of time. The period is often one year.
+Incidence
+refers to the number of new cancer cases diagnosed per 100,000 person-years. The number of person-years in the Finnish population, i.e. the time accumulated by the population at risk of cancer, broken down by statistical year, gender and age, is derived from the population data maintained by Statistics Finland. These data play a key role in the assessment of cancer burden indicators, as the age structure of the Finnish population has changed dramatically over the past decades (FIGURE
+4.1
+). As the population ages, the number of cancers increases, but this does not necessarily mean that the incidence of cancer increases by age group.
+FIGURE 4.1: Age structure of the Finnish population by sex in 1953 and 2021
+Age-standardised incidence
+describes the number of new cancer cases per 100,000 person-years if the age structure of the Finnish population corresponded to the standard population. There are two options for the standard population: ‘standard world population’ and ‘Finland 2014’. The standard world population is based on the global age structure in the 1950s. Selecting ‘Finland 2014’ standardises the figures to correspond to the age structure of the Finnish population in 2014. The purpose of age standardisation is to improve the comparability of figures between population groups with different age structures and between different periods of time. The ‘Finland 2014’ standard population is well suited for comparing, for example, calendar years and hospital districts, and the standard world population enables comparisons with other countries.
+4.3
+Cancer deaths – cancer mortality
+The number of deaths attributable to cancer
+is often reported for a single year or another chosen period of time.
+Cancer mortality
+refers to the number of cancer-related deaths per 100,000 person-years.
+Age-standardised cancer mortality
+describes the number of cancer deaths per 100,000 person-years if the age structure of the Finnish population corresponded to the ‘standard population’. There are two options for the standard population: ‘standard world population’ and ‘Finland 2014’. The standard world population is based on the global age structure in the 1950s. Selecting ‘Finland 2014’ standardises the figures to correspond to the age structure of the Finnish population in 2014. Age standardisation makes it possible to compare cancer mortality figures between population groups with different age structures and between different periods of time. The ‘Finland 2014’ standard population is well suited for comparing, for example, calendar years and hospital districts, and the standard world population enables comparisons with other countries.
+4.4
+Persons diagnosed with cancer – prevalence
+Prevalence
+refers to the number of people in the population who have been diagnosed with cancer and who are alive at a specific point in time. The prevalence is broken down by time since diagnosis. For example, a five-year figure only includes patients whose cancer was diagnosed no more than five years ago (e.g. at the earliest on 31 December 2005, if counted from 31 December 2010). The regional statistics are based on the persons’ municipality of residence in the year the cancer was diagnosed.
+Prevalence proportion
+refers to the number of persons diagnosed with cancer in the population relative to the population. For example, a prevalence proportion of 5,000 per 100,000 means that 5,000 persons of 100,000 persons (5% of the population) have a previous cancer diagnosis.
+4.5
+Risk of cancer and risk of cancer death
+Risk of cancer
+refers to the average lifetime probability in the population of developing cancer. In the present report, the risk assessment is based on the cancer incidence and overall mortality rates of the population in the last five-year period, by age group. The assessment takes into account that part of the population will avoid developing cancer because they will die from other causes before that.
+Risk of developing and dying from cancer
+refers to the average lifetime probability in the population of developing and dying from cancer. The risk assessment is based on the age-group mortality rates and the overall mortality rates of the population in the last five-year period. The assessment takes into account that part of the population will avoid dying from cancer because they will die from other causes before that.
+4.6
+Prognoses for cancer patients – survival
+The relative survival rate
+(patient’s prognosis) is calculated by comparing the patient mortality rate with the mortality rate of the Finnish population of the same gender and the same age and in the same calendar period. It is an indicator of the hazards of cancer. Relative survival can be interpreted as the probability that a patient would be alive after a specific period of time after diagnosis if the cancer in question were the only possible cause of death for the patient. Survival is often presented as a five-year relative survival rate.
+The age-standardised relative survival rate
+standardises the age structure of patients across the country to the age structure of patients diagnosed in the most recent three-year period by cancer type and gender. The purpose of age standardisation is to improve the comparability of figures between areas with different age structures and between different periods of time. This report uses the traditional method of age standardisation, which is based on age-group-specific survival rates. The age-standardised survival rate is missing if no patients are alive in an age group five years after the diagnosis.
+4.7
+Years of life lost due to cancer
+Years of life lost due to cancer
+have been calculated by estimating the average life expectancy of patients and comparing it with the average life expectancy of a population of the same age and gender. Ten years after the cancer diagnosis, the mortality rate for surviving patients was assumed to be similar to the overall mortality rate for the population of the same age. The exceptions to this are prostate and breast cancer, where it was assumed that after ten years patients would continue to have an annual excess mortality rate of around 1% compared to the mortality in the population. The number of years of life lost for the whole population was obtained by multiplying the patient’s average years of life lost by the number of patients diagnosed in a single year (annual average 2012–2021).
+4.8
+Time series and change assessment
+Long-term development.
+The development of cancer incidence and cancer mortality is measured by an average annual change (percentage). This method assesses whether the age-standardised trend has been steady or whether it has changed during the period considered. If there has been a statistically significant change, two change percentages will be used to describe the development before and after the point of change.
+The time series for survival rates
+is based on patient monitoring in twelve five-year periods: 1962–1966, …, 2017–2021. The time series has been age-standardised to the age structure of patients diagnosed in 2017–2021 (by cancer type). The rates for women and men were standardised to the same age structure. The age standardisation was based on a statistical method that provided an estimate of the survival rate for as many periods as possible, including in the smallest patient datasets.
+The time series coverage for haematological cancers is described in more detail in section 5.3, Time series coverage.
+4.9
+Predictions of incidence and mortality
+The predictions of cancer incidence for 2021–2040 and cancer mortality for 2022–2040 were calculated with the Nordpred statistics programme developed by the Cancer Registry of Norway. The years 2020 and 2021 were not used as the base for the incidence prediction due to the shortfall in diagnosed cases caused by the Covid-19 pandemic. The method estimates the effects of age, calendar year and year of birth on the observed incidence of cancer using a statistical model. The effects were estimated by gender and cancer type based on the last 10–35 years. The incidence prediction assumes that the observed calendar trend will level out over time. The observed linear trend was cut by one-fourth in 2025–2029 and by half from 2030 onwards. The incidence predictions were used to derive predictions of the annual number of new cancer cases by using Statistics Finland’s 2021 forecast for Finland’s population in 2022–2040.
+4.10
+Effects of the Covid-19 pandemic on cancer incidence
+The total number of new cancer cases diagnosed in 2021 was compared with the prediction calculated using the method described in section 4.9. The shortfall in the number of cases in 2021 compared with the prediction was divided into 1) a shortfall caused by a typical delay in registration and 2) a shortfall caused other reasons. The gap caused by the delay in registration was estimated based on the extent to which the number of cases in the statistical years 2017–2019 was supplemented.
+4.11
+Regional differences in cancer incidence and mortality
+Estimating the incidence and mortality of cancer in small areas yields uncertain results due to statistical random error. The incidence and mortality of the most common cancers were analysed by municipality in 2017–2021 using a Bayesian hierarchical model in which the incidence and mortality rates in neighbouring municipalities are assumed to be similar. This statistical method is a way to reduce the random error of regional estimates. The method was used to estimate the municipalities’ age-standardised risk ratio, which describes the average relative difference in age-group incidence and mortality, relative to the municipality’s population, compared to the whole country. Credible intervals of 95% are presented for the risk ratios and the average risk ratio of municipalities in the area.
+4.12
+Risk ratios for incidence and mortality between levels of education
+Differences in the incidence and mortality of cancer between different levels of education were examined by comparing the average incidence and mortality rates per age group in the last five-year period. The age-standardised risk ratio (RR) describes the average relative difference between age-group-specific incidence and mortality relative to the population in persons with basic or secondary level of education compared to persons with a tertiary level of education. Confidence intervals of 95% are shown for the risk ratios to assess random errors.
+5
+Data and quality
+5.1
+Objectives of the Cancer Registry
+The Finnish Cancer Registry monitors the cancer burden in the entire Finnish population. This encompasses the number of new cancer cases and cancer deaths, the survival of patients, the risk factors of cancer, cancer prevention and early detection. The Registry also compiles predictions of the future cancer burden.
+More and more people survive cancer. One of the challenges for the future is therefore to ensure the quality of life of cancer survivors. It is important to examine the potentially harmful effects of cancer treatments and how such effects can be prevented and treated.
+Epidemiological research aims to set out the broad lines for directing research. The Cancer Registry provides data for a number of epidemiological, clinical and cancer biology studies. Registry employees help in planning cancer research and in choosing research designs.
+5.2
+Cancer types recorded and reported
+The Cancer Registry collects data on all cancer cases diagnosed in Finland. The country’s healthcare providers have a statutory obligation to deliver the data to the Registry. A cancer notification must also be made in cases of strong suspicion of cancer, especially in the absence of histological or cytological confirmation.
+As the statistics must be comparable over time and with corresponding figures in other countries, they follow the international rules for multiple primary cancers, with the exception of haematological cancers (see section 5.3, Time series coverage). In the case of the brain and the central nervous system, data on all tumours, including benign tumours, are collected and recorded in the statistics. For urinary tracts, data are recorded on malign tumours and tumours with an unclear growth tendency and on carcinomas in situ. The Registry also collects data on certain other non-malignant tumours, which are recorded separately from actual cancers, that is, they are not included in the overall cancer figures. These include borderline ovarian tumours, intraductal breast cancers and pre-cancer of the cervix.
+The Cancer Registry annually updates data from Statistics Finland on causes of death for all patients in the registry. In addition, the Cancer Registry records information on cancer deaths that have not been reported to it. In such cases, the cancer case is based solely on the death certificate (death certificate only, DCO).
+5.3
+Time series coverage
+Finland’s cancer data have been comprehensively recorded ever since 1953. Due to improvements in classification and changes in definitions, the registration of certain disease entities began later.
+Table (TABLE
+5.1
+) shows the years of initiation for the time series on haematological cancers, most of which differ from when the registry was started, that is, from 1953 for new cases and cancer deaths and from 1958 for survival statistics.
+TABLE 5.1:
+Starting year of time series for incidence, mortality, survival and prevalence for malignant disease groups of the lymphoid and haematopoietic tissues.
+Survival
+Prevalence, time since diagnosis
+Cancer site
+ICD-10
+Incidence and mortality
+5-year
+1 year
+5 years
+10 years
+Lymphoid and haematopoietic tissue
+C81-96,D45-47,D76
+1953
+1958
+1953
+1957
+1962
+Hodgkin lymphoma
+C81
+1953
+1958
+1953
+1957
+1962
+Mature B-cell neoplasms
+–
+2007
+2012
+2007
+2011
+2016
+Chronic lymphatic leukaemia
+C91.1
+1953
+1958
+1953
+1957
+1962
+Diffuse B lymphoma
+C83.3
+2007
+2012
+2007
+2011
+2016
+Follicular B lymphoma
+C82
+2007
+2012
+2007
+2011
+2016
+Myeloma and other plasma cell tumors
+C90
+1953
+1958
+1953
+1957
+1962
+Burkitt’s lymhoma/leukaemia
+C83.7
+2007
+2012
+2007
+2011
+2016
+Marginal zone lymphoma
+C83.8
+2007
+2012
+2007
+2011
+2016
+Mantle cell lymphoma
+C83.1
+2007
+2012
+2007
+2011
+2016
+Malignant immunoproliferative diseases
+C88
+2007
+2012
+2007
+2011
+2016
+Other mature B-cell neoplasms
+–
+2007
+2012
+2007
+2011
+2016
+Mature T and NK cell lymphomas/leukaemias
+C84
+2007
+2012
+2007
+2011
+2016
+Mature T-cell neoplasias of the skin
+C84.0-1
+2007
+2012
+2007
+2011
+2016
+Other T and NK cell lymphomas/leukaemias
+C84.3-5
+2007
+2012
+2007
+2011
+2016
+Acute lymphoblastic leukaemia/lymphoma
+C91.0
+1964
+1969
+1964
+1968
+1973
+Acute myeloid leukaemia
+C92.0
+1964
+1969
+1964
+1968
+1973
+Non-Hodgkin lymphoma, other or unspeficied
+C85
+2007
+2012
+2007
+2011
+2016
+Leukaemia, other or unspecified
+C95
+1964
+1969
+1964
+1968
+1973
+Myeloproliferative neoplasms
+C92.1,D45,D47.1,D47.3
+2007
+2012
+2007
+2011
+2016
+Chronic myeloid leukaemia
+C92.1
+1953
+1958
+1953
+1957
+1962
+Polycythaemia vera
+D45
+1969
+1974
+1969
+1973
+1978
+Myelofibrosis
+D47.1
+1969
+1974
+1969
+1973
+1978
+Essential thrombocythemia
+D47.3
+2007
+2012
+2007
+2011
+2016
+Myeloproliferative neoplasm, other
+D47.1
+2007
+2012
+2007
+2011
+2016
+Myelodysplastic syndromes and myelodysplastic/myeloproliferative neoplasms
+–
+2007
+2012
+2007
+2011
+2016
+Myelodysplastic syndromes
+D46
+2007
+2012
+2007
+2011
+2016
+Myelodysplastic/myeloproliferative neoplasms
+–
+2007
+2012
+2007
+2011
+2016
+Other, unspecified or mixed hematological disease
+C96, D76
+2007
+2012
+2007
+2011
+2016
+Mastocytosis
+C96.2
+2007
+2012
+2007
+2011
+2016
+Histiocytic and denritic cell neoplasms
+C96.1, D76
+2007
+2012
+2007
+2011
+2016
+Other, unspecified or mixed hematological disease
+C96.7-9
+2007
+2012
+2007
+2011
+2016
+The detection and classification of haematological cancers has changed significantly during the registry’s operation. Reliable methods for detecting different forms of the disease only became available in the 1990s. The classification codes used by the Cancer Registry were revised in 2008, and the statistical year 2007 was also reclassified at the same time. New specifications for the coding that guides registration have also been introduced since then. These specifications have made the registry data more detailed for researchers.
+For these reasons, the figures for haematological cancers can only be considered reliable from the 2000s onwards, for certain subtypes only from 2007 onwards. In other solid tumours, the time series have been reliable since the 1950s, taking into account a certain reporting deficit.
+The Cancer Registry also compiles statistics on basal cell carcinoma of the skin (since 1964) and high-grade cervical dysplasia (dysplasia gravis since 1988 and CIN 3 since 1991).
+5.4
+Data sources
+The Cancer Registry has several independent sources of data. The most important of these are notifications from pathology laboratories (diagnoses). Each year, the Cancer Registry receives more than 330,000 of these notifications. All pathology laboratories in Finland provide data based on the same codes in a structured format (organ of origin or topography and cell type or morphology). They also submit a verbal statement for samples that carry a malignant diagnosis. Electronic submission was introduced in the late 1980s and has been used for more than 30 years.
+All healthcare providers are obliged to submit a clinical cancer notification on new cancer cases, that is, a summary of the case at diagnosis. Clinical cancer notifications are essential for cancers where histological confirmation is not available. In addition, clinical data form the basis for recording the cancer stage at the time of diagnosis. Information on cancer cases is also collected through treatment notifications by the care provider, which can typically be submitted in several different ways for different courses and methods of treatment.
+All notifications are submitted in electronic format. The Cancer Registry maintains data models and code sets on a server maintained by the Finnish Institute for Health and Welfare, from which the models can be deployed for the collection of structured data.
+The municipality of residence, migration history and date of death of persons with cancer are updated from the Population Information System maintained by the Digital and Population Data Services Agency. Statistics Finland in turn provides data on the persons’ causes of death, socio-economic status and education.
+All clinical cancer information is based on the activity of notifiers, and the low number of notifications is currently a cause for concern. In recent years, the Cancer Registry has received clinical notifications on only around 40% of new cancer cases. Because clinical cancer notifications provide information that is not available from other sources, such as information on cancers that lack histological confirmation, there is a lack of coverage particularly in the case of malignant blood diseases. For the statistical year 2021, we have published the statistics on notification activity on our website
+(
+syoparekisteri.fi/tilastot/kliinisten-ilmoitusten-tilasto
+)
+. The figures can be examined by hospital district or university hospital for the most common cancers recorded.
+5.5
+Compilation of cancer data
+The cancer cases are compiled into a national register with the help of individual notifications (see above). A case summary suitable for statistical and research use is coded for each cancer, with the date and method of diagnosis, the organ of origin or primary site, the histological type and stage at diagnosis. The work is guided by international guidelines and codes
+(
+ICD-O-3
+)
+for cancer registration. The work is carried out by professionals at the Registry who are tasked with compiling cancer data based on the information received, either as new cancers or as part of cancers diagnosed previously.
+Since the statistical year 2018, the creation of case summaries has been partly automated. However, the automated processing is based on structured data, and it is therefore dependent on the notification content complying with the data definitions. The automated processing is applied to 13 common cancer types, including meningiomas. The automatically compiled case data for 2021 have been checked systematically by using random sampling. The case summaries were found to be of good quality.
+With regard to the compilation of cancer data, it is essential that the persons carrying out the cancer registration have sufficient qualifications and competence. The chief medical officer and expert pathologist the Cancer Registry advise on the registration of complex cases. The date of diagnosis of new cancer cases based solely on data from the death certificate will be specified by using the diagnosis and visit data from the national care register of the Finnish Institute for Health and Welfare if the data result in an earlier date.
+5.6
+Quality indicators
+Typically, the quality of a cancer registry is described by indicators such as the percentage of microscopically verified cases (%MV) that is, cases confirmed from cell or tissue samples, the percentage of cases confirmed by death certificate only (%DCO) and the percentage of cases with unknown primary site (%) of all cancer cases. The most recent statistical year is always partly indicative for these indicators, as new cancer cases, especially those registered through death certificates, still appear in the registry several years afterwards. According to the most recent statistics, the %MV for cancers diagnosed in 2021 was 93.5% (92.4% in 2020), the %DCO was 1.7% (1.8% in 2020) and the percentage of cases with unknown primary site was 1.5% (1.4% in 2020). Most of the unknown primary site cases were found in persons aged 70 and older.
+6
+Incidence and new cancer cases
+Figure (FIGURE
+6.1
+) shows the age-standardised incidence rates for the most common cancer types and Figure (FIGURE
+6.2
+) shows the number of new cancer cases.
+Breast cancer was the most common new cancer diagnosed in women in 2021. It had an age-standardised incidence rate of 167.3 per 100,000 person-years, with a total of 5 105 new cases diagnosed. The second most common new cancer diagnosed was colorectal cancer (incidence 50.7, 1 717 cases) and the third most common was lung and tracheal cancer (incidence 32.4, 1 102 cases).
+Prostate cancer was the most common new cancer diagnosed in men in 2021. It had an age-standardised incidence rate of 186.2 per 100,000 person-years, with a total of 5 214 new cases. The second most common new cancer diagnosed in men was colorectal cancer (incidence 76.4, 2 108 new cases), followed by lung and tracheal cancer (incidence 62.2, 1 754 new cases).
+FIGURE 6.1: Incidence of cancer among women and men (per 100,000 person-years and age standardised to the 2014 Finnish population) for the most common cancer types in 2021
+FIGURE 6.2: Number of new cancer cases in women and men for the most common cancer types in 2021.
+6.1
+Incidence by age group
+Cancers in children and young adults differ from cancers in older persons. New cancers diagnosed in children and young people are usually haematological (blood and lymphatic) cancers or brain and central nervous system tumours such as gliomas. Figure (FIGURE
+6.3
+) shows the incidence of cancer in the population under 20 years of age. In 2021 the incidence of cancer among people under 20 years of age was approximately 18 cases per 100,000 persons, with 209 new cases diagnosed. Acute lymphoblastic leukaemia and Hodgkin lymphoma were among the most common cancer types in children and young adults.
+Figures (FIGURE
+6.4
+) and (FIGURE
+6.5
+) show the incidence of cancer in 2021 in the population aged 20–69 and the population aged 70 and older. The highest incidences in the female population aged 20–69 were recorded for breast cancer (incidence 179.6/100 000, 3 079 new cases), colorectal cancer (35.4, 606 cases) and melanoma of the skin (27.6, 473 cases). In the male population of the same age, the highest incidences were observed for prostate cancer (116.7, 2 051 new cases), colorectal cancer (48.4, 851 cases) and lung and tracheal cancer (33.8, 594 cases).
+The most common cancer types in the female population aged 70 and over were breast cancer (387.2/100 000, 2 026 new cases), colorectal cancer (211.6, 1 107 cases) and squamous cell carcinoma of the skin (156.5, 819 cases). In the male population of the same age, the most common cancer types diagnosed were prostate cancer (810.7, 3 163 cases), colorectal cancer (321.4, 1 254 cases) and lung and tracheal cancer (297.3, 1 160 cases).
+FIGURE 6.3: Incidence of cancer among women and men aged under 20 (per 100,000 person-years) for the most common cancer types in 2021.
+FIGURE 6.4: Incidence of cancer among women and men aged 20–69 (per 100,000 person-years) for the most common cancer types in 2021.
+FIGURE 6.5: Incidence of cancer among women and men aged 70 and over (per 100,000 person-years) for the most common cancer types in 2021.
+6.2
+Risk of developing and dying from cancer
+Table (TABLE
+6.1
+) shows estimates of the proportions of women and men that will develop cancer and the proportions that will die from cancer during their lifetime. On average, 36% of women and 38% of men develop cancer during their lifetime. On average, 17% of women and 20 % of men die from cancer. The estimates can be interpreted as a newborn child’s lifetime risk of developing and dying from cancer. The estimates assume that a person’s risk of cancer, risk of cancer death and risk of overall death at different stages of life would equal the risks in a population of the same age in 2017-2021.
+Analysed by cancer type, 13.3% of women develop breast cancer and 14.2% of men develop prostate cancer. 3.0% of women die from breast cancer and 4.0% of men die from prostate cancer. According to the estimate, 3.3% of women and 5.4% of men develop lung cancer. On average, 2.7% of women and 4.9% of men die from lung cancer. Given the major changes in smoking habits among both women and men, it is unlikely that these estimates reflect the actual risk of lung cancer in any of the birth cohorts. Fewer and fewer newborns start smoking in later life, which reduces the risk of lung cancer in relation to the estimate.
+TABLE 6.1:
+Lifetime risk (%) of developing and dying from cancer. The calculation is based on cancer incidence, cancer mortality and overall mortality in the population in 2017–2021.
+Women
+Men
+Cancer site
+ICD-10
+Develop cancer
+Die from cancer
+Develop cancer
+Die from cancer
+All sites together
+C00-96,D09.0-1,D32-33, D41-43,D45-47,D76
+36.1
+17.4
+38.0
+20.4
+Prostate
+C61
+–
+–
+14.2
+4.0
+Breast
+C50
+13.3
+3.0
+0.1
+<0.1
+Colon and rectum
+C18-20
+4.9
+2.2
+5.6
+2.6
+Lung, trachea
+C33-34
+3.3
+2.7
+5.4
+4.9
+Melanoma of the skin
+C43
+2.3
+0.3
+2.7
+0.5
+7
+Mortality
+Figure (FIGURE
+7.1
+) shows the age-standardised mortality rates and Figure (FIGURE
+7.2
+) the number of deaths for the cancers types with the highest mortality. The cancers responsible for the most cancer deaths were lung and tracheal cancer (2 346 deaths), colorectal cancer (1 378 deaths) and pancreatic cancer (1 281 deaths).
+Breast cancer was responsible for the most cancer deaths in women (mortality 26.8 per 100,000 person-years, 914 deaths). Lung and tracheal cancer caused the second most deaths (24.6, 855 deaths) and pancreatic cancer the third most deaths (17.6, 629 deaths) in women.
+The most common cause of cancer death in men was lung and tracheal cancer (mortality 53 per 100,000 person-years, 1 491 deaths). Prostate cancer caused the second most deaths (37.9, 976 deaths) and colorectal cancer the third most deaths (27.6, 745 deaths) in men.
+FIGURE 7.1: Cancer mortality (per 100,000 person-years and age standardised to the 2014 Finnish population) in women and men for the cancer types with the highest mortality rate in 2021
+FIGURE 7.2: Number of cancer deaths in women and men for the cancer types with the highest mortality rate in 2021.
+7.1
+Mortality by age group
+In 2021, a total of 25 people under 20 years of age died from cancer, and their most common cause of cancer death was brain and central nervous system tumours.
+Figures (FIGURE
+7.3
+) and (FIGURE
+7.4
+) show the cancer mortality (per 100,000 persons in 2021) in the population aged 20–69 and the population aged 70 and older. In women aged 20–69, the main causes of cancer death were breast cancer (mortality rate 18.8, 323 deaths), lung and tracheal cancer (15.6, 267 deaths) and pancreatic cancer (9.4, 155 deaths). In men of the same age, the main causes of cancer death were lung and tracheal cancer (25, 435 deaths), colorectal cancer (14.5, 252 deaths) and pancreatic cancer (12.9, 226 deaths).
+In women aged 70 and over, the main causes of cancer death were breast cancer (112.9, 591 deaths), lung and tracheal cancer (112.2, 587 deaths) and colorectal cancer (93.6, 490 deaths). In men aged 70 and older, the main causes of cancer death in 2021 were lung and tracheal cancer (269.6, 1 052 deaths), prostate cancer (217.9, 850 deaths) and colorectal cancer (125.6, 490 deaths).
+FIGURE 7.3: Cancer mortality (per 100,000 person-years) in women and men aged 20–69 for the cancer types with the highest mortality rate in 2021.
+FIGURE 7.4: Cancer mortality (per 100,000 person-years) in women and men aged 70 and over for the cancer types with the highest mortality rate in 2021.
+8
+Prevalence
+The prevalence of cancer is a statistical indicator used to assess the burden on and resources of healthcare services. Prevalence is influenced by incidence and also by age of onset and patients’ prognoses. For example, although there are many new cases of lung cancer recorded, lung cancer has a low prevalence due to its high mortality rate.
+At the end of 2021, there were 315 230 people (prevalence) living in Finland who had a previous cancer diagnosis. This was equivalent to 5.7% of the Finnish population (prevalence proportion). The most prevalent cancer types are shown by gender in Figure (FIGURE
+8.1
+).
+At the end of 2021, the prevalence of breast cancer in women was 80 470, the prevalence of colorectal cancer was 15 287 and the prevalence of endometrial cancer was 13 155. The prevalence of prostate cancer at year-end 2021 was 60 003. There were a total of 14 964 men living with colorectal cancer and 10 521 men living with melanoma of the skin.
+Looking only at people with no more than five years since the cancer was diagnosed (diagnosed in 2017-2021), there were 52 742 women and 52 342 men alive at year-end 2021.
+FIGURE 8.1: Number of people living with cancer at the end of 2021.
+9
+Cancer patient survival
+The five-year relative survival rate in 2019-2021 was 69% in male patients and 71% in female patients. Compared to the previous period of 2016-2018, the survival rate had increased by 0.7 percentage points in women and by 1.0 percentage points in men.
+In patients monitored in 2019-2021, the survival rate for breast cancer in women was 92% and the survival rate for prostate cancer was 94% (FIGURE
+9.1
+). The average survival rate for colorectal cancer was 68%, while lung cancer had an average survival rate of 17% The survival rate for pancreatic cancer was only 7%. Among these five cancer types, the survival rate for women increased the most for colorectal cancer (by 3.0 percentage points from 2016-2018 to 2019-2021), and the survival rate for men increased the most for prostate cancer (1.5 percentage points).
+Figures FIGURE
+9.2
+and FIGURE
+9.3
+and TABLE
+15.3
+and TABLE
+15.4
+show the survival rates for three age groups: patients diagnosed with cancer at the ages of 0–54, 55–74 and 75 and older. The survival rates in the youngest age group were higher than those of the older age groups for most cancer types. For breast and prostate cancer, the survival rates were approximately the same for persons under 55 years of age and persons aged 55–74, but the rates of persons aged 75 and older were lower than the rates of others. In lung cancer, the survival ratios clearly differed between people under 55 years of age and people aged 55–74. The five-year survival rate of women diagnosed with lung cancer at under 55 years of age was 39%; the corresponding rates for women diagnosed at 55–74 and at 75 and over were 26% and 14%, respectively.
+FIGURE 9.1: Five-year relative survival ratios (%) in patients followed up in 2019-2021 by sex and cancer type. The survival ratios for laryngeal cancer in women and breast cancer in men are not presented due to a small number of cases.
+FIGURE 9.2: Five-year relative survival ratios (%) in female patients followed up in 2019-2021 by age group (under 55, 55–74 and 75 and over) for the seven most common cancer types in women (excl. mature B-cell neoplasms and cutaneous squamous cell carcinoma).
+FIGURE 9.3: Five-year relative survival ratios (%) in male patients followed up in 2019-2021 by age group (under 55, 55–74 and 75 and over) for the seven most common cancer types in men (excl. mature B-cell neoplasms and cutaneous squamous cell carcinoma).
+10
+Years of life lost due to cancer
+It was estimated that a total of around 193 000 years of life were lost in the population in a single year due to cancer (TABLE
+10.1
+). Women lose 95 900 years and men 97 300.
+In the population as a whole, lung cancer caused the greatest number of years of life lost (34 400 years). The next greatest number of years of life lost was due to lymphatic and haematopoietic cancers (18 900), followed by breast cancer (18 100), colorectal cancer (17 100) and pancreatic cancer (16 900). For other cancer types, the combined years of life lost by men and women were significantly lower. Women lose the greatest number of years of life due to breast cancer. For men, the number of years of life lost to prostate cancer (7 610) was slightly lower than the number of years of life lost to pancreatic cancer (8 220).
+FIGURE
+10.1
+and FIGURE
+10.2
+show the average age at cancer diagnosis and estimates of average patient life expectancy and years of life lost due to cancer for cancers diagnosed between 2012 and 2021. The number of years of life lost by a cancer patient is affected not only by the length of life after cancer, but also by the age of onset. The average age of onset ranged from 36 years for men with testicular cancer to 80 years for women with squamous cell carcinoma of the skin. Cancer can reduce life expectancy, particularly in young people.
+The average age of onset for women diagnosed with breast cancer was 65 years. They were expected to live an average of 19.3 years after the cancer diagnosis and to lose 3.7 years of life, as they would have been expected to live 23.0 years based on population mortality. The number of years of life lost in the population as a whole is also affected by the incidence of cancer. On average, 4 881 women were diagnosed with breast cancer each year between 2012 and 2021. It was estimated that a total of 18 100 years of life were lost in the female population in a single year due to breast cancer (TABLE
+10.1
+, coloured area of FIGURE
+10.1
+).
+The average age at diagnosis for prostate cancer patients was 71 years. They were expected to live an average of 13.0 years after the cancer diagnosis and to lose 1.5 years of life. Between 2012 and 2021, an average of 5 073 cases of prostate cancer were diagnosed each year. On average, 7 610 years of life are lost in the population in a single year due to prostate cancer (TABLE
+10.1
+, coloured area of FIGURE
+10.2
+).
+Cancer site
+ICD-10
+Women
+Men
+Total
+TABLE 10.1:
+Number of years of life lost to cancer in a single year, by gender and cancer type. Calculation includes cancer cases diagnosed in 2012–2021.
+All sites together
+C00-96,D09.0-1,D32-33,D41-43,D45-47,D76
+95881
+97333
+193 214
+Lung, trachea
+C33-34
+13486
+20963
+34 449
+Lymphoid and haematopoietic tissue
+C81-96,D45-47,D76
+8758
+10145
+18 903
+Breast
+C50
+18060
+70
+18 130
+Colon and rectum
+C18-20
+8086
+9016
+17 102
+Pancreas
+C25
+8672
+8224
+16 896
+Prostate
+C61
+–
+7610
+7 610
+Liver
+C22
+2403
+4562
+6 965
+Stomach
+C16
+2958
+3997
+6 955
+Ovary etc.
+C48.1-2 (Serous), C56, C57.0-4
+5853
+–
+5 853
+Glioma
+–
+2454
+3337
+5 791
+Kidney
+C64
+1897
+3133
+5 030
+Oesophagus
+C15
+1121
+3202
+4 323
+Bladder and urinary tract
+C65-68,D09.0-1,D41.1-9
+1313
+2869
+4 182
+Mouth, pharynx
+C00-14
+1311
+2811
+4 122
+Gallbladder, bile ducts
+C23-24
+2092
+1577
+3 669
+Corpus uteri
+C54
+2807
+–
+2 807
+Melanoma of the skin
+C43
+834
+1440
+2 274
+Soft tissues
+C48-49
+806
+991
+1 797
+Skin, squamous cell carcinoma
+C44 (Squamous cell)
+476
+645
+1 121
+Cervix uteri
+C53
+1028
+–
+1 028
+Larynx, epiglottis
+C32
+130
+769
+899
+Thyroid gland
+C73
+264
+366
+630
+Meningeoma
+–
+297
+174
+471
+Testis
+C62
+–
+164
+164
+Other sites
+–
+10775
+11268
+22 043
+FIGURE 10.1: Average age of onset, life expectancy after diagnosis and years of life lost to cancer for women by cancer type in patients diagnosed 2012–2021.
+FIGURE 10.2: Average age of onset, life expectancy after diagnosis and years of life lost to cancer for men by cancer type in patients diagnosed 2012–2021.
+11
+Time series
+Figure FIGURE
+11.1
+– FIGURE
+11.9
+show the time series for the incidence and mortality of cancer and the five-year relative survival rate of patients in line with the ICD-10 classification. The changes in incidence and mortality since the beginning of the 1990s are presented in TABLE
+15.5
+– TABLE
+15.8
+. The change is shown as an average annual change percentage. If there has been a statistically significant change, separate percentages are presented for two consecutive calendar year periods. In assessing the change percentage in incidence, the time series was examined only until 2019, so that the shortfall caused by the Covid-19 pandemic in the number of cases in 2020 would not affect the estimate of the long-term change percentage.
+Lip
+: In men, incidence and mortality have decreased. In women, both incidence and mortality have remained low. The survival rate has been around 90% in recent years (FIGURE
+11.1
+).
+Pharynx
+: Incidence has risen in the 2000s. In men, the incidence is about three times higher than in women. Mortality has remained at the same level. The survival rate has increased steadily since the 1990s and is currently around 70% among women and around 60% among men (FIGURE
+11.1
+).
+Oesophagus
+: Incidence and mortality decreased until the early 2000s. In men, the incidence has shown a slight increase in the 2000s. The survival rate has increased slowly and is currently around 20% among women and 15% among men (FIGURE
+11.1
+).
+Stomach
+:Incidence and mortality have decreased throughout the observation period. The survival rate has remained at around 30% in women and around 25% in men during the 2000s (FIGURE
+11.2
+).
+Colon and rectum
+: Incidence has increased in women and especially in men. Mortality has decreased since the 1990s. The survival rate has increased and is currently around 70% among women and 65% among men (FIGURE
+11.2
+).
+Liver
+: Incidence and mortality have increased, more so in men than in women. The survival rate has increased slowly and is currently around 10% (FIGURE
+11.2
+).
+Gallbladder, bile ducts
+: Incidence increased until the 1980s and has decreased since then, especially among women. The survival rate has increased slowly and is currently nearly 15% (FIGURE
+11.3
+).
+Pancreas
+: Incidence and mortality have remained at the same level since the 1980s in both women and men. Survival is currently above 5% (FIGURE
+11.3
+).
+Larynx
+: In men, incidence and mortality have decreased since the 1970s. In women, both incidence and mortality have remained low. Survival has long been steady at around 60% (FIGURE
+11.3
+).
+Lung, trachea
+: In women, incidence and mortality have increased throughout the period considered. In men, the increase started to decline at the end of the 1970s. The incidence in men is still almost twice as high as the incidence in women. The survival rate has increased to about 20% among women and to more than 10% among men (FIGURE
+11.4
+).
+Breast, women
+: Incidence has increased throughout the observation period. Mortality began to fall in the 1990s. Survival is currently at around 90% (FIGURE
+11.4
+).
+Prostate
+: Incidence has increased. The increase accelerated in the 1990s, with the highest incidence recorded in 2004. Currently, the incidence is at the same level as in the mid-1990s. Mortality began to fall in the 1990s. The survival rate has increased and is currently above 90% (FIGURE
+11.4
+).
+Cervix uteri
+: Incidence decreased from the 1960s until the 1990s and has remained at the same level since then. The decrease in mortality has continued in the 2000s. Survival is currently at around 70% (FIGURE
+11.4
+).
+Corpus uteri
+: Incidence increased until the turn of the century and then began to fall slightly. Mortality has remained at the same level. The survival rate increased until the early 2000s and is currently above 80% (FIGURE
+11.4
+).
+Ovary, etc.
+: Incidence and mortality increased until the 1990s and then began to decrease. Survival has remained at around 45% during the 2000s (FIGURE
+11.5
+).
+Testis
+: Incidence increased sharply from the 1980s onwards, but the increase levelled out in the 2010s. Mortality and survival have remained at the same level since the 1990s. Survival is currently at around 95% (FIGURE
+11.5
+).
+Kidney
+: Incidence and mortality increased in women until the 1990s. In the 2000s, incidence in men first declined and later began to rise again. In women, incidence has remained at the same level since the 1990s. Mortality has decreased in the 2000s. The survival rate has kept rising in the 2000s and is currently around 70% (FIGURE
+11.5
+).
+Bladder and urinary tract
+: In women, mortality increased until the 1990s and has since remained at the same level. In men, incidence reached its peak in the mid-1990s. After that, the incidence first decreased and later levelled out. In men, the incidence is about four times higher than in women. Mortality has decreased since the 1970s. The survival rate has increased and is currently around 70% among women and 75% among men (FIGURE
+11.5
+).
+Melanoma of the skin
+: Incidence increased until the mid-2010s. In women, mortality has remained at the same level since the 1970s. The mortality in men increased until the mid-2010s, but considerably more moderately than the incidence. Survival is currently above 90% (FIGURE
+11.6
+).
+Squamous cell carcinoma of the skin
+: Incidence has increased throughout the observation period. In men, the increase in incidence has accelerated in the 2000s. Mortality has remained very low, and survival has remained above 90% (FIGURE
+11.6
+).
+Glioma
+: Incidence has increased throughout the observation period. Mortality increased until the 1990s, after which it has remained at the same level in women and continued to grow in men. The survival rate has increased slowly and is currently around 35% among women and 25% among men (FIGURE
+11.6
+).
+Meningioma
+: Incidence increased until the 2000s and has since then remained steady. The incidence in women is more than double that in men. Mortality has been low and has further declined since the 1990s. The survival rate has increased and is currently around 95% (FIGURE
+11.7
+).
+Thyroid gland
+: Incidence has increased in women and men. The incidence in women is more than double that in men. In women, mortality has declined since the early 1990s. In men, mortality has remained at the same level since the early 1990s. The survival rate is currently around 95% among women and 85% among men (FIGURE
+11.7
+).
+Soft tissues
+: Incidence increased in women until the 1990s. In men, the incidence has increased throughout the observation period. There have been no changes in mortality in either women or men. Survival is currently at around 60% (FIGURE
+11.7
+).
+Hodgkin lymphoma
+: Incidence has remained at the same level since the early 1990s, but mortality continued to decline in the 1990s. The survival rate has increased and is currently around 90% (FIGURE
+11.8
+).
+Myeloma and other plasma cell tumours
+: Incidence and mortality increased until the late 1980s for both women and men. Since then, incidence has remained at the same level but mortality has decreased. The survival rate has increased in the 2000s and is currently around 45% among women and 40% among men (FIGURE
+11.8
+).
+Acute lymphoblastic leukaemia/lymphoma
+: Incidence has remained at the same level since the 1980s, but mortality has decreased. The survival rate has increased considerably and is currently around 75% (FIGURE
+11.8
+).
+Chronic lymphatic leukaemia
+: Incidence and mortality have decreased since the 1980s in both women and men. The survival rate has increased steadily and is currently above 80% in women and around 75% in men (FIGURE
+11.9
+).
+Acute myeloid leukaemia
+: Incidence has remained at the same level since the 1980s, but mortality has declined. The survival rate has increased substantially since the 1980s and is currently around 20% (FIGURE
+11.9
+).
+Chronic myeloid leukaemia
+: Incidence and mortality have decreased throughout the observation period for both women and men. The survival rate has increased particularly strongly in the 2000s and is currently above 70% (FIGURE
+11.9
+).
+FIGURE 11.1: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2021.
+FIGURE 11.2: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2021.
+FIGURE 11.3: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2021.
+FIGURE 11.4: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2021.
+FIGURE 11.5: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2021.
+FIGURE 11.6: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2021.
+FIGURE 11.7: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2021.
+FIGURE 11.8: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2021.
+FIGURE 11.9: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2021.
+12
+Predictions
+The predicted number of new cancer cases diagnosed in 2040 is approximately 48 200 (TABLE
+12.1
+). The annual number of cases is projected to increase by 26% compared to the prediction for 2021. The increase is mainly due to population ageing. The number of cancer cases in persons aged 75 and older will almost double from 14 860 cases to 25 700 cases (FIGURE
+12.1
+). The number of cases in persons under 75 years of age will remain almost unchanged in the coming years. The age-standardised incidence of cancer is expected to increase by 4%: by 5% in women and 3% in men.
+The prediction for prostate cancer is not based on a model that utilises the observed trend, as the irregular incidence trend caused by increasingly common PSA testing is not suitable as a basis for the model. The prostate cancer prediction assumed that the incidence in each age group will remain at the same level as in 2015–2019. In prostate cancer, the number of cases will increase from 5 648 to 6 820 (21% increase, TABLE
+12.1
+). In breast cancer, the increase from 5 313 to 6 060 cases (14% increase, TABLE
+12.1
+) will be more moderate than in prostate cancer, as the incidence of breast cancer stops increasing after the age of 65. The incidence of prostate cancer increases with age and is at its highest at 80 years of age.
+Looking at the most common cancers types, the number of cases of melanoma of the skin will increase proportionally the most (46%, TABLE
+12.1
+). The exceptionally large increase is due to a strong increase in age-standardised incidence of melanoma of the skin, and the increase is projected to continue (by 25% from 2021 to 2040, TABLE
+12.1
+).
+The prediction of the incidence of lung cancer shows a clear difference between men and women (TABLE
+12.1
+). In women, the age-standardised incidence is projected to increase until 2032. In 2040, the number of cases of lung cancer will have increased by 25% compared to 2021. Although lung cancer will become less common in men, and the age-standardised incidence is predicted to decrease by 15%, the number of cases will still increase by around 6%.
+According to the prediction, age-standardised cancer mortality will continue to decrease (TABLE
+12.1
+). The mortality from all cancers combined will decrease on average by 12% from 2021 to 2040: by 10% in women and 13% in men. In 2040, a total of 16 200 people will die from cancer, which is 21% more than in 2021. Mortality will decrease the most in the case of lung cancer in men (26%). Mortality due to lung cancer will decrease also in women (on average by 14%), but the prediction varies by age group. Mortality will decrease by 28% in persons aged under 65 and by 34% in persons aged 65–74. In older women, mortality due to lung cancer will increase by 11%.
+TABLE 12.1:
+Prediction of the number of new cancer cases, the age standardised incidence, the number of cancer deaths and the age-standardised mortality in 2040 as well as the relative change (in percentages) from 2021 for all cancers and the seven most common cancer type groups. The prediction for lung cancer is presented by sex. The change in number of cases and in incidence has been calculated in relation to the prediction for 2021.
+Number of cases
+Incidence
+Deaths from cancer
+Mortality
+Cancer site
+ICD-10
+Number
+Change
+Rate
+1
+Change
+Number
+Change
+Rate
+1
+Change
+All sites together
+C00-96,D09.0-1,D32-33, D41-43,D45-47,D76
+48200
+26 %
+667.9
+4 %
+16200
+21 %
+194.6
+-12 %
+Prostate
+C61
+6820
+21 %
+201.6
+0 %
+1360
+39 %
+31.5
+-17 %
+Breast (women)
+C50
+6060
+14 %
+179.8
+3 %
+1060
+16 %
+25.0
+-7 %
+Colon and rectum
+C18-20
+5170
+35 %
+69.3
+9 %
+1870
+36 %
+22.4
+-1 %
+Lymphoid and haematopoietic tissue
+C81-96,D45-47,D76
+4820
+28 %
+64.8
+3 %
+1560
+11 %
+17.6
+-22 %
+Melanoma of the skin
+C43
+2940
+46 %
+43.5
+25 %
+229
+15 %
+2.8
+-16 %
+Bladder and urinary tract
+C65-68,D09.0-1,D41.1-9
+2100
+37 %
+27.4
+4 %
+707
+84 %
+7.7
+13 %
+Lung, trachea (men)
+C33-34
+1990
+6 %
+56.6
+-15 %
+1420
+-5 %
+39.3
+-26 %
+Lung, trachea (women)
+C33-34
+1560
+25 %
+36.5
+0 %
+987
+15 %
+21.3
+-14 %
+1
+per 100 000 person-years and age-standardised to the population of Finland in 2014
+FIGURE 12.1: Annual number of new cancer cases diagnosed in 1953–2021 and the projected development until 2040 in different age groups. The prediction has also been presented for 2021 and is based on the trend observed until 2019.
+13
+Regional differences in cancer burden
+Regional differences in cancer incidence and cancer mortality were estimated for the years 2017–2021. The analysis targeted all cancers combined and the four most common cancer types.
+All cancers combined
+(FIGURE
+13.1
+): The regional variation in cancer incidence was slightly higher in men than in women. In women, the incidence risk ratio varied between 0.90 and 1.14, that is, the cancer incidence in the municipality was at its best 10% lower and at its worst 14% higher than in the whole country on average. In men, the range of relative regional differences in incidence was slightly wider, 0.88-1.19. In women, the risk ratio for cancer mortality was 0.91-1.15 in mainland Finland, but 1.07-1.19 (on average 1.12, 95% probability interval [1.02, 1.24]) in the municipalities of Åland. In men, the mortality risk ratios varied between 0.92 and 1.09, and the Åland municipalities deviated less from the rest of Finland than in women.
+Breast, women
+(FIGURE
+13.2
+): The incidence of breast cancer was lowest in the Kainuu region (average risk ratio0.86 [0.79, 0.92]) and highest in the Helsinki capital region (on average 1.18 [1.12, 1.26]). In municipalities with a high incidence of cancer, cancer mortality was also often high. In the incidence of breast cancer, the risk ratio range (0.81-1.28) was almost the same as in mortality (0.81-1.23). Helsinki had a high mortality rate in breast cancer (1.22 [1.12, 1.33]).
+Prostate
+(FIGURE
+13.2
+): In men, the regional differences in the incidence of cancer were greatest in the case of prostate cancer. The incidence of prostate cancer was lowest in the Wellbeing Services County of Vantaa and Kerava (average risk ratio 0.82 [0.76, 0.89]) and Helsinki (0.84 [0.80, 0.88]) and highest on Åland (on average 1.35 [1.21, 1.52]). In municipalities with the highest incidence, the incidence was more than 80% higher than in municipalities with the lowest incidence (risk ratio range 0.81-1.52). The difference in mortality due to prostate cancer was smaller (range 0.86-1.26).
+Colon and rectum
+(FIGURE
+13.3
+): The incidence and mortality of colorectal cancer was lowest in Northern Finland, for example in municipalities in Lapland the average risk ratio for women was 0.90 [0.82, 0.99] for men 0.88 [0.81, 0.95]. The highest incidence was recorded among women on Åland (1.14 [0.97, 1.35]) and in the Kymenlaakso region (1.13 [1.02, 1.26]) and men on Åland (1.08 [0.97, 1.21]) and in Southwest Finland 1.07 [1.02, 1.12]). In women, the mortality rate in colorectal cancer was highest on Åland (risk ratio range 1.11-1.24, on average 1.17 [0.94, 1.49]).
+Lung, trachea
+(FIGURE
+13.4
+): For the four most common cancer types, the regional differences in the cancer burden were highest in lung cancer in women: the incidence risk ratio ranged from 0.75 to 1.49 and the mortality risk ratio from 0.74 to 1.82. The incidence of lung cancer in women was particularly high in Helsinki (1.44 [1.33, 1.56]) and Lapland (on average 1.39 [1.23, 1.58]). As for lung cancer in men, the variation was significantly lower: 0.85-1.28 for incidence and 0.83-1.35 for mortality. The regional differences in incidence and mortality were very similar, as those affected often die from cancer regardless of their area.
+FIGURE 13.1: Relative regional differences in overall cancer incidence and mortality by sex in 2017–2021.
+FIGURE 13.2: Relative regional differences in incidence and mortality of breast cancer in women and prostate cancer by sex in 2017–2021
+FIGURE 13.3: Relative regional differences in incidence and mortality of colorectal cancer by sex in 2017–2021.
+FIGURE 13.4: Relative regional differences in incidence and mortality of lung cancer by sex in 2017–2021.
+14
+Educational level and cancer burden
+In the statistics presented by level of education, the population was divided into three groups according to the highest degree obtained (see Statistical methods, definitions). Figures FIGURE
+14.1
+- FIGURE
+14.4
+show the age-standardised cancer incidence and cancer mortality rates for women and men aged 25 and older per 100,000 person-years by level of education. In terms of incidence, the analysis covered the ten most common cancer types. In terms of mortality, it covered the ten cancer types with the highest mortality rates. In the case of women, the examination also covered cervical cancer and liver cancer, which have previously been found to differ in incidence or mortality by level of education.
+14.1
+Cancer incidence by level of education
+In women, the differences between educational levels in the incidence of cancer (FIGURE
+14.1
+) were proportionally greatest for lung and tracheal cancer. The incidence of lung and tracheal cancer at the basic education level was more than double the incidence at the tertiary education level (72.8 vs. 32.1, risk ratio (RR) at basic level 2.17, 95% confidence interval [2.01, 2.34]). The incidence of cervical cancer was also highest at the basic level and lowest among the highly educated (12.8 vs. 6.8, RR at basic level 1.83 [1.52, 2.21]). The differences in the incidence of melanoma of the skin were also considerable, albeit in the opposite direction. The incidence was highest at the tertiary level (44) and lowest at the basic level (27.4, RR 0.64 [0.59, 0.70] compared to those with a higher education).
+Breast cancer was also more common among those with a tertiary level education (263.8) than among those with a basic education (199.9). At the basic level of education, the RR of breast cancer was 0.78 [0.75, 0.80] compared to those with a higher education. At the basic level of education, therefore, the incidence of breast cancer was approximately one-fifth (22%) lower than among those with a higher education. The differences in the incidence of colorectal cancer were very small: the incidence was approximately 4% higher at the basic level (72.9) than at the tertiary level (69.1), RR 1.04 [0.98, 1.10].
+In men, the greatest differences in cancer incidence between levels of education were found in lung and tracheal cancer (FIGURE
+14.2
+). The incidence of lung and tracheal cancer at the basic education level was approximately 2.5 times higher than among highly educated people (129 vs. 49.6); the RR at the basic level was 2.61 [2.45, 2.78] compared to the tertiary level. The incidence of liver and stomach cancer was also highest among those with a basic level of education (25.7 and 23.1) and lowest among those with a higher education (15.8 and 14.8). The incidence of liver cancer and stomach cancer was therefore more than 1.5 times higher among those with a basic level of education compared to those with a higher education (RR 1.60 [1.43, 1.81] for liver cancer and RR 1.59 [1.40, 1.79] for stomach cancer). Prostate cancer in turn was less common at the basic level than at the tertiary level (258.7 vs. 289.1, RR 0.90 [0.87, 0.93]). The differences in the incidence of colorectal cancer between the basic and tertiary education levels were small and not statistically significant (102.4 vs. 101.8, RR 1.01 [0.96, 1.07]).
+FIGURE 14.1: Incidence of cancer in women (per 100,000 person-years and age-standardised to the 2014 Finnish population) in the population aged over 25 by level of education in 2017–2021.
+FIGURE 14.2: Incidence of cancer in men (per 100,000 person-years and age-standardised to the 2014 Finnish population) in the population aged over 25 by level of education in 2017–2021.
+14.2
+Cancer mortality by level of education
+Cancer mortality also showed differences between educational levels. In women, the mortality rate was overall highest at the basic level of education (FIGURE
+14.3
+). The highest and statistically significant difference was observed in cervical cancer, where the mortality was nearly three times higher among those with a basic level of education than among those with a higher education (4.2 vs. 1.2, RR 2.91 [2.00, 4.24]). For lung and tracheal cancer, the difference was almost 2.5-fold (52.3 vs. 21.4, RR 2.40 [2.19, 2.64]), and there was also a more than 1.5-fold difference in liver cancer mortality between the basic and tertiary level (7.4 at basic level vs 4.5 at tertiary level, RR 1.60 [1.30, 1.96]). In the case of breast cancer mortality, there were no differences between levels of education (RR 1.00 [0.92, 1.08]). Pancreatic cancer mortality was 22% higher among those with a basic level of education than among those with a higher education (29.1 vs. 22.8, RR 1.22 [1.11, 1.35]).
+In men, the mortality rate was highest at the basic and lowest at the tertiary level of education for nearly all cancer types examined (FIGURE
+14.4
+). The difference was particularly marked in the case of lung and tracheal cancer, where the mortality among men with basic-level qualifications was more than 2.5 times higher than among men with a tertiary-level education (108.5 vs. 40.1, RR 2.77 [2.58, 2.97]). The difference in mortality was also significant in oesophageal cancer, where the mortality at the basic education level was double the mortality at the tertiary level (14.3 vs. 7, RR 2.00 [1.69, 2.37]). In stomach cancer, the mortality at the basic level was 61% higher than at the tertiary level (16.4 vs. 10.2, RR 1.61 [1.39, 1.87]). In the case of colorectal cancer and prostate cancer, the mortality rate among those with a basic level of education was about 25% higher than among those with a tertiary level of education: 43.8 vs. 35.1 (RR 1.25 [1.15, 1.36]) for colorectal cancer and 58.1 vs. 47 (RR 1.24 [1.15, 1.34]) for prostate cancer.
+FIGURE 14.3: Cancer mortality in women (per 100,000 person-years and age-standardised to the 2014 Finnish population) in the population aged over 25 by level of education in 2017–2021.
+FIGURE 14.4: Cancer mortality in men (per 100,000 person-years and age-standardised to the 2014 Finnish population) in the population aged over 25 by level of education in 2017–2021.
+15
+Tables
+15.1
+Incidence, mortality and prevalence
+TABLE 15.1:
+Number and age-standardised rate of new cancer cases and deaths in 2020 and number and age-standardised proportion of cancer survivors in the population on 31 December 2021, female
+Incidence
+Mortality
+Prevalence
+Cancer site
+ICD-10
+Count
+Rate
+1
+Count
+Rate
+1
+Count
+Proportion
+2
+All sites together
+C00-96,D09.0-1,D32-33, D41-43,D45-47,D76
+17440
+538.80
+6090
+171.95
+176686
+5374.7
+Mouth, pharynx
+C00-14
+283
+8.80
+70
+1.98
+2853
+86.4
+Lip
+C00
+19
+0.50
+–
+0.03
+291
+7.5
+Tongue
+C02
+80
+2.48
+19
+0.57
+722
+21.9
+Salivary glands
+C07-08
+29
+0.95
+–
+0.06
+551
+17.1
+Mouth, other or unspecified
+C03-06
+93
+2.82
+30
+0.81
+751
+22.1
+Pharynx
+C01,C09-14
+62
+2.04
+18
+0.51
+586
+19.2
+Digestive organs
+C15-26
+3276
+95.87
+1974
+55.16
+19563
+564.5
+Oesophagus
+C15
+95
+2.79
+88
+2.56
+247
+7.1
+Stomach
+C16
+271
+8.05
+137
+3.84
+1544
+44.9
+Small intestine
+C17
+103
+3.21
+40
+1.18
+735
+22.4
+Colon and rectum
+C18-20
+1717
+50.71
+633
+17.50
+15287
+436.9
+Colon
+C18
+1168
+33.99
+435
+11.88
+10152
+288.7
+Rectum, rectosigmoid
+C19-20
+549
+16.72
+198
+5.62
+5228
+150.7
+Anus
+C21
+42
+1.27
+9
+0.29
+350
+10.7
+Liver
+C22
+178
+5.01
+174
+4.89
+283
+8.5
+Gallbladder, bile ducts
+C23-24
+170
+4.95
+172
+4.75
+391
+11.2
+Pancreas
+C25
+578
+16.48
+629
+17.62
+806
+24.9
+Digestive organs, other and unspecified
+C26
+122
+3.41
+92
+2.53
+90
+2.7
+Respiratory and intrathoracic organs
+C30-39
+1174
+34.68
+883
+25.43
+3627
+107.1
+Nose, sinuses
+C30-31
+20
+0.66
+6
+0.20
+164
+5.2
+Larynx, epiglottis
+C32
+23
+0.75
+7
+0.21
+162
+4.8
+Lung, trachea
+C33-34
+1102
+32.38
+855
+24.62
+3173
+93.1
+Other or unspecified respiratory or intrathoracic organs
+C37-39
+29
+0.89
+15
+0.40
+139
+4.4
+Breast
+C50
+5105
+167.27
+914
+26.80
+80470
+2445.7
+Female genital organs
+C51-58
+1987
+62.12
+780
+22.38
+23278
+688.5
+Cervix uteri
+C53
+212
+7.46
+55
+1.79
+3163
+107.4
+Corpus uteri
+C54
+925
+28.61
+213
+6.01
+13155
+368.9
+Ovary etc.
+C48.1-2 (Serous), C56, C57.0-4
+649
+20.21
+397
+11.48
+5823
+179.3
+Vulva
+C51
+120
+3.57
+51
+1.35
+950
+27.2
+Vagina
+C52
+26
+0.75
+11
+0.33
+169
+5.0
+Placenta
+C58
+–
+0.11
+0
+0.00
+82
+2.8
+Female genital, other and unspecified
+C55,C57.5-9
+52
+1.41
+53
+1.41
+177
+5.1
+Urinary organs
+C64-68,D09.0-1,D41.1-9
+717
+20.97
+237
+6.45
+6816
+195.7
+Kidney
+C64
+393
+11.84
+126
+3.53
+4030
+118.7
+Bladder and urinary tract
+C65-68,D09.0-1,D41.1-9
+324
+9.13
+111
+2.91
+2817
+77.9
+Skin
+C43-44
+1851
+54.13
+108
+2.95
+19104
+562.8
+Melanoma of the skin
+C43
+798
+26.04
+81
+2.25
+11481
+362.0
+Skin, squamous cell carcinoma
+C44 (Squamous cell)
+974
+25.92
+14
+0.35
+7000
+181.3
+Skin, other
+C44 (Other)
+79
+2.18
+13
+0.36
+899
+26.7
+Eye
+C69
+18
+0.55
+13
+0.37
+467
+14.6
+Brain, meninges and central nervous system
+C70-72,D32-33,D42-43
+618
+20.19
+195
+5.91
+8912
+284.6
+Glioma
+–
+182
+6.07
+125
+3.98
+1529
+54.6
+Meningeoma
+–
+316
+10.26
+10
+0.31
+5815
+178.8
+CNS, nerve sheet tumor
+–
+42
+1.46
+–
+0.04
+1099
+34.9
+Other and unspecified tumor of brain, meninges and central nervous system
+–
+78
+2.41
+59
+1.58
+562
+19.4
+Endocrine glands
+C73-75
+399
+13.67
+46
+1.25
+8830
+290.8
+Thyroid gland
+C73
+371
+12.68
+40
+1.04
+8526
+280.4
+Adrenal gland
+C74
+20
+0.72
+6
+0.21
+239
+8.3
+Other endocrine glands
+C75
+8
+0.28
+0
+0.00
+77
+2.5
+Mesothelioma
+C45
+12
+0.33
+17
+0.47
+50
+1.4
+Bone
+C40-41
+19
+0.66
+5
+0.16
+442
+15.0
+Soft tissues
+C48-49
+113
+3.50
+32
+0.92
+1225
+38.5
+Peripheral nerves, autonomic nervous system
+C47
+–
+0.14
+–
+0.04
+111
+4.0
+Illdefined or unknown
+C76,C80
+253
+6.90
+186
+4.98
+592
+17.9
+Lymphoid and haematopoietic tissue
+C81-96,D45-47,D76
+1611
+49.01
+629
+16.68
+14653
+457.0
+Hodgkin lymphoma
+C81
+73
+2.62
+–
+0.09
+1675
+59.6
+Mature B-cell neoplasms
+–
+917
+27.35
+370
+9.79
+7618
+224.3
+Chronic lymphatic leukaemia
+C91.1
+120
+3.62
+34
+0.87
+1355
+38.3
+Diffuse B lymphoma
+C83.3
+317
+9.32
+136
+3.63
+2273
+67.6
+Follicular B lymphoma
+C82
+170
+5.18
+24
+0.65
+1954
+57.9
+Myeloma and other plasma cell tumors
+C90
+183
+5.36
+146
+3.86
+1074
+31.9
+Burkitt’s lymhoma/leukaemia
+C83.7
+5
+0.15
+–
+0.06
+66
+2.2
+Marginal zone lymphoma
+C83.8
+68
+2.15
+7
+0.19
+632
+18.7
+Mantle cell lymphoma
+C83.1
+27
+0.78
+14
+0.37
+207
+5.9
+Malignant immunoproliferative diseases
+C88
+26
+0.76
+6
+0.14
+182
+5.2
+Other mature B-cell neoplasms
+–
+–
+0.04
+–
+0.02
+75
+2.3
+Mature T and NK cell lymphomas/leukaemias
+C84
+44
+1.34
+20
+0.52
+507
+16.1
+Mature T-cell neoplasias of the skin
+C84.0-1
+24
+0.75
+–
+0.05
+273
+8.6
+Other T and NK cell lymphomas/leukaemias
+C84.3-5
+20
+0.59
+18
+0.47
+237
+7.6
+Acute lymphoblastic leukaemia/lymphoma
+C91.0
+34
+1.34
+10
+0.35
+898
+33.6
+Acute myeloid leukaemia
+C92.0
+103
+3.24
+85
+2.40
+594
+20.4
+Non-Hodgkin lymphoma, other or unspeficied
+C85
+47
+1.26
+23
+0.58
+1056
+31.4
+Leukaemia, other or unspecified
+C95
+23
+0.60
+24
+0.62
+87
+2.9
+Myeloproliferative neoplasms
+C92.1,D45,D47.1,D47.3
+275
+8.48
+35
+0.90
+2038
+63.1
+Chronic myeloid leukaemia
+C92.1
+18
+0.62
+5
+0.12
+262
+8.9
+Polycythaemia vera
+D45
+57
+1.74
+12
+0.32
+433
+12.9
+Myelofibrosis
+D47.1
+34
+1.00
+9
+0.24
+224
+6.7
+Essential thrombocythemia
+D47.3
+132
+4.05
+–
+0.07
+889
+27.4
+Myeloproliferative neoplasm, other
+D47.1
+34
+1.08
+6
+0.15
+320
+10.0
+Myelodysplastic syndromes and myelodysplastic/myeloproliferative neoplasms
+–
+88
+2.53
+58
+1.43
+230
+6.8
+Myelodysplastic syndromes
+D46
+73
+2.10
+49
+1.22
+175
+5.2
+Myelodysplastic/myeloproliferative neoplasms
+–
+15
+0.43
+9
+0.22
+56
+1.6
+Other, unspecified or mixed hematological disease
+C96, D76
+7
+0.25
+0
+0.00
+112
+4.0
+Mastocytosis
+C96.2
+–
+0.04
+0
+0.00
+57
+2.0
+Histiocytic and denritic cell neoplasms
+C96.1, D76
+–
+0.15
+0
+0.00
+48
+1.8
+Other, unspecified or mixed hematological disease
+C96.7-9
+–
+0.06
+0
+0.00
+7
+0.2
+Not included above
+Basal cell carcinoma of the skin
+C44 (Basal cell)
+5264
+157.72
+–
+0.02
+66181
+1869.7
+Basal cell carcinoma of the genitals
+C51-53,C60-63 (Basal cell)
+–
+0.09
+0
+0.00
+145
+3.9
+Cervix uteri, non-invasive neoplasms
+N87.1-2, D06
+2344
+86.79
+0
+0.00
+33516
+1223.2
+Vagina and vulva non-invasive neoplasms
+N89-N90,D07.1-2
+248
+8.54
+0
+0.00
+1405
+46.9
+Carcinoma in situ of the breast
+D05
+594
+20.31
+0
+0.00
+9110
+283.9
+Ductal carcinoma on situ of the breast
+D05.1
+533
+18.29
+0
+0.00
+8330
+259.8
+Lobular carcinoma in situ of the breast
+D05.0
+31
+1.16
+0
+0.00
+588
+18.4
+Other or unspecified carcinoma in situ of the breast
+D05.7-9
+30
+0.87
+0
+0.00
+192
+5.6
+Borderline tumour of the ovary
+D39
+173
+6.00
+7
+0.18
+3244
+106.5
+1
+per 100 000 person-years and age-standardised to the population of Finland in 2014
+2
+per 100 000 persons and age-standardised to the population of Finland in 2014
+TABLE 15.2:
+Number and age-standardised rate of new cancer cases and deaths in 2020 and number and age-standardised proportion of cancer survivors in the population on 31 December 2021, male
+Incidence
+Mortality
+Prevalence
+Cancer site
+ICD-10
+Count
+Rate
+1
+Count
+Rate
+1
+Count
+Proportion
+2
+All sites together
+C00-96,D09.0-1,D32-33, D41-43,D45-47,D76
+19103
+690.76
+7265
+267.55
+138544
+4986.6
+Mouth, pharynx
+C00-14
+479
+17.29
+144
+5.23
+3886
+141.1
+Lip
+C00
+38
+1.43
+0
+0.00
+604
+23.3
+Tongue
+C02
+99
+3.58
+30
+1.10
+774
+27.8
+Salivary glands
+C07-08
+36
+1.25
+15
+0.59
+449
+16.3
+Mouth, other or unspecified
+C03-06
+120
+4.29
+41
+1.47
+747
+26.8
+Pharynx
+C01,C09-14
+186
+6.74
+58
+2.06
+1359
+48.6
+Digestive organs
+C15-26
+4152
+150.02
+2531
+91.97
+19614
+708.3
+Oesophagus
+C15
+260
+9.16
+235
+8.45
+593
+20.9
+Stomach
+C16
+413
+15.18
+276
+10.15
+1591
+57.7
+Small intestine
+C17
+114
+4.13
+44
+1.59
+754
+26.9
+Colon and rectum
+C18-20
+2108
+76.45
+745
+27.55
+14964
+542.4
+Colon
+C18
+1263
+45.92
+477
+17.70
+8721
+318.1
+Rectum, rectosigmoid
+C19-20
+845
+30.53
+268
+9.85
+6406
+230.1
+Anus
+C21
+21
+0.79
+6
+0.19
+169
+6.1
+Liver
+C22
+357
+12.65
+335
+11.71
+625
+22.1
+Gallbladder, bile ducts
+C23-24
+169
+6.01
+157
+5.65
+297
+10.4
+Pancreas
+C25
+612
+21.98
+652
+23.64
+770
+27.1
+Digestive organs, other and unspecified
+C26
+98
+3.69
+81
+3.03
+82
+2.9
+Respiratory and intrathoracic organs
+C30-39
+1936
+68.85
+1572
+55.99
+4775
+166.8
+Nose, sinuses
+C30-31
+27
+1.02
+15
+0.53
+222
+8.0
+Larynx, epiglottis
+C32
+118
+4.25
+48
+1.84
+956
+34.0
+Lung, trachea
+C33-34
+1754
+62.21
+1491
+52.97
+3471
+120.4
+Other or unspecified respiratory or intrathoracic organs
+C37-39
+37
+1.37
+18
+0.65
+162
+5.7
+Breast
+C50
+23
+0.86
+5
+0.19
+287
+10.5
+Male genital organs
+C60-63
+5413
+193.39
+990
+38.45
+64005
+2289.9
+Penis
+C60
+44
+1.62
+8
+0.31
+383
+14.0
+Prostate
+C61
+5214
+186.23
+976
+37.93
+60003
+2145.6
+Testis
+C62
+144
+5.13
+5
+0.18
+3652
+131.5
+Male genital, other and unspecified
+C63
+11
+0.42
+–
+0.04
+76
+2.7
+Urinary organs
+C64-68,D09.0-1,D41.1-9
+1716
+61.95
+478
+18.16
+14610
+527.6
+Kidney
+C64
+643
+22.74
+204
+7.56
+5321
+190.0
+Bladder and urinary tract
+C65-68,D09.0-1,D41.1-9
+1073
+39.20
+274
+10.60
+9421
+342.3
+Skin
+C43-44
+2258
+84.52
+154
+5.80
+18785
+697.9
+Melanoma of the skin
+C43
+981
+35.74
+118
+4.36
+10521
+382.4
+Skin, squamous cell carcinoma
+C44 (Squamous cell)
+1191
+45.49
+28
+1.13
+7844
+301.1
+Skin, other
+C44 (Other)
+86
+3.30
+8
+0.31
+889
+32.8
+Eye
+C69
+18
+0.69
+18
+0.62
+459
+16.8
+Brain, meninges and central nervous system
+C70-72,D32-33,D42-43
+448
+16.26
+241
+8.82
+4746
+170.7
+Glioma
+–
+239
+8.55
+189
+6.75
+1606
+57.8
+Meningeoma
+–
+113
+3.94
+6
+0.19
+1727
+61.7
+CNS, nerve sheet tumor
+–
+28
+1.07
+0
+0.00
+913
+33.1
+Other and unspecified tumor of brain, meninges and central nervous system
+–
+68
+2.70
+46
+1.88
+558
+20.2
+Endocrine glands
+C73-75
+207
+7.57
+36
+1.30
+2504
+90.3
+Thyroid gland
+C73
+177
+6.42
+27
+0.97
+2236
+80.6
+Adrenal gland
+C74
+22
+0.86
+8
+0.29
+184
+6.7
+Other endocrine glands
+C75
+8
+0.29
+–
+0.04
+88
+3.2
+Mesothelioma
+C45
+88
+3.19
+86
+3.10
+115
+3.9
+Bone
+C40-41
+26
+0.95
+10
+0.38
+482
+17.4
+Soft tissues
+C48-49
+103
+3.69
+46
+1.68
+1266
+46.1
+Peripheral nerves, autonomic nervous system
+C47
+6
+0.20
+–
+0.04
+123
+4.4
+Illdefined or unknown
+C76,C80
+281
+10.64
+190
+7.34
+507
+18.3
+Lymphoid and haematopoietic tissue
+C81-96,D45-47,D76
+1948
+70.65
+763
+28.49
+15860
+567.7
+Hodgkin lymphoma
+C81
+120
+4.35
+13
+0.44
+2046
+73.6
+Mature B-cell neoplasms
+–
+1132
+40.78
+443
+16.54
+8203
+292.2
+Chronic lymphatic leukaemia
+C91.1
+180
+6.49
+48
+1.96
+1801
+64.0
+Diffuse B lymphoma
+C83.3
+407
+14.63
+163
+5.91
+2411
+86.2
+Follicular B lymphoma
+C82
+166
+5.91
+16
+0.60
+1495
+53.0
+Myeloma and other plasma cell tumors
+C90
+198
+7.13
+148
+5.41
+1131
+40.1
+Burkitt’s lymhoma/leukaemia
+C83.7
+9
+0.33
+–
+0.03
+180
+6.4
+Marginal zone lymphoma
+C83.8
+43
+1.59
+9
+0.35
+422
+15.2
+Mantle cell lymphoma
+C83.1
+75
+2.74
+45
+1.77
+467
+16.6
+Malignant immunoproliferative diseases
+C88
+35
+1.30
+10
+0.38
+239
+8.6
+Other mature B-cell neoplasms
+–
+19
+0.66
+–
+0.11
+272
+9.8
+Mature T and NK cell lymphomas/leukaemias
+C84
+74
+2.65
+31
+1.11
+598
+21.6
+Mature T-cell neoplasias of the skin
+C84.0-1
+36
+1.29
+5
+0.19
+336
+12.2
+Other T and NK cell lymphomas/leukaemias
+C84.3-5
+38
+1.36
+26
+0.92
+266
+9.6
+Acute lymphoblastic leukaemia/lymphoma
+C91.0
+39
+1.46
+7
+0.27
+1035
+37.2
+Acute myeloid leukaemia
+C92.0
+122
+4.44
+127
+4.63
+496
+17.8
+Non-Hodgkin lymphoma, other or unspeficied
+C85
+66
+2.42
+32
+1.20
+1455
+52.5
+Leukaemia, other or unspecified
+C95
+18
+0.65
+16
+0.59
+98
+3.5
+Myeloproliferative neoplasms
+C92.1,D45,D47.1,D47.3
+261
+9.62
+29
+1.08
+1810
+64.9
+Chronic myeloid leukaemia
+C92.1
+30
+1.15
+7
+0.27
+324
+11.6
+Polycythaemia vera
+D45
+53
+1.92
+6
+0.24
+433
+15.6
+Myelofibrosis
+D47.1
+35
+1.25
+6
+0.24
+214
+7.5
+Essential thrombocythemia
+D47.3
+109
+4.06
+–
+0.09
+632
+22.7
+Myeloproliferative neoplasm, other
+D47.1
+34
+1.24
+7
+0.25
+273
+9.8
+Myelodysplastic syndromes and myelodysplastic/myeloproliferative neoplasms
+–
+109
+4.04
+64
+2.61
+248
+8.9
+Myelodysplastic syndromes
+D46
+88
+3.29
+52
+2.14
+179
+6.5
+Myelodysplastic/myeloproliferative neoplasms
+–
+21
+0.74
+12
+0.47
+70
+2.5
+Other, unspecified or mixed hematological disease
+C96, D76
+7
+0.25
+–
+0.03
+105
+3.8
+Mastocytosis
+C96.2
+–
+0.11
+0
+0.00
+48
+1.8
+Histiocytic and denritic cell neoplasms
+C96.1, D76
+–
+0.14
+–
+0.03
+52
+1.9
+Other, unspecified or mixed hematological disease
+C96.7-9
+0
+0.00
+0
+0.00
+5
+0.2
+Not included above
+Basal cell carcinoma of the skin
+C44 (Basal cell)
+4641
+168.50
+–
+0.03
+52627
+1932.5
+Basal cell carcinoma of the genitals
+C51-53,C60-63 (Basal cell)
+0
+0.00
+0
+0.00
+11
+0.4
+Carcinoma in situ of the breast
+D05
+–
+0.13
+0
+0.00
+29
+1.1
+Ductal carcinoma on situ of the breast
+D05.1
+–
+0.05
+0
+0.00
+24
+0.9
+Lobular carcinoma in situ of the breast
+D05.0
+0
+0.00
+0
+0.00
+0
+0.0
+Other or unspecified carcinoma in situ of the breast
+D05.7-9
+–
+0.08
+0
+0.00
+5
+0.2
+1
+per 100 000 person-years and age-standardised to the population of Finland in 2014
+2
+per 100 000 persons and age-standardised to the population of Finland in 2014
+15.2
+Survival of cancer patients
+TABLE 15.3:
+Five-year relative survival rates in cancer patients followed up in 2019-2021 by age group, female
+5-year relative survival (%)
+Age at diagnosis
+Cancer site
+ICD-10
+All
+0-54
+55-74
+75+
+All sites together
+C00-96,D09.0-1,D32-33,D41-43,D45-47,D76
+71
+89
+75
+58
+Mouth, pharynx
+C00-14
+77
+90
+75
+72
+Digestive organs
+C15-26
+45
+68
+47
+37
+Oesophagus
+C15
+19
+23
+21
+14
+Stomach
+C16
+32
+56
+35
+21
+Colon and rectum
+C18-20
+70
+81
+72
+66
+Colon
+C18
+69
+81
+70
+65
+Rectum, rectosigmoid
+C19-20
+73
+82
+76
+65
+Liver
+C22
+10
+29
+11
+7
+Gallbladder, bile ducts
+C23-24
+14
+46
+15
+9
+Pancreas
+C25
+8
+33
+9
+2
+Respiratory and intrathoracic organs
+C30-39
+24
+42
+28
+15
+Lung, trachea
+C33-34
+22
+39
+26
+14
+Breast
+C50
+92
+93
+94
+85
+Female genital organs
+C51-58
+67
+84
+70
+54
+Cervix uteri
+C53
+74
+85
+60
+46
+Corpus uteri
+C54
+81
+90
+85
+73
+Ovary etc.
+C48.1-2 (Serous), C56, C57.0-4
+48
+78
+49
+28
+Urinary organs
+C64-68,D09.0-1,D41.1-9
+68
+90
+74
+55
+Kidney
+C64
+71
+89
+74
+58
+Bladder and urinary tract
+C65-68,D09.0-1,D41.1-9
+65
+90
+76
+52
+Skin
+C43-44
+94
+97
+95
+92
+Melanoma of the skin
+C43
+94
+97
+96
+89
+Skin, squamous cell carcinoma
+C44 (Squamous cell)
+95
+99
+93
+95
+Brain, meninges and central nervous system
+C70-72,D32-33,D42-43
+68
+88
+68
+40
+Glioma
+–
+34
+73
+15
+4
+Meningeoma
+–
+96
+99
+96
+93
+Endocrine glands
+C73-75
+93
+98
+94
+77
+Thyroid gland
+C73
+94
+99
+94
+78
+Soft tissues
+C48-49
+63
+84
+66
+46
+Lymphoid and haematopoietic tissue
+C81-96,D45-47,D76
+68
+92
+77
+43
+Hodgkin lymphoma
+C81
+92
+99
+92
+29
+Mature B-cell neoplasms
+–
+68
+89
+79
+48
+Myeloma and other plasma cell tumors
+C90
+44
+82
+60
+22
+TABLE 15.4:
+Five-year relative survival rates in cancer patients followed up in 2019-2021 by age group, male
+5-year relative survival (%)
+Age at diagnosis
+Cancer site
+ICD-10
+All
+0-54
+55-74
+75+
+All sites together
+C00-96,D09.0-1,D32-33,D41-43,D45-47,D76
+69
+79
+69
+65
+Mouth, pharynx
+C00-14
+65
+78
+63
+64
+Digestive organs
+C15-26
+41
+51
+41
+38
+Oesophagus
+C15
+14
+13
+16
+10
+Stomach
+C16
+26
+33
+28
+23
+Colon and rectum
+C18-20
+66
+71
+68
+63
+Colon
+C18
+65
+70
+65
+63
+Rectum, rectosigmoid
+C19-20
+68
+71
+71
+63
+Liver
+C22
+11
+20
+11
+9
+Gallbladder, bile ducts
+C23-24
+11
+17
+13
+8
+Pancreas
+C25
+7
+24
+8
+3
+Respiratory and intrathoracic organs
+C30-39
+18
+36
+20
+12
+Larynx, epiglottis
+C32
+61
+70
+64
+52
+Lung, trachea
+C33-34
+14
+24
+16
+9
+Male genital organs
+C60-63
+94
+96
+95
+92
+Prostate
+C61
+94
+97
+96
+92
+Testis
+C62
+96
+97
+88
+97
+Urinary organs
+C64-68,D09.0-1,D41.1-9
+75
+85
+77
+69
+Kidney
+C64
+73
+84
+72
+71
+Bladder and urinary tract
+C65-68,D09.0-1,D41.1-9
+75
+88
+81
+68
+Skin
+C43-44
+94
+95
+94
+93
+Melanoma of the skin
+C43
+94
+95
+93
+96
+Skin, squamous cell carcinoma
+C44 (Squamous cell)
+95
+96
+95
+94
+Brain, meninges and central nervous system
+C70-72,D32-33,D42-43
+46
+69
+40
+25
+Glioma
+–
+25
+52
+11
+8
+Meningeoma
+–
+90
+96
+88
+87
+Endocrine glands
+C73-75
+82
+93
+78
+65
+Thyroid gland
+C73
+85
+95
+81
+67
+Soft tissues
+C48-49
+62
+68
+63
+58
+Lymphoid and haematopoietic tissue
+C81-96,D45-47,D76
+61
+90
+68
+38
+Hodgkin lymphoma
+C81
+90
+98
+80
+57
+Mature B-cell neoplasms
+–
+64
+87
+72
+45
+Myeloma and other plasma cell tumors
+C90
+42
+72
+54
+25
+15.3
+Long-term changes, incidence
+TABLE 15.5:
+Average annual percent change in incidence in 1990-2019, female
+Trend change and period
+Cancer site
+ICD-10
+1. trend
+2. trend
+All sites together
+C00-96,D09.0-1,D32-33, D41-43,D45-47,D76
+0.7% (1990-2006)
+1.0% (2007-2019)
+Mouth, pharynx
+C00-14
+1.0% (1990-2019)
+–
+Lip
+C00
+1.2% (1990-1997)
+-5.1% (1998-2019)
+Pharynx
+C01,C09-14
+-0.7% (1990-1999)
+4.7% (2000-2019)
+Digestive organs
+C15-26
+-0.8% (1990-2004)
+0.5% (2005-2019)
+Oesophagus
+C15
+-2.1% (1990-2011)
+2.7% (2012-2019)
+Stomach
+C16
+-4.0% (1990-2011)
+-1.9% (2012-2019)
+Colon and rectum
+C18-20
+0.2% (1990-2010)
+1.6% (2011-2019)
+Colon
+C18
+0.3% (1990-2005)
+1.2% (2006-2019)
+Rectum, rectosigmoid
+C19-20
+-0.4% (1990-2013)
+2.8% (2014-2019)
+Liver
+C22
+0.9% (1990-2019)
+–
+Gallbladder, bile ducts
+C23-24
+-2.8% (1990-2010)
+1.2% (2011-2019)
+Pancreas
+C25
+-2.1% (1990-1994)
+0.9% (1995-2019)
+Respiratory and intrathoracic organs
+C30-39
+2.3% (1990-2019)
+–
+Larynx, epiglottis
+C32
+0.3% (1990-2019)
+–
+Lung, trachea
+C33-34
+2.3% (1990-2019)
+–
+Breast
+C50
+2.2% (1990-1999)
+1.2% (2000-2019)
+Female genital organs
+C51-58
+2.0% (1990-1995)
+-0.2% (1996-2019)
+Cervix uteri
+C53
+-0.1% (1990-2019)
+–
+Corpus uteri
+C54
+2.3% (1990-1997)
+-0.2% (1998-2019)
+Ovary etc.
+C48.1-2 (Serous), C56, C57.0-4
+1.6% (1990-1994)
+-0.7% (1995-2019)
+Urinary organs
+C64-68,D09.0-1,D41.1-9
+0.0% (1990-2019)
+–
+Kidney
+C64
+0.0% (1990-2019)
+–
+Bladder and urinary tract
+C65-68,D09.0-1,D41.1-9
+-0.2% (1990-2015)
+6.1% (2016-2019)
+Skin
+C43-44
+2.0% (1990-2002)
+3.4% (2003-2019)
+Melanoma of the skin
+C43
+2.3% (1990-2000)
+4.8% (2001-2019)
+Skin, squamous cell carcinoma
+C44 (Squamous cell)
+2.0% (1990-2019)
+–
+Brain, meninges and central nervous system
+C70-72,D32-33,D42-43
+2.2% (1990-2002)
+-0.4% (2003-2019)
+Glioma
+–
+0.7% (1990-2019)
+–
+Meningeoma
+–
+4.5% (1990-2000)
+-0.3% (2001-2019)
+Endocrine glands
+C73-75
+0.1% (1990-2005)
+2.8% (2006-2019)
+Thyroid gland
+C73
+0.1% (1990-2004)
+2.6% (2005-2019)
+Soft tissues
+C48-49
+0.5% (1990-2019)
+–
+Lymphoid and haematopoietic tissue
+C81-96,D45-47,D76
+1.0% (1990-2019)
+–
+Hodgkin lymphoma
+C81
+0.7% (1990-2019)
+–
+Mature B-cell neoplasms
+–
+Chronic lymphatic leukaemia
+C91.1
+0.2% (1990-2013)
+-7.4% (2014-2019)
+Myeloma and other plasma cell tumors
+C90
+5.8% (1990-1993)
+-0.3% (1994-2019)
+Acute lymphoblastic leukaemia/lymphoma
+C91.0
+-0.4% (1990-2019)
+–
+Acute myeloid leukaemia
+C92.0
+0.7% (1990-2019)
+–
+Myeloproliferative neoplasms
+C92.1,D45,D47.1,D47.3
+Chronic myeloid leukaemia
+C92.1
+-2.2% (1990-2019)
+–
+TABLE 15.6:
+Average annual percent change in incidence in 1990-2019, male
+Trend change and period
+Cancer site
+ICD-10
+1. trend
+2. trend
+All sites together
+C00-96,D09.0-1,D32-33, D41-43,D45-47,D76
+1.0% (1990-2003)
+-0.2% (2004-2019)
+Mouth, pharynx
+C00-14
+-0.7% (1990-2004)
+1.6% (2005-2019)
+Lip
+C00
+-6.5% (1990-2019)
+–
+Pharynx
+C01,C09-14
+1.6% (1990-2003)
+4.8% (2004-2019)
+Digestive organs
+C15-26
+-0.7% (1990-1999)
+0.5% (2000-2019)
+Oesophagus
+C15
+-2.0% (1990-1996)
+1.3% (1997-2019)
+Stomach
+C16
+-4.1% (1990-2011)
+-2.2% (2012-2019)
+Colon and rectum
+C18-20
+0.8% (1990-2019)
+–
+Colon
+C18
+3.7% (1990-1993)
+0.8% (1994-2019)
+Rectum, rectosigmoid
+C19-20
+0.4% (1990-2019)
+–
+Liver
+C22
+2.0% (1990-2019)
+–
+Gallbladder, bile ducts
+C23-24
+-1.0% (1990-2009)
+2.0% (2010-2019)
+Pancreas
+C25
+0.6% (1990-2019)
+–
+Respiratory and intrathoracic organs
+C30-39
+-3.0% (1990-2001)
+-1.7% (2002-2019)
+Larynx, epiglottis
+C32
+-1.9% (1990-2019)
+–
+Lung, trachea
+C33-34
+-3.2% (1990-2001)
+-1.8% (2002-2019)
+Male genital organs
+C60-63
+5.9% (1990-2002)
+-1.9% (2003-2019)
+Prostate
+C61
+6.0% (1990-2002)
+-2.1% (2003-2019)
+Testis
+C62
+4.4% (1990-2013)
+-2.0% (2014-2019)
+Urinary organs
+C64-68,D09.0-1,D41.1-9
+-1.1% (1990-2003)
+0.7% (2004-2019)
+Kidney
+C64
+-1.2% (1990-2006)
+1.5% (2007-2019)
+Bladder and urinary tract
+C65-68,D09.0-1,D41.1-9
+-1.2% (1990-2001)
+0.4% (2002-2019)
+Skin
+C43-44
+1.8% (1990-2001)
+3.5% (2002-2019)
+Melanoma of the skin
+C43
+1.8% (1990-2000)
+4.3% (2001-2019)
+Skin, squamous cell carcinoma
+C44 (Squamous cell)
+2.6% (1990-2019)
+–
+Brain, meninges and central nervous system
+C70-72,D32-33,D42-43
+0.3% (1990-2019)
+–
+Glioma
+–
+0.7% (1990-2019)
+–
+Meningeoma
+–
+2.9% (1990-2002)
+-0.5% (2003-2019)
+Endocrine glands
+C73-75
+0.6% (1990-2007)
+4.2% (2008-2019)
+Thyroid gland
+C73
+1.0% (1990-2007)
+4.0% (2008-2019)
+Soft tissues
+C48-49
+0.8% (1990-2019)
+–
+Lymphoid and haematopoietic tissue
+C81-96,D45-47,D76
+1.0% (1990-2019)
+–
+Hodgkin lymphoma
+C81
+0.6% (1990-2019)
+–
+Mature B-cell neoplasms
+–
+Chronic lymphatic leukaemia
+C91.1
+0.0% (1990-2019)
+–
+Myeloma and other plasma cell tumors
+C90
+0.9% (1990-2009)
+-1.6% (2010-2019)
+Acute lymphoblastic leukaemia/lymphoma
+C91.0
+0.4% (1990-2019)
+–
+Acute myeloid leukaemia
+C92.0
+0.3% (1990-2019)
+–
+Myeloproliferative neoplasms
+C92.1,D45,D47.1,D47.3
+Chronic myeloid leukaemia
+C92.1
+-2.9% (1990-2019)
+–
+15.4
+Long-term changes, mortality
+TABLE 15.7:
+Average annual percent change in cancer mortality in 1990-2021, female
+Trend change and period
+Cancer site
+ICD-10
+1. trend
+2. trend
+All sites together
+C00-96,D09.0-1,D32-33, D41-43,D45-47,D76
+-1.0% (1990-2005)
+-0.5% (2006-2021)
+Mouth, pharynx
+C00-14
+-0.2% (1990-2021)
+–
+Lip
+C00
+-2.8% (1990-2021)
+–
+Pharynx
+C01,C09-14
+-0.2% (1990-2021)
+–
+Digestive organs
+C15-26
+-2.4% (1990-1998)
+-0.7% (1999-2021)
+Oesophagus
+C15
+-3.4% (1990-2002)
+-0.5% (2003-2021)
+Stomach
+C16
+-4.1% (1990-2021)
+–
+Colon and rectum
+C18-20
+-1.6% (1990-2005)
+-0.6% (2006-2021)
+Colon
+C18
+-1.5% (1990-2003)
+-0.1% (2004-2021)
+Rectum, rectosigmoid
+C19-20
+-1.8% (1990-2021)
+–
+Liver
+C22
+1.2% (1990-2009)
+-1.3% (2010-2021)
+Gallbladder, bile ducts
+C23-24
+-2.9% (1990-2011)
+0.8% (2012-2021)
+Pancreas
+C25
+-2.8% (1990-1994)
+0.6% (1995-2021)
+Respiratory and intrathoracic organs
+C30-39
+1.9% (1990-2013)
+0.5% (2014-2021)
+Larynx, epiglottis
+C32
+0.1% (1990-2021)
+–
+Lung, trachea
+C33-34
+1.9% (1990-2013)
+0.5% (2014-2021)
+Breast
+C50
+-0.8% (1990-2021)
+–
+Female genital organs
+C51-58
+-1.2% (1990-2001)
+0.1% (2002-2021)
+Cervix uteri
+C53
+-2.6% (1990-2021)
+–
+Corpus uteri
+C54
+0.1% (1990-2021)
+–
+Ovary etc.
+C48.1-2 (Serous), C56, C57.0-4
+-0.4% (1990-2021)
+–
+Urinary organs
+C64-68,D09.0-1,D41.1-9
+-1.2% (1990-2021)
+–
+Kidney
+C64
+-1.4% (1990-2021)
+–
+Bladder and urinary tract
+C65-68,D09.0-1,D41.1-9
+-4.7% (1990-1996)
+-0.4% (1997-2021)
+Skin
+C43-44
+-0.2% (1990-2021)
+–
+Melanoma of the skin
+C43
+-0.1% (1990-2021)
+–
+Skin, squamous cell carcinoma
+C44 (Squamous cell)
+-1.5% (1990-2021)
+–
+Brain, meninges and central nervous system
+C70-72,D32-33,D42-43
+-0.5% (1990-2021)
+–
+Glioma
+–
+0.3% (1990-2021)
+–
+Meningeoma
+–
+-2.5% (1990-2021)
+–
+Endocrine glands
+C73-75
+-3.0% (1990-2008)
+0.0% (2009-2021)
+Thyroid gland
+C73
+-5.5% (1990-2000)
+-0.5% (2001-2021)
+Soft tissues
+C48-49
+-0.2% (1990-2021)
+–
+Lymphoid and haematopoietic tissue
+C81-96,D45-47,D76
+0.9% (1990-1994)
+-1.6% (1995-2021)
+Hodgkin lymphoma
+C81
+-3.6% (1990-2021)
+–
+Mature B-cell neoplasms
+–
+Chronic lymphatic leukaemia
+C91.1
+-3.4% (1990-2021)
+–
+Myeloma and other plasma cell tumors
+C90
+-1.1% (1990-2021)
+–
+Acute lymphoblastic leukaemia/lymphoma
+C91.0
+-3.1% (1990-2021)
+–
+Acute myeloid leukaemia
+C92.0
+31.5% (1990-1991)
+-0.2% (1992-2021)
+Myeloproliferative neoplasms
+C92.1,D45,D47.1,D47.3
+Chronic myeloid leukaemia
+C92.1
+-8.3% (1990-2021)
+–
+TABLE 15.8:
+Average annual percent change in cancer mortality in 1990-2021, male
+Trend change and period
+Cancer site
+ICD-10
+1. trend
+2. trend
+All sites together
+C00-96,D09.0-1,D32-33, D41-43,D45-47,D76
+-1.7% (1990-2007)
+-1.1% (2008-2021)
+Mouth, pharynx
+C00-14
+0.3% (1990-2021)
+–
+Lip
+C00
+-6.5% (1990-2021)
+–
+Pharynx
+C01,C09-14
+0.7% (1990-2021)
+–
+Digestive organs
+C15-26
+-1.6% (1990-2001)
+-0.1% (2002-2021)
+Oesophagus
+C15
+-0.5% (1990-2005)
+1.6% (2006-2021)
+Stomach
+C16
+-4.3% (1990-2013)
+-1.9% (2014-2021)
+Colon and rectum
+C18-20
+-0.7% (1990-2021)
+–
+Colon
+C18
+-0.2% (1990-2021)
+–
+Rectum, rectosigmoid
+C19-20
+-1.3% (1990-2021)
+–
+Liver
+C22
+1.6% (1990-2021)
+–
+Gallbladder, bile ducts
+C23-24
+-1.4% (1990-2011)
+3.2% (2012-2021)
+Pancreas
+C25
+0.3% (1990-2021)
+–
+Respiratory and intrathoracic organs
+C30-39
+-3.3% (1990-2000)
+-2.4% (2001-2021)
+Larynx, epiglottis
+C32
+-2.3% (1990-2021)
+–
+Lung, trachea
+C33-34
+-3.3% (1990-2000)
+-2.4% (2001-2021)
+Male genital organs
+C60-63
+0.0% (1990-1997)
+-2.5% (1998-2021)
+Prostate
+C61
+0.1% (1990-1997)
+-2.5% (1998-2021)
+Testis
+C62
+0.2% (1990-2021)
+–
+Urinary organs
+C64-68,D09.0-1,D41.1-9
+-1.5% (1990-2021)
+–
+Kidney
+C64
+-1.7% (1990-2021)
+–
+Bladder and urinary tract
+C65-68,D09.0-1,D41.1-9
+-1.3% (1990-2021)
+–
+Skin
+C43-44
+1.1% (1990-2015)
+-4.4% (2016-2021)
+Melanoma of the skin
+C43
+1.0% (1990-2015)
+-6.1% (2016-2021)
+Skin, squamous cell carcinoma
+C44 (Squamous cell)
+0.8% (1990-2021)
+–
+Brain, meninges and central nervous system
+C70-72,D32-33,D42-43
+-0.1% (1990-2021)
+–
+Glioma
+–
+0.8% (1990-2021)
+–
+Meningeoma
+–
+-3.1% (1990-2021)
+–
+Endocrine glands
+C73-75
+-0.5% (1990-2021)
+–
+Thyroid gland
+C73
+0.0% (1990-2021)
+–
+Soft tissues
+C48-49
+-0.3% (1990-2021)
+–
+Lymphoid and haematopoietic tissue
+C81-96,D45-47,D76
+-1.2% (1990-2021)
+–
+Hodgkin lymphoma
+C81
+-11.1% (1990-1997)
+-1.0% (1998-2021)
+Mature B-cell neoplasms
+–
+Chronic lymphatic leukaemia
+C91.1
+-3.3% (1990-2021)
+–
+Myeloma and other plasma cell tumors
+C90
+-1.0% (1990-2021)
+–
+Acute lymphoblastic leukaemia/lymphoma
+C91.0
+-1.8% (1990-2013)
+-10.7% (2014-2021)
+Acute myeloid leukaemia
+C92.0
+-1.1% (1990-2009)
+2.0% (2010-2021)
+Myeloproliferative neoplasms
+C92.1,D45,D47.1,D47.3
+Chronic myeloid leukaemia
+C92.1
+0.2% (1990-1997)
+-10.6% (1998-2021)

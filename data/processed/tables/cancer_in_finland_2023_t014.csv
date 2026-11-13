@@ -1,0 +1,43 @@
+Cancer site,ICD-10,Trend change and period | 1. trend,Trend change and period | 2. trend
+All sites together,"C00-96,D09.0-1,D32-33, D41-43,D45-47,D76",-1.0% (1990-2005),-0.5% (2006-2023)
+"Mouth, pharynx",C00-14,-0.1% (1990-2023),–
+Lip,C00,-2.5% (1990-2023),–
+Pharynx,"C01,C09-14",0.1% (1990-2023),–
+Digestive organs,C15-26,-2.5% (1990-1998),-0.6% (1999-2023)
+Oesophagus,C15,-3.4% (1990-2002),-0.6% (2003-2023)
+Stomach,C16,-4.0% (1990-2023),–
+Colon and rectum,C18-20,-1.6% (1990-2006),-0.3% (2007-2023)
+Colon,C18,-1.5% (1990-2003),-0.1% (2004-2023)
+"Rectum, rectosigmoid",C19-20,-1.9% (1990-2019),5.9% (2020-2023)
+Liver,C22,0.4% (1990-2020),-5.9% (2021-2023)
+"Gallbladder, bile ducts",C23-24,-2.9% (1990-2011),0.5% (2012-2023)
+Pancreas,C25,-2.6% (1990-1994),0.5% (1995-2023)
+Respiratory and intrathoracic organs,C30-39,1.9% (1990-2013),0.6% (2014-2023)
+"Larynx, epiglottis",C32,0.4% (1990-2023),–
+"Lung, trachea",C33-34,1.9% (1990-2013),0.5% (2014-2023)
+Breast,C50,-0.8% (1990-2023),–
+Female genital organs,C51-58,-1.5% (1990-1998),-0.1% (1999-2023)
+Cervix uteri,C53,-2.5% (1990-2023),–
+Corpus uteri,C54,0.1% (1990-2023),–
+Ovary etc.,"C48.1-2 (Serous), C56, C57.0-4",-0.5% (1990-2023),–
+Urinary organs,"C64-68,D09.0-1,D41.1-9",-1.2% (1990-2023),–
+Kidney,C64,-1.1% (1990-2015),-3.9% (2016-2023)
+Bladder and urinary tract,"C65-68,D09.0-1,D41.1-9",-4.8% (1990-1996),-0.3% (1997-2023)
+Skin,C43-44,-0.2% (1990-2023),–
+Melanoma of the skin,C43,-0.1% (1990-2023),–
+"Skin, squamous cell carcinoma",C44 (Squamous cell),-1.1% (1990-2023),–
+"Brain, meninges and central nervous system","C70-72,D32-33,D42-43",-0.5% (1990-2023),–
+Glioma,–,0.4% (1990-2023),–
+Meningeoma,–,-2.6% (1990-2023),–
+Endocrine glands,C73-75,-1.8% (1990-2023),–
+Thyroid gland,C73,-5.5% (1990-2001),-0.5% (2002-2023)
+Soft tissues,C48-49,-0.1% (1990-2023),–
+Lymphoid and haematopoietic tissue,"C81-96,D45-47,D76",0.8% (1990-1994),-1.5% (1995-2023)
+Hodgkin lymphoma,C81,-3.6% (1990-2023),–
+Mature B-cell neoplasms,–,,
+Chronic lymphatic leukaemia,C91.1,-3.5% (1990-2023),–
+Myeloma and other plasma cell tumors,C90,-1.1% (1990-2023),–
+Acute lymphoblastic leukaemia/lymphoma,C91.0,-3.2% (1990-2023),–
+Acute myeloid leukaemia,C92.0,31.5% (1990-1991),-0.3% (1992-2023)
+Myeloproliferative neoplasms,"C92.1,D45,D47.1,D47.3",,
+Chronic myeloid leukaemia,C92.1,-8.0% (1990-2023),–

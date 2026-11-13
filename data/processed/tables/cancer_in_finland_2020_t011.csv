@@ -1,0 +1,41 @@
+Cancer site,ICD-10,Trend change and period | 1. trend,Trend change and period | 2. trend
+All sites together,"C00-96,D09.0-1,D32-33, D41-43,D45-47,D76",1.0% (1990-2003),-0.2% (2004-2019)
+"Mouth, pharynx",C00-14,-0.7% (1990-2004),1.6% (2005-2019)
+Lip,C00,-6.5% (1990-2019),–
+Pharynx,"C01,C09-14",1.6% (1990-2003),4.8% (2004-2019)
+Digestive organs,C15-26,-0.7% (1990-1999),0.4% (2000-2019)
+Oesophagus,C15,-1.9% (1990-1996),1.3% (1997-2019)
+Stomach,C16,-4.1% (1990-2011),-2.3% (2012-2019)
+Colon and rectum,C18-20,0.7% (1990-2019),–
+Colon,C18,1.0% (1990-2019),–
+"Rectum, rectosigmoid",C19-20,0.4% (1990-2019),–
+Liver,C22,1.9% (1990-2019),–
+"Gallbladder, bile ducts",C23-24,-0.2% (1990-2019),–
+Pancreas,C25,0.5% (1990-2019),–
+Respiratory and intrathoracic organs,C30-39,-3.0% (1990-2001),-1.7% (2002-2019)
+"Larynx, epiglottis",C32,-1.9% (1990-2019),–
+"Lung, trachea",C33-34,-3.2% (1990-2000),-1.8% (2001-2019)
+Male genital organs,C60-63,5.9% (1990-2002),-2.0% (2003-2019)
+Prostate,C61,6.0% (1990-2002),-2.1% (2003-2019)
+Testis,C62,4.4% (1990-2013),-1.8% (2014-2019)
+Urinary organs,"C64-68,D09.0-1,D41.1-9",-1.1% (1990-2003),0.7% (2004-2019)
+Kidney,C64,-1.2% (1990-2006),1.5% (2007-2019)
+Bladder and urinary tract,"C65-68,D09.0-1,D41.1-9",-1.2% (1990-2001),0.4% (2002-2019)
+Skin,C43-44,1.8% (1990-2001),3.5% (2002-2019)
+Melanoma of the skin,C43,1.8% (1990-2000),4.3% (2001-2019)
+"Skin, squamous cell carcinoma",C44 (Squamous cell),2.6% (1990-2019),–
+"Brain, meninges and central nervous system","C70-72,D32-33,D42-43",0.3% (1990-2019),–
+Glioma,–,0.7% (1990-2019),–
+Meningeoma,–,3.0% (1990-2002),-0.5% (2003-2019)
+Endocrine glands,C73-75,0.6% (1990-2007),4.2% (2008-2019)
+Thyroid gland,C73,1.0% (1990-2007),4.0% (2008-2019)
+Soft tissues,C48-49,0.8% (1990-2019),–
+Lymphoid and haematopoietic tissue,"C81-96,D45-47,D76",0.9% (1990-2019),–
+Hodgkin lymphoma,C81,0.6% (1990-2019),–
+Mature B-cell neoplasms,–,,
+Chronic lymphatic leukaemia,C91.1,-0.1% (1990-2019),–
+Myeloma and other plasma cell tumors,C90,0.4% (1990-2016),-10.3% (2017-2019)
+Acute lymphoblastic leukaemia/lymphoma,C91.0,0.4% (1990-2019),–
+Acute myeloid leukaemia,C92.0,0.2% (1990-2019),–
+Myeloproliferative neoplasms,"C92.1,D45,D47.1,D47.3",,
+Chronic myeloid leukaemia,C92.1,-2.9% (1990-2019),–

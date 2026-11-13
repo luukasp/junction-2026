@@ -1,0 +1,522 @@
+Nea Malila, Janne Pitkäniemi, Elina Hermiö, Sebastian Johansson, Karri Seppä ja Salla Toikkanen
+
+
+
+       KEUHKOSYÖPÄ SUOMESSA
+      – Katsaus keuhkosyövän hoidon laadusta
+
+
+
+
+                    Keuhkosyöpiä
+                    Yhteensä   13 324
+                    Miehet      8 102
+                    Naiset      5 222                      Potilaiden ensimmäinen
+                                                           hoitotapahtuma 6 kuukauden
+       Keuhkosyöpään sairastuneista                        kuluessa diagnoosipäivästä
+       Alle 60-vuotiaita         9%                        Leikkaushoito           11 %
+       60-69-vuotiaita          27 %                       Lääkehoito              15 %
+       70-79-vuotiaita          42 %                       Sädehoito               18 %
+       Yli 80-vuotiaita         22 %                       Palliatiivinen hoito    12 %
+                                                           Ei hoitoa kirjattu      16 %
+                                                           Kuolema                 28 %
+
+  Syövän sijainti
+  Keuhkon ylälohko                 28 %
+  Keuhkon alalohko                 20 %
+  Henkitorvi tai pääkeuhkoputki alle 5 %
+  Tarkkaa sijaintia ei määritetty  44 %
+         Nea Malila, Janne Pitkäniemi, Elina Hermiö,
+  Sebastian Johansson, Karri Seppä ja Salla Toikkanen
+
+
+
+
+Keuhkosyöpä Suomessa
+    – Katsaus keuhkosyövän hoidon laadusta
+Toimittanut: Nea Malila, Janne Pitkäniemi, Elina Hermiö,
+Sebastian Johansson, Karri Seppä ja Salla Toikkanen
+
+ISSN 2814-4333 (verkkojulkaisu)
+
+Tähän raporttiin viitataan seuraavasti: Malila NJ, Pitkäniemi J,
+Hermiö E, Johansson S, Seppä K, Toikkanen S.
+Keuhkosyöpäraportti. Tilastoraportti keuhkosyövän hoidon
+laadusta. Suomen Syöpäyhdistys, Helsinki 2024.
+
+Taitto: AT-Julkaisutoimisto Oy
+Sisällys
+
+
+Yhteenveto ...................................................................................................................................................... 5
+1    Tausta ....................................................................................................................................................... 6
+
+
+2 Aineisto ja menetelmät............................................................................................................................7
+
+
+
+
+			
+			
+			
+			
+
+
+3 Tulokset ..................................................................................................................................................16
+
+
+		
+4 Prosessimittarit ..................................................................................................................................... 26
+
+
+5 Elossaolo-osuudet .................................................................................................................................. 35
+6 Liitteet .....................................................................................................................................................39
+Yhteenveto
+
+Keuhkosyöpäraportin tavoitteena on vastata kysymykseen, miten tarvittavat tiedot ovat saatavilla kansallisista
+rekistereistä ja miten keuhkosyövän hoito Suomessa toteutuu sekä onko eri alueiden ja ikäryhmien välillä
+eroa hoidon toteutumisessa. Raportin pohjana ovat syöpärekisteriin ilmoitetut uudet primaarit keuhkosyövät
+(ICD10 koodit C33 – C34) ajalta 1.1.2018 – 30.6.2022, yhteensä 13324 uutta tapausta.
+Ensimmäisen kuuden kuukauden aikana lähes kolmannes potilaista kuoli. Vain noin joka kymmenes poti-
+las (N 1627) hoidettiin leikkauksella, hieman vajaa kolmannes (N 3660) sai sädehoitoa ja runsas viiden-
+nes (N 2884) lääkehoitoa ensimmäisen kuuden kuukauden kuluessa diagnoosista. Vaille kirjattuja keuhko-
+syövän hoitotoimenpiteitä ensimmäisen kuuden kuukauden kuluessa diagnoosista jäi noin puolet potilaista.
+Samassa ajassa lähes kolmannes potilaista kuoli ilman edeltäviä hoitotoimenpiteitä.
+Potilaista valtaosa oli iäkkäitä, noin kaksi kolmesta potilaasta oli 70-vuotias tai sitä vanhempi syövän totea-
+misen aikaan. Yhteistyöalueiden välillä ei ollut merkitsevää eroa potilaiden ikäjakaumassa, mutta syövän
+histologinen tyyppi oli alueiden välillä tilastollisesti merkitsevästi erilainen sekä miehillä että naisilla (p-arvot
+<0.001). Erityisesti huomioitavaa olivat alue-erot niiden syöpien osuudessa, joissa histologinen alatyyppi jäi
+tuntemattomaksi (ns. kliiniset syövät). Nämä syövät olivat tilastollisesti merkitsevästi yleisempiä Pohjois- ja
+Itä-Suomessa (28 ja 26 %) kuin muilla yhteistyöalueilla ja Länsi-Suomen alueella taas näiden syöpien osuus
+oli muita selkeästi pienempi (15 %).
+Leikkaushoitoon ohjautui suurempi osuus potilaista Sisä-Suomessa muihin alueisiin verrattuna ja Itä- ja
+Pohjois-Suomessa ensivaiheen hoito oli muita yleisemmin säde- tai lääkehoito. Toisaalta tieto lääkehoidosta
+puuttui lähes kokonaan muutamalta hyvinvointialueelta tuoden esille kirjaamiseen mahdollisesti liittyvät
+puutteet.
+Leikkaushoitoon ensimmäisen kuuden kuukauden aikana päätyneiden potilaiden ennuste oli erinomai-
+nen (jopa yli 90 %) kaikilla yhteistyöalueilla, mutta muiden hoitomuotojen suhteen eroja löytyi etenkin
+miespotilailla.
+Havaintojen perusteella voi todeta, että keuhkosyövän diagnostiikassa ja hoidon toteutumisessa oli selkeitä
+alue-eroja. Lisäksi alue-eroja oli saatavissa olevissa hoitotiedoissa. Erityisesti syövän toteamiseen liittyvät erot
+vaikuttavat myös potilaille annettaviin hoitoihin. Raportin havainnot kuvaavat siten mahdollisia puutteita
+hoitotiedoissa ja alue-eroja potilaan hoitopolulla.
+1 Tausta
+
+Keuhkosyöpä on Suomessa sekä naisten että miesten kolmanneksi yleisin syöpä uusien tapausten määrällä
+(yhteensä lähes 3000 uutta syöpää vuodessa) laskettuna ja se aiheuttaa eniten syöpäkuolemia vuosittain.
+Suomessa potilaiden elossaololuvut ovat olleet Pohjoismaiden parhaita 2000-luvun alussa, mutta niissä on
+tapahtunut vain maltillista kehitystä samaan aikaan kuin muiden Pohjoismaiden luvut ovat parantuneet sel-
+västi. Syitä kehitykselle ei tiedetä, mutta selitystä todetulle erolle pyritään löytämään ja tilanne korjaamaan.
+Valtakunnallinen Keuhkosyöpäohjelma on perustettu yhteistyössä Filha ry:n, keuhkosyöpätyöryhmän ja
+suurimpien keuhkosyöpää hoitavien sairaaloiden kanssa. Keuhkosyöpäohjelman päätavoitteena on keuh-
+kosyövän diagnostiikan ja hoidon parantaminen Suomessa. Hoitotavoitteita pyritään saavuttamaan seuraa-
+vien keinojen avulla: keuhkosyövän hoitoketjut ovat sujuvia ja laadukkaita, keuhkosyövän parantavan hoidon
+määrä kasvaa 10 % ja viiden vuoden elossaololuku paranee 5 %. Tavoitteita edistetään seuraavien toimintojen
+(toimijoiden) välityksellä: keuhkosyövän laaturekisteri (Suomen Syöpärekisteri), laaturekisteritiedon hyödyn-
+täminen, hoitosuositukset ja ohjeet (kansallinen moniammatillinen keuhkosyöpäryhmä, FICAN), alueelliset
+hoitoketjut ja MDT ryhmät (HUS ja HVA:t) ja yhteistyö viestinnässä ja vaikuttamisessa (FICAN).
+
+
+
+1.1 Keuhkosyöpäraportin tavoite
+
+Tämä raportti on varsinaista keuhkosyövän laaturekisteriraportointia valmisteleva luonnos. Tavoitteena on
+vastata kysymykseen, miten keuhkosyövän hoito Suomessa toteutuu ja onko eri alueiden ja ikäryhmien välillä
+eroa hoidon toteutumisessa. Raportti tavoittelee hoitotiedon edustavuuden ja laadun arviointia, hoitoketjujen
+tilastollista kuvaamista ja läpimenon indikaattorien (prosessin kuvaus ensivaiheen hoidon osalta) ja toteutu-
+neen hoidon vaikuttavuuden arviointia. Tämän tiedon pohjalta toimijat voivat pohtia syitä ja toimenpiteitä,
+joilla voidaan edistää asetettuja keuhkosyövän hoitotavoitteita koko Suomessa.
+2 Aineisto ja menetelmät
+
+2.1 Tietolähteet ja -sisällöt
+
+Raportin tiedot perustuvat THL:n valtakunnallisen syöpärekisterin keuhkosyöpätietoihin (ICD-10 C33–C34)
+ja näille potilaille poimittuihin THL:n hoitoilmoitusjärjestelmän (HILMO) käynti- ja hoitojaksotietoihin toi-
+menpiteineen (Kuva 2.1 ja Taulukko 2.1). Potilaiden elossaolo- ja kotikuntatiedot päivittyvät syöpärekisteriin
+jatkuvasti THL:n kautta väestötietojärjestelmästä (VTJ).
+
+
+
+
+KUVA 2.1: Laatutietojen rekisteröinnin lähteet.
+
+Syöpärekisterin tiedot perustuvat kliinisiin, patologian ja hoitotietojen syöpäilmoituksiin (kts. Syöpä 2022
+-raportti, Kappale 5). Kliiniset ilmoitukset kohdentuvat syövän toteamisvaiheeseen ja niissä ilmoitetaan sekä
+syövän tyyppi (tarkka diagnoosi), toteamisaika, toteamistapa ja toteamisvaiheen levinneisyys. Patologian
+ilmoitukset tuotetaan rekisteriin kaikista pahanlaatuisista kasvaimista, in situ -tasoisista kasvaimista ja tie-
+tyistä muista määritellyistä kasvaimista. Patologian ilmoituksia ei ole rajattu koskemaan diagnoosivaihetta,
+vaan ne toimitetaan kaikista pahanlaatuisista (ml. in situ ja tietyt muut) vastauksista riippumatta syövän
+toteamishetkestä. Hoitoilmoituksilla annetaan tietoa syövän hoidoista toimenpidekoodein alku- ja loppupäi-
+vämäärien kera. Näitä tietoja ei myöskään ole rajattu toteamisvaiheeseen.
+TAULUKKO 2.1: Laaturekisterin tietolähteet ja mittarit keuhkosyövän vaiheen
+(D – Diagnoosi (lähtö) –> H – Hoito (seuranta) –> P – Päätetapahtumat) ja tietolähteen mukaan jaoteltuna
+(SYRE – Syöpärekisteri, HILMO – hoitoilmoitusrekisteri).
+Hoitoilmoitusjärjestelmä sisältää tietoa erikoissairaanhoidon ja perusterveydenhuollon vuodeosastohoidosta
+(ml. päiväkirurgia), julkisen erikoissairaanhoidon avohoidosta sekä sosiaalihuollon laitos- ja asumispalve-
+luista ja kotihoidosta. Vuodesta 2011 alkaen hoitoilmoitusjärjestelmä on laajentunut koskemaan myös perus-
+terveydenhuollon avohoitoa (Avohilmo). Tässä raportissa tietoja on poimittu vuodeosastohoidoista ja julkisen
+erikoissairaanhoidon avohoidosta.
+
+
+
+2.2 Aineisto
+
+Raportin pohjana ovat syöpärekisteriin ilmoitetut uudet primaarit keuhkosyövät (ICD-10-koodit C33 – C34)
+ajalta 1.1.2018 – 30.6.2022. Kultakin potilaalta on valittu vain henkilön ensimmäinen keuhkosyöpä. Rapor-
+tissa käytetyt toimenpidekoodit on saatu raportista: Hoitoonpääsyn seuranta syövän hoidossa. THL 2016,
+katso Liitteet 6.1 – 6.3. Aluekohtaiset vertailut perustuvat potilaiden syövän toteamisvuoden alun kotikuntaan.
+Hoitoilmoitustiedot on poimittu niiltä käynneiltä tai hoitojaksoilta, joissa diagnoosina on jokin syöpä tai
+kasvain (C- ja D-alkuiset ICD-10-koodit) ja potilaiden hoitokoodit keuhkosyöpään liittyviltä käynneiltä tai hoi-
+tojaksoilta (C33 – C34 diagnoosit) kuuden ensimmäisen diagnoosia seuraavan kuukauden ajalta. Avotervey-
+denhuollon käyntejä ei ole mukana aineistossa. Kuvassa 2.2 on esitetty aineiston muodostus.
+
+
+
+
+KUVA 2.2: Keuhkosyöpäpotilaiden käynnit ja hoitotoimenpiteet kuuden kuukauden kuluessa diagnoosipäivästä.
+2.2.1 Ikä ja sukupuoli
+Syöpärekisteristä poimittiin yhteensä 13324 uutta primaaria keuhkosyöpää ajalta 1.1.2018 – 30.6.2022.
+Hoitoilmoitustiedot olivat käytettävissä vuoden 2022 loppuun asti, jolloin kaikille potilaille saatiin vähintään
+6 kuukauden seuranta (pl. kuolemat).
+Potilaista valtaosa (noin 70 %) oli 60–79-vuotiaita syövän toteamisaikaan (Taulukko 2.2). Vain pieni osa
+potilaista, alle 10 prosenttia, oli alle 60-vuotiaita syövän toteamisaikaan. Vanhoja eli 80-vuotiaita tai sen yli
+oli jopa runsas viidennes kaikista uusista potilaista. Potilaiden mediaani-ikä oli noin 73 vuotta (kvartiiliväli
+67–79) niin naisilla kuin miehilläkin. Yhteistyöalueiden välillä ei ikäjakaumissa ollut suuria eroja (tarkempia
+tietoja voi hakea Syöpärekisterin syöpätilastosovelluksesta).
+
+
+TAULUKKO 2.2: Keuhkosyöpäpotilaiden sukupuoli ja ikäryhmä toteamishetkellä.
+
+
+
+
+2.2.2 Toteamistapa
+Kaikista aineiston tapauksista syövän toteaminen perustui primaarikasvaimen kudosnäytteeseen vajaassa
+60 % tapauksista (miehillä 56 % ja naisilla 57 %). Nuorilla alle 60-vuotialla potilailla primaarikasvaimen
+kudosnäytteeseen perustuvien tapausten osuus oli suurin, miehillä 68 % ja naisilla 70 %, ja vanhoilla eli 80
+vuotta täyttäneillä pienin, miehillä 37 % ja naisilla 35 %. Pelkkään kuolintodistukseen perustuvat tapaukset
+olivat tavallisimpia vanhimpien potilaiden ryhmässä (naisilla 9 % ja miehillä 8 %) ja harvinaisia sitä nuo-
+remmilla. Vain kliininen diagnoosi ilman mikroskooppista varmistusta (sytologiaa tai histologiaa) oli samoin
+yleisintä vanhimmassa ikäryhmässä (32 %) ja harvinaista nuorilla alle 60-vuotiailla (Taulukko 2.3).
+TAULUKKO 2.3: Syöpärekisteriin ilmoitettujen keuhkosyöpätapausten toteamistapa iän ja sukupuolen mukaan.
+
+
+
+
+2.2.3 Syövän sijainti
+Suuressa osassa tapauksia (44 %) ei syövän tarkkaa sijaintia ole määritetty (C34.9 määrittämätön keuhko-
+putken tai keuhkon syöpä). Muista lähtökohdista yleisin on keuhkon ylälohkon syöpä (28 %) ja sitä seuraa
+alalohkon syöpä (20 %). Henkitorven tai pääkeuhkoputken syöpä on harvinainen (<5 %). Vanhimmilla poti-
+lailla määrittämätön sijainti on yleisempi kuin muilla (59 % 80-vuotiailla ja sitä vanhemmilla ja noin 34 %
+alle 60-vuotiailla).
+2.2.4 Histologinen tyyppi
+Kaikissa ikäryhmissä keuhkosyövän yleisin histologinen tyyppi on adenokarsinooma (36 %), joskin sen
+osuus on selkeästi suurin (45 %) nuorimmilla eli alle 60-vuotiailla potilailla ja pienin (27 %) vanhimmilla eli
+80-vuotiailla tai sen ylittäneillä. Toiseksi yleisin histologinen tyyppi on levyepiteelikarsinooma (19 %), jonka
+osuus tapauksista on vajaa viidennes 60 – 79-vuotiaissa ja pienempi nuorimmassa (14 %) ja vanhimmassa
+(15 %) ikäryhmässä. Nuorilla keuhkosyöpäpotilailla toiseksi yleisin histologinen tyyppi on pienisoluinen kar-
+sinooma, jonka osuus on vajaa 20 %. Pienisoluisia karsinoomia on vähiten vanhimmassa ikäryhmässä, noin
+6 % tapauksista (Taulukko 2.4).
+Naispotilailla adenokarsinoomien osuus oli miespotilaiden vastaavaa suurempi, kun taas miespotilailla levye-
+piteelikarsinoomien osuus oli naispotilaiden vastaavaa suurempi.
+
+
+TAULUKKO 2.4: Keuhkosyöpien histologinen päätyyppi ja osuudet ikäryhmittäin.
+
+
+
+
+Yhteistyöalueiden välillä oli selkeitä eroja keuhkosyövän histologisen jakauman suhteen (Kuva 2.3 ja 2.4).
+Ikäkorjatussa tarkastelussa adenokarsinoomien osuus on suurin Länsi-Suomen yhteistyöalueella (42 %) ja
+pienin Itä- ja Pohjois-Suomessa (30 ja 32 %), levyepiteelikarsinoomien osuus suurin Sisä-Suomessa (22 %) ja
+pienin Etelä- ja Pohjois-Suomessa (16 ja 17 %), mutta pienisoluisten karsinoomien osuudet eivät poikenneet
+merkitsevästi toisistaan eri alueilla. Ne syövät, joissa syövän solutyyppi ei selvinnyt (muu tai määrittämätön
+histologia eli ns. kliiniset tapaukset) olivat merkitsevästi yleisempiä Pohjois- ja Itä-Suomessa (28 ja 26 %)
+kuin muilla yhteistyöalueilla. Länsi-Suomen alueella taas näiden syöpien osuus oli muita selkeästi pienempi
+(15 %).
+
+
+
+
+KUVA 2.3: Keuhkosyöpäpotilaiden histologinen tyyppi yhteistyöalueittain.
+KUVA 2.4: Keuhkosyöpäpotilaiden histologisen tyypin ikävakioidut osuudet (%) ja niiden 95 % luottamusvälit
+yhteistyöalueittain.
+2.3 Menetelmät ja seuranta
+
+Potilaiden seuranta alkoi keuhkosyövän diagnoosipäivämäärästä ja päättyi kuolemaan, maastamuuttoon tai
+viimeistään 31.12.2023. Hoitotoimenpiteet on kuitenkin rajattu ensimmäiseen kuuteen kuukauteen diag-
+noosista. Jos potilas on saanut samanaikaisesti sekä lääke- että sädehoitoa, hänet on laskettu sädehoitoryh-
+mään ensivaiheen hoitoa raportoitaessa. Aluekohtaiset luvut on laskettu toteamisvuoden kotikunnan perus-
+teella. Pienelle osalla potilaita ei ollut tiedossa toteamisvuoden kotikuntaa, joten nämä tapaukset puuttuvat
+aluekohtaisista luvuista (N 7). Ahvenanmaan alueen potilaat ovat mukana kokonaisluvuissa, mutta niitä ei
+esitetä aluekohtaisissa tuloksissa pienten lukumäärien takia (yhteensä 79 tapausta). Potilaiden alueittaiset
+hoito-osuudet on esitetty erikseen miehille ja naisille käyttäen suoraa ikävakiontia 5-vuotisryhmittäin ja vas-
+taavat luottamusvälit on laskettu normaaliapproksimaatiota käyttäen. Alueita (sekä yhteistyö- että hyvinvoin-
+tialueita) verrattiin koko Suomen vastaaviin lukuihin.
+Siirtymät keuhkosyöpädiagnoosin jälkeiseen ensimmäiseen tapahtumaan (keuhkosyövän hoitotoimenpide,
+palliatiivinen hoito tai kuolema) 6 kuukauden kuluessa diagnoosista on mallinnettu käyttäen progressii-
+vista monitilamallia ja ne on esitetty erikseen sukupuolille, ikäryhmittäin, yhteistyöalueittain ja histologisen
+tyypin mukaan. Elossaolo-osuudet on laskettu erikseen mies- ja naispotilaille ikäkorjattuna ja maksimaali-
+sesti yhden vuoden seurannalla. Ikäkorjaus on tehty käyttäen neljää ikäryhmää (0 – 59, 60 – 69, 70 – 79 ja
+80 tai yli). Hoitokohtaiset elossaolo-osuudet on laskettu hoidon alusta potilaan kuolemaan, maastamuuttoon
+tai 31.12.2023 asti, kuitenkin vain enintään yhden vuoden seuranta-ajalle. Aluekohtaisissa vertailuissa yhteis-
+työalueita on verrattu koko Etelä-Suomen yhteistyöalueen lukuihin.
+3       Tulokset
+
+
+3.1 Hoitotoimenpiteet
+
+Suurin osa syöpärekisteriin ilmoitetuista potilaista on käynyt joko erikoissairaanhoidon avokäynnillä tai
+ollut hoidossa erikoissairaanhoidon tai perusterveydenhuollon vuodeosastolla (Taulukko 3.1) 6 kuukauden
+kuluessa diagnoosista. Valtaosa käynneistä liittyi keuhkosyöpään ja noin puolessa tapauksia johonkin käyn-
+neistä oli kirjattu keuhkosyövän hoitotoimenpide. Keuhkosyöpäpotilaista hieman vajaa kolmannes (N 3660)
+on saanut sädehoitoa (Liite 6.2) ja runsas viidennes (N 2884) lääkehoitoa (Liite 6.3) ensimmäisen kuuden
+kuukauden kuluessa diagnoosista (Kuva 2.2, Taulukko 3.2). Vain runsas joka kymmenes potilas (N 1627) on
+hoidettu leikkauksella (Liite 6.1) ensimmäisen 6 kuukauden aikana. Diagnoosivuosien väliset erot ovat pieniä
+pl. viimeinen 6 kuukauden jakso vuodelta 2022.
+
+
+TAULUKKO 3.1: Keuhkosyöpäpotilaiden käynnit ja hoitotoimenpiteet kuuden kuukauden kuluessa diagnoosi-
+päivästä diagnoosivuosittain.
+
+
+
+
+TAULUKKO 3.2: Keuhkosyöpäpotilaiden hoitotoimenpiteet toimenpidetyypeittäin kuuden kuukauden kuluessa
+diagnoosipäivästä diagnoosivuosittain.
+3.1.1 Hoitotoimenpiteet yhteistyöalueittain
+Yhteistyöalueiden välillä on kuitenkin selkeitä eroja eri hoitomuotojen osuuksissa diagnoosia seuraavien
+6 kuukauden aikana (Taulukot 3.3 – 3.4). Leikkaushoitojen osuus on suurin Sisä-Suomen yhteistyöalueella
+(16 %), sädehoidon Etelä-Suomen alueella (26 %) ja lääkehoidon osuus Sisä-Suomen alueella (31 %). Palli-
+atiivisen hoidon osuus oli suurin Itä-Suomessa (29 %) ja kuolemien osuus Länsi-Suomessa (47 %), joskin
+kuolemien osuuksissa erot olivat pieniä.
+
+
+TAULUKKO 3.3: Hoitotoimenpiteet kuuden kuukauden kuluessa diagnoosipäivästä yhteistyöalueittain.
+TAULUKKO 3.4: Hoitotoimenpiteet kuuden kuukauden kuluessa diagnoosipäivästä yhteistyöalueittain.
+
+
+
+
+Leikkaushoidoista yleisin on keuhkolohkon poisto rintaontelon tähystyksessä (59 % leikatuista ja 7 % kai-
+kista keuhkosyövistä). Muita tähystysleikkauksia on lisäksi 18 %:lla leikatuista ja muita lohkonpoistoja noin
+27 %:lla leikatuista. Koko keuhkon poistoja on tehty runsaalle 3 %:lle leikatuista (Liitetaulukko 6.1).
+Sädehoidon osalta yleisin toimenpide on etäpesäkkeen sädehoito (53 % sädehoidetuista ja 19 % kaikista keuh-
+kosyövistä) ja primaarikasvaimen palliatiivinen sädehoito (44 % sädehoidetuista ja 15 % kaikista keuhko-
+syövistä). Radikaali primaarikasvaimen sädehoito on annettu kolmannekselle sädehoidetuista (11 % kaikista
+keuhkosyövistä) (Liitetaulukko 6.2).
+Lääkehoidoista suurin osuus on laajalle levinneen kasvaimen vaativa solusalpaajahoito (63 % lääkehoide-
+tuista ja 15 % kaikista tapauksista) ja toiseksi laajalle levinneen kasvaimen yksinkertainen tavanomainen
+solusalpaajahoito (30 % lääkehoidetuista ja 7 % tapauksista). Laajalle levinneen kasvaimen vaativa hoito
+biovasteenmuuntajilla on annettu 24 %:lle lääkehoitoa saaneista ja vajaalle 6 %:lle kaikista potilaista
+(Liitetaulukko 6.3).
+Ensimmäisenä hoitotoimenpiteenä 6 kuukauden kuluessa diagnoosista leikkaushoitoa on saanut 12 % kai-
+kista potilaista, lääkehoitoa 15 % ja sädehoitoa 24 %. Ilman em. hoitotietoja on 50 % potilaista (Taulukko 3.5),
+mutta lähes kolmannes potilaista on kuollut 6 kuukauden kuluessa diagnoosista ilman edeltävää hoitotietoa
+(kts. kappale 4, Kuva 4.1).Hoitoa saaneista ensivaiheen hoitona leikattuja on runsas viidennes, lääkehoidettuja
+kolmannes ja sädehoidettuja lähes puolet tapauksista. Miesten ja naisten välillä ei juuri ole eroa, mutta ikä-
+ryhmien välillä on selkeitä eroja. Nuorimmassa ikäryhmässä leikattujen osuus oli neljännes kaikista hoitoa
+saaneista, kun taas vanhimmassa ikäryhmässä leikattuja oli vain runsas 10 % hoitoa saaneista. Sädehoidet-
+tujen osuus ensivaiheen hoitona oli suurin (70 %) vanhimmassa ikäryhmässä ja lääkehoidon taas pienin
+(18 %). Diagnoosivuosittaiset erot ovat pieniä (Kuva 3.1) mutta yhteistyöalueiden välillä on suuria eroja ensi-
+vaiheen hoitojen osuuksissa (Kuva 3.2).
+
+TAULUKKO 3.5: Keuhkosyöpäpotilaiden ensimmäinen hoitotieto kuuden kuukauden kuluessa diagnoosipäivästä.
+
+
+
+
+KUVA 3.1: Keuhkosyöpäpotilaiden ensimmäinen hoitotoimenpide kuuden kuukauden kuluessa diagnoosi-
+päivästä diagnoosivuosittain.
+KUVA 3.2: Keuhkosyöpäpotilaiden ensimmäinen hoitotoimenpide kuuden kuukauden kuluessa diagnoosi-
+päivästä yhteistyöalueittain.
+
+
+Leikkaukseen ensivaiheen hoitona kuuden kuukauden aikana päätyneiden potilaiden osuus on suurin
+Sisä-Suomen yhteistyöalueella (15 %) ja pienin Länsi-Suomen alueella (10 %) (Kuva 3.2). Itä-Suomen alueella
+sädehoidon osuus ensivaiheen hoitona on suurin (28 %) ja Sisä-Suomen alueella lääkehoidon (24 %). Hoitoja
+ei ole lainkaan kirjattu ensimmäisen kuuden kuukauden ajalta jopa 58 %:ssa Länsi-Suomen alueen keuhko-
+syöpäpotilaita ja pienin puuttuvan hoitotiedon osuus on Sisä-Suomen alueella (40 %).
+Ikäkorjatut hoito-osuudet on esitetty erikseen mies- ja naispotilaille sekä yhteistyöalueittain että hyvinvointi-
+alueittain ja vertailuna on käytetty koko Suomen vastaavia lukuja (kuvat 3.3 ja 3.4, taulukot 3.6 ja 3.7).
+Yhteistyöalueiden välisessä tarkastelussa (Kuva 3.3, Taulukko 3.6) sekä mies- että naispotilaista merkitsevästi
+suurempi osa on päätynyt leikkaushoitoon Sisä-Suomen alueella (16,3 % miespotilaista ja 21,9 % naispoti-
+laista) kuin koko Suomessa keskimäärin (881 eli 12,7 % miespotilaista leikattiin ja 746 eli 17,3 % naispotilaista
+leikattiin). Lääkehoidon osalta Sisä-Suomen ja Itä-Suomen yhteistyöalueella sekä mies- että naispotilaista
+suurempi osa on saanut hoitoa kuin koko Suomessa keskimäärin. Sen sijaan Länsi- ja Etelä-Suomen alueella
+lääkehoitojen osuus on merkitsevästi pienempi kuin koko Suomessa niin mies- kuin naispotilaillakin. Säde-
+hoidon suhteen Itä-Suomen yhteistyöalueen miespotilaista suurempi osa on saanut hoitoa kuin koko Suo-
+messa keskimäärin ja Länsi- ja Pohjois-Suomen alueella pienempi osa kuin koko Suomessa. Naispotilailla ei
+tilastollisesti merkitseviä eroja yhteistyöalueiden välillä ollut havaittavissa sädehoidon osuuksissa.
+Hyvinvointialuekohtaisissa tarkasteluissa (Kuva 3.4, Taulukko 3.7) hajontaa on enemmän. Leikkaushoitojen
+osuus on tilastollisesti merkitsevästi suurempi Keski-Suomen hyvinvointialueen miespotilailla (23,7 %) ja
+Pirkanmaan hyvinvointialueen naispotilailla (25,1 %) kuin koko maan mies- (12,6 %) ja naispotilailla (17,3 %).
+Naispotilailla leikkaushoidon osuus oli merkitsevästi miespotilaiden osuutta suurempi koko maassa. Lapin,
+Kainuun ja Kymenlaakson hyvinvointialueella leikkaukseen päätyneiden naispotilaiden osuus oli koko maan
+vastaavaa pienempi, joskaan ei ikäkorjattuna tilastollisesti merkitsevästi. Miespotilailla koko maan osuutta
+alhaisempi leikkaushoitoon päätyneiden osuus oli erityisesti Kainuun ja Kymenlaakson hyvinvointialueilla,
+joskaan ei tilastollisesti merkitsevästi.
+Lääkehoitoa saaneiden miespotilaiden osuus oli koko maan arvoa suurempi Etelä-Pohjanmaan, Keski-Suo-
+men, Kymenlaakson, Pirkanmaan, Pohjanmaan, Pohjois-Pohjanmaan, Pohjois-Savon, Päijät-Hämeen ja
+Satakunnan hyvinvointialueilla. Naispotilaista vastaavasti koko maan arvoa merkitsevästi suurempi osa oli
+saanut lääkehoitoa samoilla alueilla kuin miespotilaistakin lukuun ottamatta Pohjanmaan hyvinvointialuetta.
+Koko maan osuuksia harvemmin lääkehoitoa oli annettu sekä mies- että naispotilaille Lapin, Länsi-Uuden-
+maan, Keski-Uudenmaan, Vantaan ja Keravan, Etelä-Karjalan ja Varsinais-Suomen hyvinvointialueilla.
+Koko maan osuuksia suurempi osa miespotilaista sai sädehoitoa Etelä-Savon, Pirkanmaan, Pohjois-Savon
+ja Päijät-Hämeen alueella ja pienempi osa taas Etelä-Karjalan, Lapin ja Varsinais-Suomen alueella. Naispo-
+tilailla vastaavasti Pohjois-Savon ja Päijät-Hämeen alueella sädehoidettujen osuus oli koko maan vastaavia
+merkitsevästi suurempi ja Etelä-Karjalan alueella pienempi.
+
+
+
+
+KUVA 3.3: Miesten ja naisten keuhkosyöpätoimenpiteiden ikävakioidut osuudet (%) ja niiden 95 % luottamus-
+välit yhteistyöalueittain. Katkoviiva osoittaa koko maan osuuden.
+TAULUKKO 3.6: Miesten ja naisten keuhkosyöpätoimenpiteet. Hoidettujen lukumäärät, ikävakioidut osuudet
+(%) ja niiden 95 % luottamusvälit yhteistyöalueittain (pl. Ahvenanmaa).
+KUVA 3.4: Miesten ja naisten keuhkosyöpätoimenpiteiden ikävakioidut osuudet (%) ja niiden 95 % luottamus-
+välit hyvinvointialueittain. Katkoviiva osoittaa koko maan osuuden.
+TAULUKKO 3.7: Miesten ja naisten keuhkosyöpätoimenpiteet. Hoidettujen lukumäärät, ikävakioidut osuudet
+(%) ja niiden 95 % luottamusvälit hyvinvointialueittain (pl. Ahvenanmaa).
+4 Prosessimittarit
+
+4.1 Aika diagnoosista hoitoon
+
+Ensimmäisen puolen vuoden aikana hoidettujen potilaiden mediaaniaika diagnoosista ensimmäisen hoito-
+toimenpiteen kirjaukseen oli leikatuilla 37 päivää (kvartiiliväli 0 – 56), sädehoidetuilla 36 päivää (16 – 56) ja
+lääkehoidetuilla 38 päivää (25 – 56).
+Kuvassa 4.1 toteamisvuosittain potilaiden kumulatiivinen osuus päätyä eri hoitoihin, ei mihinkään hoitoon
+tai kuolemaan (leikkaus-, säde-, lääke- tai palliatiivinen hoito, kuolema tai ei mikään näistä) ensimmäisenä
+tapahtumana ensimmäisen kuuden kuukauden kuluessa syövän toteamisesta. Tässä ajassa lähes 30 % poti-
+laista kuoli ilman edeltäviä hoitotoimenpiteitä ja vajaa 12 % päätyi palliatiiviseen hoitoon. Palliatiivisen hoi-
+don kirjaaminen vaihteli vuosittain ja sisältää tässä sekä sivudiagnoosin palliatiivinen hoito (Z51.5) että pal-
+liatiivisen sädehoidon (WF004). Leikkaushoitoon ensivaiheen hoitona päätyi runsas 11 % potilaista ja noin
+16 %:lle ei kirjattu mitään hoitoa ensimmäisen 6 kuukauden aikana. Lääke- tai sädehoitoon ensimmäisenä
+hoitona päätyneitä oli 15 ja 18 % kaiken kaikkiaan, osuuksien vaihdellessa hieman eri vuosina.
+
+
+
+
+KUVA 4.1: Osuus keuhkosyöpäpotilaista diagnoosivuoden ja ensimmäisen hoitotoimenpiteen mukaan ensim-
+mäisen kuuden kuukauden kuluessa syövän toteamisesta.
+Mediaaniaika syövän toteamisesta ensimmäiseen hoitoon vaihteli yhteistyöalueiden välillä (Taulukko 4.1).
+Aika leikkaushoitoon oli lyhin Pohjois-Suomen alueella (mediaani 13,5 päivää, kvartiiliväli 0,0 – 44,0) ja pisin
+Etelä-Suomen alueella (mediaani 46,0, kvartiiliväli 33,0 – 63,0). Aika sädehoitoon (pl. palliatiivinen sädehoito)
+taas oli lyhin Itä-Suomen alueella ja pisin Länsi-Suomen alueella.
+Tarkasteltaessa ensimmäistä tapahtumaa syövän toteamisesta tiettyyn hoitoon tai kuolemaan kuukausittain
+todettiin, että valtaosa hoidoista toteutui kolmen kuukauden kuluessa syövän toteamisesta (Kuva 4.2). Naispo-
+tilailla kuolema ensimmäisenä tapahtumana oli harvinaisempi kuin miespotilailla (Kuva 4.3 ja Taulukko 4.2).
+Näissä kuvissa ja taulukoissa merkintä ”Keuhkosyöpä” kuvaa niiden potilaiden osuutta, jolle ei ole kirjattu
+mitään hoitotietoa tai kuolemaa.
+Potilaiden ensimmäisissä hoidoissa kuuden kuukauden kuluessa syövän toteamisesta oli selkeitä eroja ikä-
+ryhmien välillä (Taulukko 4.3 ja Kuva 4.4). Vanhimmat potilaat (80-vuotiaat ja vanhemmat) päätyivät nuorem-
+pia potilaita harvemmin aktiivihoitoon (leikkaus-, säde- tai lääkehoito) ja useammin palliatiiviseen hoitoon
+tai kuolemaan. Nuorimmat potilaat (alle 60-vuotiaat) sen sijaan päätyivät harvoin palliatiiviseen hoitoon tai
+kuolemaan ja heillä ensivaiheen hoitona oli muita useammin leikkaushoito.
+Kun keuhkosyöpäpotilaita tarkasteltiin syövän histologisen tyypin mukaisissa alaryhmissä, havaittiin, että
+adenokarsinoomapotilaat päätyivät muita useammin leikkaushoitoon (lähes viidennes) ja pienisoluista
+syöpää sairastavat taas leikattiin harvoin (alle 1 %), mutta heillä lääkehoito oli ensivaiheen hoitona yleisin
+(Kuva 4.5 ja Taulukko 4.4).
+Yhteistyöalueittain verrattiin ensimmäiseen hoitoon 6 kuukauden kuluessa syövän toteamisesta päätymistä
+ilman sukupuoli-, ikä- tai histologiatyypin korjausta. Tällöin leikkaushoitoon päätyneitä oli eniten Sisä-Suo-
+men alueella (14,8 %) ja vähiten Pohjois-Suomessa (9,5 %) (Taulukko 4.5). Etelä-Suomen yhteistyöalueella
+muuhun kuin palliatiiviseen sädehoitoon päätyi eniten (22 %) ja lääkehoitoon Sisä-Suomessa (22 %). Pal-
+liatiiviseen hoitoon ensivaiheen hoitona päätyi eniten eli 15,6 % potilaista Itä-Suomen alueella ja Länsi-Suo-
+messa kuolema oli ensimmäinen tapahtuma ennen ensimmäistä hoitokirjausta 32 %:ssa potilaita.
+
+
+TAULUKKO 4.1: Aika päivissä ensimmäiseen hoitotoimenpiteeseen kuuden kuukauden kuluessa diagnoo-
+sipäivästä yhteistyöalueittain.
+KUVA 4.2: Ensimmäisen tapahtuman osuus (%) 0 – 6 kuukautta diagnoosipäivästä.
+
+
+
+
+KUVA 4.3: Ensimmäisen tapahtuman osuus (%) 0 – 6 kuukautta diagnoosipäivästä sukupuolittain.
+TAULUKKO 4.2: Ensimmäisen tapahtuman kumulatiivinen osuus (%) 0 – 6kk diagnoosipäivästä sukupuolittain.
+
+
+
+
+KUVA 4.4: Ensimmäisen tapahtuman osuus (%) 0 – 6 kuukautta diagnoosipäivästä ikäryhmittäin.
+TAULUKKO 4.3: Ensimmäisen tapahtuman kumulatiivinen osuus (%) 0 – 6 kuukautta diagnoosipäivästä
+ikäryhmittäin.
+KUVA 4.5: Ensimmäisen tapahtuman osuus (%) 0– 6 kuukautta diagnoosipäivästä histologisen tyypin mukaan.
+
+
+TAULUKKO 4.4: Ensimmäisen tapahtuman kumulatiivinen osuus (%) 0– 6 kuukautta diagnoosipäivästä histo-
+logisen ryhmän mukaan.
+KUVA 4.6: Ensimmäisen tapahtuman osuus (%) 0– 6 kuukautta diagnoosipäivästä yhteistyöalueittain
+(pl. Ahvenanmaa).
+TAULUKKO 4.5: Ensimmäisen tapahtuman kumulatiivinen osuus (%) 0-6 kuukautta diagnoosipäivästä
+yhteistyöalueittain.
+TAULUKKO 4.6: Osuus keuhkosyöpätapauksista, jotka ovat päässeet hoitoon kuuden kuukauden aikana
+diagnoosipäivästä yhteistyöalueittain ja ensimmäisen hoidon mukaan.
+5 Elossaolo-osuudet
+
+Keuhkosyöpäpotilaiden suhteelliset 1-vuotiselossaololuvut yhteistyöalueittain on esitetty alla mies- ja nais-
+potilaille, joita on seurattu vuosille 2020 – 2022, Taulukko 5.1. Koko Suomessa naisten elossaololuvut ovat
+merkitsevästi miesten lukuja paremmat, joskin alueittaisissa luvuissa merkitsevää eroa ei sukupuolten välillä
+ollut Sisä-Suomessa eikä Pohjois-Suomessa. Sen sijaan Sisä-Suomen alueen miespotilaiden elossaololuvut
+ovat merkitsevästi koko maan lukuja paremmat, mutta muita tilastollisesti merkitseviä sukupuolten sisäisiä
+eroja ei havaittu.
+
+
+TAULUKKO 5.1: Keuhkosyöpäpotilaiden ikävakioitu yhden vuoden suhteellinen elossaololuku (%) ja sen 95 %
+luottamusväli sukupuolittain ja yhteistyöalueittain.
+
+
+
+
+Yhden vuoden elossaolo-osuudet mies- ja naispotilaille on esitetty eri ensivaiheen mukaisesti ositet-
+tuna (Kuva 5.1, Taulukko 5.2). Näissä potilaan seuranta alkaa hoidon kirjaamisajankohdasta (ensimmäisen
+6 kuukauden aikana) ja seuranta on rajattu maksimissaan yhteen vuoteen kaikilla. Leikkauksella hoidettujen
+potilaiden elossaolo-osuus on sekä miehillä että naisilla korkea, noin 90 % miehillä ja 95 % naisilla. Lääke- ja
+sädehoidettujen elossaolo-osuudet ovat selkeästi matalammat kuin leikkaushoidettujen potilaiden ja pallia-
+tiivisen hoidon jälkeinen elossaolo-osuus on hyvin pieni, alle 20 %. Naisten elossaolo-osuudet ovat kaiken
+kaikkiaan hieman miesten vastaavia korkeampia.
+Yhteistyöalueiden välillä ei havaittu tilastollisesti merkitseviä eroja leikkaushoidon jälkeisissä elossa-
+olo-osuuksissa ikäkorjatuissa vertailuissa (Kuva 5.2 ja Taulukko 5.3). Sädehoidettujen miespotilaiden elossa-
+olo-osuuksissa oli tilastollisesti merkitsevä ero yhteistyöalueiden välillä siten, että korkein elossaolo-osuus oli
+Länsi-Suomen yhteistyöalueella (53 %) ja matalin Itä- ja Pohjois-Suomessa (36 %) (Kuva 5.2 ja Taulukko 5.3).
+Myös palliatiiviseen hoitoon päätyneiden potilaiden elossaolo-osuuksissa oli merkitsevä ero yhteistyöaluei-
+den välillä vaihdellen 10 – 11 %:sta (Etelä-Suomi) 24 – 26 %:iin (Itä-Suomi). Naispotilailla ei havaittu muita
+yhteistyöalueiden välisiä merkitseviä eroja elossaolo-osuuksissa hoitomuodoittain (Kuva 5.2 ja Taulukko 5.3).
+KUVA 5.1: Keuhkosyöpäpotilaiden ikävakioitu elossaolo-osuus 0-12 kuukautta ensivaiheen hoidon aloittamisen
+jälkeen sukupuolittain ja ensivaiheen hoidon mukaan.
+
+
+TAULUKKO 5.2: Keuhkosyöpäpotilaiden ikävakioitu yhden vuoden elossaolo-osuus ensivaiheen hoidon aloitta-
+misesta ja elossaolo-osuuksien 95 % luottamusvälit sukupuolen ja ensivaiheen hoidon mukaan.
+
+
+
+                                        –
+KUVA 5.2: Keuhkosyöpäpotilaiden ikävakioitu elossaolo-osuus ja sen 95 % luottamusväli 12 kuukautta ensi-
+vaiheen hoidon aloittamisen jälkeen ensivaiheen hoidon mukaan sukupuolittain.
+TAULUKKO 5.3: Keuhkosyöpäpotilaiden ikävakioitu yhden vuoden elossaolo-osuus primaarihoidon aloitta-
+misesta ja elossaolo-osuuksien 95 % luottamusvälit yhteistyöalueen ja sukupuolen mukaan. Lisäksi esitetään
+kuolleisuuden alueittaiset riskisuhteet (RR) Etelä-Suomeen verrattuna ja niiden yhtäsuuruutta arvioiva p-arvo.
+6 Liitteet
+
+
+TAULUKKO 6.1: Keuhkosyövän leikkaushoidon toimenpidekoodit ja niiden yleisyys aineistossa.
+Lähde: THL - Hoitoonpääsyn seuranta syövän hoidossa.
+TAULUKKO 6.2: Keuhkosyövän sädehoidon toimenpidekoodit ja niiden yleisyys aineistossa.
+
+
+
+
+TAULUKKO 6.3: Keuhkosyövän lääkehoidon toimenpidekoodit ja niiden yleisyys aineistossa.
+Lähde: THL - Hoitoonpääsyn seuranta syövän hoidossa.
+Suomen Syöpärekisteri
+
+Mäkelänkatu 2, Helsinki
+
+puh. 09 135 331
+
+www.syoparekisteri.fi
+
+twitter.com/CancerRegFI
+

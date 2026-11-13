@@ -1,0 +1,1581 @@
+Mortality due to cancer treatment delay: systematic review and meta-analysis - PMC
+Skip to main content
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official
+                            government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+Search
+Log in
+Dashboard
+Publications
+Account settings
+Log out
+Search…
+Search NCBI
+Primary site navigation
+Search
+Logged in as:
+Dashboard
+Publications
+Account settings
+Log in
+Search PMC Full-Text Archive
+Search in PMC
+Journal List
+User Guide
+PERMALINK
+Copy
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+Learn more:
+PMC Disclaimer
+|
+PMC Copyright Notice
+BMJ
+. 2020 Nov 4;371:m4087. doi:
+10.1136/bmj.m4087
+Search in PMC
+Search in PubMed
+View in NLM Catalog
+Add to search
+Mortality due to cancer treatment delay: systematic review and meta-analysis
+Timothy P Hanna
+Timothy P Hanna
+1
+Division of Cancer Care and Epidemiology, Cancer Research Institute at Queen’s University, 10 Stuart Street, 2nd Level, Kingston, ON K7L3N6, Canada
+2
+Department of Oncology, Queen’s University, Kingston, ON, Canada
+3
+Department of Public Health Sciences, Queen’s University, Kingston, ON, Canada
+associate professor
+Find articles by
+Timothy P Hanna
+1,
+2,
+3,
+✉
+,
+Will D King
+Will D King
+3
+Department of Public Health Sciences, Queen’s University, Kingston, ON, Canada
+associate professor
+Find articles by
+Will D King
+3
+,
+Stephane Thibodeau
+Stephane Thibodeau
+2
+Department of Oncology, Queen’s University, Kingston, ON, Canada
+medical resident
+Find articles by
+Stephane Thibodeau
+2
+,
+Matthew Jalink
+Matthew Jalink
+1
+Division of Cancer Care and Epidemiology, Cancer Research Institute at Queen’s University, 10 Stuart Street, 2nd Level, Kingston, ON K7L3N6, Canada
+2
+Department of Oncology, Queen’s University, Kingston, ON, Canada
+research program manager
+Find articles by
+Matthew Jalink
+1,
+2
+,
+Gregory A Paulin
+Gregory A Paulin
+2
+Department of Oncology, Queen’s University, Kingston, ON, Canada
+medical resident
+Find articles by
+Gregory A Paulin
+2
+,
+Elizabeth Harvey-Jones
+Elizabeth Harvey-Jones
+4
+Department of Clinical Oncology, Guy’s & St Thomas’ NHS Trust, London, UK
+clinical oncology registrar
+Find articles by
+Elizabeth Harvey-Jones
+4
+,
+Dylan E O’Sullivan
+Dylan E O’Sullivan
+3
+Department of Public Health Sciences, Queen’s University, Kingston, ON, Canada
+doctoral student
+Find articles by
+Dylan E O’Sullivan
+3
+,
+Christopher M Booth
+Christopher M Booth
+1
+Division of Cancer Care and Epidemiology, Cancer Research Institute at Queen’s University, 10 Stuart Street, 2nd Level, Kingston, ON K7L3N6, Canada
+2
+Department of Oncology, Queen’s University, Kingston, ON, Canada
+3
+Department of Public Health Sciences, Queen’s University, Kingston, ON, Canada
+5
+Department of Medicine, Queen’s University, Kingston, ON, Canada
+professor
+Find articles by
+Christopher M Booth
+1,
+2,
+3,
+5
+,
+Richard Sullivan
+Richard Sullivan
+6
+Institute of Cancer Policy, King’s College London, London, UK
+professor
+Find articles by
+Richard Sullivan
+6
+,
+Ajay Aggarwal
+Ajay Aggarwal
+4
+Department of Clinical Oncology, Guy’s & St Thomas’ NHS Trust, London, UK
+6
+Institute of Cancer Policy, King’s College London, London, UK
+7
+Department of Health Services Research and Policy, London School of Hygiene and Tropical Medicine, London, UK
+associate professor
+Find articles by
+Ajay Aggarwal
+4,
+6,
+7
+Author information
+Article notes
+Copyright and License information
+1
+Division of Cancer Care and Epidemiology, Cancer Research Institute at Queen’s University, 10 Stuart Street, 2nd Level, Kingston, ON K7L3N6, Canada
+2
+Department of Oncology, Queen’s University, Kingston, ON, Canada
+3
+Department of Public Health Sciences, Queen’s University, Kingston, ON, Canada
+4
+Department of Clinical Oncology, Guy’s & St Thomas’ NHS Trust, London, UK
+5
+Department of Medicine, Queen’s University, Kingston, ON, Canada
+6
+Institute of Cancer Policy, King’s College London, London, UK
+7
+Department of Health Services Research and Policy, London School of Hygiene and Tropical Medicine, London, UK
+✉
+Correspondence to T Hanna
+tim.hanna@kingstonhsc.ca
+(or @HannaRadOnc on Twitter)
+✉
+Corresponding author.
+Roles
+Timothy P Hanna
+:
+associate professor
+Will D King
+:
+associate professor
+Stephane Thibodeau
+:
+medical resident
+Matthew Jalink
+:
+research program manager
+Gregory A Paulin
+:
+medical resident
+Elizabeth Harvey-Jones
+:
+clinical oncology registrar
+Dylan E O’Sullivan
+:
+doctoral student
+Christopher M Booth
+:
+professor
+Richard Sullivan
+:
+professor
+Ajay Aggarwal
+:
+associate professor
+Accepted 2020 Oct 16; Collection date 2020.
+© Author(s) (or their employer(s)) 2019. Re-use permitted under CC
+BY-NC. No commercial re-use. See rights and permissions. Published by
+BMJ.
+This is an Open Access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial. See:
+http://creativecommons.org/licenses/by-nc/4.0/
+.
+PMC Copyright notice
+PMCID: PMC7610021  PMID:
+33148535
+Abstract
+Objective
+To quantify the association of cancer treatment delay and mortality for each four week increase in delay to inform cancer treatment pathways.
+Design
+Systematic review and meta-analysis.
+Data sources
+Published studies in Medline from 1 January 2000 to 10 April 2020.
+Eligibility criteria for selecting studies
+Curative, neoadjuvant, and adjuvant indications for surgery, systemic treatment, or radiotherapy for cancers of the bladder, breast, colon, rectum, lung, cervix, and head and neck were included. The main outcome measure was the hazard ratio for overall survival for each four week delay for each indication. Delay was measured from diagnosis to first treatment, or from the completion of one treatment to the start of the next. The primary analysis only included high validity studies controlling for major prognostic factors. Hazard ratios were assumed to be log linear in relation to overall survival and were converted to an effect for each four week delay. Pooled effects were estimated using DerSimonian and Laird random effect models.
+Results
+The review included 34 studies for 17 indications (n=1 272 681 patients). No high validity data were found for five of the radiotherapy indications or for cervical cancer surgery. The association between delay and increased mortality was significant (P<0.05) for 13 of 17 indications. Surgery findings were consistent, with a mortality risk for each four week delay of 1.06-1.08 (eg, colectomy 1.06, 95% confidence interval 1.01 to 1.12; breast surgery 1.08, 1.03 to 1.13). Estimates for systemic treatment varied (hazard ratio range 1.01-1.28). Radiotherapy estimates were for radical radiotherapy for head and neck cancer (hazard ratio 1.09, 95% confidence interval 1.05 to 1.14), adjuvant radiotherapy after breast conserving surgery (0.98, 0.88 to 1.09), and cervix cancer adjuvant radiotherapy (1.23, 1.00 to 1.50). A sensitivity analysis of studies that had been excluded because of lack of information on comorbidities or functional status did not change the findings.
+Conclusions
+Cancer treatment delay is a problem in health systems worldwide. The impact of delay on mortality can now be quantified for prioritisation and modelling. Even a four week delay of cancer treatment is associated with increased mortality across surgical, systemic treatment, and radiotherapy indications for seven cancers. Policies focused on minimising system level delays to cancer treatment initiation could improve population level survival outcomes.
+Open in a new tab
+Introduction
+Delay in the treatment of cancer can have adverse consequences on outcome. However, despite its foundational importance, we lack standardised estimates of the effect of treatment delay on survival for most treatment indications. Previous meta-analyses have found evidence supporting a continuous association between delay and mortality
+1
+2
+or local control.
+3
+A wide variation in reporting of delay estimates has limited meta-analysis.
+4
+Understanding the impact of delay on mortality and other outcomes such as recurrence or financial impact on patients is essential to designing cancer care systems, pathways, and models of care that deliver affordable and equitable outcomes.
+5
+The need for an in-depth understanding of the impact of treatment delay on outcomes has come sharply into focus during the coronavirus 2019 (covid-19) pandemic. Many countries have experienced deferral of elective cancer surgery and radiotherapy, and reductions in the use of systemic treatments
+6
+7
+because systems have reassigned healthcare resources to pandemic preparedness.
+8
+The lack of high quality data on the impact of deferred and delayed cancer treatment has meant that the impact of covid-19 lockdown measures on patterns of care and subsequent outcomes has not been robustly quantified. More broadly, in non-pandemic times, health systems have developed pathways and targets for intervals from the time of diagnosis to receipt of treatment within National Cancer Control Plan frameworks that do not have a strong empirical basis.
+9
+Our analysis aims to provide robust evidence to guide national policy making, specifically the prioritisation and organisation of cancer services, by investigating the association between delays in receipt of cancer treatment and mortality. We considered seven common cancers and provide estimates on the impact of delay across all three curative modalities: surgery, systemic treatment, and radiotherapy delivered in the radical, neoadjuvant, and adjuvant setting.
+Methods
+Population
+We investigated seven cancers that together represent 44% of all incident cancers globally
+10
+: five common cancers (bladder, breast, colon, rectum, lung); cervical cancer, given its global importance as the fourth most common cancer diagnosis among women; and head and neck cancer (a major burden in middle income settings), for which there is an established association between delay and mortality.
+10
+We selected these cancers by balancing representativeness with comprehensiveness. We also considered rectal and colon cancer separately given that radiotherapy is an integral part of treatment for rectal cancer but not colon cancer. Because of the generally indolent nature of prostate cancer (particularly for low and intermediate risk disease) compared with other cancers, and a preliminary review of the delay literature, this cancer was excluded because delays of the magnitude considered in our analysis were probably not associated with increased mortality.
+Exposure
+Treatment delay was defined as time from diagnosis to treatment for the first treatment (definitive surgery or radiation), and from time of surgery to treatment for adjuvant indications (chemotherapy or radiation after surgery). For neoadjuvant treatments (those delivered before primary curative therapy, eg, surgery), delay was defined as the time from diagnosis to the start of neoadjuvant treatment, or from the end of neoadjuvant treatment to time of surgery. Delay of curative treatments was investigated (surgery, systemic treatment, and radiotherapy).
+Outcome
+A hazard ratio for overall survival was estimated for each four week increase in delay. The hazard ratio represents the risk of death from any cause for patients experiencing the observed treatment delay compared with those treated without the delay.
+Systematic review
+We undertook a systematic review to identify high validity studies quantifying the impact of treatment delay on mortality. The PRISMA (preferred reporting items for systematic reviews and meta-analyses) guidelines were followed.
+11
+We used Ovid Medline to carry out the search (appendix 1). To fully assess the validity of included studies, we did not search the literature for studies in abstract form only. Studies were limited to English language publications, from 2000 to present, and those reporting specifically on treatment delay and survival for the seven cancers being analysed. The year 2000 was selected to be comprehensive, while limiting reports to those reflective of contemporary practice as much as possible. We included studies if they specifically reported on the impact of delay for a well defined cancer indication. Studies that reported predominantly on patients receiving neoadjuvant treatments were excluded when evaluating the impact of treatment delay from diagnosis to definitive surgery. Studies that investigated the therapeutic benefit of intentional moderate delay between completion of neoadjuvant therapy for rectal cancer and surgery were excluded given potential confounding by indication. We did not exclude any studies based on design, except that the study needed to quantify the hazard ratio for overall survival because of treatment delay. The search was run on 10 April 2020, except for the bladder cancer search which was performed on 22 April 2020. Two reviewers screened abstracts by using Covidence systematic review software (Veritas Health Innovation, Melbourne, Australia). Searches of reference lists and Google were also performed.
+We reviewed studies for evidence of control for major prognostic factors to assess risk of bias. The criteria used were consistent with those used by our group in other systematic reviews of delay and outcomes.
+1
+2
+3
+Firstly we asked “was the distribution of the relevant prognostic factors adequately described in the groups of patients which were compared?” Relevant prognostic factors for all studies were considered to be age, stage, treatment description, and comorbidity or functional status. If no, the study was classified as not of high validity. If yes, we proceeded to the next question “Were the comparison groups balanced with respect to the relevant prognostic factors?” If yes, the study was classified as high validity. We qualitatively assessed the magnitude of observed differences, and the P value was considered when interpreting these differences. If no, we asked “Were the reported results appropriately adjusted for any differences in the relevant prognostic factors?” If yes, the study was classified as high validity; if no, the study was classified as not high validity. Only studies meeting these criteria were included for subsequent meta-analysis.
+For some definitive indications (colon cancer, lung cancer, cervical cancer), it was possible that observed associations between treatment delay and risk of death were attenuated because patients with poorer outcomes might present more quickly with symptomatic disease through emergency or urgent referral pathways (often referred to as the waiting time paradox).
+12
+To qualify as high validity, such studies were required to have also performed an analysis or subanalysis to investigate the impact of this factor in the observed associations. Similar to Neal and colleagues, this was defined as an analysis or subanalysis of patients clearly including or excluding patients with short diagnosis to treatment interval (eg, less than four weeks) or poor outcomes (eg, death within four to eight weeks of diagnosis).
+12
+Converting hazard ratios to four week delay estimates
+There was heterogeneous reporting of results, with time intervals reported as dichotomous, ordinal categories or as continuous variables. Results were converted to a common unit—hazard ratio for each four week delay with the assumption of a log linear relation across waiting times based on the findings of other meta-analyses.
+1
+2
+3
+A log linear relation predicts, for example, that patients waiting eight weeks rather than four weeks have a doubling in their risk of death. A unit of four weeks was chosen based on the magnitude of waiting times reported in the literature. We emphasise that the hazard ratio calculated in this study might be converted to shorter (eg, each week or each day) or longer units. Appendix 2 provides further information on the conversion of hazard ratios to each four week delay estimates or other units, and compares the log linear model to the linear model.
+Meta-analysis
+We obtained the summary hazard ratio estimate by pooling hazard ratios for each four week delay with inverse variance weighting in DerSimonian and Laird random effect models. Heterogeneity between studies was evaluated using the I
+2
+test. We performed the statistical analysis using the R package metafor (R Foundation for Statistical Computing, Vienna, Austria). We considered a two tailed P value less than 0.05 to be statistically significant. Publication bias was not tested given the small number of studies identified for each indication.
+Sensitivity analysis
+We undertook a post hoc sensitivity analysis to evaluate the impact of the stringent validity criteria on findings. Studies that had been excluded in the main analysis because of a lack of information on comorbidities or functional status were included in this analysis because other factors such as increasing age could be proxies for these.
+Patient and public involvement
+The research was informed by patient groups and cancer charities that were concerned about the impact of cancer treatment deferral and delays during the covid-19 pandemic.
+Results
+Our search identified 2543 articles for review (
+fig 1
+).
+11
+After we added records identified through additional sources, and removed duplicates, 2843 records were screened. The primary reason for exclusion at the screening stage was lack of relevance to the study question. We obtained 275 articles to assess for eligibility. Of these, 241 were excluded, most commonly because they were not high validity studies (n=100), they included the wrong patient population (n=36), or the wrong study design (n=26). This left 34 studies with unique populations for inclusion (
+fig 1
+,
+table 1
+,
+table 2
+).
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+These studies included 1 272 681 patients, with a sample size ranging from 174 to 420 792 (appendix 3). Twenty eight studies were population or registry based, and six were institutional reports. All studies were retrospective observational comparisons. Abstracted data on delay were dichotomous in eight, continuous in nine, and categorical in 17 studies. Waiting time data generally covered from three to four weeks, to 16 weeks (appendix 3). Appendix 3 presents the association between treatment delay and survival for individual studies. In addition to adjustments for age, stage, and comorbidity or functional status, 91% of studies accounted for one or more socioeconomic variables in their analysis, 82% accounted for insurance status, 65% for year of treatment or year of diagnosis, and 88% for institutional or geographical factors (appendix 4). We did not find any high validity data for five radiotherapy indications or cervical cancer surgery (
+table 1
+,
+table 2
+).
+Fig 1.
+Open in a new tab
+PRISMA (preferred reporting items for systematic reviews and meta-analyses) 2009 flow diagram for systematic review of treatment delay and survival for curative surgery, systemic treatment, and radiotherapy for bladder, breast, colon, rectum, lung, cervix, and head and neck cancer. HR=hazard ratio
+Table 1.
+Summary of characteristics for studies investigating surgical treatment
+Indication: surgery
+Source
+Study design
+Dataset (dates)
+Median age (years)
+Stage
+Other study details
+Bladder
+Chu 2019
+13
+Retrospective observational comparison
+SEER Medicare database (2004-2012)
+75.2 (mean)
+II
+—
+Gore 2009
+14
+Retrospective observational comparison
+SEER Medicare database (1992-2001)
+≤12 weeks=73.8, >12 weeks=73.6 (mean)
+II
+—
+Kulkarni 2009
+15
+Retrospective observational comparison
+Ontario Cancer Registry (1992-2004)
+≤90 days 67.4, >90 days 69.2 (mean)
+Tx, T0, Ta, Tis, T1-T4
+—
+Breast
+Bleicher 2016
+16
+Retrospective observational comparison
+SEER Medicare database (1992-2009), NCDB (2003-2005) databases
+75.2 (mean), 60.3 (mean)
+I-III, I-III
+Both cohorts were included in meta-analysis as overlap was limited owing to years considered in two cohorts, wider geographical population coverage of NCDB with ≥18 years represented (SEER was ≥66 years)
+Eaglehouse 2019
+17
+Retrospective observational comparison
+CCR, MDR databases (1998-2010)
+54.5 (mean)
+I-III
+—
+Polverini 2016
+18
+Retrospective observational comparison
+NCDB (2004-2012)
+59.4 (mean)
+I-III
+—
+Shin 2013
+19
+Retrospective observational comparison
+KCCR database (2006)
+49.3 (mean)
+Local and regional (SEER)
+—
+Mateo 2020
+20
+Retrospective observational comparison
+NCDB (2010-2014)
+NR
+I-III
+—
+Colon
+Bagaria 2019
+21
+Retrospective observational comparison
+Multicentre, US (1990-2012)
+71 (range 18-99)
+I-IV (pathological)
+—
+Flemming 2017
+22
+Retrospective observational comparison
+OCR, CIHI DAD, OHIP databases (2002-2008)
+71 (IQR 62-78)
+I-IV (pathological)
+—
+NSCLC
+Kanarek 2014
+23
+Retrospective observational comparison
+Institutional US (2003-2009)
+61% ≥65
+1A, 1B/2A, 2B
+—
+Samson 2015
+24
+Retrospective observational comparison
+NCDB (1998-2010)
+<8 weeks: 67.63 (±10.1), ≥8 weeks: 68.73 (±9.8) (mean (±SD))
+I (clinical)
+—
+Cervix
+No high validity data found
+Head and neck
+Murphy 2016
+25
+Retrospective observational comparison
+NCDB (2003-2005)
+NR
+I-IVB
+Oral tongue, oropharynx, larynx, hypopharynx
+Liao 2017
+26
+Retrospective observational comparison
+Taiwanese Cancer Registry database (2004-2010)
+52.8 (mean)
+I-IVB (clinical)
+Oral cavity
+Open in a new tab
+CCR=Department of Defence Central Cancer Registry; CIHI DAD=Canadian Institute for Health Information Discharge Abstract Database; IQR=interquartile range; KCCR=Korean Central Cancer Registry; MDR=Military Health System Data Repository; NCDB=National Cancer Database (US); NR=not reported; NSCLC=non-small cell lung cancer; OCR=Ontario Cancer Registry; OHIP=Ontario Health Insurance Plan; SEER=Surveillance, Epidemiology, and End Results.
+Table 2.
+Summary of characteristics for studies investigating systemic treatment and radiotherapy
+Indication
+Source
+Study design
+Dataset (dates)
+Median age (years)
+Stage
+Other study details
+Systemic treatment
+Neoadjuvant chemotherapy, bladder
+Chu 2019
+13
+Retrospective observational comparison
+SEER Medicare database (2004-2012)
+72.9 (mean)
+II
+Same study as Chu 2019
+13
+bladder surgery
+Adjuvant chemotherapy, bladder
+Corbett 2019
+27
+Retrospective observational comparison
+NCDB (2006-2013)
+NR
+pT3-T4 or pN+
+—
+Booth 2014
+28
+Retrospective observational comparison
+OCR
+38% were ≥70
+18% <T3, 82% T3-T4, 68% node positive
+—
+Neoadjuvant chemotherapy, breast
+Sanford 2016
+29
+Retrospective observational comparison
+Research database at University of Texas (1995-2007)
+50 (range 24-83)
+I-III (clinical)
+Time from end of neoadjuvant chemotherapy to surgery
+Adjuvant chemotherapy, breast
+Gagliato 2014
+30
+Retrospective observational comparison
+MD Anderson Cancer Center institutional database. (1997-2011)
+50 (range 19-85)
+I-III
+—
+Mateo 2020
+20
+Retrospective observational comparison
+NCDB (2010-2014)
+NR
+I-III
+—
+Hershman 2006
+31
+Retrospective observational comparison
+SEER Medicare database (1992-1999)
+NR
+I-II
+—
+Adjuvant chemotherapy, colon, rectum
+Hershman 2006
+32
+Retrospective observational comparison
+SEER Medicare database (1992-1999)
+NR
+III Colon
+—
+Cheung 2009
+33
+Retrospective observational comparison
+SEER Medicare database (1991-2002)
+73.3 (IQR 69.8-77.4)
+II- III Rectal
+—
+Bayraktar 2011
+34
+Retrospective observational comparison
+Jackson Memorial Hospital and University of Miami Sylvester Comprehensive Cancer Center (2000-2008)
+55.7±1.1 for ≤60 days and 56.9±1.8 for >60 days (mean±SE)
+II-III Colon
+—
+Lima 2011
+35
+Retrospective observational comparison
+Alberta Cancer Registry, ambulatory care classification system, discharge abstract database (2000-2005)
+NR
+III Colon
+—
+Becerra 2017
+36
+Retrospective observational comparison
+New York State Registry, SPARCS (2004-2009)
+NR
+III Colon
+—
+Turner 2018
+37
+Retrospective observational comparison
+NCDB (2006-2014)
+NR
+III Colon
+—
+Xu 2014
+38
+Retrospective observational comparison
+SEER Medicare database (1992-2005)
+73.6 (IQR 69.8-77.6)
+II Colon
+—
+Massarweh 2015
+39
+Retrospective observational comparison
+NCDB (2003-2010)
+60.8 (±11.6) (mean (±SD))
+III Colon
+—
+Adjuvant chemotherapy, NSCLC
+Booth 2013
+40
+Retrospective observational comparison
+OCR (2004-2006)
+62 (28-85) (mean (range))
+I-IV (pathological)
+—
+Salazar 2017
+41
+Retrospective observational comparison
+NCDB (2004-2012)
+64 (IQR 57-70)
+I-III (pathological)
+—
+Radiotherapy
+Definitive radiotherapy/neoadjuvant, bladder
+No high validity data found
+Adjuvant radiotherapy, post breast conserving surgery
+Hébert-Croteau 2004
+42
+Retrospective observational comparison
+Random population based sample of five regions of Quebec, Canada for periods covering 1988-1994
+NR
+I-II
+—
+Neoadjuvant (chemo)radiation, rectum*
+No high validity data found
+NSCLC, stage III chemoradiation
+No high validity data found
+SCLC, limited stage chemoradiation
+No high validity data found
+Adjuvant chemoradiation, cervix
+Jhawar 2017
+43
+Retrospective observational comparison
+NCDB (2004-2013)
+46 (IQR 38-56)
+IB1-IIIB
+No stratified wait group table but adjusted analysis
+Definitive chemoradiation, cervix
+No high validity data found
+Radical chemoradiation, head and neck
+Sharma 2016
+44
+Retrospective observational comparison
+NCDB (2003-2006)
+57.6 (9.9) (mean (SD))
+III-IV (clinical, non-metastatic)
+Oropharynx chemoradiation
+Adjuvant (chemo)radiation, head and neck
+Harris 2018
+45
+Retrospective observational comparison
+NCDB (2004-2013)
+59 (10.9) (mean (SD))
+III-IV (non-metastatic)
+Interaction between subsite and outcome observed
+Radical (chemo)radiation, nasopharyngeal carcinoma
+Chen 2016
+46
+Retrospective observational comparison
+Sun Yat-Sen University Cancer Center, institutional series (2009-2012)
+NR, 45% ≤45 (primary cohort)
+I-IV (non-metastatic)
+99.6% World Health Organization histology type II/III, treated with IMRT
+Open in a new tab
+IMRT=intensity modulated radiation therapy; IQR=interquartile range; NCDB=National Cancer Database (US); NR=not reported; NSCLC=non-small cell lung cancer; OCR=Ontario Cancer Registry; SCLC=small cell lung cancer; SD=standard deviation; SE=standard error; SEER=Surveillance, Epidemiology, and End Results; SPARCS=Statewide Planning and Research Cooperative System.
+*
+Delay studies primarily investigating therapeutic benefit of usually short delay between completion of neoadjuvant treatment and surgery for rectal cancer are excepted. No high validity studies investigating time from diagnosis to start of neoadjuvant therapy were found for rectal cancer.
+Figure 2
+,
+figure 3
+,
+figure 4
+show summary results for all indications, with pooled estimates displayed for treatment site combinations where more than one high validity study exists. The random effects models showed a consistent association of surgical delay with increased mortality, with all indications showing a hazard ratio for each four week delay of between 1.06 and 1.08 (6-8% increased chance of death for each four week delay in treatment). For example, for head and neck surgery the hazard ratio was 1.06 (95% confidence interval 1.04 to 1.08) and for breast partial or complete mastectomy the hazard ratio was 1.08 (1.03 to 1.13). The results for lung surgery were consistent with other sites, though not statistically significant (1.06, 0.93 to 1.19).
+Fig 2.
+Open in a new tab
+Forest plot and pooled hazard ratios for association of each four week delay in surgery and overall survival by cancer site. Small purple diamonds represent the hazard ratio for each study and whiskers represent 95% confidence interval. Large purple diamonds represent summary effect estimates with the centre being the estimate and the ends representing 95% confidence intervals. NSCLC=non-small cell lung cancer
+Fig 3.
+Open in a new tab
+Forest plot and pooled hazard ratios for association of each four week delay in adjuvant and neoadjuvant systemic treatment and overall survival by cancer site. Small purple diamonds represent the hazard ratio for each study and whiskers represent 95% confidence interval. Large purple diamonds represent summary effect estimate with the centre being the estimate and the ends representing 95% confidence intervals. NSCLC=non-small cell lung cancer
+Fig 4.
+Open in a new tab
+Forest plot of hazard ratios for association of each four week delay in radical and adjuvant radiotherapy and overall survival by cancer site. Purple diamonds represent the hazard ratio for each study and whiskers represent 95% confidence interval
+Adjuvant and neoadjuvant systemic treatment indications varied more widely in effect (hazard ratio range 1.01-1.28). We observed significant associations for bladder neoadjuvant systemic treatment (hazard ratio 1.24, 95% confidence interval 1.03 to 1.50), breast adjuvant (1.09, 1.07 to 1.11) and neoadjuvant systemic treatment (1.28, 1.05 to 1.56), and colon and rectal adjuvant chemotherapy (1.13, 1.09 to 1.17). Associations were non-significant for non-small cell lung cancer adjuvant chemotherapy (1.01, 0.99 to 1.04) and bladder adjuvant chemotherapy (1.04, 0.98 to 1.11).
+High validity data on curative radiotherapy were limited, but supported a mortality impact of delay for head and neck cancer (eg, radical radiotherapy: 1.09, 1.05 to 1.14) and for cervical cancer adjuvant radiotherapy (1.23, 1.00 to 1.50; P=0.045). We found no significant effect for the single high validity study of adjuvant radiotherapy after breast conserving surgery (0.98, 0.88 to 1.09). No high validity studies were found for delay between diagnosis and start of neoadjuvant therapy for rectal cancer or for four other curative radiotherapy indications (
+table 2
+).
+Sensitivity analysis
+To evaluate the impact of our validity criteria on study findings, we undertook a sensitivity analysis and included studies that could be considered of borderline validity. For this analysis, we included 12 studies that were excluded in the primary analysis solely because of the lack of reporting or adjustment for comorbidity or functional status. We found little change in our estimates, except for breast cancer neoadjuvant systemic treatment (appendix 5).
+Discussion
+Principal findings
+This analysis reports the impact of delay in curative treatment on the risk of death across the seven major tumour types: bladder, breast, colon, rectum, lung, cervix, and head and neck, and across all three major treatment modalities (surgery, systemic treatment, and radiotherapy). Across all three modalities, we found that a treatment delay of four weeks is associated with an increase in the risk of death. For surgery, this is a 6-8% increase in the risk of death for every four week delay. This impact is even more marked for some radiotherapy and systemic indications, with a 9% and 13% increased risk of death for definitive head and neck radiotherapy and adjuvant systemic treatment for colorectal cancer, respectively. The one high validity study for breast cancer adjuvant radiotherapy did not show an effect, although a clear effect of delay on local control has been described (hazard ratio for each month of delay 1.08, 95% confidence interval 1.02 to 1.14); longer delays (eg, >20 weeks) have been associated with worse breast cancer specific survival.
+47
+48
+Policy implications and comparison to other studies
+Our analysis builds on the foundations of Mackillop and colleagues, who investigated the mortality impact per one month delay for radiotherapy indications (eg, head and neck, breast) and similarly for systemic treatment (adjuvant colon, breast).
+1
+2
+3
+47
+Our study provides a strong empirical basis for estimating the mortality impact of system level delays for different treatment modalities and cancers.
+Delays of up to eight weeks and 12 weeks further increase the risk of death. For example, an eight week delay in breast cancer surgery would increase the risk of death by 17% (=1.08
+8weeks/4weeks
+) and a 12 week delay would increase the risk by 26% (=1.08
+12weeks/4weeks
+). Such figures translate into significant population level excess mortality. A surgical delay of 12 weeks for all patients with breast cancer for a year (eg, during covid-19 lockdown and recovery) would lead to 1400 excess deaths in the United Kingdom, 6100 in the United States, 700 in Canada, and 500 in Australia, assuming surgery is the first treatment in 83%, and mortality without delay is 12%.
+10
+16
+49
+These results are sobering and suggest that the survival gained by minimising the time to initiation of treatment is of similar (and perhaps greater) magnitude of benefit as that seen with some novel therapeutic agents.
+50
+Furthermore, our results do not consider the impact of treatment delay on local control rates, functional outcomes (eg, continence, swallowing), complications from more extensive treatments because of progression during delays, quality of life,
+51
+or the greater economic burden because of higher direct care costs and productivity losses because of premature mortality and morbidity.
+52
+Therefore, the impact of treatment delay is probably far greater for patients and society than that reflected in our results.
+Treatment delays could be due to patient factors (eg, need for cardiac workup, postoperative wound infection), disease factors (eg, need for additional imaging investigations), or system factors (eg, waiting for an operating room date, a central line insertion, or a specialist consultation). The main purpose of this discussion is to highlight the need to minimise system level delays. We strongly emphasise that patients should not start surgery, systemic treatment, or radiotherapy until they are medically fit to do so, and have completed appropriate investigations. We also acknowledge that for rectal cancer, for instance, an increasing body of evidence shows that deferral of surgery after radiotherapy might not confer a survival disadvantage for those having a complete response.
+53
+A major finding from our study is the paucity of high quality data for several tumour specific indications for radiotherapy, including chemoradiation for non-small cell lung cancer and definitive cervical cancer treatment. Two high validity studies providing delay estimates across multiple treatment modalities for these tumour types suggest an impact of delay in treatment initiation in these settings (cervical cancer mortality for each four week delay: hazard ratio 1.04, 95% confidence interval 1.02 to 1.07
+54
+; stage III non-small cell cancer: 1.03, 1.01 to 1.06).
+55
+While the negative impact of treatment interruptions on survival outcomes is well documented for these tumours,
+56
+57
+58
+evidence is insufficient about the exact impact of a delay in starting treatment, which given its importance, should be an urgent research priority.
+The study results are timely in light of the current covid-19 pandemic. Internationally, some countries have released national guidance on prioritisation of surgical treatments for cancer, which do not appear to be supported by the results of this study. For example, at the beginning of the pandemic the UK NHS
+59
+created a short term surgical prioritisation algorithm. Several indications were considered safe to be delayed by 10-12 weeks with no predicted impact on outcome, including all colorectal surgery. Therefore, our results can help to directly inform policy—we found that increasing the wait to surgery from six weeks to 12 weeks would increase the risk of death in this setting by 9%.
+We note that a delay of less than four weeks should not be justified as safe based on our findings. For example, our results suggest a 4% increased risk of death for a two week delay for breast cancer surgery (1.08
+2weeks/4weeks
+; appendix 2). Taken as a whole, these results suggest there is an urgent need to reconsider how we organise our cancer services. The prevailing paradigm has been around access to new treatments to improve outcomes, but from a system level, gains in survival might be achieved by prioritising efforts to minimise the time from cancer diagnosis to initiation of treatment from weeks to days. We acknowledge that treatment delays are multifactorial in cause and that patients should not start treatment before they are medically fit to do so, and have had completed all appropriate evaluations, however these data strongly support efforts to minimise system level delays. For example, national quality indicators around cancer waiting times from diagnosis to treatment are widely used across different health systems. In the UK NHS, current targets for the initiation of primary definitive treatment have been set at 31 days from the decision to treat date; this does not include the lag between receiving a diagnosis and having a surgical or radiation oncology consultation for treatment.
+9
+60
+At a population level, differences in lead times to treatment of even two or three weeks could be a factor in why survival outcomes differ across health systems and needs further investigation. However, these delays need to be balanced with the necessity to be medically fit for treatment. Additionally, potential opportunities for second opinions could result in more effective or appropriate care, especially where variation in practice or outcomes exist across providers.
+Options for decreasing delay after diagnosis include increasing specialist workforce capacity through training initiatives or overcoming these challenges through technological developments. For example, automated treatment contouring and planning is increasingly standardised and reduces the radiotherapy preparation time to hours rather than days.
+61
+Satellite centres might improve capacity for treating patients, as can reconfiguration of existing infrastructure to high volume super specialised services, or single entry models and team based care.
+62
+Innovations in surgical technique could also minimise morbidity and reduce time to adjuvant therapy.
+63
+64
+Strengths and limitations of this study
+Our study provides evidence on the association of treatment delay and mortality, covering seven cancer types and three treatment modalities. Our study was based on observational data, and we therefore restricted our sample to high validity studies given the biases inherent to this study design. Our approach provides high level evidence on system delay because randomised trials in this context are not appropriate or feasible.
+The most fundamental limitation of our study is the risk of residual confounding. Patients with longer treatment delays could be destined to have inferior outcomes for reasons of comorbidity, treatment morbidity, or performance status. In evaluating the validity of our findings, we note the coherence of overall mortality and cancer specific endpoints (local control, cancer specific survival, disease-free survival) for all past meta-analyses of high validity studies.
+1
+2
+3
+47
+We also note major detrimental effects of prolonged waiting times on cancer specific survival outcomes in 13 of 15 studies included in our meta-analysis that reported cancer survival outcomes alongside overall survival.
+14
+16
+22
+28
+29
+30
+31
+32
+33
+34
+35
+36
+38
+39
+46
+These studies span seven treatment indications. Factors associated with medical status such as elements of socioeconomic status or insurance status might also be confounding factors; we found that 91% and 82% of identified studies accounted for these, respectively, though this does not completely rule out the possibility of residual confounding. Twenty five of 34 identified studies were from the USA, though no significant heterogeneity was detected compared with other countries.
+Our findings cannot be directly applied to other cancer specific treatment indications, or to subgroups or single patients with treatment indications considered here. For example, limited evidence suggests that the impact of delay can vary according to stage, often with consistently greater mortality impact with earlier stage disease.
+16
+17
+18
+25
+55
+Additionally, our results can only be applied to the range of delay considered in the studies we evaluated. Given evidence derived from cancers representing almost half of all patients, the precautionary principle (acting to avoid or diminish harm in the face of scientific uncertainty) should be used when determining acceptable waiting times for treatment where data are limited.
+8
+Too few studies were found for most indications to perform a risk of publication bias assessment with funnel plots. For previous meta-analyses where enough studies existed to do so, findings were not explained by publication bias.
+1
+2
+We acknowledge that the assumption of a log linear relation between waiting time and mortality could be an oversimplification. This assumption was required to estimate per unit time mortality impact of delay from studies that use a variety of wait time representations. However, there is support for this assumption in the primary studies we used. A continuous exposure from nine primary studies assumed (log) linearity. Six studies undertook cubic spline analysis and the results are compatible with log linear effects with the range of wait times considered here (four weeks to 16 weeks).
+15
+19
+21
+26
+41
+45
+Moreover, the previous meta-analyses by Biagi and colleagues and Raphael and colleagues suggest a reasonable fit of a log linear relation to delay.
+1
+2
+If a linear relation with delay exists (rather than log linear), the degree of difference in the two models is expected to be sufficiently small to allow use of a log linear model for the specific purposes of modelling the impact of delay on mortality between four and 16 weeks (appendix 2). We emphasise that assuming log linearity outside of the range of wait times used in this analysis is inappropriate. Our findings should also not be used to evaluate whether there is a minimal safe delay, or to estimate the impact of delay beyond 16 weeks.
+Our results reflect the impact of delay on large and expectedly heterogeneous populations with varying risks of recurrence. Therefore, these estimates are best used at a policy and planning level for modelling, rather than for individual risk prediction. We also emphasise that few studies considered the impact of immortal time bias on delay; this could be done through a landmark analysis for survival. Patients that survived a longer wait might have less aggressive tumours, biasing the delay effect towards the null. Our findings could therefore underestimate the impact of delay on mortality.
+Conclusions
+A four week delay in treatment is associated with an increase in mortality across all common forms of cancer treatment, with longer delays being increasingly detrimental. In light of these results, policies focused on minimising system level delays in cancer treatment initiation could improve population level survival outcomes.
+What is already known on this topic
+Delay in the treatment of cancer can have adverse consequences on outcome
+Previous meta-analyses of high validity studies have found evidence supporting a continuous relation between delay and mortality or local control
+Despite its foundational importance, we lack standardised estimates of the effect of treatment delay for most treatment indications
+What this study adds
+This systematic review considered seven major cancer types (bladder, breast, colon, rectum, lung, cervix, and head and neck) and three treatment modalities (surgery, systemic treatment, and radiotherapy)
+The data consistently show that a four week treatment delay is associated with increased mortality; further mortality was reported with longer delays
+Policies focused on minimising system level delays in cancer treatment initiation could improve population level survival outcomes
+Acknowledgments
+Funding: There was no project specific funding for this work. TPH holds a research chair provided by the Ontario Institute for Cancer Research through funding provided by the Government of Ontario (#IA-035). RS is funded through the UK Research and Innovation Economic and Social Research Council (ES/P010962/1). DEO is supported by an Ontario Graduate Scholarship and a Chen-Aronson Fellowship in Causes of Cancer. CMB is supported as the Canada Research Chair in Population Cancer Care. AA is supported by a National Institute for Health Research (NIHR) Advanced Fellowship (NIHR300599). The views expressed in this publication are those of the authors and not necessarily those of the NHS, the Government of Ontario, the National Institute for Health Research, or the Department of Health and Social Care.
+Web extra.
+Extra material supplied by authors
+Web appendix: Appendices
+hant058457.ww.pdf
+(163.7KB, pdf)
+Dr Patti Groome is acknowledged for providing thoughtful comments on the evaluation of confounding by indication.
+Contributors: Concept and design: TPH, WDK, CMB, RS, AA. Acquisition, analysis, or interpretation of data: TPH, WDK, ST, MJ, GAP, EHJ, DEO, CMB, RS, AA. Statistical analysis: TPH, WDK, DEO. Drafting of the manuscript: TPH, AA, WDK. Critical revision of the manuscript for important intellectual content: TPH, WDK, ST, MJ, GAP, EHJ, DEO, CMB, RS, AA. Administrative, technical, or material support: TPH, WDK, AA. Supervision: TPH, WDK, AA. TPH had full access to all of the data in the study, takes responsibility for the integrity of the data and the accuracy of the data analysis, and is guarantor for this work. TPH is the corresponding author and attests that all listed authors meet authorship criteria and that no others meeting the criteria have been omitted.
+Competing interests: All authors have completed the ICMJE uniform disclosure form at
+www.icmje.org/coi_disclosure.pdf
+and declare: no support from any organisation for the submitted work; unrestricted research funding for an unrelated project from Roche (TPH); no other relationships or activities that could appear to have influenced the submitted work.
+Ethical approval: No ethical approval was required as this was a systematic review and meta-analysis of previously conducted studies.
+Data sharing: No additional data available.
+The lead author affirms that the manuscript is an honest, accurate, and transparent account of the study being reported; that no important aspects of the study have been omitted; and that any discrepancies from the study as originally planned (and, if relevant, registered) have been explained.
+Dissemination to participants and related patient and public communities: We plan to disseminate the results to patient organisations. Dissemination to study participants is not applicable.
+Provenance and peer review: Not commissioned; externally peer reviewed.
+References
+1.
+Biagi JJ, Raphael MJ, Mackillop WJ, Kong W, King WD, Booth CM.
+Association between time to initiation of adjuvant chemotherapy and survival in colorectal cancer: a systematic review and meta-analysis. JAMA
+2011;305:2335-42. 10.1001/jama.2011.749
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+2.
+Raphael MJ, Biagi JJ, Kong W, Mates M, Booth CM, Mackillop WJ.
+The relationship between time to initiation of adjuvant chemotherapy and survival in breast cancer: a systematic review and meta-analysis. Breast Cancer Res Treat
+2016;160:17-28. 10.1007/s10549-016-3960-3
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+3.
+Chen Z, King W, Pearcey R, Kerba M, Mackillop WJ.
+The relationship between waiting time for radiotherapy and clinical outcomes: a systematic review of the literature. Radiother Oncol
+2008;87:3-16. 10.1016/j.radonc.2007.11.016
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+4.
+Graboyes EM, Kompelli AR, Neskey DM, et al. 
+Association of Treatment Delays With Survival for Patients With Head and Neck Cancer: A Systematic Review. JAMA Otolaryngol Head Neck Surg
+2019;145:166-77. 10.1001/jamaoto.2018.2716
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+5.
+Institute of Medicine Committee on Quality of Health Care in America 
+Crossing the quality chasm: a new health system for the 21st century.
+National Academy Press, 2001.
+[
+Google Scholar
+]
+6.
+Sample I. More than 2m operations cancelled as NHS fights Covid-19. The Guardian. 2020.
+https://www.theguardian.com/society/2020/apr/26/more-than-two-million-operations-cancelled-as-nhs-fights-covid-19
+7.
+Harnett CE. Clearing surgery backlog will take at least 17 months and cost millions, province says. Times Colonist. 2020.
+https://www.timescolonist.com/news/local/clearing-surgery-backlog-will-take-at-least-17-months-and-cost-millions-province-says-1.24131366
+8.
+Hanna TP, Evans GA, Booth CM.
+Cancer, COVID-19 and the precautionary principle: prioritizing treatment during a global pandemic. Nat Rev Clin Oncol
+2020;17:268-70. 10.1038/s41571-020-0362-6
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+9.
+NHS England. Achieving world-class cancer outcomes: a strategy for England 2015-2020 - progress report 2016-2017. 2017.
+https://www.england.nhs.uk/publication/achieving-world-class-cancer-outcomes/
+10.
+Ferlay J, Ervik M, Lam F, et al. 
+Global Cancer Observatory: Cancer Today.
+International Agency for Research on Cancer, 2018,
+https://gco.iarc.fr/today
+[
+Google Scholar
+]
+11.
+Moher D, Liberati A, Tetzlaff J, Altman DG, Group P.
+Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. PLoS Med
+2009;6:e1000097
+10.1371/journal.pmed.1000097
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+12.
+Neal RD, Tharmanathan P, France B, et al. 
+Is increased time to diagnosis and treatment in symptomatic cancer associated with poorer outcomes? Systematic review. Br J Cancer
+2015;112(Suppl 1):S92-107. 10.1038/bjc.2015.48
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+13.
+Chu AT, Holt SK, Wright JL, Ramos JD, Grivas P, Yu EY, et al. 
+Delays in radical cystectomy for muscle‐invasive bladder cancer. Cancer
+2019;125:2011-17. 10.1002/cncr.32048
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+14.
+Gore JL, Lai J, Setodji CM, et al. 
+Mortality increases when radical cystectomy is delayed more than 12 weeks: results from a Surveillance, Epidemiology, and End Results-Medicare Analysis. Cancer
+2009;115:988- 96
+10.1002/cncr.24052
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+15.
+Kulkarni GS, Urbach DR, Austin PC, Fleshner NE, Laupacis A.
+Longer wait times increase overall mortality in patients with bladder cancer. J Urol
+2009;182:1318-24
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+16.
+Bleicher RJ, Ruth K, Sigurdson ER, et al. 
+Time to Surgery and Breast Cancer Survival in the United States. JAMA Oncol
+2016;2:330-9. 10.1001/jamaoncol.2015.4508
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+17.
+Eaglehouse YL, Georg MW, Shriver CD, Zhu K.
+Time-to-surgery and overall survival after breast cancer diagnosis in a universal health system. Breast Cancer Res Treat
+2019;178:441-50. 10.1007/s10549-019-05404-8
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+18.
+Polverini AC, Nelson RA, Marcinkowski E, et al. 
+Time to treatment: measuring quality breast cancer care. Ann Surg Oncol
+2016;23:3392-402. 10.1245/s10434-016-5486-7
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+19.
+Shin DW, Cho J, Kim SY, et al. 
+Delay to curative surgery greater than 12 weeks is associated with increased mortality in patients with colorectal and breast cancer but not lung or thyroid cancer. Ann Surg Oncol
+2013;20:2468-76. 10.1245/s10434-013-2957-y
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+20.
+Mateo AM, Mazor AM, Obeid E, et al. 
+Time to surgery and the impact of delay in the non-neoadjuvant setting on triple-negative breast cancers and other phenotypes. Ann Surg Oncol
+2020;27:1679-92. 10.1245/s10434-019-08050-y
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+21.
+Bagaria SP, Heckman MG, Diehl NN, Parker A, Wasif N.
+Delay to Colectomy and Survival for Patients Diagnosed with Colon Cancer. J Invest Surg
+2019;32:350-7.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+22.
+Flemming JA, Nanji S, Wei X, Webber C, Groome P, Booth CM.
+Association between the time to surgery and survival among patients with colon cancer: a population-based study. Eur J Surg Oncol
+2017;43:1447- 55
+10.1016/j.ejso.2017.04.014
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+23.
+Kanarek NF, Hooker CM, Mathieu L, Tsai H-L, Rudin CM, Herman JG, et al. 
+Survival after community diagnosis of early-stage non-small cell lung cancer. Am J Med
+2014;127:443- 9
+10.1016/j.amjmed.2013.12.023
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+24.
+Samson P, Patel A, Garrett T, et al. 
+Effects of delayed surgical resection on short-term and long-term outcomes in clinical stage I non-small cell lung cancer. Ann Thorac Surg
+2015;99:1906-13. 10.1016/j.athoracsur.2015.02.022
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+25.
+Murphy CT, Galloway TJ, Handorf EA, Egleston BL, Wang LS, Mehra R, et al. 
+Survival impact of increasing time to treatment initiation for patients with head and neck cancer in the United States. J Clin Oncol
+2016;34:169-78.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+26.
+Liao C-T, Chen H-N, Wen Y-W, Lee SR, Ng S-H, Liu T-W, et al. 
+Association between the diagnosis-to-treatment interval and overall survival in Taiwanese patients with oral cavity squamous cell carcinoma. Eur J Cancer
+2017;72:226-34.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+27.
+Corbett CJ, Xia L, Mamtani R, Malkowicz SB, Guzzo TJ.
+Survival benefit persists with delayed initiation of adjuvant chemotherapy following radical cystectomy for locally advanced bladder cancer. Urology
+2019;132:143- 9
+10.1016/j.urology.2019.05.038
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+28.
+Booth CM, Siemens DR, Peng Y, Tannock IF, Mackillop WJ.
+Delivery of perioperative chemotherapy for bladder cancer in routine clinical practice. Ann Oncol
+2014;25:1783-8. 10.1093/annonc/mdu204
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+29.
+Sanford RA, Lei X, Barcenas CH, et al. 
+Impact of time from completion of neoadjuvant chemotherapy to surgery on survival outcomes in breast cancer patients. Ann Surg Oncol
+2016;23:1515-21
+10.1245/s10434-015-5020-3 .
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+30.
+Gagliato D de Melo, Gonzalez-Angulo AM, Lei X, et al. 
+Clinical impact of delaying initiation of adjuvant chemotherapy in patients with breast cancer. J Clin Oncol
+2014;32:735-44. 10.1200/JCO.2013.49.7693
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+31.
+Hershman DL, Wang X, McBride R, Jacobson JS, Grann VR, Neugut AI.
+Delay of adjuvant chemotherapy initiation following breast cancer surgery among elderly women. Breast Cancer Res Treat
+2006;99:313-21. 10.1007/s10549-006-9206-z
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+32.
+Hershman D, Hall MJ, Wang X, et al. 
+Timing of adjuvant chemotherapy initiation after surgery for stage III colon cancer. Cancer
+2006;107:2581-8. 10.1002/cncr.22316
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+33.
+Cheung WY, Neville BA, Earle CC.
+Etiology of delays in the initiation of adjuvant chemotherapy and their impact on outcomes for Stage II and III rectal cancer. Dis Colon Rectum
+2009;52:1054-64. 10.1007/DCR.0b013e3181a51173
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+34.
+Bayraktar UD, Chen E, Bayraktar S, et al. 
+Does delay of adjuvant chemotherapy impact survival in patients with resected stage II and III colon adenocarcinoma?
+Cancer
+2011;117:2364-70. 10.1002/cncr.25720
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+35.
+Lima IS, Yasui Y, Scarfe A, Winget M.
+Association between receipt and timing of adjuvant chemotherapy and survival for patients with stage III colon cancer in Alberta, Canada. Cancer
+2011;117:3833-40. 10.1002/cncr.25954
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+36.
+Becerra AZ, Aquina CT, Mohile SG, et al. 
+Variation in delayed time to adjuvant chemotherapy and disease-specific survival in stage III colon cancer patients. Ann Surg Oncol
+2017;24:1610-7. 10.1245/s10434-016-5622-4
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+37.
+Turner MC, Farrow NE, Rhodin KE, et al. 
+Delay in adjuvant chemotherapy and survival advantage in stage III colon cancer. J Am Coll Surg
+2018;226:670-8. 10.1016/j.jamcollsurg.2017.12.048
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+38.
+Xu F, Rimm AA, Fu P, Krishnamurthi SS, Cooper GS.
+The impact of delayed chemotherapy on its completion and survival outcomes in stage II colon cancer patients. PLoS One
+2014;9:e107993
+10.1371/journal.pone.0107993
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+39.
+Massarweh NN, Haynes AB, Chiang YJ, et al. 
+Adequacy of the National Quality Forum’s colon cancer adjuvant chemotherapy quality metric: is 4 months soon enough?
+Ann Surg
+2015;262:312-20. 10.1097/SLA.0000000000000859
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+40.
+Booth CM, Shepherd FA, Peng Y, et al. 
+Time to adjuvant chemotherapy and survival in non-small cell lung cancer: a population-based study. Cancer
+2013;119:1243-50. 10.1002/cncr.27823
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+41.
+Salazar MC, Rosen JE, Wang Z, et al. 
+Association of delayed adjuvant chemotherapy with survival after lung cancer surgery. JAMA Oncol
+2017;3:610-9. 10.1001/jamaoncol.2016.5829
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+42.
+Hébert-Croteau N, Freeman CR, Latreille J, Rivard M, Brisson J.
+A population-based study of the impact of delaying radiotherapy after conservative surgery for breast cancer. Breast Cancer Res Treat
+2004;88:187-96. 10.1007/s10549-004-0594-7
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+43.
+Jhawar S, Hathout L, Elshaikh MA, Beriwal S, Small W, Mahmoud O.
+Adjuvant chemoradiation therapy for cervical cancer and effect of timing and duration on treatment outcome. Int J Radiat Oncol Biol Phys
+2017;98:1132- 41
+10.1016/j.ijrobp.2017.03.045
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+44.
+Sharma S, Bekelman J, Lin A, et al. 
+Clinical impact of prolonged diagnosis to treatment interval (DTI) among patients with oropharyngeal squamous cell carcinoma. Oral Oncol
+2016;56:17-24. 10.1016/j.oraloncology.2016.02.010
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+45.
+Harris JP, Chen MM, Orosco RK, Sirjani D, Divi V, Hara W.
+Association of survival with shorter time to radiation therapy after surgery for US patients with head and neck cancer. JAMA Otolaryngol Head Neck Surg
+2018;144:349-59. 10.1001/jamaoto.2017.3406
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+46.
+Chen YP, Mao YP, Zhang WN, et al. 
+Prognostic value of wait time in nasopharyngeal carcinoma treated with intensity modulated radiotherapy: a propensity matched analysis. Oncotarget
+2016;7:14973-82. 10.18632/oncotarget.7789
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+47.
+Gupta S, King WD, Korzeniowski M, Wallace DL, Mackillop WJ.
+The Effect of Waiting Times for Postoperative Radiotherapy on Outcomes for Women Receiving Partial Mastectomy for Breast Cancer: a Systematic Review and Meta-Analysis. Clin Oncol
+2016;28:739-49. 10.1016/j.clon.2016.07.010
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+48.
+Olivotto IA, Lesperance ML, Truong PT, et al. 
+Intervals longer than 20 weeks from breast-conserving surgery to radiation therapy are associated with inferior outcome for women with early-stage breast cancer who are not receiving chemotherapy. J Clin Oncol
+2009;27:16-23. 10.1200/JCO.2008.18.1891
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+49.
+Barton MB, Jacob S, Shafiq J, et al. 
+Review of optimal radiotherapy utilisation rates.
+Ingham Institute, Collaboration for Cancer Outcomes Research and Evaluation, 2013,
+http://tinyurl.com/pwkua34
+.
+[
+Google Scholar
+]
+50.
+Davis C, Naci H, Gurpinar E, Poplavska E, Pinto A, Aggarwal A.
+Availability of evidence of benefits on overall survival and quality of life of cancer drugs approved by European Medicines Agency: retrospective cohort study of drug approvals 2009-13. BMJ
+2017;359:j4530
+10.1136/bmj.j4530
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+51.
+Lievens Y, Audisio R, Banks I, Collette L, Grau C, Oliver K, et al. 
+Towards an evidence-informed value scale for surgical and radiation oncology: a multi-stakeholder perspective. Lancet Oncol
+2019;20:e112-23. 10.1016/S1470-2045(18)30917-3
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+52.
+Luengo-Fernandez R, Leal J, Gray A, Sullivan R.
+Economic burden of cancer across the European Union: a population-based cost analysis. Lancet Oncol
+2013;14:1165-74. 10.1016/S1470-2045(13)70442-X
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+53.
+Dossa F, Chesney TR, Acuna SA, Baxter NN.
+A watch-and-wait approach for locally advanced rectal cancer after a clinical complete response following neoadjuvant chemoradiation: a systematic review and meta-analysis. Lancet Gastroenterol Hepatol
+2017;2:501-13. 10.1016/S2468-1253(17)30074-2
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+54.
+Chen C-P, Kung P-T, Wang Y-H, Tsai W-C.
+Effect of time interval from diagnosis to treatment for cervical cancer on survival: a nationwide cohort study. PLoS One
+2019;14:e0221946
+10.1371/journal.pone.0221946
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+55.
+Tsai CH, Kung PT, Kuo WY, Tsai WC.
+Effect of time interval from diagnosis to treatment for non-small cell lung cancer on survival: a national cohort study in Taiwan. BMJ Open
+2020;10:e034351
+10.1136/bmjopen-2019-034351
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+56.
+The Royal College of Radiologists. The timely delivery of radical radiotherapy: guidelines for the management of unscheduled treatment interruptions. The Royal College of Radiologists. 2019.
+https://www.rcr.ac.uk/system/files/publication/field_publication_files/bfco191_radiotherapy-treatment-interruptions.pdf
+57.
+McMillan MT, Ojerholm E, Verma V, et al. 
+Radiation treatment time and overall survival in locally advanced non-small cell lung cancer. Int J Radiat Oncol Biol Phys
+2017;98:1142-52. 10.1016/j.ijrobp.2017.04.004
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+58.
+Girinsky T, Rey A, Roche B, et al. 
+Overall treatment time in advanced cervical carcinomas: a critical parameter in treatment outcome. Int J Radiat Oncol Biol Phys
+1993;27:1051-6. 10.1016/0360-3016(93)90522-W
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+59.
+NHS England. Clinical guide for the management of essential cancer surgery for adults during the coronavirus pandemic. Version 1, 7 April 2020.
+https://www.asgbi.org.uk/userfiles/file/covid19/c0239-specialty-guide-essential-cancer-surgery-coronavirus-v1-70420.pdf
+60.
+Achieving world-class cancer outcomes: a strategy for England 2015-2020.
+https://www.iccp-portal.org/system/files/plans/Strategy%20-Final.pdf
+61.
+van Dijk LV, Van den Bosch L, Aljabar P, et al. 
+Improving automatic delineation for head and neck organs at risk by Deep Learning Contouring. Radiother Oncol
+2020;142:115-23. 10.1016/j.radonc.2019.09.022
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+62.
+Urbach DR, Martin D.
+Confronting the COVID-19 surgery crisis: time for transformational change. CMAJ
+2020;192:E585-6. 10.1503/cmaj.200791
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+63.
+Kim RH, Kavanaugh MM, Caldito GC.
+Laparoscopic colectomy for cancer: Improved compliance with guidelines for chemotherapy and survival. Surgery
+2017;161:1633-41. 10.1016/j.surg.2016.11.024
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+64.
+Boyle JM, Kuryba A, Cowling TE, et al. 
+Determinants of Variation in the Use of Adjuvant Chemotherapy for Stage III Colon Cancer in England. Clin Oncol (R Coll Radiol)
+2020;32:e135-44. 10.1016/j.clon.2019.12.008
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+Associated Data
+This section collects any data citations, data availability statements, or supplementary materials included in this article.
+Supplementary Materials
+Web appendix: Appendices
+hant058457.ww.pdf
+(163.7KB, pdf)
+Articles from The BMJ are provided here courtesy of
+BMJ Publishing Group
+ACTIONS
+View on publisher site
+PDF (706.2 KB)
+Cite
+Collections
+Permalink
+PERMALINK
+Copy
+RESOURCES
+Similar articles
+Cited by other articles
+Links to NCBI Databases
+Cite
+Copy
+Download .nbib
+.nbib
+Format:
+AMA
+APA
+MLA
+NLM
+Add to Collections
+Create a new collection
+Add to an existing collection
+Name your collection
+*
+Choose a collection
+Unable to load your collection due to an error
+Please try again
+Add
+Cancel
+Follow NCBI
+NCBI on X (formerly known as Twitter)
+NCBI on Facebook
+NCBI on LinkedIn
+NCBI on GitHub
+NCBI RSS feed
+Connect with NLM
+NLM on X (formerly known as Twitter)
+NLM on Facebook
+NLM on YouTube
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov
+Back to Top

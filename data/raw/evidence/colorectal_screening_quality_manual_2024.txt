@@ -1,0 +1,1851 @@
+ QUALITY MANUAL
+ FOR COLORECTAL
+CANCER SCREENING
+
+
+
+
+          Published 18 April 2024
+CONTENTS
+
+EXPERT GROUP                                  4   10.5   Reminder letter                        21
+                                                  10.6 Change of wellbeing services county
+1. SUMMARY                                    5          by screening invitee                   21
+
+
+2. TERMINOLOGY AND ABBREVIATIONS              6   11. SAMPLE ANALYSIS AND
+                                                  COMMUNICATION OF RESULTS                      22
+3. INTRODUCTION                               7   11.1   Analysis                               22
+                                                  11.2   Notification of test results           22
+4. BACKGROUND                                 8   11.2.1 Positive test result                   22
+4.1    Epidemiology of colorectal cancer      8   11.2.2 Negative test result                   23
+4.2    Development of colorectal cancer      10   11.3   Change of municipality of residence    23
+4.3    Screening                             11
+4.3.1 Principles of screening                11   12. CARRYING OUT FOLLOW-UP
+4.3.2 Colorectal cancer screening                 EXAMINATIONS                                  24
+       in Finland                            11   12.1   Responsibility for implementation      24
+                                                  12.2   Colonoscopy                            24
+5. LEGISLATION AND GUIDANCE                  13   12.3   Computed tomography (CT)
+5.1    Legislation                           13          colonoscopy                            25
+5.2    Steering Group and Expert Group       13
+                                                  13. PATHOLOGY                                 26
+6. SCREENING PROTOCOL                        14   13.1   Typical samples and findings           26
+                                                  13.2   Referral information and sample
+7. TARGET POPULATION FOR SCREENING           15          handling in the pathology laboratory   26
+7.1    Age groups to be screened             15   13.3   Findings and their histopathological
+7.2    Exceptions to population-based                    diagnosis and reporting                26
+       recommendations                       15   13.4   Severe dysplasia                       27
+                                                  13.5   Serrated lesions                       27
+8. APPROVED TESTS                            16   13.6   pT1-adenocarcinoma                     27
+                                                  13.7   Consultation table                     28
+9. ORGANISATION OF SCREENING                 17
+9.1    Wellbeing services counties           17   14. FOLLOW-UP TREATMENT                       29
+9.2    Screening laboratory                  17   14.1   Basic principles                       29
+9.3    Organisation of endoscopic activity   19   14.2   Staging and other examinations         30
+                                                  14.3   Multidisciplinary assessment           30
+10. INVITATION                               20   14.4 Surgical treatment                       30
+10.1   Collecting a cohort of invitees       20   14.5   Adjuvant chemotherapy                  30
+10.2 Invitation                              20   14.6 Treatment of disseminated disease        30
+10.3   Pre-information form                  21   14.7   Post-treatment surveillance            31
+10.4 Returning a sample                      21
+
+
+
+
+2          QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+15. STAFF AND TRAINING                      32
+15.1   Screening nurses                     32
+15.2   Endoscopists                         32
+15.3   Pathologists                         33
+
+
+16. HARMS                                   34
+16.1   General harms of screening
+       programmes                           34
+16.2 Harms of colorectal cancer screening   34
+16.3   Colonoscopy safety                   34
+
+
+17. REGISTRATION OF SCREENING DATA          35
+17.1   Data collection                      35
+17.2   Submission of data to
+       the Finnish Cancer Registry          35
+17.3   Quality assurance and statistics     36
+
+
+18. COMMUNICATION                           37
+18.1   The aim of communication             37
+18.2   Communication content                37
+18.3   Improving participation              37
+18.4   Special groups                       37
+18.5   Information and
+       communication channels               38
+
+
+19. THE FUTURE OF COLORECTAL
+CANCER SCREENING                            39
+
+
+20. SOURCES                                 40
+
+
+21. ANNEX                                   45
+
+
+
+
+3          QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+EXPERT GROUP
+
+Martti Färkkilä, Professor Emeritus, Gastroenterology, HUS, Helsinki University
+
+Sirpa Heinävaara, Associate Professor, Research Director, Finnish Cancer Registry
+
+
+Marja Hyöty, Associate Professor, Gastro surgeon, Tampere University Hospital
+
+
+Matti Kairaluoma, Associate Professor, Gastro surgeon
+
+
+Aapeli Nevala, M.Sc., Development Manager, Finnish Cancer Registry
+
+
+Tero Rautio, Professor, Chief physician, Oulu University Hospital
+
+
+Ari Ristimäki, Chief physician, HUS, University of Helsinki
+
+
+Tytti Sarkeala, Associate Professor, Director of Screening, Finnish Cancer Registry
+
+
+
+
+4         QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+1. SUMMARY
+Colorectal cancer is the second most common cancer           The organisation of screening for colorectal cancer
+in men and women in Finland. Screening seeks to              is the responsibility of wellbeing services counties.
+detect colorectal cancer at the precancerous and early       It may carry out the screening itself, in cooperation
+stages. The aim is to reduce the number of deaths            with other wellbeing services counties or as a pur-
+from colorectal cancer. The EU recommends screen-            chased service. The screening must comply with
+ing for colorectal cancer with a faecal occult blood test,   the Government Decree on Screenings and cover all
+which has been shown to reduce colorectal cancer             stages of the screening process (Figure 1). The well-
+mortality among those screened by almost a third.            being services county is responsible for the quality
+                                                             of the screening from the invitation to specialised
+The colorectal cancer screening programme using              healthcare. It must also submit individual-specific
+the faecal immunochemical test started in Finland            data on screening to the Mass Screening Registry of
+in January 2022 and will expand to men and women             the Finnish Cancer Registry.
+aged 56–74 by 2031. Screening will be carried out
+every two years for the selected age groups. A screen-       This manual describes the stages of the colorectal
+ing test kit is sent to the target population by post to     cancer screening process and provides guidance on
+their homes, where a stool sample is taken and then          national best practices for high-quality screening.
+sent to a laboratory for analysis. If the stool sample
+contains blood above the test limit, the person
+is invited for a colonoscopy.
+
+
+
+
+DETERMINING THE        INVITATION       PARTICIPATION            SCREENING           FOLLOW-UP          NECESSARY
+ TARGET GROUP          invitation kit      sampling              RESPONSE           EXAMINATION         TREATMENT
+   for selection      and reminder if     and return          sample analysis and   Colonoscopy or
+                         necessary                           sending of responses   CT colonography
+
+
+Figure 1. Stages in the screening process
+
+
+
+
+5          QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+2. TERMINOLOGY AND                                           of survival assuming that cancer is the only possible
+ABBREVIATIONS                                                cause of death. It is calculated statistically by compar-
+The terms colorectal cancer and colorectal cancer            ing the mortality of patients with the mortality rates
+screening are used in the manual, in accordance              of a similar population group.
+with the Government Decree on Screenings. The
+national care guidelines for colorectal cancer uses          ABBREVIATIONS
+the terms colorectal cancer, bowel cancer and colon          TA       tubular adenoma
+cancer. When referring specifically to colon cancer,         TVA      tubulovillous adenoma
+the term refers to cancers of the large bowel that are
+                                                             VA       villous adenoma
+not in the rectum. The endoscopic examination of
+                                                             HP       hyperplastic polyp
+the large bowel is referred to as colonoscopy in this
+                                                             SSL      sessile serrated lesion
+quality manual.
+                                                             TSA      traditional serrated adenoma
+The survival of colorectal cancer patients is described
+by relative survival. Relative survival is the probability
+
+
+
+
+6          QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+3. INTRODUCTION                                        programme to prevent colorectal cancer mortality.
+This Quality Manual for Colorectal Cancer Screening    Colorectal cancer care is extensively covered in the
+is intended to support decision-making and activity    2022 national care guidelines for colorectal cancer 1,
+by those responsible for the organisation and prac-    which is why treatment is largely excluded from the
+tical implementation of colorectal cancer screening.   scope of this manual. Scientific research on colorec-
+It provides recommendations, based on research         tal cancer screening is active and this quality manual
+evidence and practical experience, for implementing    will be regularly updated in the light of the accumu-
+an effective and cost-efficient organised screening    lating research evidence.
+
+
+
+
+7          QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+                    4. BACKGROUND                                                                                The relative five-year survival rate for colorectal can-
+                                                                                                                 cer in Finland at the end of follow-up in 2020 was
+                    4.1 EPIDEMIOLOGY OF COLORECTAL CANCER                                                        68%2. Survival rates are influenced by factors such
+                    Colorectal cancer is the second most common can-                                             as cancer stage, gender and age at diagnosis. For
+                    cer in men and women. In 2019, around 3,800 new                                              local, non-spreading cancers, the five-year survival
+                    cases of colorectal cancer and around 1,400 deaths                                           rate is over 90% (Table 1: Bowel cancer stage and
+                    due to colorectal cancer were diagnosed in Finland .                                 2
+                                                                                                                 five-year prognosis by stage according to American
+                    The incidence of the disease has been increasing                                             Cancer Society (ACS) data 2013-18)7. In Finland, the
+                    since the 1960s. It is estimated that 5.6% of men                                            five-year relative survival rate for men and women
+                    and 5.0% of women in Finland will develop colorec-                                           was 66% and 70%, respectively, in the follow-up
+                    tal cancer in their lifetime. The majority of cancers                                        period ending in 2020. Age-specific survival rates
+                    are diagnosed in people over 50 years of age .Fewer                      2
+                                                                                                                 in Finland have ranged from 64% (over 75 years) to
+                    women than men are diagnosed with colorectal can-                                            76% (under 55 years)2.
+                    cer – 2,108 men and 1,717 women were diagnosed
+                    with colorectal cancer in Finland in 20212.
+
+
+                           ©Finnish Cancer Registry (CC-BY 4.0) -cancerregistry.fi
+
+
+
+                     400
+
+
+
+
+                     300
+
+
+
+
+Ratio per 100 000
+                     200
+
+
+
+
+                     100
+
+
+
+
+                       0
+                           0–4     5–9      10–14      15–19     20–24      25–29    30–34       35–39       40–44   45–49   50–54   55–59   60–64   65–69   70–74   75–79   80–84   85+
+
+                                                                                                             Age group (five-year)
+
+
+                                                                                                              Men            Women
+
+                    Figure 2 Incidence of colorectal cancer (colorectal cancers per 100 000
+                    person-years) in Finland by five-year age groups in 2017-2021
+
+
+
+
+                8                 QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+                              ©Finnish Cancer Registry (CC-BY 4.0) -cancerregistry.fi
+
+
+
+
+                        200
+
+
+
+
+Ratio per 100 000
+                     100
+
+
+
+
+                         0
+                              0–4      5–9     10–14      15–19      20–24      25–29   30–34   35–39   40–44    45–49   50–54   55–59   60–64   65–69   70–74   75–79   80–84   85+
+
+                                                                                                        Age group (five-year)
+
+
+                                                                                                          Men            Women
+
+
+
+                    Figure 3. Colorectal cancer mortality (deaths per 100 000 person-years)
+                    in Finland by 5-year age group in 2017-2021.
+
+
+
+
+                    9                 QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+  4.2 DEVELOPMENT OF COLORECTAL CANCER                                                Five-year prognosis
+                                                                                      (%), relative survival
+  Colorectal cancer usually develops from adenoma
+  or serrated precancerous lesions, which lead to the          Stage                  Colon               Rectum
+  development of cancer through genetic mutations .     3
+
+                                                               Local                  91                 90
+  Precancerous lesions of the colon are estimated to
+  occur in 10–40% of the adult population.                     Spread                 72                 74
+
+                                                               Metastasised           13                 17
+  About two-thirds of colorectal cancers are on the left
+  side of the colon, one-third in the rectum and about         Total                  63                 68
+
+  half of those in the lower rectum4 (Figure 4). There
+                                                             Table 1. Prevalence and five-year prognosis of
+  are gender differences in the type and location of
+                                                             colorectal cancer by stage in the American
+  colorectal tumours. For example, a higher proportion       Cancer Society (ACS) data 2013-18 .
+                                                                                                7
+
+
+  of women than men have been found to have ser-
+  rated and right-sided colorectal tumours5,6.
+
+
+                                                             The Western lifestyle, involving a low-fibre diet rich
+                                                             in red meat, high alcohol consumption, smoking
+                                                             and obesity, has been shown to increase the risk of
+                                                             colorectal cancer5,6,8. On the other hand, a healthy
+       3,0                                       2,2         lifestyle, involving a high level of physical activity9,10,
+                            7,1
+                                                             has been found to reduce the risk. Calcium supple-
+                                                             mentation, a high-fibre diet, vitamin D supplemen-
+                                                             tation and regular use of non-steroidal anti-inflam-
+                                                             matory drugs (NSAIDs) may also protect against
+   7,9                                            4,9        colorectal cancer11.
+
+
+                                                             Inflammatory bowel diseases, ulcerative colitis and
+                                                             Crohn's disease of the colon increase the risk of
+                                                             colorectal cancer12,13. The risk is particularly high in
+    12,9                                                     patients with chronically active inflammatory bowel
+                                           21,9              disease, those diagnosed at a young age (≤ 16 years),
+                                                             and those with inflammation of the whole colon
+                 15 cm                                       or primary sclerosing cholangitis (chronic inflam-
+                           40,1
+                                                             matory biliary disease). These patients should be
+                                                             monitored for cancer risk outside the screening pro-
+                                                             gramme12.
+
+
+Figure 4. Location of cancerous tumours in the colon and rectum (% of all).
+
+
+
+
+  10         QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+4.3 SCREENING                                               The first randomised controlled trial evidence of the
+●   Colorectal cancer can be screened by endoscopy          effectiveness of faecal occult blood testing in reduc-
+    (sigmoidoscopy, colonoscopy) and primary tests          ing colorectal cancer mortality was obtained in the
+    based on guaiac faecal occult blood testing or          Minnesota trial, which began in 1975, where annual
+    faecal immunochemical testing (gFOBT or FIT).           screening with gFOB reduced mortality by 33% over
+●   In screening based on faecal occult blood testing,      a 13-year period19. The use of the FIT has been shown
+    positive primary samples are confirmed by endo-         to be more sensitive than the gFOB test, reducing
+    scopic examination.                                     the incidence of colorectal cancer by 10% and mor-
+●   In Finland, screening is based on faecal immuno-        tality by 27%20 with a longer two-year screening
+    chemical testing (FIT).                                 interval. In addition, the gFOB test requires dietary
+                                                            restrictions (e.g. avoidance of red meat) prior to test-
+4.3.1 Principles of screening                               ing, whereas the FIT, which is specific to human
+Cancer screening is the systematic search for pre-          blood, does not. The guaiac test produces binary
+cancerous or early stages of cancer in the population.      (positive/negative) results, which are interpreted vis-
+The aim is to reduce the number of deaths caused by         ually by inspection of the sample slide. FIT tests are
+screened cancers.                                           performed with an analyser that displays the hae-
+                                                            moglobin concentration measured in the sample on
+Colorectal cancer is most typically screened by faecal      a continuous numerical scale. Concentrations at or
+blood tests and colonoscopy. The types of endo-             above a specifically agreed threshold are interpreted
+scopy used for screening are sigmoidoscopy and              as test positive. The sensitivity and accuracy of FIT-
+colonoscopy. Faecal occult blood tests include the          based tests to detect advanced adenoma or cancer
+guaiac FOB (gFOB test) and the FIT. Faecal occult           depends on the sex of the subject and the Hb level
+blood tests are used to look for occult blood and iden-     used to interpret the test as positive. At the cut-off
+tify those at the highest risk, which are subsequently      value (25µg/g), the sensitivity of the test for detect-
+targeted for screening resources. A colonoscopy is          ing advanced adenomas and colorectal cancer ranges
+used to look closely at changes in a completely empty       from 20–26% and the accuracy from 89–93%.21 The
+colon using a camera attached to the tip of a flexible      prevalence of advanced adenomas in the intestine is
+tube. At the same time, samples can be taken for fur-       significantly higher than that of cancers, which over-
+ther diagnostic work by a pathologist and polyps can        estimates the sensitivity for adenomas in the above
+be removed.                                                 figure. At a cut-off value of 20 µg/g, sensitivity for
+                                                            cancer tumours has been reported to be 61–86% and
+In a randomised setting, sigmoidoscopies have been          for advanced adenomas 20–31% (95% confidence
+shown to reduce colorectal cancer mortality by 43% .   14
+                                                            interval of the meta-analysis)22. The likelihood of
+The evidence on the effectiveness of colonoscopy            false-negative results is increased by male sex, family
+screening is largely based on cohort and case-control       history of colorectal cancer, obesity, hypertension and
+studies 15. In case-control studies, colonoscopy has        smoking23.
+been found to reduce colorectal cancer mortality by
+50 – 68%16,17. On the other hand, a recently published      4.3.2 Colorectal cancer screening in Finland
+randomised trial in Poland, Norway and Sweden               The European Union has recommended colorec-
+found no statistically significant difference in colorec-   tal cancer screening based on faecal occult blood
+tal cancer mortality between the control group and the      tests to its member states since 200324. At that time,
+group referred for colonoscopy screening at ten years       screening was carried out using the gFOBT. In Fin-
+follow-up .18
+                                                            land, a gFOB-based colorectal cancer screening pro-
+                                                            gramme in a randomised trial setting was launched
+
+
+
+11              QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+in 2004. Half of the residents aged 60–69 years in        the blood, the threshold for the screening test was set
+the municipalities included in the study were invited     lower for women than for men28,29. In 2020, the test
+for screening every two years. However, there was no      thresholds were lowered further30.
+reduction in colorectal cancer mortality among those
+invited to the programme after an average follow-up       In 2021, a modelling study based on the results of
+period of 4–5 years, and an increase in colorectal can-   the screening pilot and the register data was carried
+cer mortality among women was even observed. The          out together with Erasmus University31. The aim was
+screening programme was discontinued in 201625,26.        to identify a cost-effective and affordable implemen-
+                                                          tation modality for the future national programme.
+A FIT-based colorectal cancer screening pilot was         Based on the results, the target population was
+launched in nine municipalities in Finland in 2019 . 27
+                                                          defined as people aged 56–74. The screening inter-
+Due to sex differences in tumour types, tumour loca-      val was set at two years and the test cut-off at 25 µg
+tion, bowel transit time and haemoglobin levels in        Hb/g faeces for both sexes.
+
+
+
+
+12         QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+5. LEGISLATION AND GUIDANCE                              the requirements and impact of screening on the
+                                                         health care service system before starting screening.
+● The organisation of screening is laid down
+
+     in the Government Decree on Screening.              5.2.STEERING GROUP AND EXPERT GROUP
+● The wellbeing services counties and the                The National Cancer Screening Steering Group,
+     City of Helsinki are responsible for organising     which is part of Finnish Cancer Centre (FICAN),
+     the screening programme.                            provides guidance and monitoring of the initiation,
+● Screening for colorectal cancer is provided under      implementation and development of cancer screen-
+     the screening decree for 56–74-year-olds, with      ing, and makes proposals and provides expertise
+     a gradual expansion. Screening is carried out       to the Ministry of Social Affairs and Health in the
+     every two years for the selected age group.         preparation of laws and decrees related to cancer
+● The implementation and development of                  screening. The Steering Group consists of expert
+     screening is guided by the National Cancer 		       members from FICAN, the five regional cancer cen-
+     Screening Steering Group, part of the Finnish       tres, the Finnish Cancer Registry and a representa-
+     Cancer Centre (FICAN).                              tive of the Ministry of Social Affairs and Health. The
+                                                         Steering Group has also appointed an Expert Group
+                                                         for each cancer screening programme to provide
+5.1.LEGISLATION                                          more detailed guidance on the implementation of
+According to the Health Care Act (1326/2010), well-      screening.
+being services counties must organise screenings in
+accordance with the national screening programme.        A quality manual drawn up by the Expert Group
+Cancer screening is regulated in more detail in the      gives more detailed guidance to the wellbeing ser-
+Government Decree on Screening (339/2011 and             vices counties on how to implement the screening
+amendments 908/2011, 752/2021 and 1243/2022).            programme. The wellbeing services counties are
+The 2021 screening decree was updated to include a       responsible for implementing these guidelines.
+gradual expansion of screening for colorectal cancer
+for 56–74-year-olds, starting in January 202232, based   The main responsibility for monitoring the screen-
+on biennial faecal occult blood testing. This expan-     ing programme lies with the wellbeing services
+sion is also described in the 2021 amendment to the      counties. The Regional State Administrative Agen-
+screening decree.                                        cies and the National Supervisory Authority for Wel-
+                                                         fare and Health (Valvira), as supervisory authorities,
+In order to organise screening programmes that are       are also responsible for monitoring the screening
+not included in the Government decree on screen-         organised by the wellbeing services counties in the
+ing (for example, when expanding the age groups for      same way as other health care services, in line with
+screening), wellbeing services counties must assess      their mutual division of labour.
+
+
+
+
+13           QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+6. SCREENING PROTOCOL                                             for inflammatory bowel disease (IBD)8 or people who
+The screening laboratory will send a FIT kit to those             have had a colectomy i.e. removal of the target organ.
+invited for screening and, if necessary, a reminder six
+weeks after the initial test kit is sent. If blood in stool       A single negative FIT result does not rule out the
+is below the specified threshold (negative test result),          presence of precancerous colorectal lesions, which is
+the person will be invited for screening after two                why repeated faecal occult blood testing is necessary.
+years. Those above the cut-off point (with a positive             After a negative FIT result, the screening is repeated
+test result) will have a follow-up examination assess-            after two years, up to the age of 74.
+ment with a recommendation for a colonoscopy or
+a replacement test (CT colonography), or exclusion                The screening protocol is also described in the Pro-
+from the screening population, either for a limited               tocol for Colorectal Cancer Screening33, developed
+period of time or completely, on the basis of certain             by the Expert Group on Colorectal Cancer Screen-
+factors.                                                          ing. The names of the authors of the protocol can
+                                                                  be found in the document, which will be updated as
+Screening colonoscopy is not recommended for peo-                 necessary.
+ple who are under regular colonoscopy surveillance
+
+
+
+                                                        Selection for screening
+                                                             by age group
+
+                                                               Invitation
+
+                                   1st reminder if necessary
+
+                                                               FIT test
+
+
+
+                       No blood (<25 µg/g)                                              Blood ≥25 µg/g
+
+                   Next invitation after 2 years                                  Follow-up exam assessment
+
+
+                      No follow-up exam on
+                        medical grounds                                                 Colonoscopy
+
+
+
+
+                Follow-up for                  IBD                    No colonoscopy                  Follow-up
+                bowel cancer                colectomy                    follow-up                     finding
+
+
+              Next call 10 years        Removal from the              Next invitation             Next invitation
+               after diagnosis          target population              after 6 years              after 10 years
+
+
+
+
+Figure 5. Screening protocol/algorithm of the colorectal cancer screening programme.
+
+
+
+
+14          QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+7. TARGET POPULATION FOR                                 7.2.EXCEPTIONS TO POPULATION-BASED REC-
+SCREENING                                                OMMENDATIONS
+                                                         High-quality endoscopy protects against colorectal
+● The target population for screening will               cancer for at least six years 34,35. If no findings re-
+     gradually expand to people aged between             quiring follow-up are found in follow-up examina-
+     56 and 74 by 2031.                                  tions, the person is recommended to be screened
+● In order to avoid unnecessary examinations             after six years. Patients with colorectal cancer are
+     and to save resources, restrictions to the          typically followed up with screening five years after
+     target population will be made as the               cancer. If a person with a positive test result is less
+     programme progresses.                               than 10 years from the diagnosis of colorectal cancer,
+                                                         screening is recommended in the year following the
+                                                         10th anniversary of the date of diagnosis instead of
+7.1. AGE GROUPS TO BE SCREENED                           a colonoscopy. People who are under regular colo-
+In 2022, screening for colorectal cancer started         noscopy surveillance for inflammatory bowel disease
+with 60–68-year-olds and will be extended by age         (IBD)8 or persons who have had a colectomy, i.e.
+groups to cover the entire target population, i.e. all   removal of the target organ, are not referred for colo-
+56–74-year-olds, from 2031. During the expansion         noscopy after a positive test according to the screen-
+phase, the matrix (Annex, Table 7) for the annual        ing protocol.
+age groups to be invited for screening. The selection
+of age groups is based on cost-effectiveness model-      In these cases, the test positive persons should be
+ling calibrated to the Finnish colorectal cancer inci-   instructed to contact the health care unit to ensure
+dence rate 31. The effectiveness and cost-effective-     that the need for colonoscopy examination is evalu-
+ness of the screening programme in different age         ated as a part of the IBD surveillance programme.
+groups will be continuously evaluated on the basis       If the health care unit responsible for the IBD sur-
+of the data collected in the mass screening register.    veillance is unknown, the person should be guided
+The Finnish Cancer Registry selects those eligible       to contact primary health care services to participate
+for screening annually from the Digital and Popula-      in a proper IBD surveillance protocol and possible
+tion Data Services Agency (DVV) on the basis of age      colonoscopy.
+group.
+
+
+
+
+15           QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+8. APPROVED TESTS                                           be updated based on the proportion of positives,
+                                                            the need for colonoscopy and the accumulation of
+● There are currently three different options               research data. The performance of the test method
+  for screening tests.                                      and the accuracy of the result should be ensured by
+● The list will be updated as necessary in the              daily laboratory work and demonstrated by inter-
+  light of new research.                                    laboratory comparisons41.
+
+
+In Finland, the main screening tests used in the            Using these criteria, the screening protocol has vali-
+colorectal cancer screening programme are the fae-          dated the FIT tests for men and women aged 56–74
+cal immunochemical blood tests (FIT), which have            years in the screening protocol:
+been validated and used in European screening pro-
+grammes over several rounds of screening36–38.              ●   FOB Gold NG, Sentinel CH. SpA, Italy
+                                                            ●   OC-Sensor Diana, Eiken Chemical Co. Ltd, Japan
+The tests should be quantitative, with an automati-         ●   OC-Sensor Pledia, Eiken Chemical Co. Ltd, Japan
+cally adjustable sensitivity level. The sensitivity level
+of the screening programme is based on research             The expert group will update the list as necessary in
+evidence and has been set at 25 µg Hb/g of fae-             light of new research.
+ces for both sexes in 2022.         . The threshold will
+                             31,39,40
+
+
+
+
+16         QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+9. ORGANISATION OF SCREENING                             and effectiveness of screening to be assessed at the
+                                                         national level. The National Institute for Health and
+● The wellbeing services county is responsible           Welfare (THL) has commissioned the Finnish Can-
+     for organising the screening.                       cer Registry to monitor and evaluate, in cooperation
+● A wellbeing services county can carry out the          with other actors in the field, ongoing screening pro-
+     primary and follow-up testing of the screening      grammes and the methods used in them.
+     programme either on its own, in cooperation
+     with another wellbeing services county or           The wellbeing services counties must appoint
+     by purchasing it.                                   screening nurses to act as liaison persons for those
+● The specific features and quality criteria of          who are screened and to be responsible for the
+     screening should also be taken into account         counselling of those who test positive. For a more
+     when purchasing the service.                        detailed description of the organisation of screening
+                                                         and the role of the wellbeing services county, see the
+                                                         guide to organising screening for colorectal cancer43.
+9.1. WELLBEING SERVICES COUNTIES
+At the beginning of 2023, the responsibility for         9.2.SCREENING LABORATORY
+organising screenings was transferred from munic-        The screening centre is typically the screening lab-
+ipalities to the 21 wellbeing services counties and      oratory, which is responsible for sending out invi-
+the City of Helsinki. In addition, the province of       tation packs and reminders, analysing samples and
+Åland is responsible for organising screening in its     communicating results to the screening participant.
+territory. Screening is organised according to a pro-    The screening laboratory must be accredited and
+gramme decided in advance by the wellbeing ser-          have suitable facilities, equipment and staff to send
+vices county, which must appoint a person respon-        out screening invitations and reminders and ana-
+sible for each screening programme. The wellbeing        lyse samples. It is recommended that the screening
+services counties can either carry out the screening     method be included in the scope of the laboratory's
+themselves, in cooperation with their counterparts       accreditation.
+or outsource the screening to a service provider
+of their choice. The most common practice is for         The laboratory is staffed by a hospital chemist
+the wellbeing services county to contract a screen-      responsible for the performance of the colorectal
+ing laboratory to carry out the primary phase of         cancer screening test method and health profession-
+the screening (invitations, tests and their analysis,    als who assess the suitability of samples for analysis
+responses) and to be responsible for organising the      and analyse the samples. Some of these profession-
+follow-up screening and specialised healthcare.          als must be trained to be responsible persons, who
+                                                         supervise the maintenance of the analytical equip-
+The wellbeing services counties are responsible for      ment and the adequacy of reagents and consuma-
+establishing a screening programme that includes an      bles. The staff must have the appropriate training
+appropriate quality management and quality assur-        and be familiarised with their tasks.
+ance procedure . The wellbeing services county
+                  42
+
+
+shall regularly monitor and evaluate the quality of      The screening laboratory provides the individu-
+the whole screening process and the reliability of the   al-level data of the screening chain (Figure 1: Steps
+screening tests. In addition, the wellbeing services     in the screening process: invitations, tests and their
+county must submit individual-level data on screen-      results, follow-up examinations and their results,
+ing to the mass screening register maintained by the     specialised healthcare and its results) to the Mass
+Finnish Cancer Registry, which will allow the quality    Screening Registry of the Finnish Cancer Registry32.
+
+
+
+17           QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+  To this end, the laboratory must have an informa-             are responsible for reporting the data in the screen-
+  tion system that collects and transmits the data in           ing chain to the screening laboratory's information
+  accordance with the data model and parameters                 system.
+  defined by the Finnish Cancer Registry . The data
+                                              44
+
+
+  flow in the screening programme is shown in the               The organisation of screening and the role of the
+  figure (Figure 6: Information flow between the                screening laboratory (screening provider/screening
+  screening centre and other actors.). The screening            centre in the guide) are also described in the guide to
+  nurses in the well-being services county and other            the organisation of screening for colorectal cancer43.
+  health professionals involved in the follow-up phase
+
+
+
+
+                                                                             Collection of
+                                                                               sample
+
+                                                                                                       Filling in
+                                                     Reminder
+       Cancer                                                                                        the pre-infor-
+                                                   after 6 weeks
+       Registry                                                                                      mation form
+                                   Invitees
+                                                   Invitation                Online form
+                                                                                                        Paper form
+                                                    package
+
+                   Compiled
+                  results data                                                  Return
+                                                                                by post
+                                              Screening
+                                               Centre
+                                                                                 Sample
+                                                                                 analysis
+
+
+ Treatment
+                                  Reporting
+(specialised                                                      Positive                   Negative
+                                   system
+healthcare)                                                        result                     result
+
+
+
+        Pathology                                                                     Screening              Screening
+                                                     Follow-up
+                                 Colono-                                                nurse                attendee
+                                                     eligibility
+                                 scopy*             assessment
+
+
+                         or CT colonography*
+
+
+
+
+  Figure 6. Information flow between the screening centre and other actors.
+
+
+
+  18           QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+9.3.ORGANISATION OF ENDOSCOPIC ACTIVITY                     ●   The endoscopic findings and the progress of the
+Wellbeing services counties responsible for the                 examination must be recorded in a structured
+colorectal cancer screening programme are also                  electronic endoscopy report
+responsible for organising and both ensuring and            ●   The unit should have the possibility to document
+monitoring the quality of colonoscopy activity. This            the findings with images/video
+may be done by a wellbeing services county as its           ●   Prospective, systematic follow-up of colonoscopy
+own activity, as a outsourced service or as a combi-            complications
+nation of the two. In all cases, the availability of suf-   ●   Methods for measuring patient satisfaction
+ficient capacity and the quality of the colonoscopies
+must be ensured.                                            The physician involved in screening requires:
+                                                            ●   At least 3 years of post-graduation experience in
+Competitive tendering and the organisation of                   colonoscopies
+endoscopies should take into account the high               ●   Annual number of colonoscopies performed ≥200,
+number of findings typical in screening pro-                    experience of at least 500 colonoscopies
+gramme, and the increased need for demanding                ●   Experience in polypectomies ≥50/year
+polypectomies. Colonoscopy quality should be good           ●   Cecum intubation rate >90%
+enough to minimise the need for repeated colo-              ●   Capability to provide treatment and follow-up 		
+noscopies and/or other additional examinations.                 advice based on findings
+If parts of the colonoscopies are bought using ser-         ●   To have completed a course in endoscopic
+vice vouchers, it is advisable to issue the voucher             screening (for details, see Endoscopists
+through the screening colonoscopy unit rather than
+through primary healthcare to ensure efficient use          The factors related to the quality of colonoscopies
+of resources.                                               and their follow-up are described in more detail in
+                                                            the section where the patient's stool sample would
+When tendering and selecting the unit that will             have been analysed in the old welfare area. The
+perform the endoscopic screening, the following             screening nurse should instruct the person being
+should be taken into account:                               screened to contact the screening nurse/screening
+●   Staff are adequately trained and continuous             laboratory in their new municipality of residence to
+    training is ensured                                     arrange this. Screening centres may, if they wish,
+●   The endoscopy unit meets the quality criteria 		        refer the person to the screening centre in the new
+    (ASGE – Quality indicators for gastrointestinal         municipality after being informed of the person's
+    endoscopy units )45
+                                                            change of residence.
+●   Patient preparation (bowel clearance) is appropri-
+    ately instructed and the unit has the possibility to
+    use intravenous pre-medication with appropriate
+    follow-up
+
+
+
+
+19           QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+10. INVITATION                                            10.2.INVITATION
+
+
+● Persons to be invited are extracted from the            10.2.1 Contents of the invitation package
+  Population Information System (DVV). Persons            The invitation package should include:
+  in a special situation (e.g. people subject to 		       ●   Invitation letter
+  non-disclosure for personal safety reasons) 		          ●   Sampling kit
+  should be offered the opportunity to participate        ●   Clear, illustrated sampling instructions
+  in the screening, even if they are not included in      ●   Return envelope with prepaid postage
+  this selection.                                         ●   A questionnaire form to collect the background
+● The invitation package should contain sufficient            information designated by the expert group.
+  information about the screening programme.
+  The Cancer Registry provides materials for              10.2.2 Language of the invitation letter
+  this purpose.                                           The invitation letter must be in writing and person-
+● The invitation packages should be sent in a             ally addressed to the person invited for screening.
+  schedule allowing the samples to be analysed by         The invitation letter should be either bilingual or in
+  the end of March that follows the screening year.       the invitee's mother tongue if Finnish or Swedish is
+                                                          the mother tongue. If there are significant linguistic
+                                                          minorities in the wellbeing services county, consid-
+10.1.COLLECTING A COHORT OF INVITEES                      eration should be given to translating the invitation
+The cohorts based on year of birth to be invited to       into other languages.
+the screening are extracted from the up-to-date
+Population Information System (DVV) on the basis          10.2.3 Information contained in the
+of the screening regulation. This ensures that those      invitation letter
+eligible for screening receive an invitation to screen-   For invitees to make a decision on participation in
+ing in the correct year. A list of personal identifi-     screening, the invitation letter must contain the fol-
+cation numbers is sent to the screening laboratories      lowing information:
+at the beginning of each calendar year. To facilitate     ●   The purpose of screening
+the organisation of screenings, the Finnish Cancer        ●   On how to carry out a screening test
+Registry provides an invitation service, which in-        ●   The importance of early detection of disease
+cludes the extraction of contact details of those in-         (of cancer or pre-cancerous lesions)
+vited for screening from the Population Information       ●   The benefits and harms of screening
+System.                                                   ●   On follow-up examinations, what they
+                                                              involve and their importance
+Persons subject to non-disclosure for personal safety
+reasons will not be included in this selection. They      The letter must also include:
+should be offered the opportunity to contact the          ●   Information on how the participant will be 		
+screening centre either to collect an invitation pack         informed of the screening test result
+or to provide an address to which an invitation pack      ●   Information on how quickly the screening test 		
+can be sent.                                                  result will be delivered (recommendation:
+                                                              within one month)
+Information on the invitations sent is submitted to       ●   Contact details for further information
+the Mass Screening Registry of the Finnish Cancer         ●   Notification of the source of the invitee’s address
+Registry as part of the reporting aggregate for quality       (the DVV Population Information System)
+assurance.
+
+
+
+20           QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+There are invitation letter templates produced and           The screening participant can drop the envelope in
+maintained by the Finnish Cancer Registry, which             the nearest Post Office post box. For example, a sam-
+can be used as a basis or as an invitation letter in their   ple post box at a health centre or laboratory can also
+own right. There are versions of the invitation and          be used to mail samples.
+reply letters in Finnish, Swedish, English, Northern
+Sami and Russian. There are Finnish, Swedish and             10.5.REMINDER LETTER
+English versions of the pre-information form which           If the person invited to the screening has not re-
+are freely available. All materials can be found on the      turned the sample within six weeks of the first invita-
+website of the Finnish Cancer Registry: https://can-         tion, a reminder letter will be sent, as specified in the
+cerregistry.fi/screening/organising-cancer-screening/        protocol33. The reminder will include instructions for
+                                                             ordering a new sampling device at no charge.
+10.3.PRE-INFORMATION FORM                                    A model reminder letter is available in Finnish,
+The questionnaire form collects information on fac-          Swedish and English on the Cancer Registry website,
+tors affecting the risk of colorectal cancer and the         as are other invitation and response letter templates
+success of faecal immunochemical testing. Known              for colorectal cancer screening48. The reminder letter
+risk factors for colorectal cancer include smoking,          can also be submitted electronically using the suomi.
+family history of cancer, alcohol consumption and            fi service or a similar strong authentication channel
+obesity     . There is also research evidence that the
+       5,6,46
+                                                             adopted by the person being screened.
+use of certain drugs is associated with the sensitivity
+and accuracy of immunochemical blood testing of              10.6.CHANGE OF WELLBEING SERVICES
+stool samples47.                                             COUNTY BY SCREENING INVITEE
+                                                             If a person relocates to another wellbeing services
+10.4.RETURNING A SAMPLE                                      county before participating in the screening, they can
+The Post Office has defined the criteria for returning       ask for a new screening pack at the screening centre
+a sample taken at home for colorectal cancer screen-         in their new wellbeing services county. The
+ing. If another carrier is used instead of the Post          wellbeing services county to which the person has
+Office, the requirements for sending samples must            moved is obliged to arrange for screening, regardless
+be agreed with that carrier. The current screening           of whether the person was living in the wellbeing
+invitation package includes a hard-cover envelope,           services county at the time of selection for invitation.
+which can be white, for example. The envelope does           Screening-positive persons will become clients of
+not need to be marked to indicate that it contains the       their new wellbeing services county in the same way
+screening sample. The sample tube is packed inside           that their health services are transferred to it.
+the envelope in a plastic bag with an absorbent pad.
+
+
+
+
+21              QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+11. SAMPLE ANALYSIS AND                                    result is positive. If the measured concentration is
+COMMUNICATION OF RESULTS                                   below the screening limit, a new sample is requested
+                                                           from the subject.
+● Samples are analysed in screening laboratories
+
+  in line with best laboratory practices.                  Each result must be traceable to the reagent used
+● A positive test result is communicated to the            in the analysis and to control results that have been
+  person screened, providing sufficient information        used to verify the performance of the method. The
+  about the significance of the result and the             analyser sends the analytical result together with the
+  possibility of contacting the screening nurse.           sample identification data to the laboratory informa-
+● A negative test result can be reported by SMS.           tion system. The result, the time of analysis and the
+                                                           equipment used for analysis must be traceable in the
+                                                           laboratory's computer systems.
+11.1.ANALYSIS
+Screening samples returned to the laboratory are ana-      If a resubmission from the person being screened
+lysed as soon as possible and within their storage life    has to be rejected because of non-successful sam-
+in aline with the analysis process described in writing.   ple collection, the laboratory is advised to inform
+The operational condition of the analytical equipment      the screening nurse of the municipality concerned,
+shall be monitored and maintained by the user and          who can then contact the person to be screened and
+periodic maintenance according to the manufacturer's       instruct them on how to take the sample.
+instructions. Maintenance and error reports should be
+documented.                                                11.2.NOTIFICATION OF TEST RESULTS
+                                                           11.2.1.Positive test result
+The performance of the analysis method is verified         The screening laboratory submits reports of test-pos-
+by at least two control samples of known concentra-        itive screeners to the screening nurses appointed by
+tion before analysing the screening samples. The           the wellbeing services counties. The screening nurs-
+result levels of the control samples shall be within       es will contact those who test positive by telephone.
+the predefined acceptance limits. Performance              A letter is sent to those who test positive with a two-
+should also be monitored by inter-laboratory compar-       week delay after the list of test-positive individuals
+isons (external quality assessment, e.g. Labquality).      has been provided to the screening nurse. This is
+                                                           to ensure that the screening nurse is informed in a
+The eligibility of the screening sample for analy-         timely manner of those who have tested positive in
+sis is checked according to written instructions, e.g.     their municipality.
+regarding the storage life of the sample. Screening
+samples arriving at the laboratory must be identi-         Anyone who tests positive should receive instruc-
+fied throughout the laboratory process. Incompletely       tions on how to contact the screening nurse. The let-
+identified samples must not be analysed.                   ter should also include the following information:
+                                                           ●   What does a positive result mean, i.e. blood was
+Ineligible samples will be rejected, and a new screen-         found in the stool sample.
+ing sample will be requested. At the same time,            ●   A positive result does not indicate cancer,
+the reason why the first sample could not be ana-              as bleeding is often due to another cause
+lysed will be communicated to the subject. Samples         ●   It is important to investigate the cause of bleeding
+exceeding the storage life specified by the manufac-       ●   To arrange a follow-up, contact the screening nurse
+turer will also be analysed: if the haemoglobin con-           (direct contact details or instructions for contact
+centration measured exceeds the screening limit, the           details are to be included in the letter)
+
+
+
+22         QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+If the person who has tested positive does not con-       11.3.CHANGE OF MUNICIPALITY OF RESIDENCE
+tact the screening nurse within about two weeks, the      If a person moves to a different wellbeing services
+screening nurse should call them.                         county before participating in the screening, the fol-
+                                                          low-up screening will be carried out in the new well-
+11.2.2.Negative test result                               being services county of the person being screened.
+A negative test result can be communicated by letter      This is done even if the patient's stool sample was
+or SMS. In both cases, the message informing the          analysed in the previous wellbeing services county
+subject of the negative test result must contain the      of residence. The screening nurse should instruct
+following information:                                    the screened person to contact the screening nurse/
+●   What a negative result means, i.e. no occult blood    screening laboratory in the new wellbeing services
+    found in the sample                                   county to arrange this. Screening centres may, if they
+●   Nevertheless, if symptoms do occur, the subject       wish, refer the person to the screening centre in the
+    should still contact their healthcare provider        new municipality after being informed of the per-
+●   The next invitation will come every two years until   son's change of residence.
+    the age of 74
+                                                          If a person moves to another screening centre after a
+When using SMS, the laboratory must ensure that           positive test, but before attending further screening,
+consent is given for its use and that the telephone       their screening chain is broken. Currently, screening
+number is up-to-date and correct during the relevant      data for an individual cannot be reported under the
+screening round. For data security reasons, the SMS       same screening identity code from more than one
+message should not contain personal information.          screening laboratory.
+
+
+
+
+23           QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+12. CARRYING OUT FOLLOW-UP                                 The wellbeing services county is responsible for the
+EXAMINATIONS                                               implementation and quality of the whole screening
+                                                           process. This includes ensuring that examinations
+● The person screened will agree on follow-up 		           are conducted according to quality criteria and that
+  examinations with the screening nurse.                   all data generated is recorded and reported.
+● Colonoscopies are the primary follow-up method,
+
+  and their quality is monitored through quality           12.2.COLONOSCOPY
+  indicators both nationally and in the wellbeing          High-quality colonoscopies are a prerequisite for an
+  services county.                                         effective screening programme. Several treatment rec-
+● Colonoscopy should be performed within one 		            ommendations have been published on the quality of
+  month of a positive test result.                         colonoscopies, the screening of colorectal cancer, the
+                                                           capacity of the units performing them and the mon-
+                                                           itoring of the quality of colonoscopies49–51. The pub-
+12.1.RESPONSIBILITY FOR IMPLEMENTATION                     lished recommendations on quality assurance are
+Follow-up examinations can be carried out by the           highly consistent, covering indications for the exami-
+wellbeing services county itself or by a service pro-      nation, patient preparation, pre-medication, success of
+vider chosen by the wellbeing services county. In the      the examination (access to the cecum), detection rate
+event of competitive tendering, the wellbeing ser-         of polyps (adenomas), proportion of polyps removed
+vices county must require and monitor that the pro-        and removal technique, complications, patient experi-
+vider of follow-up examinations complies with the          ence of the endoscopy and post-operative follow-up.
+quality criteria and reports all data in the screening
+chain to the mass screening register of the Finnish        Tables 2 and 3 show the main quality criteria and
+Cancer Registry.                                           their target values, as recommended by the European
+                                                           Society of Gastrointestinal Endoscopy (ESGE). 49.
+A positive screening test result will lead to an agree-    The implementation of the quality criteria for colo-
+ment with the screening nurse for a follow-up exami-       noscopy is monitored nationally on the basis of data
+nation. A positive screening result indicates that can-    submitted to the Mass Screening Registry The colo-
+cer is suspected and the need for an urgent referral       noscopy indicators to be submitted to the registry are
+for a follow-up examination. The primary follow-up         summarised in Table 2.
+examination is a colonoscopy with samples.
+
+
+
+ INDICATOR                               MINIMUM LEVEL         TARGET LEVEL
+ Adequate bowel preparation              90 %                  >95 %
+ for the examination (%)
+
+ Cecum intubation (%)                    90 %                  >97 %
+
+ At least one adenoma                    30 %                  > 40 %
+ found on colonoscopy (%)
+
+ Withdrawal time over 6 minutes (%)      90 %                  > 95 %
+
+ Incidence of perforations               <1 %
+
+ Bleeding after polypectomy              <1 %
+
+
+Table 2. Quality criteria for colonoscopy monitored nationally through the Mass Screening Registry
+
+
+
+24         QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+ INDICATOR                                                                      MINIMUM LEVEL      TARGET LEVEL
+ Mucosal, pedunculated polyps and sessile polyps < 2 cm in size                 100 %              100 %
+ must be endoscopically removed or endoscopically incomplete
+ removal must be convincingly documented
+
+ Timing of follow-up polypectomy colonoscopy determined                         95 %
+ on the basis of histological results
+
+ Non-operative treatment of post-polypectomy bleeding                           90 %
+
+ Documentation of patient discomfort, with scoring                                                 100% documentation
+
+
+Table 3. Other quality criteria that should be monitored.
+
+
+
+In addition to national monitoring, the implementa-               traindications, CT colonoscopy can be used as a sec-
+tion of the criteria should be monitored as part of               ondary replacement. Clinical indications for CT colo-
+the activities of the colonoscopy units themselves                nography are discussed in recommendations such
+(Table 3).                                                        as those of the European Society of Gastrointestinal
+                                                                  Endoscopy (ESGE) and the European Society of Gas-
+In addition, the incidence of post-colonoscopy                    trointestinal and Abdominal Radiology (ESGAR)53.
+colorectal cancer (PCC) is used as one of the qual-
+ity indicators for screening copies52. The number of              Modern CT colonography has a sensitivity almost
+polyps detected has been shown to correlate with                  equivalent (96%) to colonoscopy, but only in detect-
+the effectiveness of screening and the incidence of               ing polyps larger than 10 mm. However, for polyps
+colorectal cancer 52. The rates of intermediate can-              smaller than 10 mm and for flat polyps, its sensitivity
+cers are monitored nationally using data from the                 is clearly inferior to that of colonoscopy. CT colonog-
+mass screening registry and the cancer registry.                  raphy cannot take biopsies or remove small polyps
+                                                                  and therefore leads to colonoscopy in about 30% of
+12.3.COMPUTED TOMOGRAPHY (CT)                                     cases53,54.
+COLONOSCOPY
+The primary follow-up examination to screening is
+colonoscopy, but if this cannot be done due to con-
+
+
+
+
+25           QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+13. PATHOLOGY                                             at the time of start-up. If there is a significant differ-
+                                                          ence between the endoscopic measurement and the
+● Screening pathology has certain specific charac-        pathological measurement, the pathologist should
+  teristics, which are presented in this chapter.         report this in their statement.
+● The recording of pathology data in tabular
+
+  form is also recommended.                               Samples arrive at the pathology laboratory prepared
+● At least 90% of screening samples should be 		          in formalin and are processed in the same way as
+  responded to within one week of arrival                 other endoscopic intestinal biopsy samples. In gen-
+  at the laboratory.                                      eral, polyps and mucosectomy specimens are fully
+                                                          prepared. If necessary, resection margins can be
+                                                          marked (silver or ink) before dissection, but often the
+13.1.TYPICAL SAMPLES AND FINDINGS                         coagulation artefact from the endoscopic excision is
+Screening colonoscopy samples are almost invariably       sufficient to assess this. Very small polyps (<5 mm)
+mucosal biopsies or endoscopically removed polyps.        can be started as such. For those larger than this, the
+Some of those screened have endoscopic mucosal            maximum diameter is recorded at the start-up and
+resection or surgical bowel resection as follow-up        the polyps are either halved or sliced longitudinally to
+procedures. The management and diagnostics con-           determine the strain and resection margin. The flat
+cerning colorectal cancer resections are covered in       lesions removed by mucosal resection are sliced in
+the National Treatment Guidelines for Colorectal          parallel slices (approximately 2–3 mm apart) so that
+Cancer .
+       1
+                                                          the shortest edge margin can be measured micro-
+                                                          scopically. The dissection planes are deepened if nec-
+The most common findings on screening colonos-            essary and, in selected cases, additional staining may
+copy are classical adenomas or serous changes, and        be used to indicate e.g. venous invasion. In the major-
+other benign changes and malignant findings in a          ity of small polyps, the resection margin cannot be
+minority. A higher proportion of cancers found at         assessed (orientation problem).
+screening are early-stage (pT1) cancers compared to
+those found in patients who present for screening         It is recommended that the pathology laboratory
+on the basis of symptoms. Early-stage cancers have a      examining the screening samples be accredited.
+better prognosis and some can be treated endoscopi-
+cally with local excision.                                13.3.FINDINGS AND THEIR HISTOPATHO-
+                                                          LOGICAL DIAGNOSIS AND REPORTING
+13.2.REFERRAL INFORMATION AND SAMPLE                      The British guidance55 presents the distribution of
+HANDLING IN THE PATHOLOGY LABORATORY                      non-invasive lesions (n= 816,323) in screening sam-
+The colonoscopy referral should include a brief           ples as follows:
+description of the endoscopic finding (polyp or flat      ●   Over 70 % classical adenomas (57 % tubular
+(or sessile) lesion or e.g. suspected cancer), the sam-       adenoma, 14 % tubulovillous and 0,70 % villous
+pling site and the endoscopic size of the change.             adenoma).
+Each separate lesion should be sent for examina-          ●   Over 20 % sessile serrated lesions.
+tion in its own sample container with the exception       ●   Other changes (less than 10 %) include
+of multiple small (up to 5 mm) hyperplastic lesions           inflammatory, Peutz-Jegherin and juvenile polyps
+of the rectum. It is nationally agreed that the endo-         and benign mesenchymal changes.
+scopic diameter is used for the size of the polyp.
+In addition, the pathology laboratory measures the        According to the above recommendation, at least
+size of the polyp after formalin fixation, preferably     90% (target over 95%) of screening samples should
+
+
+
+26         QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+be responded to within one week of arrival at the lab-         This is the best way to avoid confusing the diagnosis
+oratory. This should also apply in Finland.                    of in situ carcinoma with a diagnosis of adenocarci-
+                                                               noma requiring submucosal invasion. However, the
+13.4.SEVERE DYSPLASIA                                          invasion of Lamina propria should be mentioned in
+Dysplasia is graded on a two-tiered scale from low             the opinion.
+to high grade. The diagnostic criteria for high-grade
+dysplasia are published in the WHO’s 2019 classifi-            Often, the problem in making the diagnosis of
+cation . High-grade dysplasia requires low-magnifi-
+        56
+                                                               adenocarcinoma is the absence of clear submu-
+cation structural changes (e.g. tightly packed glands          cosal structures (nerves or large veins) on colonos-
+or septate structures) and low-magnification cytologi-         copic biopsies. Since intramucosal invasion rarely
+cal changes (severe stacking and polarity disturbance          forms a strong desmoplastic stromal response, in
+of nuclei, alteration of nucleus-cytoplasm ratio, hy-          the absence of submucosal structures, clear inva-
+perchromasia, prominent nucleoli, atypical mitoses).           sive glands and desmoplasia can be used to make
+Approximately 5% of classical adenomas are expect-             the diagnosis of adenocarcinoma from colonoscopic
+ed to include high-grade dysplasia . The diagnosis of
+                                         55
+                                                               biopsies. In the differential diagnosis, pseudoinva-
+severe dysplasia should not be used if such morphol-           sion should be considered, where the histological
+ogy is very sparse (in a few glandular structures), in         structure and cytological features of the so-called dis-
+reactive changes in the surface epithelium or in the           placed glands correspond to those of polyp glands,
+area of a browning/coagulation artefact.                       mostly surround the lamina propria and may con-
+                                                               tain mucinous accumulations and haemosiderin.55,59.
+13.5.SERRATED LESIONS                                          Pseudoinvasion is most common in large sigmoid
+About 20% of benign screening findings include                 polyps.
+serrated lesions . The most common of these are
+                        55
+
+
+hyperplastic (HP) (18%), sessile serrated lesions              Predictors of the likelihood of local recurrence or
+(SSL) (1.5%) and traditional serrated adenomas (TSA)           lymph node metastasis in pT1 adenocarcinoma:
+(0.7%). Only about 6% of SSL lesions contain dys-              ●   The resection margin of the base is < 1 mm (R1)
+plasia , which is not graded because it is associated
+        55                                                     ●   Vein invasion (lymphatic or venous invasion)
+with a high risk of malignancy regardless of the mor-          ●   Neural invasion
+phology of the dysplasia. TSA, on the other hand, is           ●   Certain histological subtypes
+always a dysplastic lesion and is graded as either low         ●   High-grade differentiation
+or high grade, as in conventional adenomas. Ectopic            ●   Tumour budding
+cryptic adenomas in TSA should not be diagnosed as             ●   Depth of invasion
+severe dysplastic adenomas. Mixed polyps, unclassi-
+fied polyps and polyposis are discussed in the refer-          The diagnosis of the above risk factors is discussed
+ences   55–57
+             .                                                 in the section on histopathological diagnosis of
+                                                               colorectal cancer in the national guidelines for the
+13.6.PT1-ADENOCARCINOMA                                        treatment of colorectal cancer1. For high-grade find-
+Diagnosis of colorectal cancer requires mucosal inva-          ings, differential diagnosis should include squamous
+sion (penetrating the muscularis mucosa into the               cell carcinoma (basaloid subtype), neuroendocrine
+submucosa)              . The diagnosis of in situ carcinoma
+                  1,56,58
+                                                               tumours and carcinomas, melanoma, lymphomas,
+is not used because of the very low probability of             mesenchymal neoplasms and metastases.
+lymph node involvement.
+                                                               The recommendation is that pT1 cancers are given
+                                                               a double reading. In addition, all unusual findings,
+
+
+
+27               QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+dysplasia classification problems, suspected cancers
+                                                                         No findings requiring follow-up
+and pseudoinvasions should be consulted. Micro-
+                                                                         High-grade dysplasia in any polyp
+satellite instability analysis is recommended for all
+cases of colorectal cancer 1,56,58.                                      ≥ 10 mm polyp*
+
+                                                                         Five or more adenomas
+13.7.CONSULTATION TABLE
+                                                                         Traditional serrated adenoma
+The pathologist's opinion on screening colonoscopy
+                                                                         Sessile serrated lesion with dysplasia
+specimens is accompanied by a table, an example
+of which is given below (HUS Diagnostic Centre,                          Polyposis (not inflammatory polyposis)
+
+10/2022). In the table, each box is ticked that applies                  polyp ≥ 20 mm in size removed in pieces
+to the findings.                                                         Cancer or suspected cancer
+
+                                                                         See report
+   * For patients with ≥ 10 mm polyps: diameter of the polyp
+as a rule from the endoscopy report. Applies to conventional
+   adenomas (TA/TVA/VA) and all serrated lesions. Excludes       Table 4. Pathology report chart.
+        inflammatory and reactive polyps (e.g. prolapse sdr.).
+
+
+
+
+28          QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+14. FOLLOW-UP TREATMENT                                   dations, mostly based on the British recommenda-
+                                                          tion60 or ESGE51. If a polyp is found during endos-
+● The table presented in this chapter is recom-		         copy but removal is incomplete, the colonoscopy
+  mended as a basis for assessing the need for            should be repeated within three months. If the polyp
+  further treatment.                                      is completely removed, the timing of the follow-up
+● The principles of colorectal cancer treatment are       colonoscopy is determined by the number and type
+  discussed in more detail in the National                of polyps (Table 5).
+  Treatment Guidelines for Colorectal Cancer.
+● Follow-up examinations are performed as a               Patients who are found to have cancer or a large adeno-
+  matter of urgency to ensure that access to treat-       ma at endoscopy are referred to specialised healthcare
+  ment is also urgent (30-day treatment guarantee).       for a multidisciplinary assessment. The place of fol-
+                                                          low-up for cancer treatment is determined according
+                                                          to the government decree on the division of tasks and
+14.1.BASIC PRINCIPLES                                     centralisation of certain tasks in specialised health-
+Follow-up treatment will be based on the findings         care61. The current wellbeing services counties have
+of follow-up screening. If a screening colonoscopy        their own central hospitals where, depending on the
+reveals a significant polyposis finding (Table 5: Fol-    local government co-management area agreements,
+low-up requirements for non-malignant screening           colorectal cancer is treated. The treatment of colorectal
+findings.), the patient will proceed as usual to poly-    cancer is centralised in university hospitals or larger
+posis surveillance according to the agreed regional       central hospitals, where there are sufficient numbers
+staging of care. Several international treatment rec-     of cases to treat.
+ommendations have been published on polyp sur-
+veillance, with hospital district-specific recommen-
+
+
+ Finding                                                   Surveillance requirement
+ No polyps                                                 Return to screening after six years
+
+ 1-4 LGD adenomas, all less than 10 mm
+
+ HP, size less than 10 mm
+
+ SSL, size less than 10 mm
+
+ Rectum and sigma HP, when their number is less than 20
+ and their size less than 10 mm
+
+ Adenoma or serrated polyp 10 mm or larger                 Check after three years
+
+ 5 or more LGD adenomas
+
+ Single HGD adenoma
+
+ Single TSA
+
+ Single dysplastic SSL (SSL-D)
+
+ >= 20 mm polyp removed in pieces                          Check after six months
+
+ Polyposis                                                 Check after 1–2 years
+
+ Incompletely removed polyp                                Repeat endoscopy after three months
+
+
+Table 5. Surveillance requirement of non-malignant screening findings
+
+
+
+29            QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+With screening endoscopy, most polyps can be               14.4.SURGICAL TREATMENT
+removed. However, submucosal invasion, or pT1              The recommended treatment for localised colorectal
+adenocarcinoma, is found in some polyps. These             cancer is the removal of the intestinal part of the tu-
+patients also need to be referred to specialist health     mour, which includes the intestinal lymph and blood
+care for multidisciplinary assessment.                     vessels and lymph nodes feeding the tumour. Techni-
+                                                           ques for surgical treatment are discussed in the nati-
+14.2.STAGING AND OTHER EXAMINATIONS                        onal guidelines for the treatment of colorectal cancer1.
+According to the National Treatment Recommenda-
+tion 1 all cancer patients should undergo a clinical       Localised rectal cancer should first be classified
+and endoscopic examination, as well as a staging           according to the prognosis of the disease: can the
+study; a body CT scan and, for colorectal tumours,         tumour be operated on directly or is preoperative
+a pelvic MRI scan. More detailed guidance on how           treatment needed to reduce the risk of local recur-
+to perform these tests is given in the National Treat-     rence or to shrink the tumour to improve the sur-
+ment Guidelines. The radiologist's opinions should         gical outcome? Radiotherapy has been shown to
+be structural . The TNM staging of the disease at the
+             1
+                                                           reduce localised infiltration by about 50%, and the
+time of diagnosis is an important prognostic               best benefit is achieved by administering radiother-
+factor. The patient's serum carcinoembryonic anti-         apy before surgery62,63. After chemoradiotherapy and
+gen (CEA) level should also be determined before           total anaesthetic adjuvant therapy, a pelvic MRI scan
+treatment. Follow-up examinations are performed            is performed before surgery to assess the response to
+as a matter of urgency to ensure that access to treat-     treatment. Options for radiotherapy are discussed in
+ment is also urgent (30-day treatment guarantee).          the national guidelines for the treatment of colorectal
+                                                           cancer 1. In cases of very poor prognosis, preoperative
+14.3.MULTIDISCIPLINARY ASSESSMENT                          body CT should be considered to rule out metastasis.
+Every case of colorectal cancer – including pt1 adeno-
+carcinomas and large adenomas – is treated treated         14.5.ADJUVANT CHEMOTHERAPY
+in a multidisciplinary way. Treatment planning for         After surgical treatment for radical colorectal cancer,
+colorectal cancer is based on clinical, radiological and   adjuvant chemotherapy may be given. The purpose
+histopathological assessment of the tumour, deter-         of adjuvant therapy is to reduce the risk of recur-
+mination of disease spread, and the patient's condi-       rence. The use of adjuvant chemotherapy for colorec-
+tion. A multidisciplinary team (MDT) of specialists        tal cancer has become widely used based on research
+will make a risk assessment and individual treatment       evidence in colorectal cancer. However, research evi-
+plan for each patient. The team includes a colorec-        dence on the benefit of adjuvant therapy in colorectal
+tal surgeon specialised in the operative treatment of      cancer patients who have not received neoadjuvant
+colorectal cancer, an oncologist specialised in radio-     therapy is scarce. Adjuvant therapy should be started
+therapy and anticancer therapy, a radiologist special-     within eight weeks of surgery.
+ised in the interpretation of rectal MRI, a pathologist
+specialised in gastroenterology specimens and              Adjuvant therapies are discussed in more detail in
+a nurse coordinating the implementation of the treat-      the national guidelines for the treatment of colorectal
+ment decision. In addition, an assessment by a ger-        cancer1.
+iatric specialist of the patient's fitness to withstand
+the planned treatment is often required.                   14.6.TREATMENT OF DISSEMINATED DISEASE
+                                                           Treatment of disseminated disease is addressed in
+                                                           the national guidelines for the treatment of colorectal
+                                                           cancer1.
+
+
+
+30         QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+14.7.POST-TREATMENT SURVEILLANCE                          Surveillance methods include clinical examination,
+The aim of the surveillance has been to detect            CEA determination, body CT scan and colorectal
+relapses that are within the scope of curative treat-     endoscopy of the colorectal junction and the remain-
+ment. Surveillance also increases the understand-         ing colon. Patients with a hereditary predisposition
+ing of colorectal cancer clinicians of the disease and    to colorectal cancer are screened for life-long cancer
+the factors that may influence the risk of recurrence     risk. 75% of recurrences are detected within the first
+and enables the unit to monitor treatment outcomes.       two years. For patients diagnosed with bowel can-
+It also allows for the management of late adverse         cer at screening age or younger, a five-year follow-up
+side effects associated with the disease and the treat-   after treatment is recommended as a rule.
+ments required.
+
+
+
+
+31         QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+15. STAFF AND TRAINING                                       the screening nurse in the screening process and
+                                                             data registration.
+● Screening nurses, endoscopists and pathologists
+
+     undergo training to prepare them for the                15.2.ENDOSCOPISTS
+     recording and specifics of screening.                   In many countries, there are clear criteria for en-
+                                                             doscopists involved in screening based on previous
+                                                             experience and skills. They are also required to
+15.1.SCREENING NURSES                                        participate in training aimed at standardising en-
+Each wellbeing services county should have screen-           doscopy practices at the national level. These prac-
+ing nurses who are in contact with people who test           tices cover quality criteria, polypectomy, as well as
+positive. The screening nurse advises and guides             documentation, reporting of findings and treatment
+those undergoing screening and is the first point            and follow-up guidelines. In Finland, the training of
+of contact for those who test positive. The screen-          specialists involved in screening endoscopy has been
+ing nurse explains what a positive test result means,        launched, following the Dutch model6.
+allay any concerns, explains follow-up examinations
+and ensures that suitability for follow-up examina-          According to the criteria established by the Expert
+tions is assessed.                                           Group on Colorectal Cancer Screening, every endos-
+                                                             copist performing screening colonoscopies under-
+The screening nurse should be able to consult a doc-         goes training organised jointly by the HUS Abdom-
+tor who performs colonoscopies.                              inal Centre and the University of Helsinki to ensure
+                                                             the documentation of findings and the quality of
+The screening nurse collects and reports informa-            endoscopies. The selection criteria for the train-
+tion on the screening process after a positive test          ing are shown in Table 6. In addition, the training
+result (including specialised healthcare and the pri-        requires the ability to provide treatment and fol-
+vate sector).                                                low-up instructions based on the findings. Endo-
+                                                             scopic screening findings are recorded by the Mass
+Each screening nurse attends an online training              Screening Registry, which also enables the monitor-
+course organised by the Finnish Cancer Registry,             ing of the quality of the endoscopic work, such as
+which provides skills in counselling and guidance of         the incidence of interval cancers52,64. Participation
+screening participants and data collection. The train-       in screening is conditional on completion of a train-
+ing covers colorectal cancer screening in general, the       ing course. The training is conducted online. It is
+different stages of the screening process, the role of       essential in terms of the effectiveness and cost of
+
+
+ Criterion                                Level
+ Experience with colonoscopies            > 3 years,
+                                          > 500 colonoscopies performed
+
+ Annual number of colonoscopies           > 200
+
+ Annual polypectomies                     > 50
+
+ Success rate of colonoscopies            > 90
+
+
+Table 6. Criteria for a doctor participating in screening endoscopy training.
+
+
+
+
+32           QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+the screening activities that polyp surveillance is also
+based on current international treatment and moni-
+toring recommendations65,66.
+
+15.3.PATHOLOGISTS
+The healthcare professional who independently anal-
+yses the samples taken for further screening must
+have the privileges of a pathology specialist and suf-
+ficient experience in the diagnosis of intestinal biop-
+sies (at least two years as a specialist and regular
+colonoscopic biopsies during that time). In addition,
+the person must have the possibility to consult a spe-
+cialist in gastrointestinal (GI) pathology.
+
+
+Pathologists should attend online training on
+colorectal cancer screening pathology and participate
+in national training courses in this field.
+
+
+
+
+33         QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+16. HARMS                                                  Adenoma findings require closer surveillance.
+                                                           Although not all precancerous lesions progress to
+● The screening programme is, by definition, an            cancer, the knowledge of an abnormal screening
+     intervention for an asymptomatic population, 		       result may cause psychological distress to the per-
+     which also has harms.                                 son being screened. Waiting for test results and
+● The harms are monitored and minimised by                 follow-up examinations is an essential part of the
+     the measures outlined in this chapter.                screening process. However, anxiety associated with
+● Fecal occult blood testing is virtually harmless.        colorectal cancer screening has been found to be rel-
+     Colonoscopy as a follow-up examination is             atively low in the research literature67,68. Adequate
+     also very safe.                                       resourcing of follow-up examinations and rapid
+                                                           access to examinations help minimise harms.
+
+16.1.GENERAL HARMS OF SCREENING                            Overtreatment is the treatment of precancerous
+PROGRAMMES                                                 lesions that would not have developed into cancer
+Screening targets an asymptomatic population, so           during the lifetime of the person being screened.
+harms are unavoidable. Harms that directly affect the      Precancerous lesions in bowel cancer are asymp-
+person being screened are both physical and psycho-        tomatic and may only be detected by screening or
+logical. They can also be felt at a societal level, such   by chance during another bowel test. Screening for
+as the additional costs of overdiagnosis.                  colorectal cancer can lead to overtreatment due to
+                                                           false-positive results, misdiagnosis and overly con-
+In cancer screening, overdiagnosis is the detection        servative histological classification.
+of a cancer that would not have harmed a person in
+their lifetime even if it had not been diagnosed. Find-    16.3.COLONOSCOPY SAFETY
+ing precancerous lesions that have never progressed        A colonoscopy is a reasonably safe examination.
+to cancer can also be classified as overdiagnosis. At      In addition, the number of colonoscopies in faecal
+the time of detection, this classification cannot be       occult blood testing-based screening is lower than
+made, but overdiagnosis is a population-level assess-      in colonoscopy-based screening, which contributes
+ment of the harms of the screening programme. The          to reducing the harms of colonoscopy in the screen-
+harms of screening, as well as the benefits, should        ing programme. The examination may be associ-
+also be clearly communicated to the person being           ated with stretching pain caused by both the balloon
+screened at the invitation stage.                          and the scope, which usually resolves quickly during
+                                                           the examination. If necessary, pre-medication may
+16.2.HARMS OF COLORECTAL CANCER                            be used. If no intervention (biopsy or polypectomy)
+SCREENING                                                  is performed during the procedure, the complica-
+Faecal occult blood testing for colorectal cancer          tion rate is 109 per 100 000 examinations and 218
+screening is non-invasive and there are no physical        per 100 000 if procedures (such as polypectomy)
+side effects associated with home sampling.                are performed. Serious complications such as leaks
+                                                           or perforations are much less frequent: 20/100 000
+False positive screening results are harmful to the        and 65/100 000 in the case of procedures . The vast
+person being screened and also consume healthcare          majority of serious colonoscopy complications are
+resources, especially colonoscopy capacity. Too fre-       related to polypectomy69. Complications, especially
+quent screening and too low test (FIT) cut-off value       cardiovascular complications, increase with the age
+increase the number and proportion of false positive       of the patient and the presence of comorbidities70.
+test results, and thus harms.
+
+
+
+34            QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+17. REGISTRATION OF                                         The specialist performing the endoscopy reports the
+SCREENING DATA                                              follow-up examination data to the screening centre's
+                                                            electronic reporting system according to quality cri-
+● Screening data from all stages of the screening           teria. Follow-up information includes details of the
+     chain, from referral to first treatment, are           procedure, the findings of the endoscopy, the pathol-
+     collected in the screening laboratory's data system.   ogist's opinion and follow-up instructions for treat-
+● The screening laboratory sends the collected data         ment.
+     to the mass screening registry of the Finnish
+     Cancer Registry according to the defined data 		       The controller of the patient data generated dur-
+     model and parameters.                                  ing the screening process is the wellbeing services
+● The data is collected by the screening nurse.             county. This does not change even if the screen-
+     Colonoscopy data is recorded by the colonoscopist.     ing process is outsourced. Screening data is patient
+● The effectiveness of the screening programme is           records and is confidential.
+     monitored at national and regional level using
+     relevant indicators.                                   17.2.SUBMISSION OF DATA TO THE FINNISH
+                                                            CANCER REGISTRY
+                                                            Section 6c of the Screening Decree on the monitor-
+17.1.DATA COLLECTION                                        ing of cancer screening results obliges the screening
+Data from all stages of the screening process is col-       provider to submit individual-level data on all stages
+lected in the screening laboratory's data system and        of screening to the mass screening register of the
+submitted to the Mass Screening Registry of the             Finnish Cancer Registry. These stages include send-
+Finnish Cancer Registry. The data flow is shown             ing invitations, taking and analysing samples, provid-
+in Figure 6: Information flow between the screen-           ing feedback, referral for follow-up examinations and
+ing centre and other actors. Screening laboratories         specialised healthcare, and carrying out follow-up
+or other screening providers have a legal right to          examinations and specialised healthcare.
+process all screening data, including data for fur-
+ther investigation and specialist care. Likewise, fol-      According to the THL's administrative decision
+low-up and specialist care services have a statutory        https://thl.fi/aiheet/tiedonhallinta-sosiaali-ja-ter-
+right to transmit this information to the screening         veysalalla/maaraykset-ja-maarittelyt/hallintopaatok-
+provider. It is also essential in data collection that      set , the wellbeing services county must require the
+the different stages of the process (e.g. referral, test-   screening laboratory to submit the screening data for
+ing, follow-up examinations) remain linked, i.e. that       registration in the Mass Screening Registry in line
+the data is retained in a coherent screening chain.         with the instructions on the Finnish Cancer Register's
+                                                            Data Registration page 44. The data shall be submit-
+The development and quality of the process require          ted in accordance with the data model and parameters
+the feedback of the identified findings from the spe-       defined by the Cancer Registry. The results of screen-
+cialist hospital to the screening nurse. To ensure          ing are recommended to be submitted periodically as
+smooth data collection, the screening laboratory must       soon as they are generated. The whole screening (fae-
+provide a data system for reporting follow-up and           cal blood testing, follow-up examinations, first treat-
+treatment data. The screening nurse shall collect and       ment data) should be delivered to the Mass Screening
+report information on the screening process after a         Registry by the end of August following the screening
+positive test result (including specialist care and pri-    year. The screening laboratory must have the IT capac-
+vate sector) in accordance with Cancer Registry train-      ity to collect, store and submit the data.
+ing. The treatment data is reported as the first treat-
+ment intervention.
+
+35           QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+17.3.QUALITY ASSURANCE AND STATISTICS                     6. Surgical findings
+The wellbeing services county is responsible for            a. Surgical findings/test positives
+ensuring the quality of screening activities. The data            i. normal finding
+systems of the colonoscopy units should also allow                ii. adenoma
+for reporting of the quality of endoscopies back to the           iii. advanced adenoma
+individual endoscopy units performing them faster                 iv. cancer
+than is possible under the national Mass Screening                   1.(pTNM, stage)
+Registry reporting of the screening programme.
+                                                          Screening indicators are reported at the national level
+Screening statistics and reports are produced annu-       and by the wellbeing services counties for the whole
+ally from the individual-level data submitted to the      target population. They are also reported nationwide
+Mass Screening Registry of the Finnish Cancer Reg-        by two-year age group and by socio-economic status,
+istry. The key figures or indicators to be published      level of education and mother tongue. The list of indi-
+are based on EU guidelines 71 and are similar to          cators will be updated and developed as necessary.
+those used in other national cancer screening pro-
+grammes. The indicators to be reported, with their        In addition to statistical indicators, the sensitivity,
+recommended values, include:                              positive predictive value and accuracy of screening
+1. Invitation coverage                                    are monitored. They describe how well the screening
+  a.Invited/Target population (%) (> 99%)                 test detects adenomas and cancers (sensitivity and
+2. Active participation                                   positive predictive value) and identifies healthy ones
+  a. Participants/invited (%) (>70%)                      (accuracy). Similar metrics can also be calculated for
+          i. First call                                   colonoscopy (sensitivity, positive predictive value and
+          ii. Reminder                                    accuracy of the screening episode) and for all those
+          iii. Total                                      invited for screening (sensitivity and accuracy of the
+3. Proportion of positive test results in screened        screening programme).
+  participants
+  a. Test positive/participants (%) (5%)                  The effectiveness of screening for colorectal cancer
+4. Data for the follow-up phase of the study              is assessed in a setting where the cancer incidence
+  a.Proportion of colonoscopy referrals of                and mortality of age cohorts invited to screening are
+  		 test-positive patients (%) (>75%)                    compared with those of cohorts not invited to screen-
+  b.Delays in performing a colonoscopy after              ing. The assessment will also take into account the
+     a positive test result                               pre-screening period of those invited to screening at
+  c. Quality indicators for colonoscopy (described        older ages, including cancer diagnoses and deaths.
+  		 in more detail in chapter Colonoscopy)               For the purpose of the estimation, screening data are
+5. Colonoscopy findings                                   combined with cancer data from the Finnish Cancer
+  a. Colonoscopy findings/test positives (%)              Registry, mortality data from the Digital and Popula-
+          i. normal finding                               tion Data Services Agency (DVV) and cause of death
+          ii. adenoma                                     data from Statistics Finland.
+          iii. advanced adenoma
+          iv. cancer                                      The follow-up period for mortality assessment
+                                                          should be long enough to allow the early diagnosis
+                                                          achieved by screening to have an impact on the dis-
+                                                          tribution of colorectal cancer prevalence and cancer
+                                                          mortality. This means at least ten years of follow-up.
+
+
+
+36           QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+18. COMMUNICATION                                            screening should be available. Screening invitations
+                                                             and materials should contain the same information
+● The aim of communicating the screening pro		               throughout the country to ensure regional parity.
+     gramme is to provide a good understanding of the        The Cancer Registry will provide and update (e.g.
+     purpose, benefits, harms and process of screening.      brochures, invitation letters, response letters) freely
+● An important communication tool for screeners              to screening providers. Materials are available in dif-
+     is the screening invitation pack. Communication         ferent languages48.
+     should take into account special groups and peo-
+     ple who have not participated in the screening.         Particular attention should be paid to those with an
+                                                             abnormal result in the information provided.
+
+18.1.THE AIM OF COMMUNICATION                                18.3.IMPROVING PARTICIPATION
+Screening significantly reduces mortality from colorec-      Communication should also aim to reach people
+tal cancer. The benefits of screening have also been esti-   who have not participated in the screening pro-
+mated to outweigh the harms. To ensure that screen-          gramme. Reminders have been key to improving
+ing continues to be effective, the programme should be       participation in the cervical cancer screening pro-
+communicated with the aim of achieving the highest           gramme72 and should also be used in colorectal can-
+possible screening uptake in the target population.          cer screening throughout Finland. In areas where
+                                                             screening uptake is lower than average, regional
+The communication should give a good understand-             communication activities and campaigns can be
+ing of the purpose of the screening and the screen-          implemented as appropriate.
+ing process. It should also increase a sense of secu-
+rity at different stages of the screening chain. Good        Communication must emphasise the need for
+communication and information can minimise the               screening but in a way that does not compromise
+potential psychological harm caused by screening.            the right to self-determination and the possibility of
+                                                             opting out.
+Communication related to the screening is primar-
+ily the responsibility of the wellbeing services coun-       18.4.SPECIAL GROUPS
+ties and the City of Helsinki. The well-being region         A major challenge in communicating about the
+must ensure that its residents have access to sufficient     screening programme is the variety of recipients of
+information about the objectives and effectiveness of        the information. Information material may need to
+screening, the possible risks associated with screening      be tailored to suit different audiences. For example,
+and the organisation of screening .42
+                                                             socioeconomic, linguistic and cultural differences
+                                                             need to be taken into account. Information should
+18.2.COMMUNICATION CONTENT                                   be available through different channels and in differ-
+Good communication is needed at all stages of the            ent languages and, where appropriate, cooperation
+screening chain: when receiving the home sampling            can be established, for example with different ethnic
+package, when sending the screening response and             communities73.
+at any follow-up examinations. Clear and accurate
+written information must be available to the person          The right to screening for other specific groups, such
+invited to the screening at all times.                       as people with reduced mobility, hearing and vision,
+                                                             and people with intellectual disabilities, must also
+Both summarised basic information and more                   be ensured through appropriate and accessible com-
+detailed information on the different stages of              munication. Persons subject to non-disclosure for
+
+
+
+37           QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+personal safety reasons should not be automatically        Screening nurses are in direct contact with the peo-
+invited for screening. It is the responsibility of the     ple being screened, so they should also be trained in
+wellbeing services county to inform special groups         communication. Screening nurses can answer ques-
+about their right to participate and to enable them to     tions from screeners or tell them where more infor-
+participate in screening.                                  mation is available. This will increase confidence in
+                                                           the screening programme.
+18.5.INFORMATION AND COMMUNICATION
+CHANNELS                                                   Comprehensive and up-to-date information is also
+Wellbeing services counties should inform about any        available on the internet, for example on the follow-
+changes to the screening programme. This can be            ing websites:
+done through a press release, for example.
+                                                           Health Village (In Finnish):
+A person with an abnormal screening result should          https://www.terveyskyla.fi/tutkimukseen/laborato-
+be allowed to contact the screening nurse in per-          riotutkimuksia/seulontatutkimukset/suolistosyo-
+son. Contact details for this purpose may be given,        van-seulonta
+for example, in the letter in response to the screen-
+ing result. The healthcare professional should stress      Cancer Society of Finland:
+that a positive test result does not mean cancer or        https://www.freefromcancer.fi/check-your-body/
+even a precancerous condition. Psychological sup-          colorectal-cancer-screening/
+port is available, for example, from the Cancer Socie-
+ty's advice service. The screening invitation letter and   National treatment guidelines for colorectal cancer
+other communication practices for the individual are       (in Finnish):
+described in Chapter 10, Invitation.                       https://www.terveysportti.fi/apps/ltk/article/
+                                                           hsu00007
+
+
+
+
+38         QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+                                                        Screening for colorectal cancer is the subject of
+19. THE FUTURE OF COLORECTAL
+                                                        ongoing active research both in Finland and interna-
+CANCER SCREENING
+                                                        tionally. Currently, topics of interest on the research
+The colorectal cancer screening programme in Fin-       front include, in particular, targeting screening based
+land was expanded to a nationwide programme in          on background risk, taking into account, for exam-
+2022. One of the clearest goals for the new screening   ple, the previous test results of those screened. By
+programme in the coming years is to consolidate the     optimising screening through the use of screening
+programme's activities in line with the guidelines in   history, it would be possible in the future to better
+this quality manual. The first monitoring data and      target screening to those who need it most and to
+reports on the national programme will be available     reduce the amount of screening in the part of the
+in 2024, after which areas for particular improve-      population that would not benefit from screening
+ment can be analysed.                                   to the same extent. Risk-based screening is still in
+                                                        the research stage. Concrete implementation at the
+The screening programme will expand to its full         national level requires not only research evidence but
+age range (56–74) by 2031. As the population to be      also national piloting.
+screened grows, the challenge in the coming years
+will be to ensure that there are adequate colonoscopy   The development of new screening tests will be con-
+resources.                                              tinuously monitored and the test methods approved
+                                                        for the screening programme will be updated as nec-
+                                                        essary.
+
+
+
+
+39           QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+20. SOURCES                                                10. Aleksandrova K, Pischon T, Jenab M, et al. Com-
+1. Hyöty M, Lepistö A, Nurmi H, Ristimäki A, Rista-        bined impact of healthy lifestyle factors on colorec-
+mäki R, Savolainen R. Kolorektaalisyövän kansal-           tal cancer: a large European cohort study. BMC
+linen hoitosuositus. In: Terveysportti. ; 2022. https://   Med. 2014;12:168. doi:10.1186/s12916-014-0168-4
+www.terveysportti.fi/apps/ltk/article/hsu00007
+                                                           11. Murphy N, Norat T, Ferrari P, et al. Dietary
+2. Suomen Syöpärekisteri, syöpätilastosovellus.            fibre intake and risks of cancers of the colon and
+Published online July 4, 2022. https://tilastot.syopa-     rectum in the European prospective investiga-
+rekisteri.fi/syovat                                        tion into cancer and nutrition (EPIC). PloS One.
+                                                           2012;7(6):e39361. doi:10.1371/journal.pone.0039361
+3. Sinicrope FA. Increasing Incidence of Early-Onset
+Colorectal Cancer. N Engl J Med. 2022;386(16):1547-        12. Gordon H, Biancone L, Fiorino G, et al. ECCO
+1558. doi:10.1056/NEJMra2200869                            Guidelines on Inflammatory Bowel Disease and
+                                                           Malignancies. J Crohns Colitis. Published online
+4. Lepistö A. Gastroenterologia ja Hepatologia,            December 18, 2022:jjac187. doi:10.1093/ecco-jcc/
+Kasvaimet. In: Gastroenterologia Ja Hepatologia.;          jjac187
+2018:585.
+                                                           13. Yalchin M, Baker AM, Graham TA, Hart A.
+5. Wei EK, Giovannucci E, Wu K, et al. Comparison          Predicting Colorectal Cancer Occurrence in IBD.
+of risk factors for colon and rectal cancer. Int J         Cancers. 2021;13(12):2908. doi:10.3390/can-
+Cancer. 2004;108(3):433-442. doi:10.1002/ijc.11540         cers13122908
+
+6. World Cancer Research Fund/American Institute           14. Atkin WS, Edwards R, Kralj-Hans I, et al. Once-
+for Cancer Research. Colorectal Cancer 2011 Report.        only flexible sigmoidoscopy screening in prevention
+Food, Nutrition, Physical Activity, and the Prevention     of colorectal cancer: a multicentre randomised con-
+of Colorectal Cancer.; 2011.                               trolled trial. Lancet Lond Engl. 2010;375(9726):1624-
+                                                           1633. doi:10.1016/S0140-6736(10)60551-X
+7. American Cancer Society. Survival Rates for
+Colorectal Cancer. Published online 2023. Accessed         15. Ran T, Cheng CY, Misselwitz B, Brenner H,
+March 17, 2023. https://www.cancer.org/cancer/             Ubels J, Schlander M. Cost-Effectiveness of
+colon-rectal-cancer/detection-diagnosis-staging/           Colorectal Cancer Screening Strategies-A System-
+survival-rates.html                                        atic Review. Clin Gastroenterol Hepatol Off Clin Pract
+                                                           J Am Gastroenterol Assoc. 2019;17(10):1969-1981.e15.
+8. van de Velde CJH, Boelens PG, Borras JM, et al.         doi:10.1016/j.cgh.2019.01.014
+EURECCA colorectal: multidisciplinary manage-
+ment: European consensus conference colon &                16. Stock D, Paszat LF, Rabeneck L. Colorectal
+rectum. Eur J Cancer Oxf Engl 1990. 2014;50(1):1.          cancer mortality reduction is associated with hav-
+e1-1.e34. doi:10.1016/j.ejca.2013.06.048                   ing at least 1 colonoscopy within the previous 10
+                                                           years among a population-wide cohort of screen-
+9. Kirkegaard H, Johnsen NF, Christensen J, Fred-          ing age. Gastrointest Endosc. 2016;84(1):133-141.
+eriksen K, Overvad K, Tjønneland A. Association of         doi:10.1016/j.gie.2015.12.035
+adherence to lifestyle recommendations and risk of
+colorectal cancer: a prospective Danish cohort study.
+BMJ. 2010;341:c5504. doi:10.1136/bmj.c5504
+
+
+
+40         QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+17. Brenner H, Stock C, Hoffmeister M. Effect of       Systematic Review and Meta-Analysis. Am J
+screening sigmoidoscopy and screening colonos-         Gastroenterol. 2018;113(12):1778-1787. doi:10.1038/
+copy on colorectal cancer incidence and mortality:     s41395-018-0212-7
+systematic review and meta-analysis of randomised
+controlled trials and observational studies. BMJ.      24. European Union. Council recommendation
+2014;348(apr09 1):g2467-g2467. doi:10.1136/bmj.        of 2 December 2003 on cancer screening.
+g2467                                                  Published online December 16, 2003. https://
+                                                       eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=
+18. Bretthauer M, Løberg M, Wieszczy P, et al.         OJ:L:2003:327:0034:0038:EN:PDF
+Effect of Colonoscopy Screening on Risks of
+Colorectal Cancer and Related Death. N Engl J          25.Pitkäniemi J, Seppä K, Hakama M, et al.
+Med. 2022;387(17):1547-1556. doi:10.1056/NEJ-          Effectiveness of screening for colorectal cancer with
+Moa2208375                                             a faecal occult-blood test, in Finland. BMJ Open
+                                                       Gastroenterol. 2015;2(1):e000034. doi:10.1136/
+19. Mandel JS, Bond JH, Church TR, et al. Reducing     bmjgast-2015-000034
+mortality from colorectal cancer by screening for
+fecal occult blood. Minnesota Colon Cancer             26. Heinävaara S. Kolorektaalisyövän seulonta uud-
+Control Study. N Engl J Med. 1993;328(19):1365-1371.   istuu. Duodecim. 2019;135(19):1920–1927.
+doi:10.1056/NEJM199305133281901
+                                                       27. Sarkeala T, Färkkilä M, Anttila A, et al.
+20. Giorgi Rossi P, Vicentini M, Sacchettini C, et     Piloting gender-oriented colorectal cancer
+al. Impact of Screening Program on Incidence of        screening with a faecal immunochemical test:
+Colorectal Cancer: A Cohort Study in Italy. Am J       population-based registry study from Finland.
+Gastroenterol. 2015;110(9):1359-1366. doi:10.1038/     BMJ Open. 2021;11(2):e046667. doi:10.1136/
+ajg.2015.240                                           bmjopen-2020-046667
+
+21. Ribbing Wilén H, Blom J, Höijer J, Andersson G,    28. Massat NJ, Moss SM, Halloran SP, Duffy SW.
+Löwbeer C, Hultcrantz R. Fecal immunochemical          Screening and primary prevention of colorectal
+test in cancer screening - colonoscopy outcome         cancer: a review of sex-specific and site-specific
+in FIT positives and negatives. Scand J Gastroen-      differences. J Med Screen. 2013;20(3):125-148.
+terol. 2019;54(3):303-310. doi:10.1080/                doi:10.1177/0969141313501292
+00365521.2019.1585569
+                                                       29. Sadik R, Abrahamsson H, Stotzer PO. Gender
+22. Imperiale TF, Gruber RN, Stump TE, Emmett          differences in gut transit shown with a newly devel-
+TW, Monahan PO. Performance Characteristics            oped radiological procedure. Scand J Gastroenterol.
+of Fecal Immunochemical Tests for Colorectal           2003;38(1):36-42. doi:10.1080/00365520310000410
+Cancer and Advanced Adenomatous Polyps:
+A Systematic Review and Meta-analysis. Ann Intern      30. Kuoppa A, Sarkeala T, Leivonen A, Heinävaara
+Med. 2019;170(5):319-329. doi:10.7326/M18-2390         S. Kolorektaalisyövän seulontapilotti – miten
+                                                       kaksi ensimmäistä vuotta sujuivat?
+23. de Klerk CM, Vendrig LM, Bossuyt PM,               2022;138(19):1677-1684.
+Dekker E. Participant-Related Risk Factors for
+False-Positive and False-Negative Fecal Immuno-        31. Heinävaara S, Gini A, Sarkeala T, Anttila A,
+chemical Tests in Colorectal Cancer Screening:         de Koning H, Lansdorp-Vogelaar I. Optimizing
+
+
+
+41        QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+screening with faecal immunochemical test for            tive Results From First-Round Fecal Immunochem-
+both sexes – Cost-effectiveness analysis from Fin-       ical Screening Tests, by Cutoff Value and Participant
+land. Prev Med. 2022;157:106990. doi:10.1016/j.          Sex and Age. Clin Gastroenterol Hepatol Off Clin
+ypmed.2022.106990                                        Pract J Am Gastroenterol Assoc. 2020;18(7):1493-
+                                                         1500. doi:10.1016/j.cgh.2019.08.021
+32. Valtioneuvoston asetus seulonnoista annetun
+valtioneuvoston asetuksen 2 §:n muuttamisesta            39. Grobbee EJ, van der Vlugt M, van Vuuren AJ,
+752/2021. www.finlex.fi                                  et al. A randomised comparison of two faecal
+                                                         immunochemical tests in population-based colo-
+33.Suomen Syöpärekisteri. Suolistosyövän                 rectal cancer screening. Gut. 2017;66(11):1975-1982.
+seulontaprotokolla. Published online 2023.               doi:10.1136/gutjnl-2016-311819
+https://syoparekisteri.fi/assets/files/2023/03/
+Suolistosyovan-seulontaprotokolla-ja-seulon-             40. de Klerk CM, Wieten E, Lansdorp-Vogelaar I,
+nassa-kaytettavat-testit.pdf                             Bossuyt PM, Spaander MC, Dekker E. Performance
+                                                         of two faecal immunochemical tests for the detec-
+34. Rex DK, Ponugoti PL, Johnson CS, Kittner L,          tion of advanced neoplasia at different positivity
+Yanda RJ. Neoplasia at 10-year follow-up screening       thresholds: a cross-sectional study of the Dutch
+colonoscopy in a private U.S. practice: comparison       national colorectal cancer screening programme.
+of yield to first-time examinations. Gastro-intest       Lancet Gastroenterol Hepatol. 2019;4(2):111-118.
+Endosc. 2018;87(1):254-259. doi:10.1016/j.               doi:10.1016/S2468-1253(18)30319-4
+gie.2017.04.035
+                                                         41. Gies A, Cuk K, Schrotz-King P, Brenner H.
+35. Samadder JN, Pappas L, Boucherr KM, et al.           Direct comparison of ten quantitative fecal immun-
+Long-Term Colorectal Cancer Incidence After              ochemical tests for hemoglobin stability in colorec-
+Negative Colonoscopy in the State of Utah: The           tal cancer screening. Clin Transl Gastroenterol.
+Effect of Family History. Am J Gastroenterol.            2018;9(7):168. doi:10.1038/s41424-018-0035-2
+2017;112(9):1439-1447. doi:10.1038/ajg.2017.193
+                                                         42. Valtioneuvoston asetus seulonnoista 339/2011.
+36.Crotta S, Segnan N, Paganin S, Dagnes B,              www.finlex.fi
+Rosset R, Senore C. High rate of advanced ade-
+noma detection in 4 rounds of colorectal cancer          43. Suomen Syöpärekisteri. Opas suolisto-
+screening with the fecal immunochemical test.            syövän seulonnan järjestömiseksi. Published
+Clin Gastroenterol Hepatol Off Clin Pract J Am           online 2023. https://syoparekisteri.fi/assets/
+Gastroenterol Assoc. 2012;10(6):633-638.                 files/2023/03/Opas-suolistosyovan-seulonnan-jar-
+doi:10.1016/j.cgh.2012.02.030                            jestamiseksi_2023.pdf
+
+37. Portillo I, Arana-Arri E, Idigoras I, et al. Colo-   44. Suomen Syöpärekisteri. Seulontatietojen
+rectal and interval cancers of the Colorectal Cancer     ilmoittaminen, tietomäärittelyt. Accessed March
+Screening Program in the Basque Country (Spain).         24, 2023. https://syoparekisteri.fi/seulonta/
+World J Gastroenterol. 2017;23(15):2731-2742.            seulontatietojen-ilmoittaminen/
+doi:10.3748/wjg.v23.i15.2731
+                                                         45. ASGE Endoscopy Unit Quality Indicator Task-
+38. Toes-Zoutendijk E, Kooyker AI, Dekker E, et al.      force, Day LW, Cohen J, et al. Quality indicators
+Incidence of Interval Colorectal Cancer After Nega-      for gastrointestinal endoscopy units. VideoGIE Off
+
+
+
+42         QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+Video J Am Soc Gastrointest Endosc. 2017;2(6):119-        European Society of Gastrointestinal Endoscopy
+140. doi:10.1016/j.vgie.2017.02.007                       (ESGE) and European Society of Gastrointestinal
+                                                          and Abdominal Radiology (ESGAR) Guideline.
+46. Pitkäniemi J, Heikkinen S, Seppä K, et al.            Eur Radiol. 2015;25(2):331-345. doi:10.1007/s00330-
+Pooling of Finnish population-based health studies:       014-3435-z
+lifestyle risk factors of colorectal and lung cancer.
+Acta Oncol. Published online July 2020:1-5. doi:10.1      54. Tudyka V, Blomqvist L, Beets-Tan RGH, et al.
+080/0284186X.2020.1789214                                 EURECCA consensus conference highlights about
+                                                          colon & rectal cancer multidisciplinary manage-
+47. Randel KR, Botteri E, Romstad KMK, et al.             ment: the radiology experts review. Eur J Surg
+Effects of Oral Anticoagulants and Aspirin on             Oncol J Eur Soc Surg Oncol Br Assoc Surg Oncol.
+Performance of Fecal Immunochemical Tests in              2014;40(4):469-475. doi:10.1016/j.ejso.2013.10.029
+Colorectal Cancer Screening. Gastroenterology.
+2019;156(6):1642-1649.e1. doi:10.1053/j.gas-              55. Bowel cancer screening: pathology guidance on
+tro.2019.01.040                                           reporting lesions. Published online May 31, 2021.
+                                                          Accessed March 14, 2023. https://www.gov.uk/gov-
+48. Suomen Syöpärekisteri. Suolistosyövän                 ernment/publications/bowel-cancer-
+seulontamateriaalit. https://img3.materialbank.net/       screening-reporting-lesions/bowel-cancer-
+NiboWEB/syopajarjestot/showCartPublicContent.             screening-guidance-on-reporting-lesions
+do?uuid=4743701&random=698158&lang=fi
+                                                          56. Nagtegaal ID, Odze RD, Klimstra D, et al. The
+49. Rex DK, Schoenfeld PS, Cohen J, et al. Quality        2019 WHO classification of tumours of the diges-
+indicators for colonoscopy. Gastrointest Endosc.          tive system. Histopathology. 2020;76(2):182-188.
+2015;81(1):31-53. doi:10.1016/j.gie.2014.07.058           doi:10.1111/his.13975
+
+50. Rees CJ, Thomas Gibson S, Rutter MD, et al. UK        57. Mäkinen M, Koskela R. Paksusuolen adenoom-
+key performance indicators and quality assurance          ien ja sahalaitamuutosten histologia ja kontrollitäh-
+standards for colonoscopy. Gut. 2016;65(12):1923-         ystysten tarve. Lääkärilehti. 2020;7(75):485-491.
+1929. doi:10.1136/gutjnl-2016-312044
+                                                          58. Brierley JD, Gospodarowicz M, Wittekind C, eds.
+51. Kaminski MF, Thomas-Gibson S, Bugajski M,             TNM Classification Of Malignant Tumours. 8th ed.
+et al. Performance measures for lower gastro-             Wiley-Blackwell; 2016.
+intestinal endoscopy: a European Society of
+Gastrointestinal Endoscopy (ESGE) Quality                 59. Griggs RKL, Novelli MR, Sanders DSA, et al.
+Improvement Initiative. Endoscopy. 2017;49(4):            Challenging diagnostic issues in adenomatous pol-
+378-397. doi:10.1055/s-0043-103411                        yps with epithelial misplacement in bowel cancer
+                                                          screening: 5 years’ experience of the Bowel Cancer
+52. Kaminski MF, Regula J, Kraszewska E, et al.           Screening Programme Expert Board. Histopathol-
+Quality indicators for colonoscopy and the risk of        ogy. 2017;70(3):466-472. doi:10.1111/his.13092
+interval cancer. N Engl J Med. 2010;362(19):1795-
+1803. doi:10.1056/NEJMoa0907667                           60. Rutter MD, East J, Rees CJ, et al. British Society
+                                                          of Gastroenterology/Association of Coloproctology
+53. Spada C, Stoker J, Alarcon O, et al. Clinical indi-   of Great Britain and Ireland/Public Health England
+cations for computed tomographic colonography:            post-polypectomy and post-colorectal cancer
+
+
+
+43         QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+resection surveillance guidelines. Gut. 2020;69(2):     BMJ Open. 2018;8(12):e025109. doi:10.1136/
+201-223. doi:10.1136/gutjnl-2019-319858                 bmjopen-2018-025109
+
+61. Valtioneuvoston asetus erikoissairaanhoidon         68. Kirkøen B, Berstad P, Botteri E, et al. Psycho-
+työnjaosta ja eräiden tehtävien keskittämisestä.        logical effects of colorectal cancer screening:
+https://www.finlex.fi/fi/laki/alkup/2017/20170582       Participants vs individuals not invited. World J
+                                                        Gastroenterol. 2016;22(43):9631. doi:10.3748/wjg.
+62. McCarthy K, Pearson K, Fulton R, Hewitt             v22.i43.9631
+J. Pre-operative chemoradiation for non-meta-
+static locally advanced rectal cancer. Cochrane         69. Wang L, Mannalithara A, Singh G, Ladabaum
+Colorectal Cancer Group, ed. Cochrane Database          U. Low Rates of Gastrointestinal and Non-Gastro-
+Syst Rev. Published online December 12, 2012.           intestinal Complications for Screening or
+doi:10.1002/14651858.CD008368.pub2                      Surveillance Colonoscopies in a Population-Based
+                                                        Study. Gastroenterology. 2018;154(3):540-555.e8.
+63. Rahbari NN, Elbers H, Askoxylakis V, et al. Neo-    doi:10.1053/j.gastro.2017.10.006
+adjuvant radiotherapy for rectal cancer: meta-analy-
+sis of randomized controlled trials. Ann Surg Oncol.    70. Ladabaum U, Mannalithara A, Desai M,
+2013;20(13):4169-4182. doi:10.1245/s10434-013-3198-9    Sehgal M, Singh G. Age-Specific Rates and
+                                                        Time-Courses of Gastrointestinal and Nongas-
+64. Bronzwaer MES, Depla ACTM, van Lelyveld             trointestinal Complications Associated With
+N, et al. Quality assurance of colonoscopy within       Screening/Surveillance Colonoscopy. Am J Gas-
+the Dutch national colorectal cancer screening          troenterol. 2021;116(12):2430-2445. doi:10.14309/
+program. Gastrointest Endosc. 2019;89(1):1-13.          ajg.0000000000001531
+doi:10.1016/j.gie.2018.09.011
+                                                        71. Karsa L, Patnick J, Segnan N. European guide-
+65. East JE, Atkin WS, Bateman AC, et al. British       lines for quality assurance in colorectal cancer
+Society of Gastroenterology position statement          screening and diagnosis. First Edition – Execu-
+on serrated polyps in the colon and rectum.             tive summary. Endoscopy. 2012;44(S 03):SE1-SE8.
+Gut. 2017;66(7):1181-1196. doi:10.1136/gut-             doi:10.1055/s-0032-1309822
+jnl-2017-314005
+                                                        72. Virtanen A, Anttila A, Luostarinen T, Mal-
+66. Atkin WS, Valori R, Kuipers EJ, et al. European     ila N, Nieminen P. Improving cervical cancer
+guidelines for quality assurance in colorectal cancer   screening attendance in Finland. Int J Cancer.
+screening and diagnosis. First Edition--Colono-         2015;136(6):E677-684. doi:10.1002/ijc.29176
+scopic surveillance following adenoma
+removal. Endoscopy. 2012;44 Suppl 3:SE151-163.          73. Lamminmäki M, Leivonen A, Sarkeala T, Virta-
+doi:10.1055/s-0032-1309821                              nen A, Heinävaara S. Health inequalities among
+                                                        Russian-born immigrant women in Finland: Lon-
+67. Wangmar J, Von Vogelsang AC, Hultcrantz R,          gitudinal analysis on cervical cancer incidence
+Fritzell K, Wengström Y, Jervaeus A. Are anxiety        and participation in screening. J Migr Health.
+levels associated with the decision to participate      2022;6:100117. doi:10.1016/j.jmh.2022.100117
+in a Swedish colorectal cancer screening pro-
+gramme? A nationwide cross-sectional study.
+
+
+
+
+44        QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+21. ANNEX
+
+               Calendar year
+
+Birthyear       2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032
+     1977        45     46     47    48     49     50     51   52   53   54   55
+     1976        46     47     48    49     50     51     52   53   54   55   56
+     1975        47     48     49    50     51     52     53   54   55   56   57
+     1974        48     49     50    51     52     53     54   55   56   57   58
+     1973        49     50     51    52     53     54     55   56   57   58   59
+     1972        50     51     52    53     54     55     56   57   58   59   60
+     1971        51     52     53    54     55     56     57   58   59   60   61
+     1970        52     53     54    55     56     57     58   59   60   61   62
+     1969        53     54     55    56     57     58     59   60   61   62   63
+     1968        54     55     56    57     58     59     60   61   62   63   64
+     1967        55     56     57    58     59     60     61   62   63   64   65
+     1966        56     57     58    59     60     61     62   63   64   65   66
+     1965        57     58     59    60     61     62     63   64   65   66   67
+     1964        58     59     60    61     62     63     64   65   66   67   68
+     1963        59     60     61    62     63     64     65   66   67   68   69
+     1962        60     61     62    63     64     65     66   67   68   69   70
+     1961        61     62     63    64     65     66     67   68   69   70   71
+     1960        62     63     64    65     66     67     68   69   70   71   72
+     1959        63     64     65    66     67     68     69   70   71   72   73
+     1958        64     65     66    67     68     69     70   71   72   73   74
+     1957        65     66     67    68     69     70     71   72   73   74   75
+     1956        66     67     68    69     70     71     72   73   74   75   76
+     1955        67     68     69    70     71     72     73   74   75   76   77
+     1954        68     69     70    71     72     73     74   75   76   77   78
+     1953        69     70     71    72     73     74     75   76   77   78   79
+
+Table 7. Scaling-up matrix for the screening programme.
+
+
+
+
+45          QUALITY MANUAL FOR COLORECTAL CANCER SCREENING
+

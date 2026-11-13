@@ -1,0 +1,207 @@
+Description of statistics and their quality - Syöpärekisteri
+Skip to content
+Finnish Cancer Registry
+Suomi
+Svenska
+English
+Search
+Search
+Menu
+Donate
+Support our work
+Cancer in Finland
+Statistics
+Cancer statistics
+Screening statistics
+Statistics by theme
+Description of statistics and their quality
+International cancer and screening statistics
+Research
+Come and carry out research with us
+Research strategy
+Developing monitoring
+Preventing cancer and cancer-related harms
+Comprehensive Assessment of Cancer Burden
+Evaluation and development of current cancer screening programmes
+Development of epidemiological and statistical data analysis methods
+RHS register
+Publications
+Screening
+Cervical cancer screening
+Breast cancer screening
+Colorectal cancer screening
+Other types of cancer screening
+Organising cancer screening
+Cancer screening
+Data registration
+Research
+Reports and publications
+Annual report on cancer in Finland
+Annual reports of cancer screening programmes
+Data collection
+Cancer information notification
+Services
+Information requests
+Service fees
+Finnish Cancer Registry
+Contacts
+Tasks
+Accessibility Statement
+Data protection notice
+Home
+»
+Statistics
+»
+Description of statistics and their quality
+Description of statistics and their quality
+Quality description assesses the reliability and suitability of statistics of the Finnish Cancer Registry and Mass Screening Registry for different purposes. The quality description follows the recommendations of the Official Statistics of Finland (OSF)
+Name of the producer of statistics
+Cancer Society of Finland
+Quality reporting of statistics of the Finnish Cancer Registry
+The cancer statistics quality report evaluates the reliability and suitability of the statistics for different uses. The quality report complies with the recommendations of the Official Statistics of Finland (OSF).
+CANCER STATISTICS
+Basis for compilation of the statistics
+The maintaining of the register and the compilation of the statistics are based on the Act on the National Institute for Health and Welfare (668/2008), Act on National Personal Records Kept under the Health Care System (556/1989), Decree on National Personal Records Kept under the Health Care System (774/1989) and amendments to it and Personal Data Act (523/1999).
+Relevance of statistical information
+The cancer statistics contain data on cancer incidence and mortality and on patients’ survival stratified by calendar year, age and sex since the year 1953.  The cancer statistics are presented on a nation-wide basis and by cancer control regions and hospital districts.
+The statistics are intended for health care professionals, authorities, designers, researchers and people who need up-to-date information on cancers, including their prevalence and changes to be expected.
+Methodological description of statistical research
+The Finnish Cancer Registry receives cancer data from:
+hospitals and other institutions providing treatment for cancer patients
+health care professionals
+pathology laboratories
+Statistics Finland’s cause of death data
+In 2017, the majority of clinical notifications are still sent by the hospitals in paper format. The notifications are stored on an electronic database as they arrive. The laboratory notifications are sent and received in electronic format once or twice a year. The cause of death data are updated once a year, immediately after they have been published by Statistics Finland. Checks of the data and the database are always carried out in connection with data entry and updates.
+In cancer registration, the goal is to get a clinical notification made by a physician, a laboratory notification, and eventually data on cause of death for every cancer case in Finland.
+In the Cancer Registry, a database suitable for statistical purposes and scientific research are created based on the notifications and the cause of death information. The database of the he Finnish Cancer contains data on cancers diagnosed in Finland since 1953.
+Validity and accuracy of data
+The valisity of data depends on the quality of the information provided. However, several notifications of the same cancer case are received, and these supplement previously received data and confirm cancer diagnoses. If there is conflicting information in the notifications, the information received from the clinical notification is considered to be the most reliable.
+Detected errors are corrected on the database. The Finnish Cancer Registry continuously complements, corrects and updates its data. Such amendments appear as small changes in numbers compared to previously published statistics.
+The timeliness of published information
+The statistics are published annually with about a two-year delay. This delay is because some of the cancer data are submitted for registration with a delay of up to more than a year, and there is about a one-year delay registering and collating all the cause of death data. Upon receipt, data are checked and any errors found are corrected. Internationally, a two-year delay from the date of the diagnosis to the time of the publication of the statistics is considered adequate, as it also allows comprehensive registration of the first phase of cancer treatment.
+Availability and transparency of statistics
+The statistics are published on the website of the Finnish Cancer Registry, and not in printed format since 2016. There is also a link to the statistics on the website of the National Institute for Health and Welfare. The National Institute for Health and Welfare may grant permission for researchers to use cancer register data for scientific research. For the purpose of acquiring such information, the researcher must first prepare a register description and apply for a research authorisation from the National Institute for Health and Welfare based on the research plan.
+Comparability of statistics
+The statistics are presented in separate calendar years and/or in longer periods. a. It is possible to make annual, periodic and regional comparisons of data.
+Cancer data have been collected since 1953 and are included in the electronic database of the Finnish Cancer Registry. The nationwide registration of cancers in Finland began in 1953, when the National Board of Health issued a circular letter to every doctor, hospital and laboratory in Finland to request them to send a notification of all cancer cases or suspected cancer cases that come to their attention, to be included in cancer statistics. Since 1961, cancer notification has been mandatory in Finland.
+Since 1990, the collection of cancer data has been based on a guidance letter (6/1990) of the National Board of Health, concerning notifications of cancer cases to be sent to the Cancer Registry. All cancer notifications since 2008 have been stored and coded by using ICD-O-3 codes (International Classification of Diseases for Oncology, Third Edition, WHO 2000, 1st revision 2013). In earlier years, International Statistical Classification of Diseases from the year 1955 (IDC-7) was used in the coding of cancer notifications.
+As the new ICD-O-3 coding system was adopted, the old ICD-7 codes from the year 1955, used for cancer cases stored in the database, were converted automatically by means of a translation matrix into ICD-O-3 codes. Code translation did not improve the accuracy of registered data, but the new codes (since 2008) are more accurate than the previous ones.
+Clarity and integrity
+The statistical report uses well-established international concepts and classifications. The topography (primary site) and morphology (tissue or cellular, histological diagnosis) of cancer cases are coded according to the International Classification of Cancer Diseases (ICD-O-3). However, clinical ICD-10 codes are used in cancer statistics. The date and cause of death are obtained from Statistics Finland’s cause of death statistics in accordance with the official cause-of-death classification used in the corresponding year. The municipality data and survival data are updated annually from the Population Register Centre. The municipality of residence is defined as the municipality the person resided in at the beginning of the year during which the cancer was diagnosed.
+SCREENING STATISTICS
+Cervical cancer and breast cancer screening
+Cervical Cancer and Breast Cancer Screening Statistics contain information on statutory cervical cancer and breast cancer screening annually.
+Data obtained from the cervical cancer and breast cancer mass screenings are reported to the Finnish Cancer Society’s Mass Screening Registry. Such data include the following: data on the screening target populations, on those invited to screening, on those screened, on those screened participants referred for follow-up examinations, and data on the outcome of screening and follow-up examinations.
+Screening for colorectal cancer
+Colorectal cancer screening statistics include data on randomized colorectal cancer mass screening.
+Data on mass screenings for colorectal cancer are reported to the Finnish Cancer Society’s Mass Screening Registry. Such data include the following: data on the screening target population, on those invited to screening, on those screened, on those screened participants referred for follow-up examinations, and data on the outcomes of screening and follow-up examinations.
+QUALITY REPORTING OF STATISTICS OF MASS SCREENING REGISTRY
+Cervical Cancer and Breast Cancer Screening
+The quality report on cervical cancer and breast cancer screening statistics estimates the reliability and suitability of the statistics for different uses. The quality report follows the recommendations of the Official Statistics of Finland (OSF).
+Basis for compiling statistics
+The maintenance of the registry and the compilation of the statistics comply with the following: the National Institute of Health and Welfare Act (668/2008), the National Health Registers of Health Care Act (556/1989), the Decree on National Personal Data Registries of Health Care (774/1989), the Personal Data Act (523/1999), the Health Care Act (1326/2010) and the Government Decree on Screening (339/2011).
+Relevance of statistics
+The cervical cancer and breast cancer mass screening statistics include data on the following: screening target population, those invited, those screened, follow-up examination referrals, and the outcome of screening and follow-up examinations. Data are presented for the whole country, by special catchment areas of university hospitals and by hospital district.
+The statistics are intended for use by health care professionals, authorities, planners, researchers and citizens who need up-to-date information on national cancer screenings.
+Methodological description of the statistical research
+Screening data are collected by all Finnish municipalities and laboratories. In addition, screening units also collect screening data by inviting the target population for screening, perform screening tests and any follow-up examinations indicated for screening participants.
+According to the National Institute for Health and Welfare Act (668/2008), information on all stages of mass screening must be sent to the Finnish Cancer Society’s Mass Screening Register. The information are sent by the end of July of the following year of the screening invitation. The information is collected from the following agencies: municipalities, screening laboratories, screened units, hospitals and other institutions providing follow-up examinations and treatment.
+The screening information is sent to the Mass Screening Registry electronically. Incoming data and unclear cases are checked before being recorded on the database.
+Validity and accuracy of data
+The accuracy of the data depends on the quality of information provided by the municipalities, laboratories and screening units. Newly registered data are compared to the following: previous statistics of the screening units, the previously recorded screening data of municipalities and laboratories, and the cervical cancer and breast cancer data in the Finnish Cancer Registry.
+Possible errors are corrected. Previous years are also upgraded with delayed notifications.
+The timeliness of the published data
+The statistics are published annually with an approximate two-year delay. This delay is because the information is submitted for registration after a period of over one year from the screening. Data are checked upon receipt and any errors corrected.
+Availability and transparency of statistics
+Statistics are published on the website of the Mass Screening Registry. There is also a link to them on the website of the National Institute for Health and Welfare.
+The National Institute for Health and Welfare may grant researchers permission to use screening data for scientific research. The researcher must first prepare a detailed file description containing a research protocol for the purpose for providing information and to apply for research authorization, which may be granted by the National Institute for Health and Welfare.
+Comparability of statistics
+The information published annually is comparable.
+Data obtained from cervical cancer screenings have been recorded on the electronic database of the Mass Screening Registry since the 1980s. However, nationwide registration has been implemented since the early 2000s. Statistics are updated as required.
+Age data in statistics is the difference between the year of screening invitation and the year of birth.
+Since 2006, mass screening samples have been reported in accordance with the internationally accepted Bethesda System 2001 (TBS 2001). Since 2003, some municipalities have used HPV test as primary screening test, the results of which are classified as positive or negative. The classification of tumour findings is based on earlier WHO criteria that do not distinguish between plate and cylindrical epithelial changes.
+Clarity and integrity
+Statistics include all registered screening data from the early years of registration. Data for the 2000s onwards practically cover the whole country.
+Cervical cancer and breast cancer screening forms can be found on the website of the National Institute for Health and Welfare (
+link
+).
+Colorectal cancer screening
+The Colorectal cancer screening statistics quality report estimates the reliability and suitability of the statistics for different uses. The quality report follows the recommendations of the Official Statistics of Finland (OSF).
+Relevance of statistics
+The mass screening statistics for randomized colorectal cancer screening include data on the target population of screening, on those invited to screening, on those screened, on follow-up examination referrals and the result of screening and follow-up examinations.
+The statistics are intended for use by health care professionals, authorities, planners, researchers and citizens who need up-to-date information on screenings.
+The screening register for colorectal cancer is a research register founded by mutual agreement between STAKES (now the National Institute for Health and Welfare, THL) and the Cancer Society of Finland on registration of research data, and it received a license issued by the Ministry of Social Affairs and Health (and later was issued by the THL) (STM / 42/07/2004, THL / 619 / 5.05.00 / 2010).
+Methodological description of the statistical research
+Screening data are collected on those Finnish municipalities that participate in randomized population-based screening.
+In accordance with the research agreement concluded in 2003 between the Cancer Society of Finland and the then STAKES, (now the national Institute for Health and Welfare), data on all phases of randomized mass screening for colorectal cancer had to be submitted to the Cancer Society of Finland’s Mass Screening Registry.
+The screening information was sent to the Mass Screening Registry database in electronic form. Unclear cases were checked by the screening unit, by the municipalities or by the hospital carrying out treatment.
+Validity and accuracy of data
+The validity of the information itself in the screening process is of a high standard because the protocol for conducting the screening was standardized throughout the country and thus the data that were obtained by it are consistent Follow-up examination data (e.g. screen-detected cancer cases) are compared to Cancer Registry data as the significance of the results is evaluated. Follow-up examination data are collected through the activities of local liaison officers to screening unit, and sometimes directly from the hospitals.
+The timeliness of the published data
+Preliminary screening statistics are published annually immediately after the end of the screening year. Final screening statistics, including follow-up outcome or research findings are published after delay of about one year.
+Availability and transparency of statistics
+Statistics are published on the website of the Mass Screening Registry. There is also a link to them on the website of the National Institute for Welfare and Health. Data are also published by the Finnish Cancer Registry.
+The Finnish Cancer Registry may disclose screening data for use in scientific research. The researcher must apply for authorisation from the National Institute of Health and Welfare.
+Comparability of statistics
+The statistics are published annually, which enables annual comparison of data.
+Colorectal cancer screening data in the electronic database of the Mass Screening Registry are comprehensive and unbroken from the start of population screening. Information is updated as required.
+Age data in statistics is the difference between the year of screening invitation and the year of birth.
+The terms used in the statistics have been consistent throughout the follow-up period. ICD-O-3 classification is used to classify tumour findings.
+Clarity and integrity
+The statistics include comprehensive and unbroken screening information since 2004. Such information include data on the number of invited, data on the participation, the screening test result in addition to cancer and adenoma findings in follow-up examinations.
+Cancer in Finland
+Statistics
+Research
+Screening
+Reports and publications
+Data collection
+Services
+Finnish Cancer Registry
+Websites for different target groups
+Cancer Society of Finland has several web pages for different target groups.
+All about cancer
+Free from cancer
+Cancer Society of Finland
+Contact information
+Finnish Cancer Registry
+Mäkelänkatu 2
+00500 Helsinki
+Tel. +358 9 135 331
+[email protected]
+Contact information
+Give feedback
+Accessibility Statement
+Support our work
+Donate
+All about cancer
+For patients and relatives
+Cancer Society
+About the organisation
+Free from Cancer
+Cancer prevention
+Cancer Registry
+Statistics and research
+Member organisations
+Regional societies and patient organisations
+Donate
+Support our work
+Member organisations
+Cancer Society of Southern Finland
+Cancer Society of Central Finland
+Cancer Society of Kymenlaakso
+Cancer Society of South West Finland
+Cancer Society of Pirkanmaa
+Cancer Society of Pohjanmaa
+Cancer Society of Noth Carelia
+Cancer Society of North Savo
+Cancer Society of Northern Finland
+Cancer Society of Saimaa
+Cancer Society of Satakunta
+Cancer Society of Åland
+Regional societies and patient organisations
+Association of Cancer Patients in Finland
+Breast Cancer Organisation, Europa Donna Finland
+Finnish Association for Children and young people with Cancer (SYLVA)
+Finnish Colorectal Cancer Association
+Finnish Oral Cancer Assocation
+Finnish Prostate Cancer Association

@@ -1,0 +1,27 @@
+Cancer site,ICD-10,Women,Men,Total
+All sites together,"C00-96,D09.0-1,D32-33,D41-43,D45-47,D76",95881,97333,193 214
+"Lung, trachea",C33-34,13486,20963,34 449
+Lymphoid and haematopoietic tissue,"C81-96,D45-47,D76",8758,10145,18 903
+Breast,C50,18060,70,18 130
+Colon and rectum,C18-20,8086,9016,17 102
+Pancreas,C25,8672,8224,16 896
+Prostate,C61,–,7610,7 610
+Liver,C22,2403,4562,6 965
+Stomach,C16,2958,3997,6 955
+Ovary etc.,"C48.1-2 (Serous), C56, C57.0-4",5853,–,5 853
+Glioma,–,2454,3337,5 791
+Kidney,C64,1897,3133,5 030
+Oesophagus,C15,1121,3202,4 323
+Bladder and urinary tract,"C65-68,D09.0-1,D41.1-9",1313,2869,4 182
+"Mouth, pharynx",C00-14,1311,2811,4 122
+"Gallbladder, bile ducts",C23-24,2092,1577,3 669
+Corpus uteri,C54,2807,–,2 807
+Melanoma of the skin,C43,834,1440,2 274
+Soft tissues,C48-49,806,991,1 797
+"Skin, squamous cell carcinoma",C44 (Squamous cell),476,645,1 121
+Cervix uteri,C53,1028,–,1 028
+"Larynx, epiglottis",C32,130,769,899
+Thyroid gland,C73,264,366,630
+Meningeoma,–,297,174,471
+Testis,C62,–,164,164
+Other sites,–,10775,11268,22 043

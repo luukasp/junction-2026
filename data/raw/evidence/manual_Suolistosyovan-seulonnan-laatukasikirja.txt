@@ -1,0 +1,1826 @@
+SUOLISTOSYÖVÄN
+  SEULONNAN
+ LAATUKÄSIKIRJA
+
+
+
+
+           Päivitetty 25.5.2026
+SISÄLLYS
+
+ASIANTUNTIJARYHMÄN KOKOONPANO              4    11. NÄYTTEEN ANALYSOINTI
+                                                JA TULOSTEN VASTAAMINEN                       22
+1. TIIVISTELMÄ                             5    11.1   Analysointi                            22
+                                                11.2   Testituloksen ilmoittaminen            22
+2. TERMISTÖ JA LYHENTEET                   6    11.2.1 Positiivinen testitulos                22
+                                                11.2.2 Negatiivinen testitulos                23
+3. JOHDANTO                                7    11.3   Kotikunnan vaihtuminen                 23
+3.1 Muutokset aiempaan julkaisuun          7
+                                                12. JATKOTUTKIMUSTEN TOTEUTTAMINEN 24
+4. TAUSTAA                                 8    12.1   Toteuttamisvastuu                      24
+4.1    Suolistosyövän epidemiologia        8    12.2   Kolonoskopia                           24
+4.2    Suolistosyövän kehittyminen        10    12.3   TT-kolografia                          25
+4.3    Seulonta                           11
+4.3.1 Seulonnan periaatteet               11    13. PATOLOGIA                                 26
+4.3.2 Suolistosyövän seulonta Suomessa    11    13.1   Tyypilliset näytteet ja löydökset      26
+                                                13.2   Lähetetiedot ja näytteen käsittely
+5. LAINSÄÄDÄNTÖ JA OHJAUS                 13           patologian laboratoriossa              26
+5.1    Lainsäädäntö                       13    13.3   Löydökset ja niiden histopatologinen
+5.2    Ohjausryhmä ja asiantuntijaryhmä   13           diagnostiikka ja raportointi           26
+                                                13.4   Vaikea dysplasia                       27
+6. SEULONTAPROTOKOLLA                     14    13.5   Sahalaitamuutokset                     27
+                                                13.6   pT1-adenokarsinooma                    27
+7. SEULONNAN KOHDEVÄESTÖ                  15    13.7   Lausuntotaulukko                       28
+7.1    Seulottavat ikäluokat              15
+7.2    Poikkeuksia väestösuosituksiin     15    14. JATKOHOITO                                29
+                                                14.1   Perusperiaatteet                       29
+8. HYVÄKSYTYT TESTIT                      16    14.2   Levinneisyystutkimukset ja
+                                                       muut tutkimukset                       30
+9. SEULONNAN JÄRJESTÄMINEN                17    14.3   Moniammatillinen käsittely             30
+9.1    Hyvinvointialue                    17    14.4 Leikkaushoito                            30
+9.2    Seulontalaboratorio                17    14.5   Liitännäissolunsalpaajahoito           30
+9.3    Tähytstystoiminnan järjestäminen   19    14.6 Levinneen taudin hoito                   30
+                                                14.7   Hoidon jälkeinen seuranta              30
+10. KUTSUMINEN                            20
+10.1   Kutsuttavien joukon kerääminen     20    15. HENKILÖSTÖ JA KOULUTUS                    32
+10.2 Kutsu                                20    15.1   Seulontahoitajat                       32
+10.3   Esitietolomake                     21    15.2   Endoskopistit                          32
+10.4 Näytteen palautus                    21    15.3   Patologit                              33
+10.5   Muistutuskirje                     21
+10.6 Seulottavan hyvinvointialueen
+       vaihtuminen                        21
+
+
+
+
+2                 SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+16. HAITAT                                  34
+16.1   Seulontaohjelmien yleiset haitat     34
+16.2 Suolistosyövän seulonnan haitat        34
+16.3   Kolonoskopian turvallisuus           34
+
+
+17. SEULONTATIETOJEN REKISTERÖINTI          35
+17.1   Tietojen kerääminen                  35
+17.2   Tietojen toimittaminen rekisteriin   35
+17.3   Laadunvarmistus ja tilastointi       35
+
+
+18. VIESTINTÄ                               37
+18.1   Viestinnän tavoite                   37
+18.2   Viestinnän sisällöt                  37
+18.3   Osallistumisen parantaminen          37
+18.4   Erityisryhmät                        37
+18.5   Tiedotus- ja viestintäkanavat        37
+
+
+19. SUOLISTOSYÖVÄN SEULONNAN
+TULEVAISUUS                                 39
+
+
+20. LÄHDELUETTELO                           40
+
+
+21. LIITTEET                                45
+
+
+
+
+3                 SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+ASIANTUNTIJARYHMÄN KOKOONPANO
+
+PUHEENJOHTAJA
+
+
+Jukka Koffert, dosentti, erikoislääkäri, TYKS
+
+
+JÄSENET
+
+
+Martti Färkkilä, professori emeritus, Helsingin Yliopisto
+
+
+Tero Harjuntausta, erikoislääkäri, Pirkanmaan hyvinvointialue
+
+
+Matti Kairaluoma, dosentti, erikoislääkäri, Pihlajalinna Dextra
+
+
+Tuomas Mäntylä, erikoislääkäri, osastonlääkäri, HUS Diagnostiikkakeskus
+
+
+Aapeli Nevala, FM, kehittämispäällikkö, Suomen Syöpärekisteri
+
+
+Jukka Rintala, dosentti, erikoislääkäri, Pohjois-Pohjanmaan hyvinvointialue
+
+
+Ari Ristimäki, patologian professori, Helsingin yliopisto, ylilääkäri, HUS Diagnostiikkakeskus
+
+
+Tytti Sarkeala, dosentti, seulontajohtaja, Suomen Syöpärekisteri
+
+
+
+
+4                 SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+1. TIIVISTELMÄ                                              ylittävä määrä verta, henkilö kutsutaan suolen tähys-
+Suolistosyöpä eli paksu- ja peräsuolen syöpä on mies-       tykseen eli kolonoskopiaan.
+ten ja naisten toiseksi yleisin syöpätauti Suomessa. Seu-
+lonnan avulla suolistosyöpä pyritään löytämään esiaste-     Suolistosyövän seulonnan järjestäminen on hyvin-
+ja varhaisvaiheessa. Tavoitteena on suolistosyövästä        vointialueen tehtävä. Se voi toteuttaa seulonnan
+aiheutuvien kuolemien vähentäminen. EU suosittaa            omana toimintana, yhdessä muiden hyvinvointialuei-
+ulosteen veritestillä tehtävää suolistosyövän seulontaa,    den kanssa tai ostopalveluna. Seulonnan tulee olla
+jonka on todettu vähentävän seulontaan kutsuttujen          seulonta-asetuksen mukainen ja kattaa seulonta-
+suolistosyöpäkuolleisuutta noin kolmanneksella.             prosessin kaikki vaiheet (Kuva 1). Hyvinvointialue
+                                                            vastaa seulonnan laadukkaasta toteutuksesta kut-
+Ulosteen immunokemiallisella veritestillä toteutet-         susta erikoissairaanhoitoon. Hyvinvointialueen tai
+tava suolistosyövän seulontaohjelma alkoi Suomessa          sen valtuuttaman toteuttajan tulee myös toimittaa
+tammikuussa 2022. Seulonnan kohdeväestö laajenee            seulonnan yksilötason tiedot Suomen Syöpärekis-
+56–74-vuotiaisiin miehiin ja naisiin vuoteen 2031           terin joukkotarkastusrekisteriin.
+mennessä. Seulonta toteutetaan valituille ikäryhmille
+kahden vuoden välein. Seulontatestipaketti lähete-          Tässä käsikirjassa esitellään suolistosyövän
+tään kohdeväestölle postitse kotiin, missä uloste-          seulontaprosessin vaiheet ja ohjeistetaan
+näyte otetaan ja postitetaan sen jälkeen laboratorioon      kansalliset parhaat käytännöt seulonnan laadukasta
+analysoitavaksi. Jos ulosteessa on testin raja-arvon        toteuttamista varten.
+
+
+
+
+    KOHDERYHMÄN       KUTSUMINEN        OSALLISTUMINEN           SEULONTA-          JATKOTUTKIMUS       TARVITTAVAT
+    MÄÄRITTÄMINEN     kutsupaketti ja     näytteenotto ja         VASTAUS            kolonoskopia tai     HOIDOT
+       poiminta        tarvittaessa          palautus        näytteen analysointi     TT-kolografia
+                        muistutus                           ja vastausten lähetys
+
+
+Kuva 1. Seulontaprosessin vaiheet.
+
+
+
+
+5                   SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+2. TERMISTÖ JA LYHENTEET                                Suolistosyöpäpotilaiden elossaoloa kuvataan suhteel-
+Paksu- ja peräsuolen syövästä ja niiden seulonnasta     lisella elossaololuvulla. Suhteellinen elossaolo
+käytetään tässä käsikirjassa valtioneuvoston seu-       tarkoittaa todennäköisyyttä säilyä hengissä olettaen,
+lonta-asetusta mukaillen termejä suolistosyöpä ja       että syöpä on syöpäpotilaan ainoa mahdollinen
+suolistosyövän seulonta. Suolistosyövän hoitoa käsit-   kuolinsyy. Se lasketaan tilastollisesti vertaamalla
+televässä Kansallisessa kolorektaalisyövän hoito-       potilaiden kuolleisuutta samankaltaisen väestön
+suosituksessa käytetään sekä termejä kolorektaali-      kuolleisuuslukuihin.
+syöpä, paksu- ja peräsuolen syöpä että suolistosyöpä.
+Vastaavasti suolistosyöpä, paksu- ja peräsuolensyöpä    LYHENTEITÄ
+sekä kolorektaalisyöpä esiintyvät tässä käsikirjassa    TA       tubulaarinen adenooma
+synonyymeina. Nimenomaisesti paksusuolen                TVA      tubulovillööttinen adenooma
+syövästä puhuttaessa tarkoitetaan suolistosyöpiä,
+                                                        VA       villööttinen adenooma
+jotka eivät ole peräsuolessa. Paksusuolen tähystys-
+                                                        HP       hyperplastinen polyyppi
+tutkimusesta käytetään laatukäsikirjassa nimitystä
+                                                        SSL      sessiili sahalaitaleesio
+kolonoskopia.
+                                                        TSA      traditionaalinen sahalaita-adenooma
+
+
+
+
+6                 SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+3. JOHDANTO                                              taan liittyvä tieteellinen tutkimus on aktiivista, joten
+Suolistosyövän seulonnan laatukäsikirja on tarkoi-       laatukäsikirjaa tullaan säännöllisesti päivittämään
+tettu päätöksenteon ja toiminnan tueksi suolisto-        kertyvän tutkimustiedon pohjalta.
+syövän seulonnan organisoinnista ja käytännön
+toteutuksesta vastaaville tahoille. Käsikirjassa anne-   3.1. MUUTOKSET AIEMPAAN JULKAISUUN
+taan tutkimustietoon ja käytännön kokemukseen
+perustuvia suosituksia toimivan ja kustannus-            Laatukäsikirjan ensimmäinen versio julkaistiin
+vaikuttavan seulontaohjelman toteuttamiseen. Suo-        18.4.2024.
+listosyövän hoitoa käsitellään laajasti vuonna 2022
+laaditussa Kolorektaalisyövän kansallisessa hoitosuo-    25.5.2026 hyväksyttyyn päivitykseen ei tullut merkit-
+situksessa , minkä vuoksi hoito on pääosin rajattu
+          1
+                                                         täviä muutoksia.
+tämän käsikirjan ulkopuolelle. Suolistosyövän seulon-
+
+
+
+
+7                 SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+                                                       4. TAUSTAA                                                                         Suolistosyövän suhteellinen viiden vuoden elossa-
+                                                                                                                                          ololuku oli vuonna 2021 päättyneellä seurannalla
+                                                       4.1 SUOLISTOSYÖVÄN EPIDEMIOLOGIA                                                                        2
+                                                                                                                                          Suomessa 68 % . Elossaololukuun vaikuttavat muun
+                                                       Suolistosyöpä eli paksu- ja peräsuolen syöpä on                                    muassa syövän levinneisyysaste, sukupuoli ja ikä
+                                                       miesten ja naisten toiseksi yleisin syöpätauti.                                    toteamishetkellä. Paikallisissa, ei-levinneissä syövissä
+                                                       Vuonna 2021 Suomessa todettiin noin 3 800 uutta                                    viiden vuoden elossaololuku on yli 90 %. Suomessa
+                                                       suolistosyöpää ja noin 1 400 sen aiheuttamaa                                       vuonna 2021 päättyneessä seurannassa miesten vii-
+                                                       kuolemaa . Taudin ilmaantuvuus on lisääntynyt
+                                                                    2
+                                                                                                                                          den vuoden suhteellinen elossaololuku oli 66 % ja
+                                                       1960-luvulta lähtien. Nykyisin suolistosyöpään                                     naisten 70 %. Suolistosyövän ilmaantuvuus ja kuollei-
+                                                       sairastuu elämänsä aikana arviolta 5,6 % suomalai-                                 suus ovat molemmat vahvasti ikäriippuvaisia (Kuva 2,
+                                                       sista miehistä ja 5,0 % naisista. Valtaosa syövistä tode-                          Kuva 3).
+                                                       taan yli 50-vuotiailla . Suolistosyöpää esiintyy vähem-
+                                                                                    2
+
+
+                                                       män naisilla kuin miehillä – Suomessa
+                                                       miehillä todettiin 2 108 ja naisilla 1 717 suolisto-
+                                                       syöpää vuonna 20212.
+
+
+                                                              ©Suomen Syöpärekisteri (CC-BY 4.0) -cancerregistry.fi
+
+
+
+                                                        400
+
+
+
+
+Ilmaantuvuus (tapauksia 100 000 henkilövuotta kohti)
+                                                        300
+
+
+
+
+                                                        200
+
+
+
+
+                                                        100
+
+
+
+
+                                                          0
+                                                              0–4       5–9   10–14      15–19     20–24      25–29   30–34   35–39   40–44   45–49    50–54   55–59   60–64   65–69   70–74   75–79   80–84   85+
+
+                                                                                                                                        Ikäryhmä (5v.)
+
+
+                                                                                                                                       Miehet         Naiset
+
+                                                       Kuva 2. Suolistosyövän ilmaantuvuus (suolistosyöpiä 100 000 henkilö-
+                                                       vuotta kohti) Suomessa 5-vuotisikäryhmittäin vuosina 2017–2021.
+
+
+
+
+                                                   8                            SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+                                                                            ©Suomen Syöpärekisteri (CC-BY 4.0) -cancerregistry.fi
+
+
+
+
+Kuolleisuus (suolistosyöpäkuolemia 100 000 henkilövuotta kohti)
+                                                                      200
+
+
+
+
+                                                                   100
+
+
+
+
+                                                                       0
+                                                                            0–4     5–9      10–14      15–19     20–24     25–29   30–34   35–39   40–44   45–49    50–54   55–59   60–64   65–69   70–74   75–79   80–84   85+
+
+                                                                                                                                                      Ikäryhmä (5v.)
+
+
+                                                                                                                                                     Miehet         Naiset
+
+
+                                                                  Kuva 3. Suolistosyöpäkuolleisuus (kuolemia 100 000 henkilövuotta kohti)
+                                                                  Suomessa 5-vuotisikäryhmittäin vuosina 2017 – 2021.
+
+
+
+
+                                                                  9                             SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+  4.2 SUOLISTOSYÖVÄN KEHITTYMINEN                                                      Viisivuotisennuste (%)
+                                                                                       suhteellinen elossaolo
+  Suolistosyöpä syntyy yleensä adenooma- tai saha-
+  laitatyyppisistä esiastemuutoksista, jotka johtavat           Levinneisyys           Paksusuoli          Peräsuoli
+  geenimutaatioiden kautta syövän kehittymiseen .      3
+
+                                                                Paikallinen            91                  90
+  Aikuisväestöstä 10–40 %:lla arvioidaan esiintyvän
+  paksusuolisyövän esiastemuutoksia.                            Levinnyt               72                  74
+
+                                                                Etäpesäkkeinen         13                  17
+  Noin kaksi kolmasosaa suolistosyövistä sijaitsee
+  paksusuolen vasemmalla puolella, kolmasosa                    Kaikki yhteensä        63                  68
+
+  peräsuolessa ja niistä noin puolet peräsuolen ala-
+                                                              Taulukko 1. Suolistosyövän levinneisyys ja
+  osassa4 (Kuva 4). Suolistokasvainten tyypeissä ja
+                                                              viisivuotisennuste levinneisyysasteen mukaan
+  sijainnissa on sukupuolten välisiä eroja. Naisilla                                                            7
+                                                              American Cancer Societyn (ACS) aineistossa 2013-18 .
+  on esimerkiksi havaittu suhteessa miehiä enemmän
+  sahalaitatyyppisiä ja oikeanpuoleisen paksusuolen
+  kasvaimia5,6.
+
+
+                                                              Länsimaisen elämäntavan, kuten runsaasti punaista
+                                                              lihaa sisältävän niukkakuituisen ruokavalion, run-
+                                                              saan alkoholinkäytön, tupakoinnin ja ylipainon on
+       3,0                                      2,2           todettu altistavan suolistosyövälle5,6,8. Toisaalta
+                            7,1
+                                                              terveellisten elämäntapojen, kuten runsaan liikun-
+                                                              nan9,10 on havaittu vähentävän riskiä. Myös kalsium-
+                                                              lisä, runsaskuituinen ravinto, D-vitamiinisubstituu-
+                                                              tio ja säännöllinen tulehduskipulääkkeiden käyttö
+   7,9                                            4,9         voivat suojata suolistosyövältä11.
+
+                                                              Tulehdukselliset suolistosairaudet, haavainen paksu-
+                                                              suolen tulehdus ja paksusuolen Crohnin tauti lisää-
+                                                              vät suolistosyövän riskiä12,13. Riski on erityisen suuri
+    12,9                                                      niillä potilailla, joilla tulehduksellinen suolisto-
+                                           21,9               sairaus on kroonisesti aktiivinen, se on todettu
+                                                              nuorella iällä (≤ 16 vuotta), sekä henkilöillä, joilla on
+                  15 cm                                       koko paksusuolen käsittävä tulehdus tai primaari
+                           40,1
+                                                              sklerosoiva kolangiitti (krooninen tulehduksellinen
+                                                              sappitiesairaus). Näiden potilaiden syöpäriskiä tulee
+                                                              seurata seulontaohjelman ulkopuolella12.
+
+
+Kuva 4. Syöpäkasvainten sijainti paksu- ja peräsuolessa (% kaikista).
+
+
+
+
+  10                 SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+4.3 SEULONTA                                               desta suolistosyöpäkuolleisuuden vähentämisessä
+●   Suolistosyöpää voidaan seuloa suoraan                  saatiin vuonna 1975 alkaneessa Minnesota-trialissa,
+    tähystystutkimuksilla tai ulosteen                     jossa jokavuotinen gFOB-testiin perustunut seulonta
+    veritestaukseen perustuvilla testeillä.                vähensi kuolleisuutta 13-vuotisella tarkastelujaksolla
+●   Ulostetestaukseen perustuvassa seulonnassa             33 %19. Immunokemiallisen testin (FIT) on puoles-
+    positiiviset ensivaiheen näytteet varmennetaan         taan tutkimuksissa todettu olevan gFOB-testiä sen-
+    tähystystutkimuksella.                                 sitiivisempi ja vähentävän suolistosyövän ilmaan-
+●   Suomessa seulonta perustuu ulosteen                    tuvuutta 10 % ja kuolleisuutta 27 % pidemmällä
+    veritestaukseen.                                       kahden vuoden seulontavälillä20. Lisäksi gFOB-testin
+                                                           tekeminen vaatii ruokavaliorajoitteita (esim. punai-
+4.3.1 Seulonnan periaatteet                                sen lihan välttäminen) ennen testiä, ihmisverelle
+Syöpäseulonta tarkoittaa syövän esiasteiden tai            spesifi FIT taas ei. Guajakkipohjainen testi tuottaa
+varhaisvaiheiden järjestelmällistä etsimistä väestöstä.    binäärisiä (positiivinen/negatiivinen) tuloksia, jotka
+Tavoitteena on vähentää seulottavan syövän aiheut-         tulkitaan silmämääräisesti näyteliuskaa tarkaste-
+tamia kuolemia.                                            lemalla. FIT-testit tehdään analyysilaitteella, joka
+                                                           ilmoittaa näytteestä mitatun hemoglobiinipitoisuu-
+Suolistosyöpää seulotaan tyypillisimmin ulosteen           den jatkuvalla numeerisella skaalalla. Erikseen sovi-
+veritesteillä ja tähystystutkimuksilla. Seulontaan käy-    tun raja-arvon saavuttavat tai ylittävät pitoisuudet
+tettyjä tähystystutkimuksia ovat sigmoideoskopia ja        tulkitaan testipositiivisiksi. FIT-pohjaisten testien
+kolonoskopia. Ulosteen veritestejä ovat guajakkipoh-       herkkyys ja tarkkuus todeta edennyt adenooma-
+jainen gFOBT (gFOB-testi) ja ulosteen immuno-              polyyppi tai syöpä riippuvat tutkittavan sukupuolesta
+kemiallinen testi (fecal immunochemical test, FIT).        ja käytettävästä positiiviseksi tulkittavasta Hb-pitoi-
+Ulosteen veritesteillä etsitään piilevää verta, ja sen     suustasosta. Raja-arvolla (25 µg/g) testin herkkyys
+perusteella suurimmassa riskissä olevia henkilöitä,        edenneiden adenoomien ja suolistosyövän toteami-
+joihin tähystysresurssit myöhemmin kohdennetaan.           sen suhteen vaihtelee 20–26 % ja tarkkuus 89–93
+Paksusuolen tähystystutkimuksessa nähdään hyvin            % välillä21 Edenneitä adenoomia esiintyy suolistossa
+tyhjentyneessä suolessa tarkasti siellä olevat muutok-     huomattavasti syöpiä enemmän, minkä takia edellä
+set taipuisan letkun kärjessä olevan kameran avulla.       mainitussa luvussa sensitiivisyys adenoomille
+Samalla voidaan ottaa näytepaloja patologille tarkem-      ylikorostuu. Raja-arvolla 20 µg/g sensitiivisyyden
+paan diagnostiikkaan ja tehdä polyyppien poistoja.         syöpäkasvainten toteamiselle on raportoitu ole-
+                                                           van 61–86 %ja edenneille adenoomille 20–31 %
+Sigmoideoskopioiden on satunnaistetussa asetel-            (meta-analyysin 95 % luottamusväli)22. Väärien nega-
+massa osoitettu vähentävän suolistosyöpäkuolleisuutta      tiivisten tuloksien todennäköisyyttä lisäävät mies-
+       14
+43 % . Tapaus-verrokkitutkimuksissa kolonoskopian          sukupuoli, suolistosyöpä suvussa, ylipaino, veren-
+on havaittu vähentävän suolistosyöpäkuolleisuutta          painetauti ja tupakointi23.
+50 – 68 %16,17. Toisaalta hiljattain julkaistussa, Puo-
+lassa, Norjassa ja Ruotsissa toteutetussa, satunnais-      4.3.2 Suolistosyövän seulonta Suomessa
+tetussa kokeessa ei kymmenen vuoden seurannalla            Euroopan Unioni on suositellut jäsenmailleen
+havaittu tilastollisesti merkitsevää eroa suolistosyöpä-   ulosteen veritestiin perustuvaa suolistosyövän seu-
+kuolleisuudessa kontrolliryhmän ja kolonoskopiaseu-        lontaa vuodesta 2003 lähtien24. Tuolloin seulonta
+lontaan kutsutun ryhmän välillä18.                         toteutettiin guajakkipohjaisilla ulosteen veritesteillä
+                                                           (gFOBT). Suomessa käynnistettiin gFOB-testiin
+Ensimmäinen satunnaistettuun asetelmaan perus-             perustuva suolistosyövän seulontaohjelma satunnais-
+tuva tutkimusnäyttö ulosteen veritestien vaikuttavuu-      tetussa tutkimusasetelmassa vuonna 2004.
+
+
+
+11                     SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+Tutkimuksessa mukana olleiden kuntien 60–69-              seulontatestin kynnysarvo säädettiin naisille pienem-
+vuotiaista asukkaista puolet kutsuttiin seulontaan kah-   mäksi kuin miehille28,29. Vuonna 2020 testin kynnys-
+den vuoden välein. Ohjelmaan kutsuttujen suolisto-        arvoja madallettiin edelleen30.
+syöpäkuolleisuus ei kuitenkaan ollut vähentynyt 4,5
+vuoden keskimääräisen seuranta-ajan jälkeen, ja nais-     Vuonna 2021 toteutettiin seulontapilotin tuloksiin
+ten suolistosyöpäkuolleisuudessa havaittiin jopa kas-     ja rekisteriaineistoon perustuva mallinnustutkimus
+vua. Seulontaohjelma tauotettiin vuonna 2016  25,26
+                                                   .      yhdessä Erasmus-yliopiston kanssa31. Tarkoituksena
+                                                          oli määrittää tulevalle kansalliselle ohjelmalle kus-
+Suomessa käynnistettiin suolistosyövän FIT-poh-           tannusvaikuttava ja kustannuksiltaan kohtuullinen
+jainen seulontapilotti yhdeksässä kunnassa vuonna         toteutustapa. Tulosten perusteella kohdeväestöksi
+2019 . Kasvaintyypeissä, kasvainten sijainnissa,
+     27
+                                                          rajautuivat 56–74-vuotiaat. Seulontaväliksi määrittyi
+ulosteen läpikulkuajassa ja veren hemoglobiini-           kaksi vuotta ja testin raja-arvoksi 25 µg Hb/g ulos-
+pitoisuudessa olevien sukupuolierojen vuoksi              tetta molemmille sukupuolille.
+
+
+
+
+12                SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+5. LAINSÄÄDÄNTÖ JA OHJAUS                               huollon palvelujärjestelmälle ja miten seulonta
+                                                        siihen vaikuttaa.
+● Seulonnan järjestämisestä säädetään valtio-
+
+     neuvoston seulonta-asetuksessa.                    5.2 OHJAUSRYHMÄ JA ASIANTUNTIJARYHMÄ
+● Hyvinvointialueet ja Helsingin kaupunki ovat          Kansallisen syöpäkeskuksen (FICAN) osana toi-
+     vastuussa seulontaohjelman järjestämisestä.        miva Kansallinen syöpäseulontojen ohjausryhmä
+● Suolistosyövän seulonta järjestetään seulonta-        ohjeistaa ja seuraa syöpäseulontojen käynnistämistä,
+     asetuksen mukaan 56–74 vuotiaille asteittain       toteutusta ja kehitystä, ja tekee ehdotuksia ja avus-
+     laajentuen. Seulonta toteutetaan valitulle         taa asiantuntemuksellaan sosiaali- ja terveysminis-
+     ikäryhmälle kahden vuoden välein.                  teriötä syöpäseulontoihin liittyvien lakien ja asetus-
+● Seulontojen toteutusta ja kehitystä ohjaa             ten valmistelussa. Ohjausryhmä koostuu kansallisen
+     Kansallisen syöpäkeskuksen osana toimiva           syöpäkeskuksen, viiden alueellisen syöpäkeskuksen
+     kansallinen syöpäseulontojen ohjausryhmä.          sekä Syöpärekisterin asiantuntijajäsenistä ja sosiaali-
+                                                        ja terveysministeriön edustajasta. Ohjausryhmä on
+                                                        nimennyt jokaiselle syöpäseulontaohjelmalle asian-
+5.1 LAINSÄÄDÄNTÖ                                        tuntijaryhmän, jonka tehtävänä on antaa tarkempia
+Terveydenhuoltolain (1326/2010) mukaan hyvinvointi-     ohjeita seulonnan toteuttamisesta.
+alueen on järjestettävä alueellaan valtakunnallisen
+seulontaohjelman mukaiset seulonnat. Syöpäseu-          Asiantuntijaryhmän laatimassa laatukäsikirjassa
+lonnoista on säädetty tarkemmin valtioneuvoston         annetaan hyvinvointialueille tarkempia ohjeita
+seulonnoista antamassa asetuksessa (339/2011 sekä       seulontaohjelman toteuttamisesta. Hyvinvointialueet
+muutokset 908/2011, 752/2021 ja 1243/2022).             vastaavat näiden ohjeiden toimeenpanosta.
+Vuoden 2021 seulonta-asetukseen päivitettiin tam-
+mikuusta 2022 alkava, 56–74-vuotiaille asteittain       Seulontaohjelman valvonnasta vastaavat ensisijaisesti
+laajeneva suolistosyövän seulonta , joka perustuu
+                                    32
+                                                        hyvinvointialueet itse. Vuoden 2026 alusta lähtien
+joka toinen vuosi tehtävään ulosteen veritestaukseen.   Lupa- ja valvontavirasto vastaa muun terveydenhuol-
+Laajeneminen on kuvattu myös vuoden 2021 seu-           lon tavoin myös hyvinvointialueiden järjestämän seu-
+lonta-asetuksen muutoksessa.                            lonnan valvonnasta, kun aluehallintovirastojen tehtä-
+                                                        vät siirrettiin sille.
+Muun kuin valtakunnallisen seulontaohjelman
+mukaisen seulonnan järjestämiseksi (esimerkiksi
+seulonnan ikäryhmiä laajennettaessa) hyvinvointi-
+alueen on ennen seulonnan aloittamista arvioitava,
+millaisia vaatimuksia seulonta asettaa terveyden-
+
+
+
+
+13                  SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+6. SEULONTAPROTOKOLLA                                          säännöllisessä kolonoskopiaseurannassa8 tai henki-
+Seulontalaboratorio lähettää seulontaan kutsuttaville          löitä, joille on tehty paksusuolen poisto eli poistettu
+testipaketin (FIT) ja tarvittaessa muistutuksen kuu-           tähystyksen kohde-elin.
+den viikon kuluttua alkuperäisen testipaketin lähettä-
+misestä. Jos ulosteessa on verta alle määritetyn raja-         Yksi negatiivinen FIT-tulos ei poissulje suolisto-
+arvon (negatiivinen testitulos), henkilö kutsutaan             syövän esiasteita, minkä takia toistuva ulosteen veri-
+seulontaan kahden vuoden kuluttua. Raja-arvon ylit-            testaaminen on tarpeen. Negatiivisten FIT-tulosten
+täneille (positiivisen testituloksen saaneet) tehdään          jälkeen seulontaan kutsutaan uudelleen kahden
+jatkotutkimusarvio, jonka perusteella heille suositel-         vuoden päästä, aina 74 ikävuoteen saakka.
+laan kolonoskopiaa tai korvaavaa tutkimusta (TT-kolo-
+grafia), tai suljetaan seulottava tiettyjen tekijöiden         Seulontaprotokolla on kuvattu myös dokumentissa
+perusteella ulos seulonnan kohdeväestöstä joko                 Suolistosyövän seulontaprotokolla33, (Kuva5) jonka
+määräajaksi tai kokonaan.                                      on laatinut suolistosyövän seulonnan asiantuntija-
+                                                               ryhmä. Protokollan laatijoiden nimet löytyvät doku-
+Seulontakolonoskopiaan ei ohjata henkilöitä, jotka             mentista ja sitä päivitetään tarvittaessa.
+ovat tulehduksellisen suolistosairauden (IBD) takia
+
+
+
+                                                        Poiminta seulontaan
+                                                       ikäryhmän perusteella
+
+                                                              Kutsu
+
+                                  Tarvittaessa 1.muistutus
+
+                                                             FIT-testi
+
+
+
+                       Ei verta (<25 μg/g)                                        Verta (≥25 μg/g)
+
+                Seuraava kutsu 2 vuoden kuluttua                                 Jatkotutkimusarvio
+
+
+                       Ei jatkotutkimusta
+                    lääketieteelisin perustein                                        Kolonoskopia
+
+
+
+
+           Seurannassa suolisto-             IBD                   Ei kolonoskopia-           Seurantaan johtava
+              syövän vuoksi               Kolektomia                   seurantaa                    löydös
+
+
+               Seuraava kutsu               Poisto                 Seuraava kutsu              Seuraava kutsu
+             10 vuoden kuluttua         kohdeväestöstä            6 vuoden kuluttua          10 vuoden kuluttua
+                diagnoosista
+
+
+
+
+Kuva 5. Suolistosyövän seulontaohjelman seulontaprotokolla/-algoritmi.
+
+
+
+
+14                 SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+7. SEULONNAN KOHDEVÄESTÖ                                    7.2 POIKKEUKSIA VÄESTÖSUOSITUKSIIN
+                                                            Laadukas tähystys suojaa suolistosyövältä vähintään
+● Seulonnan kohdeväestö laajenee asteittain 		              kuusi vuotta34,35. Jos jatkotutkimuksissa ei ilmene
+     56–74-vuotiaisiin 2031 mennessä.                       seurantaa vaativia löydöksiä, henkilölle suositellaan
+● Ylimääräisten tutkimusten välttämiseksi ja                seulontaa kuuden vuoden kuluttua. Suolistosyöpä-
+     resurssien säästämiseksi seulonnan kohde-              potilaita seurataan tähystyksillä tyypillisesti viisi
+     väestöön tehdään rajauksia ohjelman edetessä.          vuotta syövän jälkeen. Jos positiivisen testituloksen
+                                                            saaneella henkilöllä on alle 10 vuotta suolistosyöpä-
+                                                            diagnoosista, kolonoskopian sijaan suositellaan
+7.1 SEULOTTAVAT IKÄLUOKAT                                   seulontaa seuraavaksi sinä vuonna, jolloin diagnoosi-
+Vuonna 2022 suolistosyövän seulonta aloitettiin             päivästä tulee kuluneeksi 10 vuotta. Henkilöitä, jotka
+60–68-vuotiaista ja se laajenee ikäryhmittäin niin,         ovat tulehduksellisen suolistosairauden (IBD) takia
+että ohjelma ulottuu koko kohdeväestöön eli kaik-           säännöllisessä kolonoskopiaseurannassa8 tai henki-
+kiin 56–74-vuotiaisiin vuodesta 2031 alkaen. Laaje-         löitä, joille on tehty paksusuolen poisto eli poistettu
+nemisvaiheen aikana noudatetaan matriisin (Liite,           tähystyksen kohde-elin ei ohjata seulontaprotokollan
+Taulukko 7) mukaista suunnitelmaa vuotuisista seu-          mukaan kolonoskopiaan positiivisen testin jälkeen.
+lontaan kutsuttavista ikäluokista. Ikäluokkien valinta
+perustuu Suomen suolistosyöpäilmaantuvuuteen                Näissä tapauksissa positiivisen testituloksen saa-
+kalibroituun kustannusvaikuttavuusmallinnukseen .      31
+                                                            neet henkilöt tulee kuitenkin ohjeistaa hakeutumaan
+Vaikuttavuutta ja kustannusvaikuttavuutta eri ikä-          seurannastaan vastuussa olevaan yksikköön, jossa
+ryhmissä arvioidaan joukkotarkastusrekisteriin seu-         tähystyksen tarve positiivisen testituloksen takia arvi-
+lontaohjelmasta kertyvän tiedon perusteella jatku-          oidaan osana seurannan kokonaisuutta. Jos seuranta-
+vasti. Suomen Syöpärekisteri poimii seulontaan              yksikkö ei ole tiedossa, ohjeistetaan hakeutumaan
+oikeutetut vuosittain Digi- ja väestötietovirastosta        seurantaan ja mahdolliseen tähystykseen terveys-
+(DVV) ikäryhmän perusteella.                                keskuksen kautta (kts. Gastroenterologian yhdistyk-
+                                                            sen suositus IBD-potilaiden seurannasta).
+
+
+
+
+15                 SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+8. HYVÄKSYTYT TESTIT                                        sukupuolille 25 µg Hb/g ulostetta31,39,40. Raja-arvoa
+                                                            päivitetään positiivisten osuuden, kolonoskopian tar-
+● Hyväksyttyjä seulontatestejä on tällä                     peen ja kertyvän tutkimustiedon perusteella. Testaus-
+  hetkellä kolme.                                           menetelmän toimintakyky ja tulostason oikeellisuus
+● Testilistaa päivitetään tarvittaessa uuden                tulee varmistaa laboratorion päivittäisillä toimilla
+  tutkimustiedon perusteella.                               sekä osoittaa laboratorioiden välisillä vertailuilla41.
+
+
+Suomessa suolistosyövän seulontaohjelman primaari-          Näillä kriteereillä seulontakäyttöön on seulontaproto-
+testeinä käytetään seulontaan validoituja ja euroop-        kollassa 56–74-vuotiaille miehille ja naisille validoitu
+palaisissa seulontaohjelmissa usean seulontakierrok-        ao. listan mukaiset FIT-testit:
+sen yli käytössä olleita ulosteen immunokemiallisia
+veritestejä (FIT)36–38.                                     ●   FOB Gold NG, Sentinel CH. SpA, Italia
+                                                            ●   OC-Sensor Diana, Eiken Chemical Co. Ltd, Japani
+Testien tulee olla kvantitatiivisia, jolloin niiden herk-   ●   OC-Sensor Pledia, Eiken Chemical Co. Ltd, Japani
+kyystaso on automatiikalla säädettävissä. Seulonta-
+ohjelman herkkyystaso perustuu tutkimustietoon ja           Asiantuntijaryhmä päivittää listaa tarvittaessa uuden
+sen raja-arvoksi on vuonna 2022 valittu molemmille          tutkimustiedon perusteella.
+
+
+
+
+16                   SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+9. SEULONNAN JÄRJESTÄMINEN                               alan toimijoiden kanssa käynnissä olevia seulonta-
+                                                         ohjelmia ja niissä käytettäviä menetelmiä.
+● Seulonnan järjestämisestä on vastuussa
+
+     hyvinvointialue.                                    Hyvinvointialueen tulee nimetä seulonnan toteu-
+● Hyvinvointialue voi toteuttaa seulontaohjelman         tukseen seulontahoitajia, jotka toimivat yhteys-
+     ulosteen veritestauksen ja jatkotutkimusten         henkilöinä seulottaville ja vastaavat positiivisen
+     järjestämisen joko omana toimintanaan,              testituloksen saaneiden ohjauksesta. Seulonnan
+     yhdessä toisen hyvinvointialueen kanssa tai         järjestämisestä ja hyvinvointialueen roolista on
+     hankkimalla ne ostopalveluna.                       tarkempi kuvaus suolistosyövän seulonnan järjes-
+● Kaikissa vaihtoehdoissa tulee huomioida                tämisoppaassa43.
+     seulonnan erityispiirteet ja laatukriteerit.
+                                                         9.2 SEULONTALABORATORIO
+                                                         Seulontakeskuksena toimii tyypillisesti seulonta-
+9.1 HYVINVOINTIALUE                                      laboratorio, joka vastaa kutsupakettien ja muistutus-
+Vastuu seulontojen järjestämisestä siirtyi vuoden        ten lähettämisestä, näytteiden analysoinnista ja tulos-
+2023 alussa kunnilta 21 hyvinvointialueelle sekä         ten viestimisestä seulontaan osallistujalle. Seulonta-
+Helsingin kaupungille. Lisäksi Ahvenanmaan               laboratorion on oltava akkreditoitu ja sillä tulee olla
+maakunta on vastuussa seulonnan järjestämisestä          soveltuvat tilat, laitteet ja henkilöstö seulontakutsu-
+alueellaan. Seulonta järjestetään hyvinvointialueen      jen ja -vastausten lähettämistä sekä näytteiden analy-
+ennalta päättämän ohjelman mukaisesti ja hyvin-          sointia varten. Seulontamenetelmän sisällyttäminen
+vointialueen on nimettävä kustakin seulontaohjel-        laboratorion akkreditoinnin pätevyysalueeseen on
+masta vastaava henkilö. Hyvinvointialueet voivat         suositeltavaa.
+toteuttaa seulonnan joko omana toimintanaan,
+yhdessä toisten hyvinvointialueiden kanssa tai           Laboratorion henkilöstöön kuuluu suolistosyövän
+ulkoistaa hankkia seulonnan toteuttamisen valitse-       seulonnan testimenetelmän toimintakyvystä vastaava
+maltaan palveluntuottajalta. Tavallisimmin hyvin-        sairaalakemisti ja terveydenhuollon ammattilaisia,
+vointialue tekee sopimuksen seulontalaboratorion         jotka arvioivat näytteiden analysointikelpoisuuden
+kanssa seulonnan primaarivaiheen (kutsut, testit ja      ja analysoivat näytteet. Ammattilaisista osa tulee
+niiden analysointi, vastaukset) toteutuksesta ja         kouluttaa vastuuhenkilöiksi, jotka valvovat mm.
+vastaa itse seulonnan jatkotutkimusten järjestä-         analyysilaitteiston ylläpitoa sekä reagenssien ja kulu-
+misestä ja erikoissairaanhoidosta.                       tustarvikkeiden riittävyyttä. Henkilöstöllä tulee olla
+                                                         tehtäviin soveltuva koulutus, ja heidät tulee pereh-
+Hyvinvointialueen tulee laatia seulontaohjelma,          dyttää tehtäviin.
+joka sisältää asianmukaisen laadunhallinta- ja
+laadunvarmistusmenettelyn42. Hyvinvointialueen           Seulontalaboratorio toimittaa seulontaketjun
+tulee seurata ja arvioida koko seulontaprosessin         yksilötason tiedot (Kuva 1. Seulontaprosessin vai-
+laatua ja seulontatestien luotettavuutta säännölli-      heet. eli kutsut, testit ja niiden tulokset, jatko-
+sesti. Lisäksi hyvin­vointialueen tulee toimittaa seu-   tutkimukset ja niiden tulokset, erikoissairaanhoito ja
+lonnasta Suomen Syöpärekisterin ylläpitämään             sen tulokset Suomen Syöpärekisterin joukko-
+jouk­kotarkastusrekisteriin yksilötason tiedot, joiden   tarkastusrekisteriin32. Tätä varten laboratoriolla
+perusteella seulonnan laatua ja vaikuttavuutta voi-      tulee olla tietojärjestelmä, joka toteuttaa tiedon-
+daan arvioida valtakunnal­lisesti. Terveyden ja hyvin-   keruun ja -toimituksen Suomen Syöpärekisterin
+voinnin laitos on antanut Suomen Syöpärekisterin         määrittämän tietomallin ja parametristön mukai-
+tehtäväksi seurata ja arvioida yhteistyössä muiden       sesti44. Tiedonkulku seulonta-ohjelmassa on esitetty
+
+
+
+17                   SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+   kuvassa (Kuva 6. Tiedonkulku seulontakeskuksen            Seulonnan järjestämisestä ja seulontalaboratorion
+   ja muiden toimijoiden välillä.). Hyvinvointialueiden      (oppaassa seulonnan toteuttaja/seulontakeskus)
+   seulontahoitajat ja muut jatkotutkimusvaiheeseen          roolista on kuvausta myös suolistosyövän seulonnan
+   osallistuvat terveydenhuollon ammattihenkilöt vas-        järjestämisoppaassa43.
+   taavat seulontaketjun tietojen raportoinnista seu-
+   lontalaboratorion tietojärjestelmään.
+
+
+
+
+                                                                             Näytteen
+                                                                            ottaminen
+
+                                                                                                    Esitieto-
+                                                  Muistutus 6
+                                                                                                  lomakkeen
+   Syöpärekisteri                                 viikon päästä
+                                                                                                     täyttö
+                                Kutsuttavat
+                                                                          Verkkolomake
+                                                  Kutsupaketti                                   Paperilomake
+
+                    Kootut
+                  tulostiedot                                                Palautus
+                                                                             postitse
+                                          Seulontakeskus
+                                                                             Näytteen
+                                                                            analysointi
+
+
+Hoito (erikois-                 Raportointi-
+sairaanhoito)                                                Positiivinen               Negatiivinen
+                                järjestelmä
+                                                                tulos                      tulos
+
+
+
+        Patologia                                                                 Seulonta-            Seulontaan
+                                                  Jatkotutkimus-
+                                Kolono-                                            hoitaja             osallistuja
+                                                   kelpoisuuden
+                                skopia*               arviointi
+
+
+                          Tai TT-kolografia*
+
+
+
+
+   Kuva 6. Tiedonkulku seulontakeskuksen ja muiden toimijoiden välillä.
+
+
+
+
+   18                  SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+9.3 TÄHYSTYSTOIMINNAN JÄRJESTÄMINEN                    ●   Potilaan esivalmistelu (tyhjennykset) on asian-
+Suolistosyövän seulontaohjelmasta vastaavan hyvin-         mukaisesti ohjeistettu, ja yksiköllä on mahdolli -
+vointialueen vastuulla on myös laadukkaan paksu-           suus käyttää suonensisäistä esilääkitystä tarvittava
+suolen tähystys- eli kolonoskopiatoiminnanvarmista-        jälkiseuranta huomioiden
+minen ja sen laadun seuraaminen. Toiminta voidaan      ●   Endoskopialöydökset ja tutkimuksen kulku tulee
+toteuttaa hyvinvointialueen oman toiminnan lisäksi         rekisteröidä rakenteelliseen elektroniseen
+ostopalveluna tai näiden yhdistelmänä. Kaikissa            endoskopiaraporttiin
+tapauksissa tulee huolehtia riittävän kapasiteetin     ●   Yksikössä tulee olla mahdollisuus löydösten
+olemassaolosta ja tähystysten laadusta.                    kuva-/videodokumentaatioon
+                                                       ●   Kolonoskopiakomplikaatioiden prospektiivinen,
+Kilpailutuksessa ja järjestämisessä tulee huomioida        systemaattinen seuranta toteutuu
+seulontatähystyksille tyypillinen löydösten suuri      ●   Potilatyytyväisyyden mittaamiseen on käytössä 		
+määrä ja vaativien polypektomioiden tarve. Kolono-         menetelmiä
+skopiat tulee järjestää niin laadukkaasti, että mah-
+dollisimman moni tähystys saadaan suoritettua          Seulontaskopiatoimintaan osallistuvalta lääkäriltä
+kerralla ilman uusintakolonoskopioiden ja/tai mui-     edellytetään:
+den lisätutkimusten tarvetta. Jos kolonoskopioita      ●   Vähintään 3 vuoden kokemus kolonoskopia-
+voidaan ostaa myös palveluseteleillä, on seteli hyvä       toiminnasta valmistumisen jälkeen
+myöntää kolonoskopiayksikön kautta perustervey-        ●   Vuosittainen kolonoskopiamäärä ≥200,
+denhuollon sijaan resurssien tehokkaan käytön              kokemus vähintään 500 kolonoskopiasta
+varmistamiseksi.                                       ●   Kokemus polypektomioista ≥50/v.
+                                                       ●   Pääsy cecumiin >90 %.
+Seulontaskopioita suorittavan yksikön                  ●   Edellytykset antaa hoito- ja seurantaohjeet
+kilpailutuksessa ja valinnassa tulee huomioida             löydösten pohjalta
+mm. seuraavat asiat:                                   ●   Suoritettu seulontaskopistikurssi (tarkemmat
+●   Henkilökunnan koulutustaso on riittävä ja              tiedot kappaleessa Endoskopistit).
+    jatkuvasta koulutuksesta on huolehdittu
+●   Endoskopiayksikkö täyttää laatukriteerit           Kolonoskopian laatuun liittyvät tekijät ja niiden
+    (ASGE – Quality indicators for gastrointestinal    seuranta on kuvattu tarkemmin kappaleessa Jatko-
+    endoscopy units )45
+                                                       tutkimusten toteuttaminen.
+
+
+
+
+19                  SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+10. KUTSUMINEN
+                                                         10.2 KUTSU
+● Kutsuttavat henkilöt poimitaan Digi- ja väestö-
+
+  tietoviraston (DVV) järjestelmästä. Erityisase-        10.2.1 Kutsupaketin sisältö
+  massa oleville henkilöille (esim. turvakiellolliset)   Kutsupaketin tulee sisältää:
+  tulee tarjota mahdollisuus osallistua seulontaan,      ●   Kutsukirje
+  vaikka he eivät ole tässä poiminnassa mukana.          ●   Näytteenottoväline
+● Kutsupaketin tulee sisältää riittävät tiedot           ●   Selkeä kuvallinen näytteenotto-ohje
+  seulonta ohjelmasta. Syöpärekisteri tarjoaa            ●   Palautuskuori, jossa valmiiksi maksettu postimaksu
+  tähän materiaaleja.                                    ●   Esitietolomake, jolla kerätään asiantuntijaryhmän
+● Kutsut suositellaan lähetettävän aikataulussa, 		          määrittämät taustatiedot.
+  jossa testitulokset ehditään analysoida ennen
+  seulontavuotta seuraavan vuoden maaliskuun             10.2.2 Kutsukirjeen kieli
+  loppua.                                                Kutsukirjeen tulee olla kirjallinen ja henkilökohtai-
+                                                         sesti osoitettu seulontaan kutsuttavalle henkilölle.
+                                                         Kutsukirje on joko kaksikielinen tai vastaanottajan
+10.1 KUTSUTTAVIEN JOUKON KERÄÄMINEN                      omalla äidinkielellä, jos äidinkieli on suomi tai
+Seulontaan kutsuttavat syntymävuosikohortit poimi-       ruotsi. Jos hyvinvointialueella on merkittäviä kieli-
+taan seulonta-asetuksen perusteella ajan tasalla         vähemmistöjä, on syytä harkita kutsun kääntämistä
+olevasta väestötietojärjestelmästä (Digi- ja väestö-     myös muille kielille.
+tietovirasto, DVV). Näin varmistetaan, että seu-
+lontaan oikeutetut saavat kutsun seulontaan oikeana      10.2.3 Kutsukirjeen tiedot
+vuonna. Syöpärekisteri toimittaa listan seulontaan       Osallistumispäätöksen tekemiseksi kutsukirjeen
+kutsuttavien henkilötunnuksista hyvinvointialueiden      tulee sisältää tiedot:
+osoittamille seulontatoimijoille. Seulontojen            ●   Seulonnan tarkoituksesta
+järjestämisen sujuvoittamiseksi Suomen                   ●   Seulontatutkimuksen tekemisestä
+Syöpärekisteri tarjoaa kutsupalvelua, johon sisältyy     ●   Sairauden varhaisen toteamisen (syövän tai
+seulontaan kutsuttavien yhteystietojen poiminta              esiasteen) merkityksestä
+väestötietojärjestelmästä.                               ●   Seulonnan hyödyistä ja haitoista
+                                                         ●   Jatkotutkimuksista ja niiden tekemisestä
+Henkilöt, joilla on voimassa oleva turvakielto eivät         sekä merkityksestä
+tule tässä poiminnassa mukaan. Heille tulee tarjota
+mahdollisuus ottaa yhteyttä seulontakeskukseen joko      Lisäksi kirjeessä tulee olla:
+kutsupaketin noutamiseksi tai sellaisen osoitteen        ●   Tieto, miten seulontatestituloksesta tiedotetaan
+antamiseksi, johon kutsupaketti voidaan lähettää.            osallistujaa
+                                                         ●   Tieto, miten nopeasti seulontatestitulos
+Tieto lähetetyistä kutsuista toimitetaan laadun-             toimitetaan (suositus: kuukauden kuluessa)
+varmistamiseksi Suomen Syöpärekisterin joukko-           ●   Yhteystiedot lisätietojen saamiseksi
+tarkastusrekisteriin osana raportointikokonaisuutta.     ●   Maininta osoitelähteestä (DVV:n väestötieto-
+                                                             järjestelmä)
+                                                         Kutsukirjeistä on olemassa Suomen Syöpärekisterin
+                                                         tuottamat ja ylläpitämät pohjat, joita on mahdollista
+                                                         käyttää pohjana tai sellaisenaan kutsukirjeenä.
+                                                         Kutsukirjeistä ja vastauskirjeistä on olemassa kieli-
+
+
+
+20                SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+versiot suomeksi, ruotsiksi, englanniksi, pohjois-             esimerkiksi terveyskeskuksessa tai laboratoriossa
+saameksi ja venäjäksi. Esitietolomakkeesta on ole-             olevaa näytepostilaatikkoa voidaan käyttää näytteiden
+massa suomen, ruotsin ja englannin kielellä tehdyt             toimittamiseen.
+versiot vapaasti käytettävissä. Kaikki materiaalit löy-
+tyvät Suomen Syöpärekisterin ylläpitämältä verkko-             10.5 MUISTUTUSKIRJE
+sivulta osoitteesta: https://syoparekisteri.fi/seulonta/       Jos seulontaan kutsuttu ei ole palauttanut näytettä
+syopaseulontojen-jarjestaminen/                                kuuden viikon kuluessa ensikutsusta, lähetetään
+                                                               hänelle muistutuskirje, kuten protokollassa33 on mää-
+10.3 ESITIETOLOMAKE                                            ritetty. Muistutuksessa on ohjeet uuden näytteen-
+Esitietolomakkeella kerätään tietoa suolistosyövän             ottovälineen tilaamiseen ilman maksua. Malli muis-
+riskiin ja ulosteen immunokemiallisen testauksen               tutuskirjeeksi on saatavissa suomeksi, ruotsiksi ja
+onnistumiseen vaikuttavista tekijöistä. Tunnettuja             englanniksi Syöpärekisterin verkkosivuilta muiden
+suolistosyövän riskitekijöitä ovat tupakointi, syöpähis-       suolistosyövän seulonnan kutsu- ja vastauskirjepoh-
+toria perheessä, alkoholin käyttö ja ylipaino5,6,46
+                                                      . Myös   jien tavoin48. Muistutuskirje voidaan toimittaa myös
+tiettyjen lääkeaineiden käytön yhteydestä ulostenäyt-          sähköisesti käyttämällä suomi.fi-palvelua tai vastaa-
+teiden immunokemiallisen veritestauksen herkkyy-               vaa vahvan tunnistautumisen vaativaa kanavaa, jonka
+teen ja tarkkuuteen on olemassa tutkimusnäyttöä .       47
+                                                               seulottava on ottanut käyttöön.
+
+10.4 NÄYTTEEN PALAUTUS                                         10.6 SEULOTTAVAN HYVINVOINTIALUEEN
+Posti on määrittänyt kriteerit suolistosyövän seu-             VAIHTUMINEN
+lonnan kotona otettavan näytteen palautukselle. Jos            Jos henkilö muuttaa ennen seulontaan osallistumista
+Postin sijaan käytetään muuta kuljetustoimijaa, on             toiselle hyvinvointialueelle, voi hän itse tiedustella
+kyseisen toimijan kanssa sovittava näytteen toimitta-          uuden hyvinvointialueensa seulontakeskuksesta uutta
+miseen liittyvät vaatimukset. Nykyisessä seulonta-             seulontapakettia. Hyvinvointialue, jonka alueelle
+kutsupaketissa on mukana pahvinen kovikekuori,                 henkilö on muuttanut, on velvollinen järjestämään
+joka voi olla esimerkiksi valkoinen. Kuoressa ei               seulonnan riippumatta siitä, onko henkilö asunut
+tarvitse olla tietoa, että se sisältää seulontanäytteen.       hyvinvointialueella kutsun poimintahetkellä. Myös
+Näyteputki pakataan kuoreen muovipussissa, jossa               seulontatestipositiiviset siirtyvät uuden hyvinvointi-
+on imeytystyyny. Seulontaan osallistuva voi jättää             alueensa asiakkaiksi aivan kuten heidän terveys-
+kuoren lähimpään Postin kirjelaatikkoon. Myös                  palvelunsa siirtyvät muutenkin.
+
+
+
+
+21                 SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+11. NÄYTTEEN ANALYSOINTI JA                                   Jokaisen tuloksen tulee olla jäljitettävissä analysoin-
+TULOSTEN VASTAAMINEN                                          nissa käytettyyn reagenssierään sekä kontrollitulok-
+                                                              siin, joilla menetelmän toimintakyky on varmistettu.
+● Näytteet analysoidaan seulontalaboratorioissa               Analysaattori lähettää analysointituloksen yhdessä
+  parhaiden käytäntöjen mukaisesti.                           näytteen tunnistetietojen kanssa laboratorion tieto-
+● Positiivinen testituloksen yhteydessä seulottavalle         järjestelmään. Tuloksen, analysoinnin ajankohdan ja
+  toimitetaan seulontahoitajan yhteystiedot ja                analysoinnissa käytetyn laitteen tulee olla jäljitettä-
+  riittävästi tietoa tuloksen merkityksestä.                  vissä laboratorion tietojärjestelmistä.
+● Negatiivisen testituloksen voi ilmoittaa
+
+  tekstiviestillä.                                            Jos uusintanäytekin joudutaan hylkäämään epä-
+                                                              onnistuneen näytteenoton vuoksi, laboratorion on
+                                                              suositeltavaa informoida ko. kunnan seulonta-
+11.1 ANALYSOINTI                                              hoitajaa, joka voi tällöin ottaa yhteyttä seulottavaan
+Laboratorioon palautuneet seulontanäytteet analysoi-          ja opastaa seulottavaa näytteenotossa.
+daan mahdollisimman pian ja säilyvyysajan puitteissa
+kirjallisesti kuvatun analysointiprosessin mukaisesti.        11.2 TESTITULOKSEN ILMOITTAMINEN
+Analyysilaitteistojen toimintakuntoa tulee seurata ja         11.2.1 Positiivinen testitulos
+pitää yllä laitevalmistajan ohjeiden mukaisilla käyttäjä-     Seulontalaboratorio raportoi positiivisten näytteiden
+ja määräaikaishuolloilla. Tehdyt huoltotoimenpiteet           antajat hyvinvointialueiden nimittämille seulonta-
+ja virheilmoitukset tulee dokumentoida.                       hoitajille. Positiivisen tuloksen saaneille lähetetään
+                                                              kirje kahden viikon viipeellä siitä, kun listaus testi-
+Analyysimenetelmän toimivuus varmistetaan                     positiivisista henkilöistä on toimitettu seulontahoi-
+ainakin kahdella tunnetun pitoisuuden kontrolli-              tajalle. Näin voidaan varmistaa, että seulontahoitaja
+näytteellä ennen seulontanäytteiden analysointia.             saa tiedon kuntansa positiivisen tuloksen saaneista
+Kontrollinäytteiden tulostasojen tulee olla ennalta           riittävän ajoissa.
+asetettujen hyväksymisrajojen sisällä. Suorituskykyä
+tulee seurata myös laboratorioiden välisillä vertai-          Positiivisen testituloksen saaneiden tulee saada ohjeet
+luilla (ulkoinen laadunarviointi, esim. Labquality).          siitä, kuinka hän voi ottaa yhteyttä seulontahoitajaan.
+                                                              Lisäksi kirjeessä on kerrottava seuraavat asiat:
+Seulontanäytteen analysointikelpoisuus tarkistetaan           ●   Mitä positiivinen tulos tarkoittaa, eli uloste-
+kirjallisen ohjeen mukaan, koskien esim. näytteen säi-            näytteestä löytyi piilevää verta
+lyvyyttä. Laboratorioon saapuvien seulontanäytteiden          ●   Positiivinen tulos ei tarkoita syöpää, vaan usein
+tulee olla identifioituja koko laboratorioprosessin ajan.         verenvuoto johtuu muusta syystä
+Puutteellisesti identifioituja näytteitä ei saa analysoida.   ●   Verenvuodon syy on tärkeää tutkia
+                                                              ●   Jatkotutkimuksesta sopimista varten tulee ottaa
+Analysoitavaksi kelpaamattomat näytteet hylätään ja               yhteyttä seulontahoitajaan (suorat yhteystiedot tai
+seulottavalta pyydetään uusi seulontanäyte. Samalla               ohjeet yhteystietojen saamiseksi kirjeessä)
+seulottavalle ilmoitetaan syy, miksi ensimmäistä
+näytettä ei voitu analysoida. Myös valmistajan                Jos positiivisen tuloksen saanut ei ota yhteyttä seu-
+ilmoittaman säilyvyysajan ylittäneet näytteet analy-          lontahoitajaan noin kahden viikon kuluessa, seulonta-
+soidaan: Jos mitattu hemoglobiinipitoisuus ylittää            hoitajan tulee soittaa hänelle.
+seulontarajan, tulos on positiivinen. Jos mitattu
+pitoisuus alittaa seulontarajan, seulottavalta pyyde-
+tään uusi näyte.
+
+
+
+22                   SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+11.2.2 Negatiivinen testitulos                              11.3 KOTIKUNNAN VAIHTUMINEN
+Negatiivinen testitulos voidaan toimittaa kirjeellä         Jos henkilö muuttaa ennen seulontaan osallistumista
+tai tekstiviestillä. Molemmissa tapauksissa negatii-        toiselle hyvinvointialueelle, tehdään seulonnan jatko-
+visesta testituloksesta kertovan viestin tulee sisältää     tutkimukset seulottavan uudella hyvinvointialueella.
+seuraavat tiedot:                                           Näin toimitaan, vaikka potilaan ulostenäyte olisi ana-
+●   Mitä negatiivinen tulos tarkoittaa, eli näytteestä ei   lysoitu vanhalla hyvinvointialueella. Seulontahoitajan
+    löytynyt piilevää verta.                                tulee ohjeistaa seulottua olemaan itse yhteydessä uu-
+●   Oireiden ilmaantuessa on tästä huolimatta otettava      den kotikuntansa seulontahoitajaan/seulontalabora-
+    yhteyttä terveydenhuoltoon.                             torioon asian järjestämiseksi. Seulontakeskukset voi-
+●   Seuraava kutsu tulee joka toinen vuosi 74-vuoti-        vat halutessaan ohjata seulottavan uuden kotikunnan
+    aaksi asti.                                             seulontakeskuksen piiriin saatuaan tiedon henkilön
+                                                            asuinkunnan muutoksesta. Vapaus valita hoitopaikka
+Tekstiviestiä käytettäessä laboratorion tulee varmis-       koskee seulontakolonoskopioita, mutta primaaritestit
+taa suostumus tekstiviestin käyttöön sekä puhelin-          lähetetään kotipaikan mukaiseen osoitteeseen.
+numeron ajantasaisuus ja oikeellisuus kyseisen
+seulontakierroksen aikana. Tekstiviestin ei tule            Henkilön muuttaessa toisen seulontakeskuksen
+tietoturvasyistä sisältää henkilötietoja.                   alueelle positiivisen testin jälkeen, mutta ennen
+                                                            jatkotutkimuksiin osallistumista, hänen seulonta-
+                                                            ketjunsa katkeaa. Tällä hetkellä yksittäisen henkilön
+                                                            seulontatietoja ei voi raportoida samalla seulonta-
+                                                            tunnuksella useammasta kuin yhdestä seulonta-
+                                                            laboratoriosta.
+
+
+
+
+23                   SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+12. JATKOTUTKIMUSTEN                                         tutkimukset suoritetaan laatukriteerien mukaisesti,
+TOTEUTTAMINEN                                                ja kaikki syntyvät tiedot kirjataan ja raportoidaan.
+
+● Seulottava sopii jatkotutkimuksista yhdessä                12.2 KOLONOSKOPIA
+  seulontahoitajan kanssa.                                   Vaikuttavan seulontaohjelman yhtenä edellytyksenä
+● Ensisijainen jatkotutkimus on kolonoskopia,                on laadukas endoskopiatoiminta. Kolonoskopioiden
+  joiden laatua seurataan laatumittareiden avulla            laadukkaasta toteutuksesta on julkaistu useita hoito-
+  sekä valtakunnallisesti että hyvinvointialueella.          suosituksia koskien suolistosyövän seulontaa, suorit-
+● Suositusaika positiivisen testituloksen saamisesta         tavien yksiköiden valmiuksia sekä skopiatoiminnan
+  kolonoskopiaan pääsyyn on yksi kuukausi.                   laadun seurantaa49–51. Julkaistut suositukset laadun-
+                                                             varmennuksesta ovat hyvin yhdensuuntaisia käsit-
+                                                             täen tutkimuksen indikaatiot, potilaan valmistelun,
+12.1 TOTEUTTAMISVASTUU                                       esilääkityksen, tutkimuksen onnistumisen (pääsy
+Jatkotutkimukset voidaan toteuttaa hyvinvointialueen         umpisuoleen), polyyppien (adenoomien) toteamis-
+järjestämänä omana toimintana tai hyvinvointi-               prosentin, poistettujen polyyppien osuuden ja poisto-
+alueen valitseman palveluntuottajan tekeminä. Mah-           tekniikan, komplikaatiot, potilaan kokemuksen
+dollisessa kilpailutustilanteessa hyvinvointialueen on       tähystyksestä ja toimenpiteen jälkeisen seurannan.
+vaadittava ja valvottava, että jatkotutkimusten suorit-
+taja noudattaa laatukriteereitä ja raportoi seulonta-        Taulukoissa 2 ja 3 on esitetty tärkeimmät, European
+ketjun kaikki tiedot Suomen Syöpärekisterin joukko-          Society of Gastrointestinal Endoscopy (ESGE) suosi-
+tarkastusrekisteriin.                                        tuksia mukailevat, laatukriteerit ja niiden tavoite-
+                                                             arvot49. Kolonoskopian laatukriteerien toteutumista
+Seulontatestissä positiivisen tuloksen saanut sopii          seurataan valtakunnallisesti joukkotarkastusrekiste-
+jatkotutkimuksesta seulontahoitajan kanssa. Positii-         riin toimitettavien tietojen perusteella. Joukkotarkas-
+vinen tulos seulonnassa tarkoittaa syöpäepäilyä ja           tusrekisteriin toimitettavat kolonoskopiaindikaattorit
+kiireellistä lähetettä jatkotutkimuksiin. Ensisijainen       ovat koottuna taulukossa 2. Valtakunnallisen seuran-
+jatkotutkimus on kolonoskopia näytepaloineen.                nan lisäksi kriteerien toteutumista tulee seurata
+                                                             osana kolonoskopioita tekevien yksiköiden omaa
+Hyvinvointialueella on vastuu koko seulontaproses-           toimintaa (Taulukko 3).
+sin toteutumisesta ja laadusta. Tähän sisältyy, että
+
+
+ INDIKAATTORI                             MINIMITASO          TAVOITETASO
+ Riittävä suolen valmistelu               90 %                >95 %
+ toimenpiteeseen (%)
+
+ Pääsy cecumiin (%)                       90 %                >97 %
+
+ Ainakin yhden adenooman                  30 %                > 40 %
+ löytyminen kolonoskopiassa (%)
+
+ Poisvetoaika yli 6 minuuttia (%)         90 %                > 95 %
+
+ Perforaatioiden esiintyvyys              <1 %
+
+ Polypektomian jälkeinen                  <1 %
+ verenvuoto
+
+
+Taulukko 2. Kolonoskopian laatukriteerit, joita seurataan valtakunnallisesti joukkotarkastusrekisterin kautta.
+
+
+
+24                 SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+ INDIKAATTORI                                                             MINIMITASO               TAVOITETASO
+ Mukosaaliset, varrelliset polyypit ja kooltaan < 2 cm sessiilit          100 %                    100 %
+ polyypit tulee olla endoskooppisesti poistettu tai endoskooppinen
+ puutteellinen poisto vakuuttavasti dokumentoitu
+
+ Polypektomian seurantakolonoskopian ajankohta                            95 %
+ määritelty histologisten tulosten perusteella
+
+ Polypektomien jälkeisen verenvuodon hoito ei-operatiivisesti             90 %
+
+ Potilaiden kokeman epämukavuuden dokumentointi pisteytettynä                                      100 % dokumentointi
+
+
+Taulukko 3. Muut seurattavat kolonoskopioiden laatumittarit.
+
+
+
+Lisäksi seulontaskopioiden yhtenä laatumittarina                käyttää TT-kolografiaa. Kliinisiä indikaatioita
+käytetään kolonoskopian jälkeisten välisyöpien                  TT-kolografialle käsitellään esim. ESGE:n ja
+(post-colonoscopy colorectal cancer) esiintyvyyttä .     52
+                                                                ESGAR:n (European Society of Gastrointestinal
+Todettujen polyyppien määrä on osoitettu korreloi-              and Abdominal Radiology) suosituksissa53.
+van seulonnan vaikuttavuuden ja välisyöpien esiinty-
+vyyden kanssa52. Välisyöpämääriä seurataan valta-               Nykyaikainen TT-kolografia on herkkyydeltään lähes
+kunnallisesti joukkotarkastus- ja syöpärekisterien              vastaava (96 %) kuin kolonoskopia, mutta ainoas-
+tietoja hyödyntämällä.                                          taan yli 10 mm:n polyyppien havaitsemisessa. Alle
+                                                                10 mm:n kokoisten ja litteiden polyyppien osalta
+12.3 TT-KOLOGRAFIA                                              sen herkkyys on kuitenkin selvästi kolonoskopiaa
+Seulonnan ensisijainen jatkotutkimus on kolono-                 heikompi. TT-kolografiassa ei voida ottaa biopsioita
+skopia, mutta jos tätä ei voida vasta-aiheiden vuoksi           eikä poistaa pieniä polyyppeja, minkä vuoksi se
+tehdä, voidaan toisijaisena korvaavana tutkimuksena             johtaa noin 30 %:ssa tapauksista kolonoskopiaan53,54.
+
+
+
+
+25                  SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+13. PATOLOGIA                                             patologinen mitta poikkeavat merkittävästi toisis-
+                                                          taan, tulee patologin raportoida tämä lausunnossaan.
+● Seulontapatologialla on tiettyjä erityispiirteitä, 		
+
+  jotka esitellään tässä kappaleessa.                     Näytteet saapuvat patologian laboratorioon valmiiksi
+● Näytteiden lausumisen tavoiteaika on viikko             formaliinissa ja ne käsitellään kuten muutkin endo-
+  patologian laboratorioon saapumisesta, ja tähän         skooppiset suolibiopsianäytteet. Yleensä polyypit ja
+  tulisi päästä 90% tapauksista.                          mukosektomiapreparaatit käynnistetään kokonaan.
+● Patologian tietojen kirjaamista myös                    Tarvittaessa resektiomarginaaleja voidaan merkitä
+  taulukkomuotoisena suositellaan.                        (hopea tai tussi) ennen pilkkomista, mutta usein sen
+                                                          arvioimiseksi riittää endoskooppisen poiston yhtey-
+                                                          dessä syntynyt koagulaatioartefakta. Hyvin pienet
+13.1 TYYPILLISET NÄYTTEET JA LÖYDÖKSET                    polyypit (<5 mm) voidaan käynnistää sellaisenaan.
+Seulontakolonoskopian näytteet ovat lähes poikkeuk-       Tätä kookkaampien maksimihalkaisija kirjataan
+setta limakalvobiopsioita tai endoskooppisesti pois-      käyntiinpanossa, ja polyypit joko puolitetaan tai viipa-
+tettuja polyyppejä. Osalle seulottavista tehdään jatko-   loidaan pitkittäissuunnassa, jotta kanta ja resektio-
+toimenpiteenä endoskooppinen limakalvoresektio tai        marginaali ovat määritettävissä. Mukosaresektiolla
+kirurginen suoliresektio. Suolisyöpäresekaatin käsit-     poistetut matalat leesiot pilkotaan yhdensuuntaisin
+tely ja diagnostiikka on käsitelty Kolorektaalisyövän     viilloin (noin 2–3 mm välein) siten, että lyhin reuna-
+kansallisessa hoitosuosituksessa . 1
+                                                          marginaali on mikroskooppisesti mitattavissa. Lei-
+                                                          ketasoja syvennetään tarvittaessa ja valikoiduissa
+Seulontakolonoskopian tavallisimmat löydökset ovat        tapauksissa voidaan käyttää lisävärjäyksiä osoitta-
+tavanomaiset adenoomat tai sahalaitamuutokset, ja         maan esim. suoni-invaasiota. Valtaosassa pienikokoi-
+vähemmistönä muut benignit muutokset ja syöpä-            sista polyypeistä ei voida ottaa kantaa resektiomargi-
+löydökset. Seulonnassa löytyvistä syövistä suurempi       naaliin (orientaatio-ongelma).
+osuus on varhaisvaiheen (pT1) kasvaintauteja verrat-
+tuna oireiden perusteella tutkimuksiin päätyvien          Suositus on, että seulontanäytteitä tutkivan patolo-
+potilaiden syöpätaudeista. Varhaisessa vaiheessa löy-     gian laboratorion on akkreditoitu.
+detyn syövän ennuste on parempi ja osa niistä voi-
+daan hoitaa endoskooppisesti paikallisella poistolla.     13.3 LÖYDÖKSET JA NIIDEN HISTOPATO-
+                                                          LOGINEN DIAGNOSTIIKKA JA RAPORTOINTI
+13.2 LÄHETETIEDOT JA NÄYTTEEN KÄSITTELY                   Brittisuosituksessa55 on esitetty ei-invasiivisten löy-
+PATOLOGIAN LABORATORIOSSA                                 dösten ( n = 816 323) jakauma seulontanäytteissä
+Kolonoskopian lähetetiedoissa tulee olla endoskoop-       seuraavasti:
+pisen löydöksen lyhyt kuvaus (polyyppi vai matala eli     ●   Yli 70 % tavanomaisia adenoomia (TA 57 %,
+sessiili muutos tai esim. syöpäepäily), näytteenotto-         TVA 14 % ja VA 0,70 %).
+paikka ja muutoksen endoskooppinen koko. Kukin            ●   Yli 20 % sahalaitamuutoksia.
+erillinen muutos tulisi lähettää tutkittavaksi omassa     ●   Muut muutokset (alle 10 %) sisältävät mm. inflam-
+näytepurkissaan, poikkeuksena rektumin multippelit            matorisia, Peutz-Jegherin ja juveniilejä polyyppejä
+pienet (korkeintaan 5 mm) hyperplastiset muutokset.           sekä benignejä mesenkymaalisia muutoksia.
+Kansallisesti on sovittu, että polyypin kokona käyte-
+tään endoskooppista läpimittaa. Tämän lisäksi pato-       Em. suosituksen mukaan vähintään 90 % (tavoite
+logian laboratoriossa mitataan polyypin koko              yli 95 %) seulontanäytteistä tulisi vastata viikon
+formaliinifiksaation jälkeen, mieluiten käyntiinpa-       kuluessa siitä, kun ne ovat saapuneet laboratorioon.
+non yhteydessä. Mikäli endoskooppinen mitta ja            Tätä tulisi soveltaa myös Suomen oloissa.
+
+
+
+26                 SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+13.4 VAIKEA DYSPLASIA                                      Usein adenokarsinooman diagnoosin tekemisen
+Dysplasia luokitellaan kaksiportaisella asteikolla lie-    ongelmana on, ettei paksusuolibiopsioissa todeta
+väksi tai vaikeaksi. Vaikean (high-grade) dysplasian       selkeitä submukoottisia rakenteita (hermoja tai suu-
+diagnostiset kriteerit on julkaistu WHO 2019 luoki-        rehkoja suonia). Koska intramukosaalinen invaasio
+tuksessa . Vaikea dysplasia edellyttää pienen suuren-
+            56
+                                                           muodostaa vain harvoin voimakasta desmoplas-
+noksen rakenteellisia muutoksia (mm. tiiviisti pak-        tista stroomareaktiota, submukoottisten rakenteiden
+kautuneita rauhasia tai seulamaisia rakenteita) sekä       puuttuessa voidaan selvien invasiivisten rauhasten ja
+pienen suurennoksen sytologisia muutoksia (tumien          desmoplasian perusteella tehdä kolonoskopian biop-
+voimakas pinoutuminen ja polariteettihäiriö, tuma-         sioista adenokarsinooman diagnoosi. Erotusdiagnos-
+sytoplasmasuhteen muutos, hyperkromasia, promi-            tisesti tulee huomioida pseudoinvaasio, jossa niin
+nentit nukleolit, atyyppisiä mitooseja). Noin viisi        sanottujen paikaltaan siirtyneiden rauhasten histolo-
+prosenttia tavanomaisista adenoomista tulisi sisältää      ginen rakenne ja sytologiset piirteet vastaavat polyypin
+vaikeaa dysplasiaa . Vaikea dysplasia -diagnoosia
+                    55
+                                                           rauhasten histologiaa ja sytologiaa, ovat useimmiten
+ei tule käyttää, jos tällaista morfologiaa on hyvin        lamina proprian ympäröiviä ja niissä voi esiintyä lima-
+niukasti (parissa rauhasrakenteessa), pintaepiteelin       kertymiä sekä hemosideriiniä55,59. Pseudoinvaasio on
+reaktiivisissa muutoksissa tai rusennus/koagulaatio-       yleisintä sigman suurikokoisissa polyypeissä.
+artefaktan alueella.
+                                                           Paikallisresidiivin tai imusolmuke-etäpesäkkeiden
+13.5 SAHALAITAMUUTOKSET                                    todennäköisyyttä pT1-adenokarsinoomissa
+Noin 20 prosenttia benigneistä seulontalöydöksistä         ennustavat:
+sisältää sahalaitamuutoksen . Näistä tavallisimmat
+                              55                           ●   Pohjan resektiomarginaali on < 1 mm (R1)
+ovat HP (18 %), SSL (1,5 %) ja TSA (0,7 %). Vain           ●   Suoni-invaasio (lymfasuoni- tai laskimoinvaasio)
+noin kuusi prosenttia SSL-muutoksista sisältää dys-        ●   Hermoinvaasio
+plasiaa , jota ei gradeerata, koska siihen liittyy suuri
+       55                                                  ●   Tietyt histologiset alatyypit
+malignisoitumisriski dysplasian morfologiasta riip-        ●   High-grade erilaistumisaste
+pumatta. TSA puolestaan on aina dysplastinen muu-          ●   Kasvainsilmuilu (budding)
+tos, ja se graderaataan tavanomaisten adenoomien           ●   Invaasiosyvyys
+tapaan joko lieväksi tai vaikeaksi. TSA:ssa esiinty-
+viä ektooppisiä kryptia ei tule diagnosoida vaikeaksi      Edellä mainittujen riskitekijöiden diagnostiikka on
+dysplasiaksi. Sekapolyypit, luokittelemattomat polyy-      käyty läpi Kolorektaalisyövän kansallisten hoitosuosi-
+pit ja polypoosit on käsitelty viitteissä        .
+                                             55–57
+                                                           tuksen kappaleessa Kolorektaalisyövän histopatologi-
+                                                           nen diagnostiikka1. Huonosti erilaistuneiden (high-
+13.6 PT1-ADENOKARSINOOMA                                   grade) löydösten osalta erotusdiagnostisesti tulee
+Kolorektaalisyöpädiagnoosi edellyttää limakalvon-          huomioida levyepiteelikarsinooma (basaloidi-ala-
+alaista (submukoosaan ulottuvaa muscularis                 tyyppi), neuroendokriiniset tuumorit ja karsinoomat,
+mucosaen läpäisevää) invaasiota          . In situ
+                                   1,56,58
+                                                           melanooma, lymfoomat, mesenkymaaliset neoplasiat
+-karsinooma diagnoosia ei käytetä, koska siitä             ja etäpesäkkeet.
+aiheutuva imusolmukeleviämisen todennäköisyys
+on hyvin vähäinen. Näin varmimmin vältetään se,            Suositus on, että pT1-syöpätapaukset kaksoisluetaan.
+ettei in situ -karsinooman diagnoosi missään tilan-        Lisäksi kaikki epätavalliset löydökset, dysplasian luo-
+teessa sekaannu submukoottista invaasiota edellyttä-       kitusongelmat, syöpäepäilyt ja pseudoinvaasiot on
+vään adenokarsinoomadiagnoosiin. Lamina proprian           hyvä konsultoida. Mikrosatelliitti-instabiliteettiana-
+invaasio tulee kuitenkin mainita lausunnossa.              lyysi suositellaan tehtäväksi kaikista suolistosyöpä-
+                                                           tapauksista1,56,58.
+
+
+
+27                 SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+13.7 LAUSUNTOTAULUKKO                                                    Ei seurantaa edellyttävää löydöstä
+Patologin lausuntoon seulontakolonoskopian näyt-
+                                                                         High-grade dysplasia missä tahansa polyypissa
+teistä liitetään taulukko, josta esimerkki tässä alla
+                                                                         ≥ 10 mm polyyppi*
+(HUS Diagnostiikkakeskus, 10/2022). Taulukkoon
+raksitetaan kukin löydöksiin soveltuva kohta.                            Viisi tai useampi adenooma
+
+                                                                         Traditionaalinen sahalaita-adenooma
+
+                                                                         Sessiili sahalaitaleesio, jossa dysplasia
+
+                                                                         Polypoosi (ei tulehduspolypoosi)
+
+         *Kun potilaalla ≥ 10 mm polyyppi: Polyypin läpimitta            ≥ 20 mm kokoinen polyyppi poistettu paloina
+            pääsääntöisesti endoskopialausunnosta. Koskee
+                                                                         Syöpä tai sen epäily
+            tavanomaisia adenoomia (TA/TVA/VA) ja kaikkia
+           sahalaitamuutoksia. Ei koske inflammatorisia eikä             Katso lausuntoa
+                 reaktiivisia polyyppejä (esim. prolapsi sdr.).
+
+                                                                  Taulukko 4. Patologian lausuntotaulukko.
+
+
+
+
+28                 SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+14. JATKOHOITO                                            sessä todetaan polyyppi, mutta poisto jää puutteelli-
+                                                          seksi, tulee kolonoskopia uusia kolmen kuukauden
+● Jatkohoitotarpeen arvioinnin pohjaksi suositel-         kuluessa. Jos polyyppi on täydellisesti poistettu,
+  laan tässä kappaleessa esiteltävää taulukkoa.           kontrollikolonoskopian ajankohta määrittyy polyyp-
+● Tutkimukset suoritetaan kiireellisinä, jotta myös       pien määrän ja tyypin perusteella (Taulukko 5).
+  hoitoon pääsy tapahtuisi kiireellisenä (30 vuoro-
+  kauden hoitotakuu).                                     Potilaat, joilta tähystystutkimuksessa on löytynyt syö-
+● Suolistosyövän hoidon periaatteet käsitellään           pä tai kookas adenooma, lähetetään jatkohoitoon eri-
+  tarkemmin Kansallisessa kolorektaalisyövän              koissairaanhoitoon moniammatillista arviota varten.
+  hoitosuosituksessa.                                     Jatkohoitopaikan suhteen syövänhoidossa noudatetaan
+                                                          valtioneuvoston keskittämisasetusta61. Nykyisillä hyvin-
+                                                          vointialueilla on oma keskussairaala, joissa yhteis-
+14.1 PERUSPERIAATTEET                                     toiminta-alueen sopimuksista riippuen hoidetaan
+Jatkohoito toteutetaan seulonnan jatkotutkimusten         paksusuolensyöpää. Peräsuolensyövän hoito on kes-
+löydösten perusteella. Jos seulontakolonoskopiassa        kitetty yliopistosairaaloihin tai suurempiin keskussai-
+todetaan merkittävä polyyppilöydös (Taulukko 5).          raaloihin, joissa hoidettavat tapausmäärät ovat riittävät.
+Ei-pahanlaatuisten seulontalöydösten seurantatarve.),
+siirtyy potilas normaaliin tapaan polyyppiseurantaan      Seulontatähystystutkimuksen ohessa suurin osa
+sovitun alueellisen hoidon porrastuksen mukaisesti.       polyypeista on poistettavissa. Osassa polyyppejä
+Polyyppiseurannasta on julkaistu useita kansainväli-      todetaan kuitenkin submukoottinen invaasio eli
+siä hoitosuosituksia, joista on laadittu sairaanhoito-    pT1-adenokarsinooma. Myös näiden potilaiden
+piirikohtaisia suosituksia useimmiten brittisuo-          lähettäminen erikoisairaanhoitoon moniamma-
+situsta tai ESGEä mukaillen. Mikäli tähystyk-
+       60           51
+                                                          tilliseen arvioon on tarpeen.
+
+
+ Löydös                                                   Seurantatarve
+ Ei polyyppeja                                            Palautus seulontaan kuuden vuoden kuluttua
+
+ LGD-adenoomia 1–4 kpl, kaikki alle 10 mm
+
+ HP, jonka koko alle 10 mm
+
+ SSL, jonka koko alle 10 mm
+
+ Rektumin ja sigman HP, kun näiden määrä
+ alle 20 ja koko alle 10 mm
+
+ 10 mm tai kookkaampi adenooma tai sahalaitapolyyppi      Kontrolli kolmen vuoden kuluttua
+
+ 5 tai useampi LGD-adenoomaa
+
+ Yksikin HGD-adenooma
+
+ Yksikin TSA
+
+ Yksikin dysplastinen SSL (SSL-D)
+
+ ≥ 20 mm polyyppi poistettu paloina                       Kontrolli kuuden kuukauden kuluttua
+
+ Polypoosi                                                Kontrolli 1–2 vuoden kuluttua
+
+ Puutteellisesti poistettu polyyppi                       Uusintatähystys kolmen kuukauden kuluttua
+
+
+Taulukko 5. Ei-pahanlaatuisten seulontalöydösten seurantatarve.
+
+
+
+29                   SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+14.2 LEVINNEISYYSTUTKIMUKSET JA MUUT                      Paikallinen peräsuolisyöpä tulee ensivaiheessa luo-
+TUTKIMUKSET                                               kitella taudin ennusteen mukaan: voidaanko kasvain
+Kansallisen hoitosuosituksen mukaan kaikille
+                                        1
+                                                          leikata suoraan vai tarvitaanko preoperatiivista hoitoa
+syöpäpotilaille tulee tehdä kliinisen ja tähystystutki-   pienentämään paikallisuusiutuman riskiä tai kutis-
+muksen lisäksi levinneisyystutkimukset; vartalon          tamaan kasvainta leikkaustuloksen parantamiseksi?
+tietokonetomografia ja peräsuolen kasvaimille lan-        On osoitettu, että sädehoito vähentää paikallisuu-
+tion magneettitutkimus. Näiden tutkimusten suorit-        siutumia noin 50 %, ja että paras hyöty saavutetaan
+tamisesta on tarkemmat ohjeet Kansallisessa hoito-        antamalla sädehoito ennen leikkausta62,63 Kemosäde-
+suosituksessa. Radiologin laatimien lausuntojen           hoidon ja totaalineoadjuvanttihoidon jälkeen ennen
+tulisi olla rakenteellisia . Taudin TNM-levinneisyys-
+                        1
+                                                          leikkausta tehdään lantion MRI-kuvaus hoitovasteen
+aste toteamishetkellä on merkittävä ennusteeseen          arvioimiseksi. Sädehoidon vaihtoehdot on käyty läpi
+vaikuttava tekijä. Myös potilaan seerumin karsino-        Kansallisessa hoitosuosituksessa 1. Erittäin huonon
+embryonaalisen antigeenin (CEA) arvo tulee määrit-        ennusteen tautitilanteissa tulee harkita vartalon TT:tä
+tää ennen hoitoa. Tutkimukset. suoritetaan kiireel-       ennen leikkausta etäpesäkkeiden sulkemiseksi pois.
+lisinä, jotta myös hoitoon pääsy tapahtuisi kiireel-
+lisenä (30 vuorokauden hoitotakuu).                       14.5 LIITÄNNÄISSOLUNSALPAAJAHOITO
+                                                          Radikaalin paksu- ja peräsuolisyövän leikkaushoidon
+14.3 MONIAMMATILLINEN KÄSITTELY                           jälkeen voidaan antaa liitännäissolunsalpaaja-
+Jokainen suolistosyöpätapaus – ja myös pt1-adeno-         hoitoa. Liitännäishoidon tarkoitus on pienentää
+karsinoomat ja kookkaat adenoomat – käsitellään           taudin uusiutumisriskiä. Liitännäissolunsalpaaja-
+moniammatillisesti. Suolistosyövän hoidon suunnit-        hoidon käyttö peräsuolisyövässä on tullut käyttöön
+telu perustuu kliiniseen, radiologiseen ja histopato-     laajalti paksusuolisyövässä saadun tutkimusnäytön
+logiseen arvioon kasvaimesta, taudin levinneisyyden       perusteella. Tutkimusnäyttöä liitännäishoidon hyö-
+määrittämiseen, ja potilaan kuntoon. Monialainen          dystä peräsuolisyöpäpotilailla, jotka eivät ole saaneet
+asiantuntijaryhmä tekee jokaiselle potilaalle riski-      neoadjuvanttihoitoa, on kuitenkin niukasti. Liitän-
+arvion ja yksilöllisen hoitosuunnitelman. Asiantun-       näishoito tulee aloittaa viimeistään kahdeksan viikon
+tijaryhmään kuuluvat suolistosyövän operatiiviseen        kuluessa leikkauksesta.
+hoitoon perehtynyt kolorektaalikirurgi, sädehoitoon
+ja syöpälääkehoitoon perehtynyt onkologi, peräsuo-        Liitännäishoitoja käsitellään tarkemmin Kansalli-
+len MRIn tulkintaan perehtynyt radiologi, gastroen-       sessa hoitosuosituksessa1.
+terologian näytteisiin perehtynyt patologi sekä hoito-
+päätöksen toteutusta koordinoiva hoitaja. Lisäksi         14.6 LEVINNEEN TAUDIN HOITO
+usein tarvitaan geriatrian erikoislääkärin arvio poti-    Levinneen taudin hoito käsitellään Kansallisessa
+laan kuntoisuudesta kestää suunniteltua hoitoa.           hoitosuosituksessa1.
+
+14.4 LEIKKAUSHOITO                                        14.7 HOIDON JÄLKEINEN SEURANTA
+Paikallisen paksusuolisyövän hoidoksi suositellaan        Seurannan tavoitteena on ollut löytää kuratiivisen
+kasvaimen kantavan suolenosan poistoa, joka käsit-        hoidon piirissä olevat taudin uusiutumat. Seuran-
+tää kasvainta suonittavat suoliliepeen imu- ja veritiet   nalla lisätään myös paksusuolisyöpää hoitavien lää-
+imusolmukkeineen. Kirurgiseen hoitoon käytettäviä         käreiden ymmärrystä taudista ja uusimisriskiin mah-
+tekniikoita käsitellään Kansallisessa hoitosuosituk-      dollisesti vaikuttavista tekijöistä ja mahdollistetaan
+sessa .
+     1
+                                                          yksikön hoitotulosten seuranta. Seurannan puitteissa
+                                                          voidaan hoitaa myös sairastettuun tautiin ja sen vaa-
+                                                          timiin hoitoihin liittyviä myöhäisiä haittavaikutuksia.
+
+
+
+30                 SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+Seurantamenetelminä käytetään kliinistä tutkimusta,
+CEA-määritystä, vartalon TT-tutkimusta ja kolorek-
+taaliliitoksen ja jäljellä olevan paksusuolen tähystys-
+tutkimusta. Potilaille, joilla on perinnöllinen alttius
+suolistosyöpään, järjestetään elinikäinen seulonta
+suurentuneen syöpäriskin takia. 75 prosenttia taudin
+uusiutumista todetaan ensimmäisen kahden vuoden
+aikana. Seulontaikäisenä tai nuorempana suolisto-
+syöpädiagnoosin saaneille potilaille suositellaan hoi-
+don jälkeen lähtökohtaisesti viiden vuoden seurantaa.
+
+
+
+
+31                 SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+15. HENKILÖSTÖ JA KOULUTUS                                    15.2 ENDOSKOPISTIT
+                                                              Useissa maissa seulontaskopiatoimintaan osallistu-
+● Seulontahoitajat, endoskopistit ja patologit käyvät         ville endoskopisteille on asetettu selkeät, aiempaan
+     seulonnan kirjaamiseen ja erityispiirteisiin             kokemukseen ja taitoihin liittyvät kriteerit. Lisäksi
+     valmistavat koulutukset.                                 edellytetään osallistumista koulutukseen, jonka
+                                                              tavoitteena on yhtenäistää endoskopiakäytännöt kan-
+                                                              sallisesti. Nämä käytännöt koskevat laatukriteereitä,
+15.1 SEULONTAHOITAJAT                                         polypektomioita sekä löydösten dokumentaatiota,
+Jokaisella hyvinvointialueella tulee olla seulontahoi-        raportointia ja hoito- ja seurantaohjeistuksia. Suo-
+tajia, jotka ovat yhteydessä positiivisen testitulok-         messa on käynnistetty seulontaskopiatoimintaan
+sen saaneisiin henkilöihin. Seulontahoitaja neuvoo ja         osallistuvien erikoislääkäreiden koulutus Hollannin
+ohjaa seulotaan osallistuvia ja on positiivisen testitu-      mallin mukaisesti6.
+loksen saaneen ensimmäinen kontakti. Seulontahoi-
+taja kertoo mitä positiivinen testitulos tarkoittaa, lien-    Suolistosyövän seulonnan asiantuntijaryhmän laati-
+nyttää mahdollista huolta, kertoo jatkotutkimuksesta          mien kriteerien mukaisesti jokainen seulontakolono-
+ja varmistaa, että jatkotutkimuskelpoisuus arvioidaan.        skopioita tekevä endoskopisti käy HUS Vatsakes-
+                                                              kuksen ja Helsingin Yliopiston yhteistyönä järjes-
+Seulontahoitajan tulee voida konsultoida paksusuo-            tämän koulutuksen löydösten dokumentoinnin ja
+len tähystyksiä eli kolonoskopioita tekevää lääkäriä.         endoskopioiden laadun varmistamiseksi. Valintakri-
+                                                              teerit koulutukseen on esitetty taulukossa 6. Lisäksi
+Seulontahoitaja kokoaa ja raportoi tiedot seulonta-           edellytetään valmiuksia antaa hoito- ja seurantaoh-
+prosessista positiivisen testituloksen jälkeen (myös          jeet löydösten pohjalta. Seulontaskopioiden löydökset
+erikoissairaanhoito ja yksityissektori).                      rekisteröidään joukkotarkastusrekisteriin, jonka avulla
+                                                              on mahdollista myös kontrolloida skopiatoiminnan
+Jokainen seulontahoitajana toimiva käy Suomen                 laatua, kuten välisyöpien ilmaantuvuutta52,64. Edelly-
+Syöpärekisterin järjestämän verkkokoulutuksen, joka           tyksenä seulontaskopiatoimintaan osallistumiselle
+antaa valmiudet seulontaan osallistuneiden neuvon-            on koulutuksen suorittaminen. Koulutus toteutetaan
+taan ja ohjaukseen sekä tiedonkeruuseen. Koulutuk-            verkkokoulutuksena. Seulontatoiminnan vaikuttavuu-
+sessa käsitellään suolistosyövän seulontaa yleisesti,         den ja kustannusten kannalta on oleellista, että myös
+seulontaprosessin eri vaiheita, seulontahoitajan roo-         polyyppiseuranta perustuu voimassa oleviin kansain-
+lia seulontaprosessissa sekä tietojen rekisteröimistä.        välisiin hoito- ja seurantasuosituksiin65,66.
+
+
+ Kriteeri                                  Taso
+ Kokemus kolonoskopioista                  > 3 vuotta,
+                                           > 500 tehtyä kolonoskopiaa
+
+ Vuosittainen kolonoskopiamäärä            > 200
+
+ Vuosittain tehtyjä polypektomioita        > 50
+
+ Kolonoskopioiden onnistumisprosentti      > 90
+
+
+Taulukko 6. Seulontaskopiakoulutukseen osallistuvan lääkärin kriteerit.
+
+
+
+
+32                   SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+15.3 PATOLOGIT
+Seulonnan jatkotutkimuksissa otettuja näytteitä itse-
+näisesti analysoivalla terveydenhuollon ammattilai-
+sella tulee olla patologian erikoislääkärin oikeudet ja
+riittävä kokemus suolibiopsioiden diagnostiikasta
+(toiminut vähintään kaksi vuotta erikoislääkärinä ja
+sinä aikana vastannut säännöllisesti kolonoskopia-
+biopsioita). Lisäksi henkilön tulee voida konsultoida
+GI-patologiaan perehtynyttä erikoislääkäriä.
+Patologien tulee käydä suolistosyövän seulonnan
+patologiaa käsittelevä verkkokoulutus sekä osallistua
+kansallisiin alan koulutuksiin.
+
+
+
+
+33                 SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+16. HAITAT                                                  Adenoomalöydökset edellyttävät tihentynyttä seu-
+                                                            rantaa. Vaikka kaikki esiasteet eivät etene syöväksi,
+● Seulontaohjelma on lähtökohtaisesti oireet-               tieto normaalista poikkeavasta seulontatuloksesta
+     tomaan väestöön kohdistuva interventio,                voi aiheuttaa seulottavalle psykologista kuormitusta.
+     josta seuraa myös haittoja.                            Testitulosten ja jatkotutkimusten odottaminen on
+● Haittoja seurataan ja ne pyritään minimoimaan             välttämätön osa seulontaprosessia. Suolistosyövän
+     kappaleessa esitellyillä toimilla.                     seulontaohjelman yhteydessä esiintyvää ahdistusta
+● Ulosteen veritestaus on käytännössä haitatonta.           on tutkimuskirjallisuudessa todettu olevan kuiten-
+     Kolonoskopia jatkotutkimuksena on myös                 kin melko vähän67,68. Haitan minimoimisessa auttaa
+     hyvin turvallinen.                                     jatkotutkimusten riittävä resursointi ja nopea tutki-
+                                                            muksiin pääseminen.
+
+16.1 SEULONTAOHJELMIEN YLEISET HAITAT                       Ylihoidolla tarkoitetaan sellaisten esiasteiden hoi-
+Seulonta kohdistuu oireettomaan väestöön, joten             tamista, jotka eivät olisi edenneet syöväksi saakka
+siitä aiheutuu väistämättä myös haittoja. Suoraan           seulottavan elämän aikana. Suolistosyövän esiasteet
+seulottavaan henkilöön vaikuttavat haitat ovat sekä         ovat oireettomia, joten ne voidaan havaita vain seu-
+fyysisiä että psykologisia. Haitat voivat ilmetä myös       lonnassa tai sattumalta muun suolen tähystystutki-
+yhteiskunnan tasolla, kuten ylidiagnosoinnista              muksen yhteydessä. Suolistosyövän seulonnasta voi
+aiheutuvina ylimääräisinä kustannuksina.                    aiheutua ylihoitoa väärien positiivisten seulontatulos-
+                                                            ten, väärien diagnoosien sekä liian konservatiivisen
+Syöpäseulonnassa ylidiagnostiikka tarkoittaa sitä,          histologisen luokittelun vuoksi.
+että havaitaan syöpä, joka ei olisi aiheuttanut haittaa
+henkilölle tämän elinaikana, vaikka olisi jäänyt diag-      16.3 KOLONOSKOPIAN TURVALLISUUS
+nosoimatta. Myös koskaan syöväksi etenemättömien            Kolonoskopia on varsin turvallinen tutkimus. Kolono-
+esiasteiden löytyminen voidaan luokitella ylidiagnos-       skopioiden määrä ulosteen veritestaukseen perus-
+tiikaksi. Löytöhetkellä tätä luokittelua ei voi tehdä,      tuvassa seulonnassa on lisäksi kolonoskopiaan poh-
+vaan ylidiagnostiikka on väestötasolla arvioitava           jautuvaan seulontaan verrattuna pienempi, mikä
+seulontaohjelman haitta. Seulonnan haitoista, kuten         osaltaan vähentää kolonoskopiasta aiheutuvia hait-
+hyödyistäkin, tulisi myös viestiä seulottavalle henki-      toja seulontaohjelmassa. Tutkimukseen saattaa liit-
+lölle selkeästi jo kutsuvaiheessa.                          tyä sekä ilmatäytön että tähystimen aiheuttamaa
+                                                            venytyskipua, joka on yleensä tutkimuksen aikana
+16.2 SUOLISTOSYÖVÄN SEULONNAN HAITAT                        nopeasti ohimenevää. Tarvittaessa voidaan käyttää
+Suolistosyövän seulonnassa käytettävä ulosteen              esilääkitystä. Mikäli skopian aikana ei tehdä toimenpi-
+veritestaus ei ole invasiivinen toimenpide, eikä            teitä (koepalat tai polyyppien poisto) todetaan komp-
+kotona tehtävään näytteenottoon liity fyysisiä haitta-      likaatioita 109/100 000 skopiaa kohden ja vastaa-
+vaikutuksia.                                                vasti 218/100 000, jos toimenpiteitä on tehty. Vakavia
+                                                            komplikaatioita, kuten vuotoja tai perforaatioita tode-
+Väärät positiiviset seulontatulokset aiheuttavat haittaa    taan selvästi harvemmin: noin 20/100 000 tutkimuk-
+seulottavalle itselleen ja kuluttavat myös terveyden-       sessa, ja 65/100 000 kerrasta jos tutkimuksessa teh-
+huollon resursseja, erityisesti kolonoskopiakapasiteet-     dään toimenpiteitä (esim. polyypin poisto)69.Valtaosa
+tia. Liian tiheällä seulonnalla ja liian matalalla testin   vakavista komplikaatioista liittyy polyyppien pois-
+(FIT) raja-arvolla lisätään väärien positiivisten testi-    toon. Komplikaatiot, erityisesti sydän ja verenkierto-
+tulosten määrää ja osuutta, ja näin ollen myös haittoja.    häiriöt, lisääntyvät tutkittavan iän ja liitännäissairauk-
+                                                            sien myötä70.
+
+
+
+34                   SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+17. SEULONTATIETOJEN                                      Endoskopian suorittava erikoislääkäri raportoi jatko-
+REKISTERÖINTI                                             tutkimuksen tiedot laatukriteerien mukaisesti seu-
+                                                          lontakeskuksen sähköiseen raportointijärjestelmään.
+● Tiedot kaikista seulontaketjun vaiheista kutsun         Jatkotutkimustietoja ovat mm. tiedot toimenpiteestä,
+     lähetyksestä ensimmäiseen hoitotoimenpiteeseen       tähystystutkimuksen löydökset, patologin lausunto
+     kerätään seulontalaboratorion tietojärjestelmään.    sekä hoitojen seurantaohjeet.
+● Seulontalaboratorio lähettää kerätyt tiedot Suomen
+
+     Syöpärekisterin joukkotarkastusrekisteriin määri-    Seulonnan yhteydessä syntyvien potilastietojen rekis-
+     tetyn tietomallin ja parametriston mukaisesti.       terinpitäjänä on hyvinvointialue. Tämä ei muutu,
+● Tiedot kokoaa seulontahoitaja. Kolonoskopia-            vaikka seulontaprosessi olisi hankittu ulkopuoliselta
+     tiedot kirjaa kolonoskopisti.                        palvelujen tuottajalta. Seulontatiedot ovat potilasasia-
+● Seulontaohjelman vaikuttavuutta seurataan               kirjoja ja ne ovat salassa pidettäviä.
+     valtakunnallisesti ja alueittain olennaisten
+     indikaattorien avulla.                               17.2 TIETOJEN TOIMITTAMINEN REKISTERIIN
+                                                          Seulonta-asetuksen 6 c §:n syöpäseulontojen tulosten
+                                                          seurantaa koskeva pykälä velvoittaa seulonnan toteut-
+17.1 TIETOJEN KERÄÄMINEN                                  tajan toimittamaan yksilötason tiedot seulonnan kai-
+Kaikista seulontaprosessin vaiheista kerätään tiedot      kista vaiheista Suomen Syöpärekisterin joukkotarkas-
+seulontalaboratorion tietojärjestelmään, ja ne toimi-     tusrekisteriin. Vaiheita ovat kutsujen lähettäminen,
+tetaan Suomen Syöpärekisterin joukkotarkastusre-          näytteiden otto ja analysointi, palautetiedon anta-
+kisteriin. Tiedonkulku on esitetty kuvassa Kuva 6. Tie-   minen, jatkotutkimuksiin ja erikoissairaanhoitoon
+donkulku seulontakeskuksen ja muiden toimijoiden          ohjaaminen sekä jatkotutkimusten ja erikoissairaan-
+välillä.). Seulontalaboratorioilla tai muulla seulonnan   hoidon toimenpiteiden toteuttaminen.
+järjestäjällä on lakisääteinen oikeus käsitellä kaikkia
+seulontatietoja, myös jatkotutkimus- ja erikoissai-       THL:n hallintopäätöksen (THL/5274/5.03.00/2023)
+raanhoidon tietoja. Vastaavasti jatkotutkimus- ja eri-    mukaisesti hyvinvointialueen tulee edellyttää seulon-
+koissairaanhoidon yksiköillä on lakisääteinen oikeus      talaboratoriota toimittamaan seulontatiedot rekis-
+toimittaa nämä tiedot seulonnan toteuttajalle. Olen-      teröitäväksi joukkotarkastusrekisteriin Suomen Syö-
+naista tiedonkeruussa on myös eri prosessin vaihei-       pärekisterin Tietojen rekisteröinti -sivun ohjeistuksen
+den (esim. kutsuminen, testaus, jatkotutkimukset)         mukaisesti44. Seulontatiedot toimitetaan yksilötasoi-
+yhteyden säilyminen, eli tietojen säilyminen yhtenäi-     sina, ja niihin kuuluvat kutsu-, testi- jatkotutkimus- ja
+sessä seulontaketjussa.                                   erikoissairaanhoidon tiedot. Seulontalaboratorion tie-
+                                                          tojärjestelmän pitää mahdollistaa em. tiedonkeruu. Tie-
+Prosessin kehittäminen ja laatu edellyttävät todet-       dot suositellaan toimitettavaksi säännöllisin väliajoin
+tujen löydöstietojen palautumista erikoissairaan-         mahdollisimman nopeasti niiden luomisesta. Koko
+hoidosta seulontahoitajalle. Sujuvan tiedonkeruun         seulontaketjun (jatkotutkimukset, ensimmäinen hoi-
+varmistamiseksi seulontalaboratorion on tarjottava        totieto) suositellaan olevan toimitettu rekisteriin seu-
+tietojärjestelmä jatkotutkimus- ja hoitotietojen rapor-   lontavuotta seuraavan vuoden elokuun loppuun men-
+tointiin. Seulontahoitaja kokoaa ja raportoi tiedot       nessä. Seulontalaboratoriolla tulee olla tietotekniset
+seulontaprosessista positiivisen testituloksen jälkeen    valmiudet tietojen keräämiseen, tallennukseen ja toi-
+(myös erikoissairaanhoito ja yksityissektori) Syöpä-      mittamiseen.
+rekisterin koulutuksen mukaisesti. Hoitotiedoista
+raportoidaan ensimmäinen hoitotoimenpide.                 17.3 LAADUNVARMISTUS JA TILASTOINTI
+                                                          Hyvinvointialue on vastuussa seulontatoiminnan
+
+
+
+35                   SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+laadunvarmistamisesta. Kolonoskopioita tekevien
+yksiköiden tietojärjestelmissä tulee olla mahdolli-                      1.(pTNM, stage)
+suus tähystysten laadun raportointiin myös takaisin
+yksittäisille tähystystutkimuksia tekeville endoskopis-       Seulonnan indikaattorit raportoidaan maanlaajui-
+teille nopeammin kuin seulontaohjelman valtakun-              sesti ja hyvinvointialueittain koko kohdeväestössä.
+nallisen joukkotarkastusrekisteriin perustuvan rapor-         Lisäksi ne raportoidaan maanlaajuisesti kaksivuotis-
+toinnin puitteissa on mahdollista.                            ikäryhmittäin ja sosioekonomisen aseman, koulutus-
+                                                              asteen ja äidinkielen mukaan jaoteltuina. Indikaat-
+Suomen Syöpärekisterin joukkotarkastusrekisteriin             torilistaa päivitetään ja kehitetään tarvittaessa.
+toimitetuista yksilötason tiedoista tuotetaan vuosit-
+tain seulontatilastot ja -raportit. Julkaistavat tunnus-      Tilastoitavien indikaattoreiden lisäksi seurataan
+luvut eli indikaattorit perustuvat EU-ohjeistukseen    71
+                                                              seulonnan herkkyyttä, positiivista ennustearvoa ja
+ja ovat vastaavia kuin muissa kansallisissa syöpäseu-         tarkkuutta. Ne kuvaavat sitä, kuinka hyvin seulonta-
+lontaohjelmissa. Raportoitavia indikaattoreita suosi-         testi löytää adenoomat ja syövät (herkkyys ja positii-
+tusarvoineen on mm.:                                          vinen ennustearvo) ja tunnistaa terveet (tarkkuus).
+1. Kutsujen peittävyys                                        Vastaavat tunnusluvut voidaan laskea myös kolono-
+  a.Kutsutut/Kohdeväestö (%) ( > 99 %)                        skopialle (seulontaepisodin herkkyys, positiivinen
+2. Osallistumisaktiivisuus                                    ennustearvo ja tarkkuus) ja kaikille seulontaan kut-
+                    a. Osallistuneet/kutsutut (%) ( > 70 %)   suttaville (seulontaohjelman herkkyys ja tarkkuus).
+        i. Ensikutsu
+        ii. Muistutus                                         Suolistosyövän seulonnan vaikuttavuuden arviointi
+        iii. Yhteensä                                         tehdään asetelmassa, jossa seulontaan kutsuttujen
+3. Positiivisten testitulosten osuus seulontaan               ikäkohorttien syöpäilmaantuvuutta ja -kuolleisuutta
+  osallistuneilla                                             verrataan seulontaan kutsumattomien kohortteihin
+  a. Testipositiiviset/osallistuneet (%) (5 %)                vastaaviin tunnuslukuihin. Arvioinnissa otetaan
+4. Jatkotutkimusvaiheen tiedot                                huomioon myös seulontaan vanhemmalla iällä kut-
+  a. Kolonoskopiaan ohjattujen osuus                          suttujen seulontaa edeltävä ajanjakso syöpädiag-
+     testipositiivisista (%) ( > 75 %)                        nooseineen ja -kuolemineen. Arviointia varten seu-
+  b. Viipeet kolonoskopian toteutumisessa                     lontatiedot yhdistetään Suomen Syöpärekisterin
+     positiivisen testituloksen jälkeen                       syöpätietoihin, DVV:n kuolintietoihin sekä Tilasto-
+  c. Kolonoskopian laatuindikaattorit (kuvattu                keskuksen kuolinsyytietoihin.
+     tarkemmin luvussa12.2 Kolonoskopiaa)
+5. Kolonoskopialöydökset                                      Kuolleisuusarvioinnin seurantajakson tulee olla niin
+  a. Kolonoskopiassa löydös/testipositiiviset (%)             pitkä, että seulonnalla aikaansaatava diagnoosin
+        i. normaalilöydös                                     varhennus ehtii vaikuttaa suolistosyövän levinnei-
+        ii. adenooma                                          syysjakaumaan ja syöpäkuolleisuuteen. Tämä
+        iii. edennyt adenooma                                 tarkoittaa vähintään kymmentä seurantavuotta.
+        iv. syöpä
+6. Kirurgiset löydökset
+  a. Kirurgiassa löydös/testipositiiviset
+        i. normaalilöydös
+        ii. adenooma
+        iii. edennyt adenooma
+        iv. syöpä
+
+
+
+
+36                   SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+18. VIESTINTÄ                                                  päivittää materiaaleja (mm. esitteet, kutsukirjeet,
+                                                               vastauskirjeet) vapaasti seulontatoimijoiden käyt-
+● Seulontaohjelman viestinnän tavoite on antaa 		              töön. Niitä on saatavilla eri kielillä48.
+     hyvä käsitys seulonnan tarkoituksesta, hyödyistä,
+     haitoista ja seulontaprosessin kulusta.                   Poikkeavan tuloksen saaneisiin tulee kiinnittää eri-
+● Tärkeä viestintäväline seulottaville on seulonta-            tyistä huomiota tiedottamisessa.
+     kutsupaketti. Viestinnässä tulee huomioida
+     erityisryhmät ja henkilöt, jotka eivät ole                18.3 OSALLISTUMISEN PARANTAMINEN
+     osallistuneet seulontaan.                                 Viestinnällä tulisi pyrkiä tavoittamaan myös sellaiset
+                                                               henkilöt, jotka eivät ole osallistuneet seulontaohjel-
+                                                               maan. Muistutuskutsut ovat olleet avainasemassa
+18.1 VIESTINNÄN TAVOITE                                        osallistumisen parantamisessa kohdunkaulasyövän
+Seulonta vähentää suolistosyövän kuolleisuutta merkit-         seulontaohjelmassa72 ja niitä tulee käyttää myös suo-
+tävästi. Seulonnan hyötyjen on myös arvioitu ylittävän         listosyövän seulonnassa kaikkialla Suomessa. Alu-
+siitä koituvat haitat. Jotta seulonta olisi jatkossakin vai-   eilla, joilla seulontaosallistuminen on keskimääräistä
+kuttavaa, ohjelmasta viestiessä tulee tavoitella mahdol-       matalampaa, voidaan tarpeen mukaan toteuttaa alu-
+lisimman hyvää seulontaosallistumista kohdeväestössä.          eellisia viestintätoimia ja kampanjoita.
+
+
+Viestinnän tulee antaa hyvä käsitys seulonnan                  Viestinnän pitää korostaa seulonnan tarpeellisuutta,
+tarkoituksesta ja seulontaprosessin kulusta. Viestin-          kuitenkin niin, että seulottavan itsemääräämisoikeus
+nän tulee myös lisätä turvallisuudentunnetta seulon-           ja mahdollisuus kieltäytyä testistä eivät vaarannu.
+taketjun eri vaiheissa. Hyvällä viestinnällä ja tiedot-
+tamisella voidaan minimoida mahdollisia seulonnan              18.4 ERITYISRYHMÄT
+aiheuttamia psykologisia haittoja.                             Merkittävä haaste seulontaohjelmasta viestiessä ovat
+                                                               erilaiset tiedon vastaanottajat. Tiedotemateriaalia voi
+Seulontaan liittyvä viestintä on ensisijaisesti hyvin-         olla tarpeen räätälöidä erilaisille vastaanottajille sopi-
+vointialueiden ja Helsingin kaupungin vastuulla.               viksi. Esimerkiksi sosioekonomiset, kielelliset ja kult-
+Hyvinvointialueen tulee huolehtia siitä, että sen asuk-        tuuriset erot tulee ottaa huomioon. Tietoa tulee olla
+kaiden saatavilla on riittävästi tietoa seulonnan tavoit-      saatavilla eri kanavista ja eri kielillä, ja tarvittaessa
+teista ja vaikuttavuudesta, seulontaan mahdollisesti           voidaan tehdä yhteistyötä esimerkiksi etnisten yhtei-
+liittyvistä riskeistä sekä seulonnan järjestämisestä .42
+                                                               söjen kanssa73.
+
+18.2 VIESTINNÄN SISÄLLÖT                                       Myös muiden erityisryhmien, kuten liikunta-, kuulo-
+Hyvää tiedotusta tarvitaan kaikissa seulontaketjun eri         ja näkörajoitteisten sekä kehitysvammaisten, oikeus
+vaiheissa: kotinäytteenottopakettia vastaanotettaessa,         seulontaan on turvattava asiaankuuluvalla ja hyvin saa-
+seulontavastausta lähettäessä ja mahdollisissa jatko-          vutettavalla viestinnällä. Turvakieltohenkilöt eivät saa
+tutkimuksissa. Seulontaan kutsutulla tulee koko ajan           kutsua seulontaan automaattisesti. Hyvinvointialueen
+olla pääsy selkeään ja oikeaan kirjalliseen tietoon.           vastuulla on tiedottaa erityisryhmien oikeudesta osallis-
+                                                               tua ja mahdollistaa näiden osallistuminen seulontaan.
+Saatavilla tulee olla sekä tiivistettyä perustason tietoa,
+että yksityiskohtaisempaa tietoa seulonnan eri vai-            18.5 TIEDOTUS- JA VIESTINTÄKANAVAT
+heista. Seulontakutsujen ja -materiaalien tulee sisäl-         Hyvinvointialueiden tulee tiedottaa kaikista seulonta-
+tää samat tiedot joka puolella maata, jotta alueellinen        ohjelman muutoksista. Tiedotuskanava voi olla esim.
+yhdenvertaisuus toteutuu. Syöpärekisteri tarjoaa ja            lehdistötiedote.
+
+
+
+37                   SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+Henkilön, jolla on poikkeava seulontatulos, tulee          Kattavaa ja ajantasaista tietoa on saatavilla myös
+saada ottaa henkilökohtaisesti yhteyttä seulonta-          internetissä, esimerkiksi seuraavilla sivustoilla:
+hoitajaan. Yhteystiedot tätä varten voi ilmoittaa esi-
+merkiksi seulontatuloksen vastauskirjeessä. Ammat-         Terveyskylän Tutkimukseen tulijan talo:
+tilaisen tulee korostaa, että positiivinen testitulos ei   https://www.terveyskyla.fi/tutkimukseen/eri-tutki-
+tarkoita syöpää tai edes sen esiastetta. Psykologista      muksia/yleisimm%C3%A4t-laboratoriotutkimukset/
+tukea voi saada esimerkiksi Syöpäyhdistyksen               uloste/suolistosy%C3%B6v%C3%A4n-seulonta
+neuvontapalvelusta. Seulonnan kutsukirje ja muut
+yksilölle kohdistuvat viestintäkäytännöt on kuvattu        Syöpäjärjestöt:
+luvussa 10. Kutsuminen.                                    https://www.ilmansyopaa.fi/tarkkaile-kehoasi/suolis-
+                                                           tosyovan-seulonta/
+Seulontahoitajat ovat suorassa kontaktissa seulot-
+tavien kanssa, joten heitä olisi hyvä kouluttaa myös       Kolorektaalisyövän kansallinen hoitosuositus:
+viestinnällisesti. Seulontahoitajat voivat vastata seu-    https://www.terveysportti.fi/apps/dtk/ltk/article/
+lottavien kysymyksiin tai kertoa, mistä lisätietoa on      hsu00007
+saatavilla. Näin saadaan lisättyä luottamusta seulonta-
+ohjelmaan.
+
+
+
+
+38                 SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+19. SUOLISTOSYÖVÄN SEULONNAN                               tutkimuksen kohteena niin Suomessa kuin kansain-
+TULEVAISUUS                                                välisesti. Tällä hetkellä tutkimusrintamalla kiinnosta-
+Suolistosyövän seulontaohjelma laajeni Suomessa            via aiheita ovat erityisesti seulontojen kohdentami-
+valtakunnalliseksi vuonna 2022. Uuden seulonta-            nen taustariskin perusteella huomioiden esimerkiksi
+ohjelman lähivuosien selkeimpiä tavoitteita on             seulottujen aiemmat testitulokset. Seulontahistorian
+ohjelman toiminnan vakiinnuttaminen laatukäsi-             avulla optimoimalla seulontaa voitaisiin tulevaisuu-
+kirjan ohjeistusten mukaiseksi. Ensimmäiset seu-           dessa kohdentaa paremmin niille, jotka sitä enem-
+ranta-aineistot ja raportit valtakunnallisesta ohjel-      män tarvitsevat, ja toisaalta vähentää seulonnan
+masta saadaan vuonna 2024. Tämän jälkeen voidaan           määrää siinä osassa väestöä, joka ei seulonnasta
+analysoida osa-alueita, joilta löytyy erityisesti paran-   samassa määrin hyötyisi. Riskiperusteinen seulonta
+nettavaa.                                                  on toistaiseksi vielä tutkimusasteella. Konkreettinen
+                                                           kansallisen tason implementointi vaatii paitsi
+Seulontaohjelma laajenee täyteen seulonta-asetuksen        tutkimusnäyttöä, myös kansallista pilotointia.
+mukaisiin ikäryhmiinsä (56–74) vuoteen 2031 men-
+nessä. Seulottavan väestön kasvaessa lähivuosien           Uusien seulontatestien kehitystä seurataan jatkuvasti
+haaste tuleekin olemaan riittävän kolonoskopia-            ja seulontaohjelmaan hyväksyttäviä testimenetelmiä
+resurssin olemassaolon varmistaminen.                      päivitetään tarvittaessa.
+
+
+Suolistosyövän seulonta on jatkuvasti aktiivisen
+
+
+
+
+39                 SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+20. LÄHDELUETTELO                                        10. Aleksandrova K, Pischon T, Jenab M, et al. Com-
+1. Hyöty M, Lepistö A, Nurmi H, Ristimäki A, Rista-      bined impact of healthy lifestyle factors on colore-
+mäki R, Savolainen R. Kolorektaalisyövän kansalli-       ctal cancer: a large European cohort study. BMC
+nen hoitosuositus. In: Terveysportti. ; 2022. https://   Med. 2014;12:168. doi:10.1186/s12916-014-0168-4
+www.terveysportti.fi/apps/ltk/article/hsu00007
+                                                         11. Murphy N, Norat T, Ferrari P, et al. Dietary
+2. Suomen Syöpärekisteri, syöpätilastosovellus.          fibre intake and risks of cancers of the colon and
+Published online July 4, 2022. https://tilastot.syopa-   rectum in the European prospective investiga-
+rekisteri.fi/syovat                                      tion into cancer and nutrition (EPIC). PloS One.
+                                                         2012;7(6):e39361. doi:10.1371/journal.pone.0039361
+3. Sinicrope FA. Increasing Incidence of Early-Onset
+Colorectal Cancer. N Engl J Med. 2022;386(16):1547-      12. Gordon H, Biancone L, Fiorino G, et al. ECCO
+1558. doi:10.1056/NEJMra2200869                          Guidelines on Inflammatory Bowel Disease and
+                                                         Malignancies. J Crohns Colitis. Published online
+4. Lepistö A. Gastroenterologia ja Hepatologia,          December 18, 2022:jjac187. doi:10.1093/ecco-jcc/
+Kasvaimet. In: Gastroenterologia Ja Hepatologia.;        jjac187
+2018:585.
+                                                         13. Yalchin M, Baker AM, Graham TA, Hart A.
+5. Wei EK, Giovannucci E, Wu K, et al. Comparison        Predicting Colorectal Cancer Occurrence in IBD.
+of risk factors for colon and rectal cancer. Int J       Cancers. 2021;13(12):2908. doi:10.3390/can-
+Cancer. 2004;108(3):433-442. doi:10.1002/ijc.11540       cers13122908
+
+6. World Cancer Research Fund/American Institute         14. Atkin WS, Edwards R, Kralj-Hans I, et al.
+for Cancer Research. Colorectal Cancer 2011 Report.      Once-only flexible sigmoidoscopy screening in
+Food, Nutrition, Physical Activity, and the Prevention   prevention of colorectal cancer: a multicentre
+of Colorectal Cancer.; 2011.                             randomised controlled trial. Lancet Lond Engl.
+                                                         2010;375(9726):1624-1633. doi:10.1016/S0140-
+7. American Cancer Society. Survival Rates for           6736(10)60551-X
+Colorectal Cancer. Published online 2023. Accessed
+March 17, 2023. https://www.cancer.org/cancer/           15. Ran T, Cheng CY, Misselwitz B, Brenner H,
+colon-rectal-cancer/detection-diagnosis-staging/         Ubels J, Schlander M. Cost-Effectiveness of Colo-
+survival-rates.html                                      rectal Cancer Screening Strategies-A Systematic
+                                                         Review. Clin Gastroenterol Hepatol Off Clin Pract J
+8. van de Velde CJH, Boelens PG, Borras JM, et al.       Am Gastroenterol Assoc. 2019;17(10):1969-1981.e15.
+EURECCA colorectal: multidisciplinary manage-            doi:10.1016/j.cgh.2019.01.014
+ment: European consensus conference colon &
+rectum. Eur J Cancer Oxf Engl 1990. 2014;50(1):1.        16. Stock D, Paszat LF, Rabeneck L. Colorectal
+e1-1.e34. doi:10.1016/j.ejca.2013.06.048                 cancer mortality reduction is associated with
+                                                         having at least 1 colonoscopy within the previous
+9. Kirkegaard H, Johnsen NF, Christensen J, Frederik-    10 years among a population-wide cohort of
+sen K, Overvad K, Tjønneland A. Association of           screening age. Gastrointest Endosc. 2016;84(1):133-
+adherence to lifestyle recommendations and risk of       141. doi:10.1016/j.gie.2015.12.035
+colorectal cancer: a prospective Danish cohort study.
+BMJ. 2010;341:c5504. doi:10.1136/bmj.c5504
+
+
+
+40                SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+17. Brenner H, Stock C, Hoffmeister M. Effect of       Systematic Review and Meta-Analysis. Am J
+screening sigmoidoscopy and screening colo-            Gastroenterol. 2018;113(12):1778-1787. doi:10.1038/
+noscopy on colorectal cancer incidence and morta-      s41395-018-0212-7
+lity: systematic review and meta-analysis of rando-
+mised controlled trials and observational studies.     24. European Union. Council recommendation
+BMJ. 2014;348(apr09 1):g2467-g2467. doi:10.1136/       of 2 December 2003 on cancer screening.
+bmj.g2467                                              Published online December 16, 2003. https://
+                                                       eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=
+18. Bretthauer M, Løberg M, Wieszczy P, et al.         OJ:L:2003:327:0034:0038:EN:PDF
+Effect of Colonoscopy Screening on Risks of
+Colorectal Cancer and Related Death. N Engl J          25.Pitkäniemi J, Seppä K, Hakama M, et al.
+Med. 2022;387(17):1547-1556. doi:10.1056/NEJ-          Effectiveness of screening for colorectal cancer with
+Moa2208375                                             a faecal occult-blood test, in Finland. BMJ Open
+                                                       Gastroenterol. 2015;2(1):e000034. doi:10.1136/
+19. Mandel JS, Bond JH, Church TR, et al. Reducing     bmjgast-2015-000034
+mortality from colorectal cancer by screening for
+fecal occult blood. Minnesota Colon Cancer             26. Heinävaara S. Kolorektaalisyövän seulonta
+Control Study. N Engl J Med. 1993;328(19):1365-1371.   uudistuu. Duodecim. 2019;135(19):1920–1927.
+doi:10.1056/NEJM199305133281901
+                                                       27. Sarkeala T, Färkkilä M, Anttila A, et al.
+20. Giorgi Rossi P, Vicentini M, Sacchettini C, et     Piloting gender-oriented colorectal cancer
+al. Impact of Screening Program on Incidence of        screening with a faecal immunochemical test:
+Colorectal Cancer: A Cohort Study in Italy. Am J       population-based registry study from Finland.
+Gastroenterol. 2015;110(9):1359-1366. doi:10.1038/     BMJ Open. 2021;11(2):e046667. doi:10.1136/
+ajg.2015.240                                           bmjopen-2020-046667
+
+21. Ribbing Wilén H, Blom J, Höijer J, Andersson G,    28. Massat NJ, Moss SM, Halloran SP, Duffy SW.
+Löwbeer C, Hultcrantz R. Fecal immunochemical          Screening and primary prevention of colorectal
+test in cancer screening - colonoscopy outcome         cancer: a review of sex-specific and site-speci-
+in FIT positives and negatives. Scand J Gastroen-      fic differences. J Med Screen. 2013;20(3):125-148.
+terol. 2019;54(3):303-310. doi:10.1080/                doi:10.1177/0969141313501292
+00365521.2019.1585569
+                                                       29. Sadik R, Abrahamsson H, Stotzer PO. Gender
+22. Imperiale TF, Gruber RN, Stump TE, Emmett          differences in gut transit shown with a newly deve-
+TW, Monahan PO. Performance Characteristics            loped radiological procedure. Scand J Gastroenterol.
+of Fecal Immunochemical Tests for Colorectal           2003;38(1):36-42. doi:10.1080/00365520310000410
+Cancer and Advanced Adenomatous Polyps:
+A Systematic Review and Meta-analysis. Ann Intern      30. Kuoppa A, Sarkeala T, Leivonen A, Heinävaara
+Med. 2019;170(5):319-329. doi:10.7326/M18-2390         S. Kolorektaalisyövän seulontapilotti – miten
+                                                       kaksi ensimmäistä vuotta sujuivat?
+23. de Klerk CM, Vendrig LM, Bossuyt PM,               2022;138(19):1677-1684.
+Dekker E. Participant-Related Risk Factors for
+False-Positive and False-Negative Fecal Immuno-        31. Heinävaara S, Gini A, Sarkeala T, Anttila A,
+chemical Tests in Colorectal Cancer Screening:         de Koning H, Lansdorp-Vogelaar I. Optimizing
+
+
+
+41               SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+screening with faecal immunochemical test for            tive Results From First-Round Fecal Immunochemi-
+both sexes – Cost-effectiveness analysis from            cal Screening Tests, by Cutoff Value and Participant
+Finland. Prev Med. 2022;157:106990. doi:10.1016/j.       Sex and Age. Clin Gastroenterol Hepatol Off Clin
+ypmed.2022.106990                                        Pract J Am Gastroenterol Assoc. 2020;18(7):1493-
+                                                         1500. doi:10.1016/j.cgh.2019.08.021
+32. Valtioneuvoston asetus seulonnoista annetun
+valtioneuvoston asetuksen 2 §:n muuttamisesta            39. Grobbee EJ, van der Vlugt M, van Vuuren AJ,
+752/2021. www.finlex.fi                                  et al. A randomised comparison of two faecal
+                                                         immunochemical tests in population-based colo-
+33.Suomen Syöpärekisteri. Suolistosyövän                 rectal cancer screening. Gut. 2017;66(11):1975-1982.
+seulontaprotokolla. Published online 2023.               doi:10.1136/gutjnl-2016-311819
+https://syoparekisteri.fi/assets/files/2023/03/
+Suolistosyovan-seulontaprotokolla-ja-seulon-             40. de Klerk CM, Wieten E, Lansdorp-Vogelaar I,
+nassa-kaytettavat-testit.pdf                             Bossuyt PM, Spaander MC, Dekker E. Performance
+                                                         of two faecal immunochemical tests for the dete-
+34. Rex DK, Ponugoti PL, Johnson CS, Kittner L,          ction of advanced neoplasia at different positivity
+Yanda RJ. Neoplasia at 10-year follow-up screening       thresholds: a cross-sectional study of the Dutch
+colonoscopy in a private U.S. practice: comparison       national colorectal cancer screening programme.
+of yield to first-time examinations. Gastro-intest       Lancet Gastroenterol Hepatol. 2019;4(2):111-118.
+Endosc. 2018;87(1):254-259. doi:10.1016/j.               doi:10.1016/S2468-1253(18)30319-4
+gie.2017.04.035
+                                                         41. Gies A, Cuk K, Schrotz-King P, Brenner H.
+35. Samadder JN, Pappas L, Boucherr KM, et al.           Direct comparison of ten quantitative fecal immu-
+Long-Term Colorectal Cancer Incidence After              nochemical tests for hemoglobin stability in colo-
+Negative Colonoscopy in the State of Utah: The           rectal cancer screening. Clin Transl Gastroenterol.
+Effect of Family History. Am J Gastroenterol.            2018;9(7):168. doi:10.1038/s41424-018-0035-2
+2017;112(9):1439-1447. doi:10.1038/ajg.2017.193
+                                                         42. Valtioneuvoston asetus seulonnoista 339/2011.
+36.Crotta S, Segnan N, Paganin S, Dagnes B,              www.finlex.fi
+Rosset R, Senore C. High rate of advanced ade-
+noma detection in 4 rounds of colorectal cancer          43. Suomen Syöpärekisteri. Opas suolistosyövän
+screening with the fecal immunochemical test.            seulonnan järjestämiseksi. Published online 2023.
+Clin Gastroenterol Hepatol Off Clin Pract J Am           https://syoparekisteri.fi/assets/files/2023/03/
+Gastroenterol Assoc. 2012;10(6):633-638.                 Opas-suolistosyovan-seulonnan-jarjestami-
+doi:10.1016/j.cgh.2012.02.030                            seksi_2023.pdf
+
+37. Portillo I, Arana-Arri E, Idigoras I, et al. Colo-   44. Suomen Syöpärekisteri. Seulontatietojen
+rectal and interval cancers of the Colorectal Cancer     ilmoittaminen, tietomäärittelyt. Accessed March
+Screening Program in the Basque Country (Spain).         24, 2023. https://syoparekisteri.fi/seulonta/
+World J Gastroenterol. 2017;23(15):2731-2742.            seulontatietojen-ilmoittaminen/
+doi:10.3748/wjg.v23.i15.2731
+                                                         45. ASGE Endoscopy Unit Quality Indicator Task-
+38. Toes-Zoutendijk E, Kooyker AI, Dekker E, et al.      force, Day LW, Cohen J, et al. Quality indicators
+Incidence of Interval Colorectal Cancer After Nega-      for gastrointestinal endoscopy units. VideoGIE Off
+
+
+
+42                SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+Video J Am Soc Gastrointest Endosc. 2017;2(6):119-        European Society of Gastrointestinal Endoscopy
+140. doi:10.1016/j.vgie.2017.02.007                       (ESGE) and European Society of Gastrointestinal
+                                                          and Abdominal Radiology (ESGAR) Guideline.
+46. Pitkäniemi J, Heikkinen S, Seppä K, et al.            Eur Radiol. 2015;25(2):331-345. doi:10.1007/s00330-
+Pooling of Finnish population-based health studies:       014-3435-z
+lifestyle risk factors of colorectal and lung cancer.
+Acta Oncol. Published online July 2020:1-5. doi:10.1      54. Tudyka V, Blomqvist L, Beets-Tan RGH, et al.
+080/0284186X.2020.1789214                                 EURECCA consensus conference highlights about
+                                                          colon & rectal cancer multidisciplinary mana-
+47. Randel KR, Botteri E, Romstad KMK, et al.             gement: the radiology experts review. Eur J Surg
+Effects of Oral Anticoagulants and Aspirin on             Oncol J Eur Soc Surg Oncol Br Assoc Surg Oncol.
+Performance of Fecal Immunochemical Tests                 2014;40(4):469-475. doi:10.1016/j.ejso.2013.10.029
+in Colorectal Cancer Screening. Gastroentero-
+logy. 2019;156(6):1642-1649.e1. doi:10.1053/j.            55. Bowel cancer screening: pathology guidance on
+gastro.2019.01.040                                        reporting lesions. Published online May 31, 2021.
+                                                          Accessed March 14, 2023. https://www.gov.uk/
+48. Suomen Syöpärekisteri. Suolistosyövän                 government/publications/bowel-cancer-
+seulontamateriaalit. https://img3.materialbank.net/       screening-reporting-lesions/bowel-cancer-
+NiboWEB/syopajarjestot/showCartPublicContent.             screening-guidance-on-reporting-lesions
+do?uuid=4743701&random=698158&lang=fi
+                                                          56. Nagtegaal ID, Odze RD, Klimstra D, et al. The
+49. Rex DK, Schoenfeld PS, Cohen J, et al. Quality        2019 WHO classification of tumours of the diges-
+indicators for colonoscopy. Gastrointest Endosc.          tive system. Histopathology. 2020;76(2):182-188.
+2015;81(1):31-53. doi:10.1016/j.gie.2014.07.058           doi:10.1111/his.13975
+
+50. Rees CJ, Thomas Gibson S, Rutter MD, et al. UK        57. Mäkinen M, Koskela R. Paksusuolen adenoo-
+key performance indicators and quality assurance          mien ja sahalaitamuutosten histologia ja kontrolli-
+standards for colonoscopy. Gut. 2016;65(12):1923-         tähystysten tarve. Lääkärilehti. 2020;7(75):485-491.
+1929. doi:10.1136/gutjnl-2016-312044
+                                                          58. Brierley JD, Gospodarowicz M, Wittekind C, eds.
+51. Kaminski MF, Thomas-Gibson S, Bugajski M,             TNM Classification Of Malignant Tumours. 8th ed.
+et al. Performance measures for lower gastro-             Wiley-Blackwell; 2016.
+intestinal endoscopy: a European Society of
+Gastrointestinal Endoscopy (ESGE) Quality                 59. Griggs RKL, Novelli MR, Sanders DSA, et al.
+Improvement Initiative. Endoscopy. 2017;49(4):            Challenging diagnostic issues in adenomatous
+378-397. doi:10.1055/s-0043-103411                        polyps with epithelial misplacement in bowel
+                                                          cancer screening: 5 years’ experience of the Bowel
+52. Kaminski MF, Regula J, Kraszewska E, et al.           Cancer Screening Programme Expert Board. Histo-
+Quality indicators for colonoscopy and the risk of        pathology. 2017;70(3):466-472. doi:10.1111/his.13092
+interval cancer. N Engl J Med. 2010;362(19):1795-
+1803. doi:10.1056/NEJMoa0907667                           60. Rutter MD, East J, Rees CJ, et al. British Society
+                                                          of Gastroenterology/Association of Coloproctology
+53. Spada C, Stoker J, Alarcon O, et al. Clinical indi-   of Great Britain and Ireland/Public Health England
+cations for computed tomographic colonography:            post-polypectomy and post-colorectal cancer
+
+
+
+43                SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+resection surveillance guidelines. Gut. 2020;69(2):     BMJ Open. 2018;8(12):e025109. doi:10.1136/
+201-223. doi:10.1136/gutjnl-2019-319858                 bmjopen-2018-025109
+
+61. Valtioneuvoston asetus erikoissairaanhoidon         68. Kirkøen B, Berstad P, Botteri E, et al. Psycho-
+työnjaosta ja eräiden tehtävien keskittämisestä.        logical effects of colorectal cancer screening:
+https://www.finlex.fi/fi/laki/alkup/2017/20170582       Participants vs individuals not invited. World J
+                                                        Gastroenterol. 2016;22(43):9631. doi:10.3748/wjg.
+62. McCarthy K, Pearson K, Fulton R, Hewitt             v22.i43.9631
+J. Pre-operative chemoradiation for non-meta-
+static locally advanced rectal cancer. Cochrane         69. Wang L, Mannalithara A, Singh G, Ladabaum
+Colorectal Cancer Group, ed. Cochrane Database          U. Low Rates of Gastrointestinal and Non-Gastro-
+Syst Rev. Published online December 12, 2012.           intestinal Complications for Screening or
+doi:10.1002/14651858.CD008368.pub2                      Surveillance Colonoscopies in a Population-Based
+                                                        Study. Gastroenterology. 2018;154(3):540-555.e8.
+63. Rahbari NN, Elbers H, Askoxylakis V, et al. Neo-    doi:10.1053/j.gastro.2017.10.006
+adjuvant radiotherapy for rectal cancer: meta-analy-
+sis of randomized controlled trials. Ann Surg Oncol.    70. Ladabaum U, Mannalithara A, Desai M, Sehgal
+2013;20(13):4169-4182. doi:10.1245/s10434-013-3198-9    M, Singh G. Age-Specific Rates and Time-Cour-
+                                                        ses of Gastrointestinal and Nongastrointesti-
+64. Bronzwaer MES, Depla ACTM, van Lelyveld             nal Complications Associated With Screening/
+N, et al. Quality assurance of colonoscopy within       Surveillance Colonoscopy. Am J Gastroen-
+the Dutch national colorectal cancer screening          terol. 2021;116(12):2430-2445. doi:10.14309/
+program. Gastrointest Endosc. 2019;89(1):1-13.          ajg.0000000000001531
+doi:10.1016/j.gie.2018.09.011
+                                                        71. Karsa L, Patnick J, Segnan N. European guide-
+65. East JE, Atkin WS, Bateman AC, et al. British       lines for quality assurance in colorectal cancer
+Society of Gastroenterology position statement          screening and diagnosis. First Edition – Execu-
+on serrated polyps in the colon and rectum.             tive summary. Endoscopy. 2012;44(S 03):SE1-SE8.
+Gut. 2017;66(7):1181-1196. doi:10.1136/gut-             doi:10.1055/s-0032-1309822
+jnl-2017-314005
+                                                        72. Virtanen A, Anttila A, Luostarinen T, Malila
+66. Atkin WS, Valori R, Kuipers EJ, et al. European     N, Nieminen P. Improving cervical cancer
+guidelines for quality assurance in colorectal cancer   screening attendance in Finland. Int J Cancer.
+screening and diagnosis. First Edition--Colono-         2015;136(6):E677-684. doi:10.1002/ijc.29176
+scopic surveillance following adenoma
+removal. Endoscopy. 2012;44 Suppl 3:SE151-163.          73. Lamminmäki M, Leivonen A, Sarkeala T, Virta-
+doi:10.1055/s-0032-1309821                              nen A, Heinävaara S. Health inequalities among
+                                                        Russian-born immigrant women in Finland: Lon-
+67. Wangmar J, Von Vogelsang AC, Hultcrantz R,          gitudinal analysis on cervical cancer incidence
+Fritzell K, Wengström Y, Jervaeus A. Are anxiety        and participation in screening. J Migr Health.
+levels associated with the decision to participate      2022;6:100117. doi:10.1016/j.jmh.2022.100117
+in a Swedish colorectal cancer screening pro-
+gramme? A nationwide cross-sectional study.
+
+
+
+
+44               SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+21. LIITTEET
+
+               Kalenterivuosi
+
+Syntymävuosi 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032
+     1977        45     46      47   48     49     50   51   52   53   54   55
+     1976        46     47      48   49     50     51   52   53   54   55   56
+     1975        47     48      49   50     51     52   53   54   55   56   57
+     1974        48     49      50   51     52     53   54   55   56   57   58
+     1973        49     50      51   52     53     54   55   56   57   58   59
+     1972        50     51      52   53     54     55   56   57   58   59   60
+     1971        51     52      53   54     55     56   57   58   59   60   61
+     1970        52     53      54   55     56     57   58   59   60   61   62
+     1969        53     54      55   56     57     58   59   60   61   62   63
+     1968        54     55      56   57     58     59   60   61   62   63   64
+     1967        55     56      57   58     59     60   61   62   63   64   65
+     1966        56     57      58   59     60     61   62   63   64   65   66
+     1965        57     58      59   60     61     62   63   64   65   66   67
+     1964        58     59      60   61     62     63   64   65   66   67   68
+     1963        59     60      61   62     63     64   65   66   67   68   69
+     1962        60     61      62   63     64     65   66   67   68   69   70
+     1961        61     62      63   64     65     66   67   68   69   70   71
+     1960        62     63      64   65     66     67   68   69   70   71   72
+     1959        63     64      65   66     67     68   69   70   71   72   73
+     1958        64     65      66   67     68     69   70   71   72   73   74
+     1957        65     66      67   68     69     70   71   72   73   74   75
+     1956        66     67      68   69     70     71   72   73   74   75   76
+     1955        67     68      69   70     71     72   73   74   75   76   77
+     1954        68     69      70   71     72     73   74   75   76   77   78
+     1953        69     70      71   72     73     74   75   76   77   78   79
+
+Taulukko 7. Seulontaohjelman laajenemismatriisi.
+
+
+
+
+45                SUOLISTOSYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+

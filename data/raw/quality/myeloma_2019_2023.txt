@@ -1,0 +1,9854 @@
+Multippeli myelooma
+Multippeli myelooma
+Etusivu
+Yhteenveto
+Kohdejoukko
+Ilmaantuvuus
+Hoito
+Elossaolo
+Aluekohtainen
+Hoitokoodit
+Tiedot päivitetään kerran vuodessa. Raportti päivitetty 9.6.2026. Aineisto sisältää tiedot 31.12.2024 asti.
+Multippeli myelooma kehittyy usein esiastevaiheen, merkitykseltään epäselvän monoklonaalisen gammapatian (D47.2, MGUS) kautta. MGUS etenee myeloomaksi keskimäärin noin 1 %:lla potilaista vuodessa. Myelooman oireetonta esivaihetta kutsutaan kyteväksi myeloomaksi (smoldering multiple myeloma, SMM), joka etenee osalla potilaista hoitoa vaativaksi oireiseksi myeloomaksi. Hoitoa vaativan oireisen myelooman diagnostiset kriteerit perustuvat pääasiassa kliinisiin löydöksiin ja elinvaurion osoittamiseen.
+Raportin tavoitteena on kuvata hoitoa vaativan oireisen myelooman ilmaantuvuutta ja hoitoja Suomessa sekä tarkastella mahdollisia alueellisia eroja näissä. Koska hoitoa vaativan myelooman kattava ja systemaattinen rekisteröinti on haastavaa, tässä raportissa oireisen myelooman kriteerinä käytettiin Kelan myöntämää uutta lääkekorvausoikeutta diagnoosilla C90. Potilaiden seuranta alkoi lääkekorvausoikeuden myöntämispäivästä tai enintään 30 päivää sitä aiemmasta Hilmo-käynnistä, johon oli kirjattu C90-diagnoosi. Seurantaa jatkettiin 12 kuukautta tai potilaan kuolemaan saakka, mikäli kuolema tapahtui ennen seuranta-ajan päättymistä.
+Ensimmäisen seurantavuoden aikana annetut hoidot tunnistettiin Hilmon toimenpidekoodien avulla ja reseptilääkitykset Kelan lääkeostotiedoista (tiedot vuoden 2024 loppuun). Hoidot luokiteltiin lääkehoitoihin (sairaalassa annetut lääkehoidot ja potilaan itse ostamat lääkkeet), sädehoitoon, autologiseen kantasolusiirtoon ja palliatiiviseen hoitoon. Käytetyt toimenpide- ja ATC-koodit on esitetty raportin ”Hoitokoodit”-välilehdellä.
+Kohdejoukon muodostivat vuosina 2019–2023 uuden lääkekorvausoikeuden saaneet potilaat. Potilaita oli koko Suomessa yhteensä 2336, keskimäärin 467 uutta tapausta vuodessa. Uusien tapausten ikävakioitu ilmaantuvuus oli koko maassa 8,6 / 100 000 henkilöä, ja se oli miehillä hieman naisia suurempi. Potilaista yli 60 % oli täyttänyt 70 vuotta diagnoosihetkellä.
+Kaikkien potilaiden joukossa autologinen (potilaan omien solujen) kantasolusiirto toteutui noin joka viidennelle potilaalle. Lääkehoitoa sai 80 % potilaista, josta sairaalassa annettu lääkehoito oli kirjattu runsaalle puolelle potilaista ja reseptilääketoimituksia 68 %:lle. Sädehoitoa sai noin joka viides potilas.
+Koska autologinen kantasolusiirto on ensilinjan hoitona yleisin alle 70-vuotiailla potilailla, hoitojen tarkastelu ositettiin alle 70-vuotiaisiin ja vähintään 70-vuotiaisiin. Alle 70-vuotiailla kantasolusiirto toteutui vajaalle puolelle potilaista, lääkehoito löytyi 86 %:lle, ja sädehoito noin neljännekselle. Vähintään 70-vuotiailla kantasolusiirto toteutui vajaalle 4 %:lle, lääkehoito löytyi 76 %:lle ja sädehoito 16 %:lle.
+Yhteistyöalueiden välillä havaittiin eroja lähes kaikissa hoitomuodoissa, mikä ainakin osittain selittyy kirjaamiskäytäntöjen vaihtelulla tai Hilmo-poimintojen puutteilla.
+Kokonaan ilman hoitokirjauksia ensimmäisen seurantavuoden aikana jäi vajaa viidennes potilaista, joista kolmannes kuoli seurannan aikana. Koska lääkehoitojen toimenpidekoodit soveltuvat huonosti myelooman hoitoon, ei sairaalassa annettuja lääkkeitä ole kirjattu kattavasti. Myös osa lääkeostoista voi puuttua, jos lääke ei ole erityiskorvattava. Tässä raportissa on myös kuvattu vain ensimmäisen vuoden tapahtumia eikä pidempää seurantaa tai seuraavia hoitolinjoja ole määritetty.
+Kaikkien potilaiden yhden vuoden suhteellinen elossaolo-osuus oli 87,2 %, 3 vuoden luku 71,8 % ja viiden vuoden 61,0 %. Alle 70-vuotiailla naisilla ja miehillä yhden vuoden suhteellinen elossaolo-osuus oli samantapainen (93,0 % vs. 92,6 %), kolmen vuoden elossaolo-osuus oli naisilla 84,2 % ja miehillä 83,2 % ja viiden vuoden luku naisilla miehiä parempi (81,8 % ja 75,1 %). Vähintään 70-vuotiailla miesten ja naisten yhden vuoden elossaolo-osuudet olivat lähes samat (84,2 % ja 84,1 %), kolmen vuoden osuudet olivat miehillä naisia matalammat (63,4 % ja 66,2 %) ja viiden vuoden luvut samantapaiset (50,4 % ja 49,5 %).
+Raportin tekoon osallistuneet
+Asiantuntijaryhmä:
+Mervi Putkonen (pj)
+Varsinais- Suomen hyvinvointialue,
+Turun yliopistollinen keskussairaala, Hematologia ja kantasolusiirtoyksikkö
+Juha Lievonen
+HUS Syöpäkeskus hematologian klinikka,
+Helsingin yliopisto ja HUS Helsingin yliopistollinen sairaala
+Anu Partanen
+Pohjois-Savon hyvinvointialue,
+Kuopion yliopistollinen sairaala, Medisiininen keskus
+Marja Sankelo
+Pirkanmaan hyvinvointialue,
+Tampereen yliopistollinen sairaala, sisätautien klinikka
+Raija Silvennoinen
+HUS Syöpäkeskus hematologian klinikka,
+Helsingin yliopisto ja HUS Helsingin yliopistollinen sairaala
+Marjaana Säily
+Pohjois-Pohjanmaan hyvinvointialue,
+Oulun yliopistollinen sairaala, Syöpätaudit ja hematologia
+Suomen Syöpärekisteri:
+Nea Malila
+Janne Pitkäniemi
+Elina Hermiö
+Jenni Lilja
+Sebastian Johansson
+Salla Toikkanen
+Eetu Mäkinen
+FICAN:
+Timo Nykopp
+Outi Nikunen
+THL:
+Jonna Salonen
+Miia Ryhänen-Tompuri
+Tapauksia 2019-2023
+2336
+Tapausmääritelmä:
+Uusi Kelan lääkekorvausoikeus C90-alkuisella ICD-10-koodilla.
+Kohdejoukko:
+Kohdejoukon muodostavat uudet myeloomatapaukset, jotka täyttävät tapausmääritelmän tarkastelujaksolla 1.1.2019 - 31.12.2023
+Seuranta:
+Seuranta alkaa Kelan lääkekorvausoikeidesta tai korkeintaan 30 päivää aiemmin Hilmon käynnistä, jossa pää- tai sivudiagnoosikoodina on C90-alkuinen ICD-10-koodi. Tapauksia seurataan enintään vuosi eteenpäin (Hilmo-tiedot saatavilla vuoden 2024 loppuun). Seuranta päättyy kullekin tapaukselle joko seuranta-ajan loputtua tai kuolemaan, mikäli se tapahtuu ennen seuranta-ajan loppua.
+Aikajakso
+Alue
+Ikäryhmä
+Sukupuoli
+Tapausten lkm
+Yhteensä (alue)
+Osuus (%)
+2019-2023
+Koko maa
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+2336
+2336
+100,0
+2019-2023
+Koko maa
+Kaikki ikäryhmät
+Miehet
+1262
+2336
+54,0
+2019-2023
+Koko maa
+Kaikki ikäryhmät
+Naiset
+1074
+2336
+46,0
+2019-2023
+Koko maa
+&lt;70
+Sukupuolet yhteensä
+891
+2336
+38,1
+2019-2023
+Koko maa
+&lt;70
+Miehet
+528
+2336
+22,6
+2019-2023
+Koko maa
+&lt;70
+Naiset
+363
+2336
+15,5
+2019-2023
+Koko maa
+70+
+Sukupuolet yhteensä
+1445
+2336
+61,9
+2019-2023
+Koko maa
+70+
+Miehet
+734
+2336
+31,4
+2019-2023
+Koko maa
+70+
+Naiset
+711
+2336
+30,4
+2019-2023
+Etelä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+800
+800
+100,0
+2019-2023
+Etelä-Suomi
+Kaikki ikäryhmät
+Miehet
+402
+800
+50,2
+2019-2023
+Etelä-Suomi
+Kaikki ikäryhmät
+Naiset
+398
+800
+49,8
+2019-2023
+Etelä-Suomi
+&lt;70
+Sukupuolet yhteensä
+331
+800
+41,4
+2019-2023
+Etelä-Suomi
+&lt;70
+Miehet
+180
+800
+22,5
+2019-2023
+Etelä-Suomi
+&lt;70
+Naiset
+151
+800
+18,9
+2019-2023
+Etelä-Suomi
+70+
+Sukupuolet yhteensä
+469
+800
+58,6
+2019-2023
+Etelä-Suomi
+70+
+Miehet
+222
+800
+27,8
+2019-2023
+Etelä-Suomi
+70+
+Naiset
+247
+800
+30,9
+2019-2023
+Itä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+375
+375
+100,0
+2019-2023
+Itä-Suomi
+Kaikki ikäryhmät
+Miehet
+213
+375
+56,8
+2019-2023
+Itä-Suomi
+Kaikki ikäryhmät
+Naiset
+162
+375
+43,2
+2019-2023
+Itä-Suomi
+&lt;70
+Sukupuolet yhteensä
+132
+375
+35,2
+2019-2023
+Itä-Suomi
+&lt;70
+Miehet
+83
+375
+22,1
+2019-2023
+Itä-Suomi
+&lt;70
+Naiset
+49
+375
+13,1
+2019-2023
+Itä-Suomi
+70+
+Sukupuolet yhteensä
+243
+375
+64,8
+2019-2023
+Itä-Suomi
+70+
+Miehet
+130
+375
+34,7
+2019-2023
+Itä-Suomi
+70+
+Naiset
+113
+375
+30,1
+2019-2023
+Sisä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+382
+382
+100,0
+2019-2023
+Sisä-Suomi
+Kaikki ikäryhmät
+Miehet
+219
+382
+57,3
+2019-2023
+Sisä-Suomi
+Kaikki ikäryhmät
+Naiset
+163
+382
+42,7
+2019-2023
+Sisä-Suomi
+&lt;70
+Sukupuolet yhteensä
+151
+382
+39,5
+2019-2023
+Sisä-Suomi
+&lt;70
+Miehet
+102
+382
+26,7
+2019-2023
+Sisä-Suomi
+&lt;70
+Naiset
+49
+382
+12,8
+2019-2023
+Sisä-Suomi
+70+
+Sukupuolet yhteensä
+231
+382
+60,5
+2019-2023
+Sisä-Suomi
+70+
+Miehet
+117
+382
+30,6
+2019-2023
+Sisä-Suomi
+70+
+Naiset
+114
+382
+29,8
+2019-2023
+Länsi-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+440
+440
+100,0
+2019-2023
+Länsi-Suomi
+Kaikki ikäryhmät
+Miehet
+227
+440
+51,6
+2019-2023
+Länsi-Suomi
+Kaikki ikäryhmät
+Naiset
+213
+440
+48,4
+2019-2023
+Länsi-Suomi
+&lt;70
+Sukupuolet yhteensä
+149
+440
+33,9
+2019-2023
+Länsi-Suomi
+&lt;70
+Miehet
+91
+440
+20,7
+2019-2023
+Länsi-Suomi
+&lt;70
+Naiset
+58
+440
+13,2
+2019-2023
+Länsi-Suomi
+70+
+Sukupuolet yhteensä
+291
+440
+66,1
+2019-2023
+Länsi-Suomi
+70+
+Miehet
+136
+440
+30,9
+2019-2023
+Länsi-Suomi
+70+
+Naiset
+155
+440
+35,2
+2019-2023
+Pohjois-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+304
+304
+100,0
+2019-2023
+Pohjois-Suomi
+Kaikki ikäryhmät
+Miehet
+172
+304
+56,6
+2019-2023
+Pohjois-Suomi
+Kaikki ikäryhmät
+Naiset
+132
+304
+43,4
+2019-2023
+Pohjois-Suomi
+&lt;70
+Sukupuolet yhteensä
+122
+304
+40,1
+2019-2023
+Pohjois-Suomi
+&lt;70
+Miehet
+67
+304
+22,0
+2019-2023
+Pohjois-Suomi
+&lt;70
+Naiset
+55
+304
+18,1
+2019-2023
+Pohjois-Suomi
+70+
+Sukupuolet yhteensä
+182
+304
+59,9
+2019-2023
+Pohjois-Suomi
+70+
+Miehet
+105
+304
+34,5
+2019-2023
+Pohjois-Suomi
+70+
+Naiset
+77
+304
+25,3
+Koko maa
+Yhteistyöalueet
+Hyvinvointialueet
+Tilasto
+Ikäryhmä
+Sukupuoli
+2019
+2020
+2021
+2022
+2023
+Ilmaantuvuus (per 100.000)
+Kaikki yhdessä
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+9,0 (8,2 - 9,9)
+8,6 (7,8 - 9,4)
+8,9 (8,1 - 9,7)
+8,3 (7,6 - 9,1)
+8,3 (7,6 - 9,1)
+1-1
+Tapausten lukumäärä
+Kaikki yhdessä
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+476
+457
+483
+456
+464
+2-1
+Ilmaantuvuus (per 100.000)
+Sukupuoli
+Kaikki ikäryhmät
+Miehet
+10,1 (8,8 - 11,4)
+10,4 (9,2 - 11,8)
+10,3 (9,1 - 11,7)
+10,5 (9,3 - 11,9)
+10,5 (9,3 - 11,9)
+1-2
+Tapausten lukumäärä
+Sukupuoli
+Kaikki ikäryhmät
+Miehet
+241
+248
+250
+259
+264
+2-2
+Ilmaantuvuus (per 100.000)
+Sukupuoli
+Kaikki ikäryhmät
+Naiset
+8,1 (7,1 - 9,2)
+7,1 (6,2 - 8,2)
+7,8 (6,9 - 8,9)
+6,5 (5,7 - 7,5)
+6,6 (5,7 - 7,6)
+1-2
+Tapausten lukumäärä
+Sukupuoli
+Kaikki ikäryhmät
+Naiset
+235
+209
+233
+197
+200
+2-2
+Ilmaantuvuus (per 100.000)
+Ikäryhmä
+&lt;70
+Sukupuolet yhteensä
+4,3 (3,7 - 4,9)
+4,2 (3,6 - 4,8)
+3,7 (3,2 - 4,3)
+3,4 (2,9 - 4,0)
+3,7 (3,1 - 4,2)
+1-3
+Tapausten lukumäärä
+Ikäryhmä
+&lt;70
+Sukupuolet yhteensä
+200
+193
+172
+157
+169
+2-3
+Ilmaantuvuus (per 100.000)
+Ikäryhmä, Sukupuoli
+&lt;70
+Miehet
+5,0 (4,2 - 6,0)
+4,8 (4,0 - 5,8)
+4,0 (3,3 - 4,9)
+4,3 (3,5 - 5,2)
+4,3 (3,6 - 5,3)
+1-4
+Tapausten lukumäärä
+Ikäryhmä, Sukupuoli
+&lt;70
+Miehet
+119
+113
+94
+100
+102
+2-4
+Ilmaantuvuus (per 100.000)
+Ikäryhmä, Sukupuoli
+&lt;70
+Naiset
+3,5 (2,8 - 4,4)
+3,5 (2,8 - 4,4)
+3,4 (2,7 - 4,3)
+2,5 (1,9 - 3,2)
+2,9 (2,3 - 3,7)
+1-4
+Tapausten lukumäärä
+Ikäryhmä, Sukupuoli
+&lt;70
+Naiset
+81
+80
+78
+57
+67
+2-4
+Ilmaantuvuus (per 100.000)
+Ikäryhmä
+70+
+Sukupuolet yhteensä
+32,2 (28,6 - 36,2)
+29,7 (26,3 - 33,5)
+34,0 (30,5 - 38,1)
+32,0 (28,6 - 35,8)
+30,9 (27,6 - 34,7)
+1-3
+Tapausten lukumäärä
+Ikäryhmä
+70+
+Sukupuolet yhteensä
+276
+264
+311
+299
+295
+2-3
+Ilmaantuvuus (per 100.000)
+Ikäryhmä, Sukupuoli
+70+
+Miehet
+33,7 (28,2 - 40,2)
+35,8 (30,2 - 42,3)
+40,0 (34,2 - 46,8)
+39,7 (34,0 - 46,3)
+39,5 (33,9 - 46,1)
+1-4
+Tapausten lukumäärä
+Ikäryhmä, Sukupuoli
+70+
+Miehet
+122
+135
+156
+159
+162
+2-4
+Ilmaantuvuus (per 100.000)
+Ikäryhmä, Sukupuoli
+70+
+Naiset
+31,0 (26,5 - 36,4)
+25,3 (21,3 - 30,0)
+29,6 (25,3 - 34,7)
+26,2 (22,2 - 30,9)
+24,5 (20,6 - 29,0)
+1-4
+Tapausten lukumäärä
+Ikäryhmä, Sukupuoli
+70+
+Naiset
+154
+129
+155
+140
+133
+2-4
+Tilasto
+Stratifiointi
+Aikajakso
+Stratifiointi
+Yhteistyöalue
+Ikäryhmä
+Sukupuoli
+Tapausten lkm
+Ilmaantuvuus (per 100.000)
+2019-2023
+Kaikki yhdessä
+Etelä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+800
+8,1 (7,6 - 8,7)
+1
+2019-2023
+Sukupuoli
+Etelä-Suomi
+Kaikki ikäryhmät
+Miehet
+402
+9,5 (8,6 - 10,5)
+2
+2019-2023
+Sukupuoli
+Etelä-Suomi
+Kaikki ikäryhmät
+Naiset
+398
+7,2 (6,6 - 8,0)
+2
+2019-2023
+Ikäryhmä
+Etelä-Suomi
+&lt;70
+Sukupuolet yhteensä
+331
+3,5 (3,2 - 3,9)
+3
+2019-2023
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+&lt;70
+Miehet
+180
+3,8 (3,3 - 4,4)
+4
+2019-2023
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+&lt;70
+Naiset
+151
+3,2 (2,8 - 3,8)
+4
+2019-2023
+Ikäryhmä
+Etelä-Suomi
+70+
+Sukupuolet yhteensä
+469
+29,2 (26,7 - 32,0)
+3
+2019-2023
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+70+
+Miehet
+222
+33,5 (29,3 - 38,2)
+4
+2019-2023
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+70+
+Naiset
+247
+26,2 (23,1 - 29,7)
+4
+2019-2023
+Kaikki yhdessä
+Itä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+375
+8,3 (7,5 - 9,2)
+1
+2019-2023
+Sukupuoli
+Itä-Suomi
+Kaikki ikäryhmät
+Miehet
+213
+10,3 (9,0 - 11,8)
+2
+2019-2023
+Sukupuoli
+Itä-Suomi
+Kaikki ikäryhmät
+Naiset
+162
+6,7 (5,7 - 7,8)
+2
+2019-2023
+Ikäryhmä
+Itä-Suomi
+&lt;70
+Sukupuolet yhteensä
+132
+4,0 (3,4 - 4,7)
+3
+2019-2023
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+&lt;70
+Miehet
+83
+4,9 (4,0 - 6,1)
+4
+2019-2023
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+&lt;70
+Naiset
+49
+3,0 (2,3 - 4,0)
+4
+2019-2023
+Ikäryhmä
+Itä-Suomi
+70+
+Sukupuolet yhteensä
+243
+31,4 (27,7 - 35,6)
+3
+2019-2023
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+70+
+Miehet
+130
+38,5 (32,5 - 45,8)
+4
+2019-2023
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+70+
+Naiset
+113
+25,8 (21,5 - 31,1)
+4
+2019-2023
+Kaikki yhdessä
+Sisä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+382
+8,6 (7,7 - 9,5)
+1
+2019-2023
+Sukupuoli
+Sisä-Suomi
+Kaikki ikäryhmät
+Miehet
+219
+10,8 (9,4 - 12,3)
+2
+2019-2023
+Sukupuoli
+Sisä-Suomi
+Kaikki ikäryhmät
+Naiset
+163
+6,7 (5,7 - 7,8)
+2
+2019-2023
+Ikäryhmä
+Sisä-Suomi
+&lt;70
+Sukupuolet yhteensä
+151
+4,1 (3,5 - 4,8)
+3
+2019-2023
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+&lt;70
+Miehet
+102
+5,5 (4,5 - 6,6)
+4
+2019-2023
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+&lt;70
+Naiset
+49
+2,7 (2,0 - 3,6)
+4
+2019-2023
+Ikäryhmä
+Sisä-Suomi
+70+
+Sukupuolet yhteensä
+231
+30,2 (26,6 - 34,4)
+3
+2019-2023
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+70+
+Miehet
+117
+35,8 (29,9 - 42,9)
+4
+2019-2023
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+70+
+Naiset
+114
+26,0 (21,7 - 31,3)
+4
+2019-2023
+Kaikki yhdessä
+Länsi-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+440
+9,7 (8,8 - 10,6)
+1
+2019-2023
+Sukupuoli
+Länsi-Suomi
+Kaikki ikäryhmät
+Miehet
+227
+11,0 (9,6 - 12,5)
+2
+2019-2023
+Sukupuoli
+Länsi-Suomi
+Kaikki ikäryhmät
+Naiset
+213
+8,5 (7,5 - 9,8)
+2
+2019-2023
+Ikäryhmä
+Länsi-Suomi
+&lt;70
+Sukupuolet yhteensä
+149
+4,2 (3,5 - 4,9)
+3
+2019-2023
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+&lt;70
+Miehet
+91
+5,0 (4,1 - 6,1)
+4
+2019-2023
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+&lt;70
+Naiset
+58
+3,3 (2,5 - 4,3)
+4
+2019-2023
+Ikäryhmä
+Länsi-Suomi
+70+
+Sukupuolet yhteensä
+291
+36,9 (32,9 - 41,4)
+3
+2019-2023
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+70+
+Miehet
+136
+39,9 (33,7 - 47,2)
+4
+2019-2023
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+70+
+Naiset
+155
+34,6 (29,5 - 40,4)
+4
+2019-2023
+Kaikki yhdessä
+Pohjois-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+304
+8,5 (7,6 - 9,5)
+1
+2019-2023
+Sukupuoli
+Pohjois-Suomi
+Kaikki ikäryhmät
+Miehet
+172
+10,4 (9,0 - 12,2)
+2
+2019-2023
+Sukupuoli
+Pohjois-Suomi
+Kaikki ikäryhmät
+Naiset
+132
+7,0 (5,9 - 8,3)
+2
+2019-2023
+Ikäryhmä
+Pohjois-Suomi
+&lt;70
+Sukupuolet yhteensä
+122
+4,0 (3,3 - 4,8)
+3
+2019-2023
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+&lt;70
+Miehet
+67
+4,2 (3,3 - 5,4)
+4
+2019-2023
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+&lt;70
+Naiset
+55
+3,7 (2,8 - 4,8)
+4
+2019-2023
+Ikäryhmä
+Pohjois-Suomi
+70+
+Sukupuolet yhteensä
+182
+30,9 (26,7 - 35,7)
+3
+2019-2023
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+70+
+Miehet
+105
+40,1 (33,1 - 48,6)
+4
+2019-2023
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+70+
+Naiset
+77
+23,5 (18,8 - 29,3)
+4
+Stratifiointi
+Aikajakso
+Hyvinvointialue
+Yhteistyöalue
+Tapausten lkm
+Ilmaantuvuus (per 100.000)
+2019-2023
+Itä-Uusimaa
+Etelä-Suomi
+49
+10,1 (7,6 - 13,4)
+2019-2023
+Keski-Uusimaa
+Etelä-Suomi
+66
+7,5 (5,9 - 9,6)
+2019-2023
+Länsi-Uusimaa
+Etelä-Suomi
+151
+7,9 (6,7 - 9,2)
+2019-2023
+Vantaa ja Kerava
+Etelä-Suomi
+86
+8,4 (6,8 - 10,4)
+2019-2023
+Päijät-Häme
+Etelä-Suomi
+102
+8,7 (7,2 - 10,6)
+2019-2023
+Kymenlaakso
+Etelä-Suomi
+80
+8,2 (6,6 - 10,2)
+2019-2023
+Etelä-Karjala
+Etelä-Suomi
+60
+8,0 (6,2 - 10,3)
+2019-2023
+Helsingin kaupunki
+Etelä-Suomi
+206
+7,9 (6,9 - 9,1)
+2019-2023
+Etelä-Savo
+Itä-Suomi
+94
+10,9 (8,9 - 13,4)
+2019-2023
+Pohjois-Savo
+Itä-Suomi
+96
+7,2 (5,9 - 8,8)
+2019-2023
+Pohjois-Karjala
+Itä-Suomi
+84
+8,9 (7,2 - 11,0)
+2019-2023
+Keski-Suomi
+Itä-Suomi
+101
+7,4 (6,1 - 9,0)
+2019-2023
+Kanta-Häme
+Sisä-Suomi
+89
+9,6 (7,8 - 11,8)
+2019-2023
+Pirkanmaa
+Sisä-Suomi
+208
+8,4 (7,3 - 9,6)
+2019-2023
+Etelä-Pohjanmaa
+Sisä-Suomi
+85
+8,1 (6,5 - 10,0)
+2019-2023
+Varsinais-Suomi
+Länsi-Suomi
+248
+10,2 (9,0 - 11,5)
+2019-2023
+Satakunta
+Länsi-Suomi
+91
+7,4 (6,0 - 9,0)
+2019-2023
+Pohjanmaa
+Länsi-Suomi
+101
+11,7 (9,6 - 14,2)
+2019-2023
+Keski-Pohjanmaa
+Pohjois-Suomi
+25
+7,4 (5,0 - 11,0)
+2019-2023
+Pohjois-Pohjanmaa
+Pohjois-Suomi
+162
+8,9 (7,6 - 10,4)
+2019-2023
+Kainuu
+Pohjois-Suomi
+36
+8,0 (5,8 - 11,2)
+2019-2023
+Lappi
+Pohjois-Suomi
+81
+8,4 (6,8 - 10,5)
+Autologinen kantasolusiirto
+20,2 %
+Lääkehoito
+79,8 %
+Palliatiivinen hoito
+11,1 %
+Sädehoito
+18,8 %
+Koko maa
+Yhteistyöalueet
+Hyvinvointialueet
+Aikajakso
+Hoitomuoto
+Ikäryhmä
+Hoidettujen lkm
+Tapausten lkm
+Osuus (%)
+2019-2023
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+472
+2336
+20,2
+2019-2023
+Autologinen kantasolusiirto
+&lt;70
+418
+891
+46,9
+2019-2023
+Autologinen kantasolusiirto
+70+
+54
+1445
+3,7
+2019-2023
+Lääkehoito
+Kaikki ikäryhmät
+1863
+2336
+79,8
+2019-2023
+Lääkehoito
+&lt;70
+764
+891
+85,7
+2019-2023
+Lääkehoito
+70+
+1099
+1445
+76,1
+2019-2023
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+1236
+2336
+52,9
+2019-2023
+Lääkehoito (sairaala)
+&lt;70
+573
+891
+64,3
+2019-2023
+Lääkehoito (sairaala)
+70+
+663
+1445
+45,9
+2019-2023
+Lääkehoito (osto)
+Kaikki ikäryhmät
+1596
+2336
+68,3
+2019-2023
+Lääkehoito (osto)
+&lt;70
+653
+891
+73,3
+2019-2023
+Lääkehoito (osto)
+70+
+943
+1445
+65,3
+2019-2023
+Palliatiivinen hoito
+Kaikki ikäryhmät
+260
+2336
+11,1
+2019-2023
+Palliatiivinen hoito
+&lt;70
+86
+891
+9,7
+2019-2023
+Palliatiivinen hoito
+70+
+174
+1445
+12,0
+2019-2023
+Sädehoito
+Kaikki ikäryhmät
+439
+2336
+18,8
+2019-2023
+Sädehoito
+&lt;70
+205
+891
+23,0
+2019-2023
+Sädehoito
+70+
+234
+1445
+16,2
+Aikajakso
+Hoitomuoto
+Stratifiointi
+Yhteistyöalue
+Ikäryhmä
+Sukupuoli
+Hoidettujen lkm
+Tapausten lkm
+Osuus (%)
+2019-2023
+Autologinen kantasolusiirto
+Kaikki yhdessä
+Etelä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+154
+800
+18,0 (15,3 - 21,1)
+1-1
+2019-2023
+Autologinen kantasolusiirto
+Sukupuoli
+Etelä-Suomi
+Kaikki ikäryhmät
+Miehet
+76
+402
+16,8 (13,3 - 21,1)
+1-2
+2019-2023
+Autologinen kantasolusiirto
+Sukupuoli
+Etelä-Suomi
+Kaikki ikäryhmät
+Naiset
+78
+398
+19,5 (15,6 - 24,4)
+1-2
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä
+Etelä-Suomi
+&lt;70
+Sukupuolet yhteensä
+140
+331
+42,3 (35,8 - 49,9)
+1-3
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+&lt;70
+Miehet
+71
+180
+39,4 (31,3 - 49,8)
+1-4
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+&lt;70
+Naiset
+69
+151
+45,7 (36,1 - 57,9)
+1-4
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä
+Etelä-Suomi
+70+
+Sukupuolet yhteensä
+14
+469
+3,0 (1,8 - 5,0)
+1-3
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+70+
+Miehet
+5
+222
+2,3 (0,9 - 5,4)
+1-4
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+70+
+Naiset
+9
+247
+3,6 (1,9 - 7,0)
+1-4
+2019-2023
+Autologinen kantasolusiirto
+Kaikki yhdessä
+Itä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+100
+375
+27,7 (22,7 - 33,8)
+1-1
+2019-2023
+Autologinen kantasolusiirto
+Sukupuoli
+Itä-Suomi
+Kaikki ikäryhmät
+Miehet
+63
+213
+28,7 (22,3 - 36,9)
+1-2
+2019-2023
+Autologinen kantasolusiirto
+Sukupuoli
+Itä-Suomi
+Kaikki ikäryhmät
+Naiset
+37
+162
+26,4 (19,0 - 36,7)
+1-2
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä
+Itä-Suomi
+&lt;70
+Sukupuolet yhteensä
+84
+132
+63,6 (51,4 - 78,8)
+1-3
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+&lt;70
+Miehet
+55
+83
+66,3 (50,9 - 86,3)
+1-4
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+&lt;70
+Naiset
+29
+49
+59,2 (41,1 - 85,2)
+1-4
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä
+Itä-Suomi
+70+
+Sukupuolet yhteensä
+16
+243
+6,6 (4,0 - 10,7)
+1-3
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+70+
+Miehet
+8
+130
+6,2 (3,1 - 12,3)
+1-4
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+70+
+Naiset
+8
+113
+7,1 (3,5 - 14,2)
+1-4
+2019-2023
+Autologinen kantasolusiirto
+Kaikki yhdessä
+Sisä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+95
+382
+23,1 (18,7 - 28,6)
+1-1
+2019-2023
+Autologinen kantasolusiirto
+Sukupuoli
+Sisä-Suomi
+Kaikki ikäryhmät
+Miehet
+63
+219
+23,7 (18,2 - 30,8)
+1-2
+2019-2023
+Autologinen kantasolusiirto
+Sukupuoli
+Sisä-Suomi
+Kaikki ikäryhmät
+Naiset
+32
+163
+22,2 (15,6 - 31,7)
+1-2
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä
+Sisä-Suomi
+&lt;70
+Sukupuolet yhteensä
+87
+151
+57,6 (46,7 - 71,1)
+1-3
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+&lt;70
+Miehet
+60
+102
+58,8 (45,7 - 75,8)
+1-4
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+&lt;70
+Naiset
+27
+49
+55,1 (37,8 - 80,3)
+1-4
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä
+Sisä-Suomi
+70+
+Sukupuolet yhteensä
+8
+231
+3,5 (1,7 - 6,9)
+1-3
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+70+
+Miehet
+3
+117
+2,6 (0,8 - 8,0)
+1-4
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+70+
+Naiset
+5
+114
+4,4 (1,8 - 10,5)
+1-4
+2019-2023
+Autologinen kantasolusiirto
+Kaikki yhdessä
+Länsi-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+73
+440
+17,9 (14,1 - 22,8)
+1-1
+2019-2023
+Autologinen kantasolusiirto
+Sukupuoli
+Länsi-Suomi
+Kaikki ikäryhmät
+Miehet
+47
+227
+19,7 (14,7 - 26,5)
+1-2
+2019-2023
+Autologinen kantasolusiirto
+Sukupuoli
+Länsi-Suomi
+Kaikki ikäryhmät
+Naiset
+26
+213
+15,7 (10,2 - 24,3)
+1-2
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä
+Länsi-Suomi
+&lt;70
+Sukupuolet yhteensä
+64
+149
+43,0 (33,6 - 54,9)
+1-3
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+&lt;70
+Miehet
+40
+91
+44,0 (32,2 - 59,9)
+1-4
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+&lt;70
+Naiset
+24
+58
+41,4 (27,7 - 61,7)
+1-4
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä
+Länsi-Suomi
+70+
+Sukupuolet yhteensä
+9
+291
+3,1 (1,6 - 5,9)
+1-3
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+70+
+Miehet
+7
+136
+5,1 (2,5 - 10,8)
+1-4
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+70+
+Naiset
+2
+155
+1,3 (0,3 - 5,2)
+1-4
+2019-2023
+Autologinen kantasolusiirto
+Kaikki yhdessä
+Pohjois-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+47
+304
+15,1 (11,1 - 20,4)
+1-1
+2019-2023
+Autologinen kantasolusiirto
+Sukupuoli
+Pohjois-Suomi
+Kaikki ikäryhmät
+Miehet
+25
+172
+14,8 (9,7 - 22,6)
+1-2
+2019-2023
+Autologinen kantasolusiirto
+Sukupuoli
+Pohjois-Suomi
+Kaikki ikäryhmät
+Naiset
+22
+132
+15,4 (10,0 - 23,6)
+1-2
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä
+Pohjois-Suomi
+&lt;70
+Sukupuolet yhteensä
+40
+122
+32,8 (24,0 - 44,7)
+1-3
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+&lt;70
+Miehet
+20
+67
+29,9 (19,3 - 46,3)
+1-4
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+&lt;70
+Naiset
+20
+55
+36,4 (23,5 - 56,4)
+1-4
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä
+Pohjois-Suomi
+70+
+Sukupuolet yhteensä
+7
+182
+3,8 (1,8 - 8,1)
+1-3
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+70+
+Miehet
+5
+105
+4,8 (2,0 - 11,4)
+1-4
+2019-2023
+Autologinen kantasolusiirto
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+70+
+Naiset
+2
+77
+2,6 (0,6 - 10,4)
+1-4
+2019-2023
+Lääkehoito
+Kaikki yhdessä
+Etelä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+650
+800
+81,5 (75,4 - 88,1)
+2-1
+2019-2023
+Lääkehoito
+Sukupuoli
+Etelä-Suomi
+Kaikki ikäryhmät
+Miehet
+330
+402
+82,1 (73,5 - 91,6)
+2-2
+2019-2023
+Lääkehoito
+Sukupuoli
+Etelä-Suomi
+Kaikki ikäryhmät
+Naiset
+320
+398
+81,1 (72,6 - 90,5)
+2-2
+2019-2023
+Lääkehoito
+Ikäryhmä
+Etelä-Suomi
+&lt;70
+Sukupuolet yhteensä
+293
+331
+88,5 (78,9 - 99,3)
+2-3
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+&lt;70
+Miehet
+156
+180
+86,7 (74,1 - 101,4)
+2-4
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+&lt;70
+Naiset
+137
+151
+90,7 (76,7 - 107,3)
+2-4
+2019-2023
+Lääkehoito
+Ikäryhmä
+Etelä-Suomi
+70+
+Sukupuolet yhteensä
+357
+469
+76,1 (68,6 - 84,4)
+2-3
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+70+
+Miehet
+174
+222
+78,4 (67,6 - 90,9)
+2-4
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+70+
+Naiset
+183
+247
+74,1 (64,1 - 85,6)
+2-4
+2019-2023
+Lääkehoito
+Kaikki yhdessä
+Itä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+293
+375
+77,9 (69,3 - 87,6)
+2-1
+2019-2023
+Lääkehoito
+Sukupuoli
+Itä-Suomi
+Kaikki ikäryhmät
+Miehet
+172
+213
+79,6 (68,4 - 92,5)
+2-2
+2019-2023
+Lääkehoito
+Sukupuoli
+Itä-Suomi
+Kaikki ikäryhmät
+Naiset
+121
+162
+76,4 (63,5 - 92,0)
+2-2
+2019-2023
+Lääkehoito
+Ikäryhmä
+Itä-Suomi
+&lt;70
+Sukupuolet yhteensä
+116
+132
+87,9 (73,3 - 105,4)
+2-3
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+&lt;70
+Miehet
+73
+83
+88,0 (69,9 - 110,6)
+2-4
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+&lt;70
+Naiset
+43
+49
+87,8 (65,1 - 118,3)
+2-4
+2019-2023
+Lääkehoito
+Ikäryhmä
+Itä-Suomi
+70+
+Sukupuolet yhteensä
+177
+243
+72,8 (62,9 - 84,4)
+2-3
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+70+
+Miehet
+99
+130
+76,2 (62,5 - 92,7)
+2-4
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+70+
+Naiset
+78
+113
+69,0 (55,3 - 86,2)
+2-4
+2019-2023
+Lääkehoito
+Kaikki yhdessä
+Sisä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+316
+382
+81,4 (72,7 - 91,1)
+2-1
+2019-2023
+Lääkehoito
+Sukupuoli
+Sisä-Suomi
+Kaikki ikäryhmät
+Miehet
+183
+219
+81,3 (70,0 - 94,5)
+2-2
+2019-2023
+Lääkehoito
+Sukupuoli
+Sisä-Suomi
+Kaikki ikäryhmät
+Naiset
+133
+163
+81,2 (68,3 - 96,7)
+2-2
+2019-2023
+Lääkehoito
+Ikäryhmä
+Sisä-Suomi
+&lt;70
+Sukupuolet yhteensä
+139
+151
+92,1 (78,0 - 108,7)
+2-3
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+&lt;70
+Miehet
+93
+102
+91,2 (74,4 - 111,7)
+2-4
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+&lt;70
+Naiset
+46
+49
+93,9 (70,3 - 125,3)
+2-4
+2019-2023
+Lääkehoito
+Ikäryhmä
+Sisä-Suomi
+70+
+Sukupuolet yhteensä
+177
+231
+76,6 (66,1 - 88,8)
+2-3
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+70+
+Miehet
+90
+117
+76,9 (62,6 - 94,6)
+2-4
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+70+
+Naiset
+87
+114
+76,3 (61,9 - 94,2)
+2-4
+2019-2023
+Lääkehoito
+Kaikki yhdessä
+Länsi-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+340
+440
+77,0 (69,0 - 86,0)
+2-1
+2019-2023
+Lääkehoito
+Sukupuoli
+Länsi-Suomi
+Kaikki ikäryhmät
+Miehet
+173
+227
+76,1 (65,4 - 88,5)
+2-2
+2019-2023
+Lääkehoito
+Sukupuoli
+Länsi-Suomi
+Kaikki ikäryhmät
+Naiset
+167
+213
+77,9 (65,9 - 92,1)
+2-2
+2019-2023
+Lääkehoito
+Ikäryhmä
+Länsi-Suomi
+&lt;70
+Sukupuolet yhteensä
+114
+149
+76,5 (63,7 - 91,9)
+2-3
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+&lt;70
+Miehet
+70
+91
+76,9 (60,9 - 97,2)
+2-4
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+&lt;70
+Naiset
+44
+58
+75,9 (56,5 - 101,9)
+2-4
+2019-2023
+Lääkehoito
+Ikäryhmä
+Länsi-Suomi
+70+
+Sukupuolet yhteensä
+226
+291
+77,7 (68,2 - 88,5)
+2-3
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+70+
+Miehet
+103
+136
+75,7 (62,4 - 91,9)
+2-4
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+70+
+Naiset
+123
+155
+79,4 (66,5 - 94,7)
+2-4
+2019-2023
+Lääkehoito
+Kaikki yhdessä
+Pohjois-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+238
+304
+77,4 (67,8 - 88,3)
+2-1
+2019-2023
+Lääkehoito
+Sukupuoli
+Pohjois-Suomi
+Kaikki ikäryhmät
+Miehet
+130
+172
+74,0 (62,0 - 88,4)
+2-2
+2019-2023
+Lääkehoito
+Sukupuoli
+Pohjois-Suomi
+Kaikki ikäryhmät
+Naiset
+108
+132
+81,5 (67,1 - 99,1)
+2-2
+2019-2023
+Lääkehoito
+Ikäryhmä
+Pohjois-Suomi
+&lt;70
+Sukupuolet yhteensä
+100
+122
+82,0 (67,4 - 99,7)
+2-3
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+&lt;70
+Miehet
+52
+67
+77,6 (59,1 - 101,9)
+2-4
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+&lt;70
+Naiset
+48
+55
+87,3 (65,8 - 115,8)
+2-4
+2019-2023
+Lääkehoito
+Ikäryhmä
+Pohjois-Suomi
+70+
+Sukupuolet yhteensä
+138
+182
+75,8 (64,2 - 89,6)
+2-3
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+70+
+Miehet
+78
+105
+74,3 (59,5 - 92,7)
+2-4
+2019-2023
+Lääkehoito
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+70+
+Naiset
+60
+77
+77,9 (60,5 - 100,4)
+2-4
+2019-2023
+Lääkehoito (sairaala)
+Kaikki yhdessä
+Etelä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+410
+800
+51,1 (46,3 - 56,3)
+3-1
+2019-2023
+Lääkehoito (sairaala)
+Sukupuoli
+Etelä-Suomi
+Kaikki ikäryhmät
+Miehet
+202
+402
+49,7 (43,2 - 57,2)
+3-2
+2019-2023
+Lääkehoito (sairaala)
+Sukupuoli
+Etelä-Suomi
+Kaikki ikäryhmät
+Naiset
+208
+398
+52,9 (46,1 - 60,6)
+3-2
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä
+Etelä-Suomi
+&lt;70
+Sukupuolet yhteensä
+208
+331
+62,8 (54,9 - 72,0)
+3-3
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+&lt;70
+Miehet
+108
+180
+60,0 (49,7 - 72,5)
+3-4
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+&lt;70
+Naiset
+100
+151
+66,2 (54,4 - 80,6)
+3-4
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä
+Etelä-Suomi
+70+
+Sukupuolet yhteensä
+202
+469
+43,1 (37,5 - 49,4)
+3-3
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+70+
+Miehet
+94
+222
+42,3 (34,6 - 51,8)
+3-4
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+70+
+Naiset
+108
+247
+43,7 (36,2 - 52,8)
+3-4
+2019-2023
+Lääkehoito (sairaala)
+Kaikki yhdessä
+Itä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+221
+375
+59,0 (51,6 - 67,5)
+3-1
+2019-2023
+Lääkehoito (sairaala)
+Sukupuoli
+Itä-Suomi
+Kaikki ikäryhmät
+Miehet
+133
+213
+61,6 (51,8 - 73,1)
+3-2
+2019-2023
+Lääkehoito (sairaala)
+Sukupuoli
+Itä-Suomi
+Kaikki ikäryhmät
+Naiset
+88
+162
+56,5 (45,5 - 70,2)
+3-2
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä
+Itä-Suomi
+&lt;70
+Sukupuolet yhteensä
+102
+132
+77,3 (63,6 - 93,8)
+3-3
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+&lt;70
+Miehet
+65
+83
+78,3 (61,4 - 99,9)
+3-4
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+&lt;70
+Naiset
+37
+49
+75,5 (54,7 - 104,2)
+3-4
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä
+Itä-Suomi
+70+
+Sukupuolet yhteensä
+119
+243
+49,0 (40,9 - 58,6)
+3-3
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+70+
+Miehet
+68
+130
+52,3 (41,2 - 66,3)
+3-4
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+70+
+Naiset
+51
+113
+45,1 (34,3 - 59,4)
+3-4
+2019-2023
+Lääkehoito (sairaala)
+Kaikki yhdessä
+Sisä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+247
+382
+63,5 (55,8 - 72,1)
+3-1
+2019-2023
+Lääkehoito (sairaala)
+Sukupuoli
+Sisä-Suomi
+Kaikki ikäryhmät
+Miehet
+144
+219
+63,2 (53,3 - 74,9)
+3-2
+2019-2023
+Lääkehoito (sairaala)
+Sukupuoli
+Sisä-Suomi
+Kaikki ikäryhmät
+Naiset
+103
+163
+63,4 (52,0 - 77,3)
+3-2
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä
+Sisä-Suomi
+&lt;70
+Sukupuolet yhteensä
+115
+151
+76,2 (63,4 - 91,4)
+3-3
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+&lt;70
+Miehet
+76
+102
+74,5 (59,5 - 93,3)
+3-4
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+&lt;70
+Naiset
+39
+49
+79,6 (58,2 - 108,9)
+3-4
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä
+Sisä-Suomi
+70+
+Sukupuolet yhteensä
+132
+231
+57,1 (48,2 - 67,8)
+3-3
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+70+
+Miehet
+68
+117
+58,1 (45,8 - 73,7)
+3-4
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+70+
+Naiset
+64
+114
+56,1 (43,9 - 71,7)
+3-4
+2019-2023
+Lääkehoito (sairaala)
+Kaikki yhdessä
+Länsi-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+208
+440
+47,6 (41,4 - 54,8)
+3-1
+2019-2023
+Lääkehoito (sairaala)
+Sukupuoli
+Länsi-Suomi
+Kaikki ikäryhmät
+Miehet
+105
+227
+46,4 (38,1 - 56,3)
+3-2
+2019-2023
+Lääkehoito (sairaala)
+Sukupuoli
+Länsi-Suomi
+Kaikki ikäryhmät
+Naiset
+103
+213
+49,2 (39,9 - 60,6)
+3-2
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä
+Länsi-Suomi
+&lt;70
+Sukupuolet yhteensä
+76
+149
+51,0 (40,7 - 63,9)
+3-3
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+&lt;70
+Miehet
+44
+91
+48,4 (36,0 - 65,0)
+3-4
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+&lt;70
+Naiset
+32
+58
+55,2 (39,0 - 78,0)
+3-4
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä
+Länsi-Suomi
+70+
+Sukupuolet yhteensä
+132
+291
+45,4 (38,2 - 53,8)
+3-3
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+70+
+Miehet
+61
+136
+44,9 (34,9 - 57,6)
+3-4
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+70+
+Naiset
+71
+155
+45,8 (36,3 - 57,8)
+3-4
+2019-2023
+Lääkehoito (sairaala)
+Kaikki yhdessä
+Pohjois-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+144
+304
+46,7 (39,4 - 55,3)
+3-1
+2019-2023
+Lääkehoito (sairaala)
+Sukupuoli
+Pohjois-Suomi
+Kaikki ikäryhmät
+Miehet
+78
+172
+45,2 (35,9 - 56,9)
+3-2
+2019-2023
+Lääkehoito (sairaala)
+Sukupuoli
+Pohjois-Suomi
+Kaikki ikäryhmät
+Naiset
+66
+132
+49,1 (38,3 - 63,0)
+3-2
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä
+Pohjois-Suomi
+&lt;70
+Sukupuolet yhteensä
+72
+122
+59,0 (46,8 - 74,4)
+3-3
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+&lt;70
+Miehet
+35
+67
+52,2 (37,5 - 72,8)
+3-4
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+&lt;70
+Naiset
+37
+55
+67,3 (48,7 - 92,8)
+3-4
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä
+Pohjois-Suomi
+70+
+Sukupuolet yhteensä
+72
+182
+39,6 (31,4 - 49,8)
+3-3
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+70+
+Miehet
+43
+105
+41,0 (30,4 - 55,2)
+3-4
+2019-2023
+Lääkehoito (sairaala)
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+70+
+Naiset
+29
+77
+37,7 (26,2 - 54,2)
+3-4
+2019-2023
+Lääkehoito (osto)
+Kaikki yhdessä
+Etelä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+575
+800
+72,2 (66,5 - 78,5)
+4-1
+2019-2023
+Lääkehoito (osto)
+Sukupuoli
+Etelä-Suomi
+Kaikki ikäryhmät
+Miehet
+291
+402
+72,5 (64,5 - 81,5)
+4-2
+2019-2023
+Lääkehoito (osto)
+Sukupuoli
+Etelä-Suomi
+Kaikki ikäryhmät
+Naiset
+284
+398
+72,1 (64,1 - 81,0)
+4-2
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä
+Etelä-Suomi
+&lt;70
+Sukupuolet yhteensä
+255
+331
+77,0 (68,1 - 87,1)
+4-3
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+&lt;70
+Miehet
+136
+180
+75,6 (63,9 - 89,4)
+4-4
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+&lt;70
+Naiset
+119
+151
+78,8 (65,8 - 94,3)
+4-4
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä
+Etelä-Suomi
+70+
+Sukupuolet yhteensä
+320
+469
+68,2 (61,1 - 76,1)
+4-3
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+70+
+Miehet
+155
+222
+69,8 (59,6 - 81,7)
+4-4
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+70+
+Naiset
+165
+247
+66,8 (57,3 - 77,8)
+4-4
+2019-2023
+Lääkehoito (osto)
+Kaikki yhdessä
+Itä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+251
+375
+66,9 (59,0 - 75,9)
+4-1
+2019-2023
+Lääkehoito (osto)
+Sukupuoli
+Itä-Suomi
+Kaikki ikäryhmät
+Miehet
+145
+213
+67,7 (57,4 - 79,7)
+4-2
+2019-2023
+Lääkehoito (osto)
+Sukupuoli
+Itä-Suomi
+Kaikki ikäryhmät
+Naiset
+106
+162
+66,8 (54,9 - 81,3)
+4-2
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä
+Itä-Suomi
+&lt;70
+Sukupuolet yhteensä
+99
+132
+75,0 (61,6 - 91,3)
+4-3
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+&lt;70
+Miehet
+61
+83
+73,5 (57,2 - 94,5)
+4-4
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+&lt;70
+Naiset
+38
+49
+77,6 (56,4 - 106,6)
+4-4
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä
+Itä-Suomi
+70+
+Sukupuolet yhteensä
+152
+243
+62,6 (53,4 - 73,3)
+4-3
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+70+
+Miehet
+84
+130
+64,6 (52,2 - 80,0)
+4-4
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+70+
+Naiset
+68
+113
+60,2 (47,4 - 76,3)
+4-4
+2019-2023
+Lääkehoito (osto)
+Kaikki yhdessä
+Sisä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+268
+382
+68,6 (60,7 - 77,6)
+4-1
+2019-2023
+Lääkehoito (osto)
+Sukupuoli
+Sisä-Suomi
+Kaikki ikäryhmät
+Miehet
+158
+219
+70,1 (59,7 - 82,4)
+4-2
+2019-2023
+Lääkehoito (osto)
+Sukupuoli
+Sisä-Suomi
+Kaikki ikäryhmät
+Naiset
+110
+163
+67,3 (55,6 - 81,5)
+4-2
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä
+Sisä-Suomi
+&lt;70
+Sukupuolet yhteensä
+117
+151
+77,5 (64,6 - 92,9)
+4-3
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+&lt;70
+Miehet
+78
+102
+76,5 (61,3 - 95,5)
+4-4
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+&lt;70
+Naiset
+39
+49
+79,6 (58,2 - 108,9)
+4-4
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä
+Sisä-Suomi
+70+
+Sukupuolet yhteensä
+151
+231
+65,4 (55,7 - 76,7)
+4-3
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+70+
+Miehet
+80
+117
+68,4 (54,9 - 85,1)
+4-4
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+70+
+Naiset
+71
+114
+62,3 (49,4 - 78,6)
+4-4
+2019-2023
+Lääkehoito (osto)
+Kaikki yhdessä
+Länsi-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+275
+440
+61,9 (54,8 - 69,8)
+4-1
+2019-2023
+Lääkehoito (osto)
+Sukupuoli
+Länsi-Suomi
+Kaikki ikäryhmät
+Miehet
+140
+227
+61,7 (52,1 - 73,0)
+4-2
+2019-2023
+Lääkehoito (osto)
+Sukupuoli
+Länsi-Suomi
+Kaikki ikäryhmät
+Naiset
+135
+213
+61,8 (51,5 - 74,1)
+4-2
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä
+Länsi-Suomi
+&lt;70
+Sukupuolet yhteensä
+93
+149
+62,4 (50,9 - 76,5)
+4-3
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+&lt;70
+Miehet
+57
+91
+62,6 (48,3 - 81,2)
+4-4
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+&lt;70
+Naiset
+36
+58
+62,1 (44,8 - 86,0)
+4-4
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä
+Länsi-Suomi
+70+
+Sukupuolet yhteensä
+182
+291
+62,5 (54,1 - 72,3)
+4-3
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+70+
+Miehet
+83
+136
+61,0 (49,2 - 75,7)
+4-4
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+70+
+Naiset
+99
+155
+63,9 (52,5 - 77,8)
+4-4
+2019-2023
+Lääkehoito (osto)
+Kaikki yhdessä
+Pohjois-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+202
+304
+65,6 (56,8 - 75,7)
+4-1
+2019-2023
+Lääkehoito (osto)
+Sukupuoli
+Pohjois-Suomi
+Kaikki ikäryhmät
+Miehet
+111
+172
+62,9 (52,0 - 76,2)
+4-2
+2019-2023
+Lääkehoito (osto)
+Sukupuoli
+Pohjois-Suomi
+Kaikki ikäryhmät
+Naiset
+91
+132
+68,7 (55,5 - 85,0)
+4-2
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä
+Pohjois-Suomi
+&lt;70
+Sukupuolet yhteensä
+87
+122
+71,3 (57,8 - 88,0)
+4-3
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+&lt;70
+Miehet
+46
+67
+68,7 (51,4 - 91,7)
+4-4
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+&lt;70
+Naiset
+41
+55
+74,5 (54,9 - 101,2)
+4-4
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä
+Pohjois-Suomi
+70+
+Sukupuolet yhteensä
+115
+182
+63,2 (52,6 - 75,9)
+4-3
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+70+
+Miehet
+65
+105
+61,9 (48,5 - 78,9)
+4-4
+2019-2023
+Lääkehoito (osto)
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+70+
+Naiset
+50
+77
+64,9 (49,2 - 85,7)
+4-4
+2019-2023
+Palliatiivinen hoito
+Kaikki yhdessä
+Etelä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+116
+800
+14,5 (12,1 - 17,4)
+5-1
+2019-2023
+Palliatiivinen hoito
+Sukupuoli
+Etelä-Suomi
+Kaikki ikäryhmät
+Miehet
+59
+402
+14,9 (11,5 - 19,3)
+5-2
+2019-2023
+Palliatiivinen hoito
+Sukupuoli
+Etelä-Suomi
+Kaikki ikäryhmät
+Naiset
+57
+398
+14,2 (10,9 - 18,4)
+5-2
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä
+Etelä-Suomi
+&lt;70
+Sukupuolet yhteensä
+45
+331
+13,6 (10,2 - 18,2)
+5-3
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+&lt;70
+Miehet
+22
+180
+12,2 (8,0 - 18,6)
+5-4
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+&lt;70
+Naiset
+23
+151
+15,2 (10,1 - 22,9)
+5-4
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä
+Etelä-Suomi
+70+
+Sukupuolet yhteensä
+71
+469
+15,1 (12,0 - 19,1)
+5-3
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+70+
+Miehet
+37
+222
+16,7 (12,1 - 23,0)
+5-4
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+70+
+Naiset
+34
+247
+13,8 (9,8 - 19,3)
+5-4
+2019-2023
+Palliatiivinen hoito
+Kaikki yhdessä
+Itä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+36
+375
+8,8 (6,3 - 12,3)
+5-1
+2019-2023
+Palliatiivinen hoito
+Sukupuoli
+Itä-Suomi
+Kaikki ikäryhmät
+Miehet
+20
+213
+8,9 (5,7 - 13,9)
+5-2
+2019-2023
+Palliatiivinen hoito
+Sukupuoli
+Itä-Suomi
+Kaikki ikäryhmät
+Naiset
+16
+162
+8,3 (5,0 - 13,7)
+5-2
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä
+Itä-Suomi
+&lt;70
+Sukupuolet yhteensä
+9
+132
+6,8 (3,5 - 13,1)
+5-3
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+&lt;70
+Miehet
+7
+83
+8,4 (4,0 - 17,7)
+5-4
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+&lt;70
+Naiset
+2
+49
+4,1 (1,0 - 16,3)
+5-4
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä
+Itä-Suomi
+70+
+Sukupuolet yhteensä
+27
+243
+11,1 (7,6 - 16,2)
+5-3
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+70+
+Miehet
+13
+130
+10,0 (5,8 - 17,2)
+5-4
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+70+
+Naiset
+14
+113
+12,4 (7,3 - 20,9)
+5-4
+2019-2023
+Palliatiivinen hoito
+Kaikki yhdessä
+Sisä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+38
+382
+10,0 (7,2 - 13,8)
+5-1
+2019-2023
+Palliatiivinen hoito
+Sukupuoli
+Sisä-Suomi
+Kaikki ikäryhmät
+Miehet
+20
+219
+9,2 (5,8 - 14,4)
+5-2
+2019-2023
+Palliatiivinen hoito
+Sukupuoli
+Sisä-Suomi
+Kaikki ikäryhmät
+Naiset
+18
+163
+10,9 (6,8 - 17,5)
+5-2
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä
+Sisä-Suomi
+&lt;70
+Sukupuolet yhteensä
+12
+151
+7,9 (4,5 - 14,0)
+5-3
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+&lt;70
+Miehet
+8
+102
+7,8 (3,9 - 15,7)
+5-4
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+&lt;70
+Naiset
+4
+49
+8,2 (3,1 - 21,8)
+5-4
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä
+Sisä-Suomi
+70+
+Sukupuolet yhteensä
+26
+231
+11,3 (7,7 - 16,5)
+5-3
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+70+
+Miehet
+12
+117
+10,3 (5,8 - 18,1)
+5-4
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+70+
+Naiset
+14
+114
+12,3 (7,3 - 20,7)
+5-4
+2019-2023
+Palliatiivinen hoito
+Kaikki yhdessä
+Länsi-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+40
+440
+8,8 (6,4 - 12,0)
+5-1
+2019-2023
+Palliatiivinen hoito
+Sukupuoli
+Länsi-Suomi
+Kaikki ikäryhmät
+Miehet
+25
+227
+10,3 (7,0 - 15,4)
+5-2
+2019-2023
+Palliatiivinen hoito
+Sukupuoli
+Länsi-Suomi
+Kaikki ikäryhmät
+Naiset
+15
+213
+6,6 (3,9 - 11,1)
+5-2
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä
+Länsi-Suomi
+&lt;70
+Sukupuolet yhteensä
+15
+149
+10,1 (6,1 - 16,7)
+5-3
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+&lt;70
+Miehet
+11
+91
+12,1 (6,7 - 21,8)
+5-4
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+&lt;70
+Naiset
+4
+58
+6,9 (2,6 - 18,4)
+5-4
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä
+Länsi-Suomi
+70+
+Sukupuolet yhteensä
+25
+291
+8,6 (5,8 - 12,7)
+5-3
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+70+
+Miehet
+14
+136
+10,3 (6,1 - 17,4)
+5-4
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+70+
+Naiset
+11
+155
+7,1 (3,9 - 12,8)
+5-4
+2019-2023
+Palliatiivinen hoito
+Kaikki yhdessä
+Pohjois-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+27
+304
+9,3 (6,3 - 13,9)
+5-1
+2019-2023
+Palliatiivinen hoito
+Sukupuoli
+Pohjois-Suomi
+Kaikki ikäryhmät
+Miehet
+14
+172
+8,9 (5,2 - 15,2)
+5-2
+2019-2023
+Palliatiivinen hoito
+Sukupuoli
+Pohjois-Suomi
+Kaikki ikäryhmät
+Naiset
+13
+132
+9,8 (5,5 - 17,5)
+5-2
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä
+Pohjois-Suomi
+&lt;70
+Sukupuolet yhteensä
+5
+122
+4,1 (1,7 - 9,8)
+5-3
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+&lt;70
+Miehet
+4
+67
+6,0 (2,2 - 15,9)
+5-4
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+&lt;70
+Naiset
+1
+55
+1,8 (0,3 - 12,9)
+5-4
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä
+Pohjois-Suomi
+70+
+Sukupuolet yhteensä
+22
+182
+12,1 (8,0 - 18,4)
+5-3
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+70+
+Miehet
+10
+105
+9,5 (5,1 - 17,7)
+5-4
+2019-2023
+Palliatiivinen hoito
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+70+
+Naiset
+12
+77
+15,6 (8,9 - 27,4)
+5-4
+2019-2023
+Sädehoito
+Kaikki yhdessä
+Etelä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+119
+800
+14,5 (12,1 - 17,5)
+6-1
+2019-2023
+Sädehoito
+Sukupuoli
+Etelä-Suomi
+Kaikki ikäryhmät
+Miehet
+60
+402
+14,6 (11,3 - 18,8)
+6-2
+2019-2023
+Sädehoito
+Sukupuoli
+Etelä-Suomi
+Kaikki ikäryhmät
+Naiset
+59
+398
+14,6 (11,3 - 18,9)
+6-2
+2019-2023
+Sädehoito
+Ikäryhmä
+Etelä-Suomi
+&lt;70
+Sukupuolet yhteensä
+62
+331
+18,7 (14,6 - 24,0)
+6-3
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+&lt;70
+Miehet
+30
+180
+16,7 (11,7 - 23,8)
+6-4
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+&lt;70
+Naiset
+32
+151
+21,2 (15,0 - 30,0)
+6-4
+2019-2023
+Sädehoito
+Ikäryhmä
+Etelä-Suomi
+70+
+Sukupuolet yhteensä
+57
+469
+12,2 (9,4 - 15,8)
+6-3
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+70+
+Miehet
+30
+222
+13,5 (9,4 - 19,3)
+6-4
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Etelä-Suomi
+70+
+Naiset
+27
+247
+10,9 (7,5 - 15,9)
+6-4
+2019-2023
+Sädehoito
+Kaikki yhdessä
+Itä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+71
+375
+19,1 (15,0 - 24,3)
+6-1
+2019-2023
+Sädehoito
+Sukupuoli
+Itä-Suomi
+Kaikki ikäryhmät
+Miehet
+42
+213
+19,0 (14,0 - 25,8)
+6-2
+2019-2023
+Sädehoito
+Sukupuoli
+Itä-Suomi
+Kaikki ikäryhmät
+Naiset
+29
+162
+19,3 (13,1 - 28,5)
+6-2
+2019-2023
+Sädehoito
+Ikäryhmä
+Itä-Suomi
+&lt;70
+Sukupuolet yhteensä
+36
+132
+27,3 (19,7 - 37,8)
+6-3
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+&lt;70
+Miehet
+23
+83
+27,7 (18,4 - 41,7)
+6-4
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+&lt;70
+Naiset
+13
+49
+26,5 (15,4 - 45,7)
+6-4
+2019-2023
+Sädehoito
+Ikäryhmä
+Itä-Suomi
+70+
+Sukupuolet yhteensä
+35
+243
+14,4 (10,3 - 20,1)
+6-3
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+70+
+Miehet
+19
+130
+14,6 (9,3 - 22,9)
+6-4
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Itä-Suomi
+70+
+Naiset
+16
+113
+14,2 (8,7 - 23,1)
+6-4
+2019-2023
+Sädehoito
+Kaikki yhdessä
+Sisä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+88
+382
+22,2 (18,0 - 27,5)
+6-1
+2019-2023
+Sädehoito
+Sukupuoli
+Sisä-Suomi
+Kaikki ikäryhmät
+Miehet
+58
+219
+25,4 (19,5 - 33,1)
+6-2
+2019-2023
+Sädehoito
+Sukupuoli
+Sisä-Suomi
+Kaikki ikäryhmät
+Naiset
+30
+163
+19,3 (13,3 - 27,8)
+6-2
+2019-2023
+Sädehoito
+Ikäryhmä
+Sisä-Suomi
+&lt;70
+Sukupuolet yhteensä
+41
+151
+27,2 (20,0 - 36,9)
+6-3
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+&lt;70
+Miehet
+29
+102
+28,4 (19,8 - 40,9)
+6-4
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+&lt;70
+Naiset
+12
+49
+24,5 (13,9 - 43,1)
+6-4
+2019-2023
+Sädehoito
+Ikäryhmä
+Sisä-Suomi
+70+
+Sukupuolet yhteensä
+47
+231
+20,3 (15,3 - 27,1)
+6-3
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+70+
+Miehet
+29
+117
+24,8 (17,2 - 35,7)
+6-4
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Sisä-Suomi
+70+
+Naiset
+18
+114
+15,8 (9,9 - 25,1)
+6-4
+2019-2023
+Sädehoito
+Kaikki yhdessä
+Länsi-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+107
+440
+25,0 (20,5 - 30,5)
+6-1
+2019-2023
+Sädehoito
+Sukupuoli
+Länsi-Suomi
+Kaikki ikäryhmät
+Miehet
+62
+227
+27,1 (21,0 - 35,0)
+6-2
+2019-2023
+Sädehoito
+Sukupuoli
+Länsi-Suomi
+Kaikki ikäryhmät
+Naiset
+45
+213
+23,5 (16,9 - 32,8)
+6-2
+2019-2023
+Sädehoito
+Ikäryhmä
+Länsi-Suomi
+&lt;70
+Sukupuolet yhteensä
+48
+149
+32,2 (24,3 - 42,7)
+6-3
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+&lt;70
+Miehet
+28
+91
+30,8 (21,2 - 44,6)
+6-4
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+&lt;70
+Naiset
+20
+58
+34,5 (22,2 - 53,4)
+6-4
+2019-2023
+Sädehoito
+Ikäryhmä
+Länsi-Suomi
+70+
+Sukupuolet yhteensä
+59
+291
+20,3 (15,7 - 26,2)
+6-3
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+70+
+Miehet
+34
+136
+25,0 (17,9 - 35,0)
+6-4
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Länsi-Suomi
+70+
+Naiset
+25
+155
+16,1 (10,9 - 23,9)
+6-4
+2019-2023
+Sädehoito
+Kaikki yhdessä
+Pohjois-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+44
+304
+14,6 (10,7 - 19,8)
+6-1
+2019-2023
+Sädehoito
+Sukupuoli
+Pohjois-Suomi
+Kaikki ikäryhmät
+Miehet
+23
+172
+13,8 (9,1 - 20,9)
+6-2
+2019-2023
+Sädehoito
+Sukupuoli
+Pohjois-Suomi
+Kaikki ikäryhmät
+Naiset
+21
+132
+15,5 (10,0 - 24,1)
+6-2
+2019-2023
+Sädehoito
+Ikäryhmä
+Pohjois-Suomi
+&lt;70
+Sukupuolet yhteensä
+16
+122
+13,1 (8,0 - 21,4)
+6-3
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+&lt;70
+Miehet
+8
+67
+11,9 (6,0 - 23,9)
+6-4
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+&lt;70
+Naiset
+8
+55
+14,5 (7,3 - 29,1)
+6-4
+2019-2023
+Sädehoito
+Ikäryhmä
+Pohjois-Suomi
+70+
+Sukupuolet yhteensä
+28
+182
+15,4 (10,6 - 22,3)
+6-3
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+70+
+Miehet
+15
+105
+14,3 (8,6 - 23,7)
+6-4
+2019-2023
+Sädehoito
+Ikäryhmä, Sukupuoli
+Pohjois-Suomi
+70+
+Naiset
+13
+77
+16,9 (9,8 - 29,1)
+6-4
+Hoitomuoto
+Stratifiointi
+Aikajakso
+Hoitomuoto
+Hyvinvointialue
+Yhteistyöalue
+Hoidettujen lkm
+Tapausten lkm
+Osuus (%)
+2019-2023
+Autologinen kantasolusiirto
+Itä-Uusimaa
+Etelä-Suomi
+10
+49
+13,3 (6,6 - 26,8)
+1
+2019-2023
+Autologinen kantasolusiirto
+Keski-Uusimaa
+Etelä-Suomi
+9
+66
+10,5 (4,9 - 22,8)
+1
+2019-2023
+Autologinen kantasolusiirto
+Länsi-Uusimaa
+Etelä-Suomi
+36
+151
+20,9 (14,9 - 29,3)
+1
+2019-2023
+Autologinen kantasolusiirto
+Vantaa ja Kerava
+Etelä-Suomi
+19
+86
+21,6 (12,7 - 36,6)
+1
+2019-2023
+Autologinen kantasolusiirto
+Päijät-Häme
+Etelä-Suomi
+19
+102
+18,7 (9,2 - 37,9)
+1
+2019-2023
+Autologinen kantasolusiirto
+Kymenlaakso
+Etelä-Suomi
+11
+80
+14,2 (7,7 - 26,1)
+1
+2019-2023
+Autologinen kantasolusiirto
+Etelä-Karjala
+Etelä-Suomi
+5
+60
+9,2 (3,7 - 23,2)
+1
+2019-2023
+Autologinen kantasolusiirto
+Helsingin kaupunki
+Etelä-Suomi
+45
+206
+19,2 (14,0 - 26,2)
+1
+2019-2023
+Autologinen kantasolusiirto
+Etelä-Savo
+Itä-Suomi
+23
+94
+24,7 (15,8 - 38,6)
+1
+2019-2023
+Autologinen kantasolusiirto
+Pohjois-Savo
+Itä-Suomi
+30
+96
+28,8 (20,0 - 41,6)
+1
+2019-2023
+Autologinen kantasolusiirto
+Pohjois-Karjala
+Itä-Suomi
+25
+84
+27,1 (17,9 - 41,2)
+1
+2019-2023
+Autologinen kantasolusiirto
+Keski-Suomi
+Itä-Suomi
+22
+101
+21,0 (12,6 - 34,9)
+1
+2019-2023
+Autologinen kantasolusiirto
+Kanta-Häme
+Sisä-Suomi
+17
+89
+19,4 (11,6 - 32,4)
+1
+2019-2023
+Autologinen kantasolusiirto
+Pirkanmaa
+Sisä-Suomi
+51
+208
+21,9 (16,4 - 29,3)
+1
+2019-2023
+Autologinen kantasolusiirto
+Etelä-Pohjanmaa
+Sisä-Suomi
+27
+85
+21,5 (14,4 - 32,2)
+1
+2019-2023
+Autologinen kantasolusiirto
+Varsinais-Suomi
+Länsi-Suomi
+44
+248
+19,7 (14,5 - 26,8)
+1
+2019-2023
+Autologinen kantasolusiirto
+Satakunta
+Länsi-Suomi
+11
+91
+14,8 (7,9 - 27,6)
+1
+2019-2023
+Autologinen kantasolusiirto
+Pohjanmaa
+Länsi-Suomi
+18
+101
+14,1 (8,5 - 23,5)
+1
+2019-2023
+Autologinen kantasolusiirto
+Keski-Pohjanmaa
+Pohjois-Suomi
+6
+25
+21,9 (7,5 - 63,9)
+1
+2019-2023
+Autologinen kantasolusiirto
+Pohjois-Pohjanmaa
+Pohjois-Suomi
+20
+162
+11,4 (7,2 - 17,9)
+1
+2019-2023
+Autologinen kantasolusiirto
+Kainuu
+Pohjois-Suomi
+6
+36
+18,3 (7,4 - 45,3)
+1
+2019-2023
+Autologinen kantasolusiirto
+Lappi
+Pohjois-Suomi
+15
+81
+12,9 (7,2 - 23,2)
+1
+2019-2023
+Lääkehoito
+Itä-Uusimaa
+Etelä-Suomi
+34
+49
+57,3 (38,8 - 84,8)
+2
+2019-2023
+Lääkehoito
+Keski-Uusimaa
+Etelä-Suomi
+40
+66
+58,2 (40,6 - 83,4)
+2
+2019-2023
+Lääkehoito
+Länsi-Uusimaa
+Etelä-Suomi
+128
+151
+83,1 (69,5 - 99,4)
+2
+2019-2023
+Lääkehoito
+Vantaa ja Kerava
+Etelä-Suomi
+68
+86
+71,8 (54,4 - 94,6)
+2
+2019-2023
+Lääkehoito
+Päijät-Häme
+Etelä-Suomi
+90
+102
+85,5 (66,2 - 110,6)
+2
+2019-2023
+Lääkehoito
+Kymenlaakso
+Etelä-Suomi
+68
+80
+83,4 (64,3 - 108,2)
+2
+2019-2023
+Lääkehoito
+Etelä-Karjala
+Etelä-Suomi
+49
+60
+87,0 (63,4 - 119,4)
+2
+2019-2023
+Lääkehoito
+Helsingin kaupunki
+Etelä-Suomi
+173
+206
+83,1 (71,1 - 97,1)
+2
+2019-2023
+Lääkehoito
+Etelä-Savo
+Itä-Suomi
+77
+94
+81,0 (63,3 - 103,7)
+2
+2019-2023
+Lääkehoito
+Pohjois-Savo
+Itä-Suomi
+77
+96
+79,0 (62,1 - 100,4)
+2
+2019-2023
+Lääkehoito
+Pohjois-Karjala
+Itä-Suomi
+75
+84
+83,0 (65,3 - 105,7)
+2
+2019-2023
+Lääkehoito
+Keski-Suomi
+Itä-Suomi
+64
+101
+59,3 (45,2 - 77,9)
+2
+2019-2023
+Lääkehoito
+Kanta-Häme
+Sisä-Suomi
+79
+89
+86,9 (69,0 - 109,5)
+2
+2019-2023
+Lääkehoito
+Pirkanmaa
+Sisä-Suomi
+177
+208
+82,8 (71,0 - 96,5)
+2
+2019-2023
+Lääkehoito
+Etelä-Pohjanmaa
+Sisä-Suomi
+60
+85
+61,4 (46,4 - 81,2)
+2
+2019-2023
+Lääkehoito
+Varsinais-Suomi
+Länsi-Suomi
+179
+248
+70,8 (60,8 - 82,5)
+2
+2019-2023
+Lääkehoito
+Satakunta
+Länsi-Suomi
+75
+91
+81,2 (64,0 - 102,9)
+2
+2019-2023
+Lääkehoito
+Pohjanmaa
+Länsi-Suomi
+86
+101
+78,9 (63,1 - 98,8)
+2
+2019-2023
+Lääkehoito
+Keski-Pohjanmaa
+Pohjois-Suomi
+19
+25
+63,1 (37,2 - 107,0)
+2
+2019-2023
+Lääkehoito
+Pohjois-Pohjanmaa
+Pohjois-Suomi
+128
+162
+77,6 (64,7 - 93,1)
+2
+2019-2023
+Lääkehoito
+Kainuu
+Pohjois-Suomi
+28
+36
+69,8 (46,3 - 105,2)
+2
+2019-2023
+Lääkehoito
+Lappi
+Pohjois-Suomi
+63
+81
+68,6 (52,5 - 89,8)
+2
+2019-2023
+Lääkehoito (sairaala)
+Itä-Uusimaa
+Etelä-Suomi
+17
+49
+31,0 (17,4 - 55,0)
+3
+2019-2023
+Lääkehoito (sairaala)
+Keski-Uusimaa
+Etelä-Suomi
+10
+66
+11,1 (5,3 - 23,2)
+3
+2019-2023
+Lääkehoito (sairaala)
+Länsi-Uusimaa
+Etelä-Suomi
+73
+151
+47,0 (37,0 - 59,7)
+3
+2019-2023
+Lääkehoito (sairaala)
+Vantaa ja Kerava
+Etelä-Suomi
+50
+86
+51,4 (36,9 - 71,4)
+3
+2019-2023
+Lääkehoito (sairaala)
+Päijät-Häme
+Etelä-Suomi
+86
+102
+83,2 (64,0 - 108,2)
+3
+2019-2023
+Lääkehoito (sairaala)
+Kymenlaakso
+Etelä-Suomi
+68
+80
+83,4 (64,3 - 108,2)
+3
+2019-2023
+Lääkehoito (sairaala)
+Etelä-Karjala
+Etelä-Suomi
+1
+60
+3,0 (0,4 - 21,3)
+3
+2019-2023
+Lääkehoito (sairaala)
+Helsingin kaupunki
+Etelä-Suomi
+105
+206
+49,9 (40,8 - 61,0)
+3
+2019-2023
+Lääkehoito (sairaala)
+Etelä-Savo
+Itä-Suomi
+56
+94
+60,2 (44,8 - 80,7)
+3
+2019-2023
+Lääkehoito (sairaala)
+Pohjois-Savo
+Itä-Suomi
+69
+96
+68,8 (53,5 - 88,5)
+3
+2019-2023
+Lääkehoito (sairaala)
+Pohjois-Karjala
+Itä-Suomi
+74
+84
+83,0 (65,2 - 105,6)
+3
+2019-2023
+Lääkehoito (sairaala)
+Keski-Suomi
+Itä-Suomi
+22
+101
+21,0 (12,6 - 34,8)
+3
+2019-2023
+Lääkehoito (sairaala)
+Kanta-Häme
+Sisä-Suomi
+79
+89
+86,9 (69,0 - 109,5)
+3
+2019-2023
+Lääkehoito (sairaala)
+Pirkanmaa
+Sisä-Suomi
+153
+208
+71,0 (60,2 - 83,8)
+3
+2019-2023
+Lääkehoito (sairaala)
+Etelä-Pohjanmaa
+Sisä-Suomi
+15
+85
+12,4 (7,2 - 21,1)
+3
+2019-2023
+Lääkehoito (sairaala)
+Varsinais-Suomi
+Länsi-Suomi
+62
+248
+23,9 (18,5 - 30,9)
+3
+2019-2023
+Lääkehoito (sairaala)
+Satakunta
+Länsi-Suomi
+65
+91
+71,6 (55,5 - 92,5)
+3
+2019-2023
+Lääkehoito (sairaala)
+Pohjanmaa
+Länsi-Suomi
+81
+101
+74,6 (59,2 - 94,0)
+3
+2019-2023
+Lääkehoito (sairaala)
+Keski-Pohjanmaa
+Pohjois-Suomi
+11
+25
+38,6 (18,8 - 79,3)
+3
+2019-2023
+Lääkehoito (sairaala)
+Pohjois-Pohjanmaa
+Pohjois-Suomi
+110
+162
+66,7 (54,9 - 81,2)
+3
+2019-2023
+Lääkehoito (sairaala)
+Kainuu
+Pohjois-Suomi
+6
+36
+11,2 (4,8 - 26,2)
+3
+2019-2023
+Lääkehoito (sairaala)
+Lappi
+Pohjois-Suomi
+17
+81
+16,1 (9,6 - 27,1)
+3
+2019-2023
+Lääkehoito (osto)
+Itä-Uusimaa
+Etelä-Suomi
+27
+49
+46,1 (29,4 - 72,3)
+4
+2019-2023
+Lääkehoito (osto)
+Keski-Uusimaa
+Etelä-Suomi
+39
+66
+57,6 (40,1 - 82,9)
+4
+2019-2023
+Lääkehoito (osto)
+Länsi-Uusimaa
+Etelä-Suomi
+114
+151
+75,0 (62,1 - 90,7)
+4
+2019-2023
+Lääkehoito (osto)
+Vantaa ja Kerava
+Etelä-Suomi
+62
+86
+62,3 (46,7 - 83,0)
+4
+2019-2023
+Lääkehoito (osto)
+Päijät-Häme
+Etelä-Suomi
+75
+102
+70,2 (52,8 - 93,5)
+4
+2019-2023
+Lääkehoito (osto)
+Kymenlaakso
+Etelä-Suomi
+52
+80
+66,2 (49,1 - 89,2)
+4
+2019-2023
+Lääkehoito (osto)
+Etelä-Karjala
+Etelä-Suomi
+49
+60
+87,0 (63,4 - 119,4)
+4
+2019-2023
+Lääkehoito (osto)
+Helsingin kaupunki
+Etelä-Suomi
+157
+206
+75,2 (63,9 - 88,5)
+4
+2019-2023
+Lääkehoito (osto)
+Etelä-Savo
+Itä-Suomi
+58
+94
+62,0 (46,6 - 82,6)
+4
+2019-2023
+Lääkehoito (osto)
+Pohjois-Savo
+Itä-Suomi
+61
+96
+62,9 (48,2 - 82,1)
+4
+2019-2023
+Lääkehoito (osto)
+Pohjois-Karjala
+Itä-Suomi
+70
+84
+77,9 (60,6 - 100,0)
+4
+2019-2023
+Lääkehoito (osto)
+Keski-Suomi
+Itä-Suomi
+62
+101
+58,7 (44,6 - 77,3)
+4
+2019-2023
+Lääkehoito (osto)
+Kanta-Häme
+Sisä-Suomi
+60
+89
+66,9 (51,3 - 87,3)
+4
+2019-2023
+Lääkehoito (osto)
+Pirkanmaa
+Sisä-Suomi
+150
+208
+68,4 (58,0 - 80,7)
+4
+2019-2023
+Lääkehoito (osto)
+Etelä-Pohjanmaa
+Sisä-Suomi
+58
+85
+59,5 (44,7 - 79,0)
+4
+2019-2023
+Lääkehoito (osto)
+Varsinais-Suomi
+Länsi-Suomi
+171
+248
+67,9 (58,0 - 79,3)
+4
+2019-2023
+Lääkehoito (osto)
+Satakunta
+Länsi-Suomi
+41
+91
+42,9 (31,2 - 58,9)
+4
+2019-2023
+Lääkehoito (osto)
+Pohjanmaa
+Länsi-Suomi
+63
+101
+57,2 (43,9 - 74,4)
+4
+2019-2023
+Lääkehoito (osto)
+Keski-Pohjanmaa
+Pohjois-Suomi
+17
+25
+56,3 (32,0 - 99,0)
+4
+2019-2023
+Lääkehoito (osto)
+Pohjois-Pohjanmaa
+Pohjois-Suomi
+98
+162
+59,5 (48,3 - 73,4)
+4
+2019-2023
+Lääkehoito (osto)
+Kainuu
+Pohjois-Suomi
+24
+36
+61,5 (39,4 - 95,9)
+4
+2019-2023
+Lääkehoito (osto)
+Lappi
+Pohjois-Suomi
+63
+81
+68,6 (52,5 - 89,8)
+4
+2019-2023
+Palliatiivinen hoito
+Itä-Uusimaa
+Etelä-Suomi
+7
+49
+11,9 (5,5 - 25,5)
+5
+2019-2023
+Palliatiivinen hoito
+Keski-Uusimaa
+Etelä-Suomi
+12
+66
+13,9 (7,3 - 26,6)
+5
+2019-2023
+Palliatiivinen hoito
+Länsi-Uusimaa
+Etelä-Suomi
+14
+151
+8,6 (5,1 - 14,7)
+5
+2019-2023
+Palliatiivinen hoito
+Vantaa ja Kerava
+Etelä-Suomi
+12
+86
+13,5 (7,0 - 26,2)
+5
+2019-2023
+Palliatiivinen hoito
+Päijät-Häme
+Etelä-Suomi
+36
+102
+38,8 (25,1 - 59,9)
+5
+2019-2023
+Palliatiivinen hoito
+Kymenlaakso
+Etelä-Suomi
+8
+80
+7,8 (3,9 - 15,8)
+5
+2019-2023
+Palliatiivinen hoito
+Etelä-Karjala
+Etelä-Suomi
+1
+60
+1,8 (0,3 - 13,1)
+5
+2019-2023
+Palliatiivinen hoito
+Helsingin kaupunki
+Etelä-Suomi
+26
+206
+11,7 (7,8 - 17,7)
+5
+2019-2023
+Palliatiivinen hoito
+Etelä-Savo
+Itä-Suomi
+6
+94
+6,3 (2,7 - 14,8)
+5
+2019-2023
+Palliatiivinen hoito
+Pohjois-Savo
+Itä-Suomi
+8
+96
+6,4 (3,0 - 13,7)
+5
+2019-2023
+Palliatiivinen hoito
+Pohjois-Karjala
+Itä-Suomi
+6
+84
+6,0 (2,4 - 15,0)
+5
+2019-2023
+Palliatiivinen hoito
+Keski-Suomi
+Itä-Suomi
+16
+101
+13,2 (7,7 - 22,4)
+5
+2019-2023
+Palliatiivinen hoito
+Kanta-Häme
+Sisä-Suomi
+7
+89
+6,8 (3,2 - 14,4)
+5
+2019-2023
+Palliatiivinen hoito
+Pirkanmaa
+Sisä-Suomi
+23
+208
+10,8 (7,1 - 16,5)
+5
+2019-2023
+Palliatiivinen hoito
+Etelä-Pohjanmaa
+Sisä-Suomi
+8
+85
+9,3 (4,6 - 18,9)
+5
+2019-2023
+Palliatiivinen hoito
+Varsinais-Suomi
+Länsi-Suomi
+20
+248
+7,4 (4,7 - 11,7)
+5
+2019-2023
+Palliatiivinen hoito
+Satakunta
+Länsi-Suomi
+10
+91
+10,7 (5,6 - 20,4)
+5
+2019-2023
+Palliatiivinen hoito
+Pohjanmaa
+Länsi-Suomi
+10
+101
+9,5 (4,9 - 18,2)
+5
+2019-2023
+Palliatiivinen hoito
+Keski-Pohjanmaa
+Pohjois-Suomi
+3
+25
+5,5 (1,8 - 17,2)
+5
+2019-2023
+Palliatiivinen hoito
+Pohjois-Pohjanmaa
+Pohjois-Suomi
+18
+162
+12,6 (7,5 - 21,1)
+5
+2019-2023
+Palliatiivinen hoito
+Kainuu
+Pohjois-Suomi
+1
+36
+2,5 (0,4 - 17,7)
+5
+2019-2023
+Palliatiivinen hoito
+Lappi
+Pohjois-Suomi
+5
+81
+5,8 (2,0 - 16,7)
+5
+2019-2023
+Sädehoito
+Itä-Uusimaa
+Etelä-Suomi
+3
+49
+5,8 (1,9 - 18,2)
+6
+2019-2023
+Sädehoito
+Keski-Uusimaa
+Etelä-Suomi
+11
+66
+13,4 (6,8 - 26,4)
+6
+2019-2023
+Sädehoito
+Länsi-Uusimaa
+Etelä-Suomi
+18
+151
+11,3 (7,0 - 18,2)
+6
+2019-2023
+Sädehoito
+Vantaa ja Kerava
+Etelä-Suomi
+11
+86
+11,2 (5,8 - 21,6)
+6
+2019-2023
+Sädehoito
+Päijät-Häme
+Etelä-Suomi
+34
+102
+36,1 (22,9 - 57,0)
+6
+2019-2023
+Sädehoito
+Kymenlaakso
+Etelä-Suomi
+6
+80
+9,1 (3,8 - 22,1)
+6
+2019-2023
+Sädehoito
+Etelä-Karjala
+Etelä-Suomi
+6
+60
+8,2 (3,5 - 19,3)
+6
+2019-2023
+Sädehoito
+Helsingin kaupunki
+Etelä-Suomi
+30
+206
+12,8 (8,7 - 18,8)
+6
+2019-2023
+Sädehoito
+Etelä-Savo
+Itä-Suomi
+14
+94
+13,8 (7,8 - 24,3)
+6
+2019-2023
+Sädehoito
+Pohjois-Savo
+Itä-Suomi
+19
+96
+18,4 (11,5 - 29,5)
+6
+2019-2023
+Sädehoito
+Pohjois-Karjala
+Itä-Suomi
+14
+84
+14,6 (8,5 - 25,0)
+6
+2019-2023
+Sädehoito
+Keski-Suomi
+Itä-Suomi
+24
+101
+19,3 (12,6 - 29,5)
+6
+2019-2023
+Sädehoito
+Kanta-Häme
+Sisä-Suomi
+9
+89
+10,2 (5,0 - 20,8)
+6
+2019-2023
+Sädehoito
+Pirkanmaa
+Sisä-Suomi
+63
+208
+28,9 (22,4 - 37,3)
+6
+2019-2023
+Sädehoito
+Etelä-Pohjanmaa
+Sisä-Suomi
+16
+85
+15,7 (9,4 - 26,2)
+6
+2019-2023
+Sädehoito
+Varsinais-Suomi
+Länsi-Suomi
+64
+248
+27,5 (21,3 - 35,6)
+6
+2019-2023
+Sädehoito
+Satakunta
+Länsi-Suomi
+21
+91
+19,5 (12,5 - 30,5)
+6
+2019-2023
+Sädehoito
+Pohjanmaa
+Länsi-Suomi
+22
+101
+20,3 (13,0 - 31,7)
+6
+2019-2023
+Sädehoito
+Keski-Pohjanmaa
+Pohjois-Suomi
+1
+25
+3,0 (0,4 - 21,3)
+6
+2019-2023
+Sädehoito
+Pohjois-Pohjanmaa
+Pohjois-Suomi
+30
+162
+19,1 (13,0 - 28,2)
+6
+2019-2023
+Sädehoito
+Kainuu
+Pohjois-Suomi
+6
+36
+15,2 (6,5 - 35,3)
+6
+2019-2023
+Sädehoito
+Lappi
+Pohjois-Suomi
+7
+81
+6,3 (2,8 - 14,0)
+6
+Hoitomuoto
+1v Suhteellinen elossaolo-osuus
+87,2 %
+3v Suhteellinen elossaolo-osuus
+71,8 %
+5v Suhteellinen elossaolo-osuus
+61,0 %
+Ikäryhmä
+Sukupuoli
+Elossaolo-osuus (%)
+1 vuosi
+3 vuotta
+5 vuotta
+&lt;70
+Miehet
+92,6 (89,0 - 96,3)
+83,2 (78,4 - 88,2)
+75,1 (69,3 - 81,4)
+&lt;70
+Naiset
+93,0 (88,9 - 97,4)
+84,2 (78,9 - 89,9)
+81,8 (76,1 - 88,0)
+70+
+Miehet
+84,2 (80,1 - 88,5)
+63,4 (58,0 - 69,3)
+50,4 (43,4 - 58,6)
+70+
+Naiset
+84,1 (79,9 - 88,6)
+66,2 (60,9 - 72,0)
+49,5 (42,7 - 57,3)
+Ilmaantuvuus
+Hoito
+Ilmaantuvuus
+Aikajakso
+Alue
+Ikäryhmä
+Sukupuoli
+Tapausten lkm
+Ilmaantuvuus (per 100.000)
+2019-2023
+Etelä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+800
+8,1 (7,6 - 8,7)
+1
+2019-2023
+Itä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+375
+8,3 (7,5 - 9,2)
+2
+2019-2023
+Sisä-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+382
+8,6 (7,7 - 9,5)
+3
+2019-2023
+Länsi-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+440
+9,7 (8,8 - 10,6)
+4
+2019-2023
+Pohjois-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+304
+8,5 (7,6 - 9,5)
+5
+2019-2023
+Itä-Uusimaa
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+49
+10,1 (7,6 - 13,4)
+6
+2019-2023
+Keski-Uusimaa
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+66
+7,5 (5,9 - 9,6)
+7
+2019-2023
+Länsi-Uusimaa
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+151
+7,9 (6,7 - 9,2)
+8
+2019-2023
+Vantaa ja Kerava
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+86
+8,4 (6,8 - 10,4)
+9
+2019-2023
+Päijät-Häme
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+102
+8,7 (7,2 - 10,6)
+10
+2019-2023
+Kymenlaakso
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+80
+8,2 (6,6 - 10,2)
+11
+2019-2023
+Etelä-Karjala
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+60
+8,0 (6,2 - 10,3)
+12
+2019-2023
+Helsingin kaupunki
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+206
+7,9 (6,9 - 9,1)
+13
+2019-2023
+Etelä-Savo
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+94
+10,9 (8,9 - 13,4)
+14
+2019-2023
+Pohjois-Savo
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+96
+7,2 (5,9 - 8,8)
+15
+2019-2023
+Pohjois-Karjala
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+84
+8,9 (7,2 - 11,0)
+16
+2019-2023
+Keski-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+101
+7,4 (6,1 - 9,0)
+17
+2019-2023
+Kanta-Häme
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+89
+9,6 (7,8 - 11,8)
+18
+2019-2023
+Pirkanmaa
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+208
+8,4 (7,3 - 9,6)
+19
+2019-2023
+Etelä-Pohjanmaa
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+85
+8,1 (6,5 - 10,0)
+20
+2019-2023
+Varsinais-Suomi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+248
+10,2 (9,0 - 11,5)
+21
+2019-2023
+Satakunta
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+91
+7,4 (6,0 - 9,0)
+22
+2019-2023
+Pohjanmaa
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+101
+11,7 (9,6 - 14,2)
+23
+2019-2023
+Keski-Pohjanmaa
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+25
+7,4 (5,0 - 11,0)
+24
+2019-2023
+Pohjois-Pohjanmaa
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+162
+8,9 (7,6 - 10,4)
+25
+2019-2023
+Kainuu
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+36
+8,0 (5,8 - 11,2)
+26
+2019-2023
+Lappi
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+81
+8,4 (6,8 - 10,5)
+27
+2019-2023
+Etelä-Suomi
+Kaikki ikäryhmät
+Miehet
+402
+9,5 (8,6 - 10,5)
+1
+2019-2023
+Itä-Suomi
+Kaikki ikäryhmät
+Miehet
+213
+10,3 (9,0 - 11,8)
+2
+2019-2023
+Sisä-Suomi
+Kaikki ikäryhmät
+Miehet
+219
+10,8 (9,4 - 12,3)
+3
+2019-2023
+Länsi-Suomi
+Kaikki ikäryhmät
+Miehet
+227
+11,0 (9,6 - 12,5)
+4
+2019-2023
+Pohjois-Suomi
+Kaikki ikäryhmät
+Miehet
+172
+10,4 (9,0 - 12,2)
+5
+2019-2023
+Itä-Uusimaa
+Kaikki ikäryhmät
+Miehet
+29
+12,7 (8,8 - 18,3)
+6
+2019-2023
+Keski-Uusimaa
+Kaikki ikäryhmät
+Miehet
+37
+9,6 (6,8 - 13,4)
+7
+2019-2023
+Länsi-Uusimaa
+Kaikki ikäryhmät
+Miehet
+79
+9,2 (7,3 - 11,5)
+8
+2019-2023
+Vantaa ja Kerava
+Kaikki ikäryhmät
+Miehet
+49
+11,5 (8,6 - 15,4)
+9
+2019-2023
+Päijät-Häme
+Kaikki ikäryhmät
+Miehet
+43
+8,5 (6,2 - 11,4)
+10
+2019-2023
+Kymenlaakso
+Kaikki ikäryhmät
+Miehet
+35
+8,2 (5,8 - 11,4)
+11
+2019-2023
+Etelä-Karjala
+Kaikki ikäryhmät
+Miehet
+30
+9,4 (6,6 - 13,6)
+12
+2019-2023
+Helsingin kaupunki
+Kaikki ikäryhmät
+Miehet
+100
+9,4 (7,7 - 11,5)
+13
+2019-2023
+Etelä-Savo
+Kaikki ikäryhmät
+Miehet
+52
+13,3 (10,1 - 17,5)
+14
+2019-2023
+Pohjois-Savo
+Kaikki ikäryhmät
+Miehet
+52
+8,5 (6,4 - 11,2)
+15
+2019-2023
+Pohjois-Karjala
+Kaikki ikäryhmät
+Miehet
+46
+10,8 (8,1 - 14,5)
+16
+2019-2023
+Keski-Suomi
+Kaikki ikäryhmät
+Miehet
+63
+10,1 (7,9 - 13,0)
+17
+2019-2023
+Kanta-Häme
+Kaikki ikäryhmät
+Miehet
+47
+11,5 (8,6 - 15,3)
+18
+2019-2023
+Pirkanmaa
+Kaikki ikäryhmät
+Miehet
+117
+10,4 (8,7 - 12,5)
+19
+2019-2023
+Etelä-Pohjanmaa
+Kaikki ikäryhmät
+Miehet
+55
+11,0 (8,5 - 14,4)
+20
+2019-2023
+Varsinais-Suomi
+Kaikki ikäryhmät
+Miehet
+124
+11,5 (9,6 - 13,7)
+21
+2019-2023
+Satakunta
+Kaikki ikäryhmät
+Miehet
+51
+9,0 (6,8 - 11,9)
+22
+2019-2023
+Pohjanmaa
+Kaikki ikäryhmät
+Miehet
+52
+12,5 (9,5 - 16,5)
+23
+2019-2023
+Keski-Pohjanmaa
+Kaikki ikäryhmät
+Miehet
+13
+8,0 (4,6 - 13,8)
+24
+2019-2023
+Pohjois-Pohjanmaa
+Kaikki ikäryhmät
+Miehet
+94
+11,5 (9,3 - 14,1)
+25
+2019-2023
+Kainuu
+Kaikki ikäryhmät
+Miehet
+22
+10,5 (6,9 - 16,1)
+26
+2019-2023
+Lappi
+Kaikki ikäryhmät
+Miehet
+43
+9,5 (7,0 - 12,9)
+27
+2019-2023
+Etelä-Suomi
+Kaikki ikäryhmät
+Naiset
+398
+7,2 (6,6 - 8,0)
+1
+2019-2023
+Itä-Suomi
+Kaikki ikäryhmät
+Naiset
+162
+6,7 (5,7 - 7,8)
+2
+2019-2023
+Sisä-Suomi
+Kaikki ikäryhmät
+Naiset
+163
+6,7 (5,7 - 7,8)
+3
+2019-2023
+Länsi-Suomi
+Kaikki ikäryhmät
+Naiset
+213
+8,5 (7,5 - 9,8)
+4
+2019-2023
+Pohjois-Suomi
+Kaikki ikäryhmät
+Naiset
+132
+7,0 (5,9 - 8,3)
+5
+2019-2023
+Itä-Uusimaa
+Kaikki ikäryhmät
+Naiset
+20
+7,5 (4,8 - 11,6)
+6
+2019-2023
+Keski-Uusimaa
+Kaikki ikäryhmät
+Naiset
+29
+6,0 (4,2 - 8,7)
+7
+2019-2023
+Länsi-Uusimaa
+Kaikki ikäryhmät
+Naiset
+72
+6,8 (5,4 - 8,5)
+8
+2019-2023
+Vantaa ja Kerava
+Kaikki ikäryhmät
+Naiset
+37
+6,4 (4,6 - 8,8)
+9
+2019-2023
+Päijät-Häme
+Kaikki ikäryhmät
+Naiset
+59
+9,0 (7,0 - 11,7)
+10
+2019-2023
+Kymenlaakso
+Kaikki ikäryhmät
+Naiset
+45
+8,3 (6,2 - 11,2)
+11
+2019-2023
+Etelä-Karjala
+Kaikki ikäryhmät
+Naiset
+30
+7,1 (4,9 - 10,2)
+12
+2019-2023
+Helsingin kaupunki
+Kaikki ikäryhmät
+Naiset
+106
+7,0 (5,8 - 8,4)
+13
+2019-2023
+Etelä-Savo
+Kaikki ikäryhmät
+Naiset
+42
+9,0 (6,6 - 12,3)
+14
+2019-2023
+Pohjois-Savo
+Kaikki ikäryhmät
+Naiset
+44
+6,0 (4,4 - 8,1)
+15
+2019-2023
+Pohjois-Karjala
+Kaikki ikäryhmät
+Naiset
+38
+7,7 (5,6 - 10,6)
+16
+2019-2023
+Keski-Suomi
+Kaikki ikäryhmät
+Naiset
+38
+5,1 (3,7 - 7,1)
+17
+2019-2023
+Kanta-Häme
+Kaikki ikäryhmät
+Naiset
+42
+8,3 (6,1 - 11,2)
+18
+2019-2023
+Pirkanmaa
+Kaikki ikäryhmät
+Naiset
+91
+6,7 (5,4 - 8,2)
+19
+2019-2023
+Etelä-Pohjanmaa
+Kaikki ikäryhmät
+Naiset
+30
+5,3 (3,7 - 7,6)
+20
+2019-2023
+Varsinais-Suomi
+Kaikki ikäryhmät
+Naiset
+124
+9,1 (7,6 - 10,8)
+21
+2019-2023
+Satakunta
+Kaikki ikäryhmät
+Naiset
+40
+6,0 (4,4 - 8,1)
+22
+2019-2023
+Pohjanmaa
+Kaikki ikäryhmät
+Naiset
+49
+10,9 (8,2 - 14,4)
+23
+2019-2023
+Keski-Pohjanmaa
+Kaikki ikäryhmät
+Naiset
+12
+6,8 (3,8 - 12,0)
+24
+2019-2023
+Pohjois-Pohjanmaa
+Kaikki ikäryhmät
+Naiset
+68
+7,0 (5,5 - 8,8)
+25
+2019-2023
+Kainuu
+Kaikki ikäryhmät
+Naiset
+14
+6,0 (3,5 - 10,1)
+26
+2019-2023
+Lappi
+Kaikki ikäryhmät
+Naiset
+38
+7,5 (5,4 - 10,3)
+27
+2019-2023
+Etelä-Suomi
+&lt;70
+Sukupuolet yhteensä
+331
+3,5 (3,2 - 3,9)
+1
+2019-2023
+Itä-Suomi
+&lt;70
+Sukupuolet yhteensä
+132
+4,0 (3,4 - 4,7)
+2
+2019-2023
+Sisä-Suomi
+&lt;70
+Sukupuolet yhteensä
+151
+4,1 (3,5 - 4,8)
+3
+2019-2023
+Länsi-Suomi
+&lt;70
+Sukupuolet yhteensä
+149
+4,2 (3,5 - 4,9)
+4
+2019-2023
+Pohjois-Suomi
+&lt;70
+Sukupuolet yhteensä
+122
+4,0 (3,3 - 4,8)
+5
+2019-2023
+Itä-Uusimaa
+&lt;70
+Sukupuolet yhteensä
+19
+4,6 (2,9 - 7,2)
+6
+2019-2023
+Keski-Uusimaa
+&lt;70
+Sukupuolet yhteensä
+27
+3,1 (2,1 - 4,5)
+7
+2019-2023
+Länsi-Uusimaa
+&lt;70
+Sukupuolet yhteensä
+65
+3,1 (2,5 - 4,0)
+8
+2019-2023
+Vantaa ja Kerava
+&lt;70
+Sukupuolet yhteensä
+42
+3,4 (2,5 - 4,7)
+9
+2019-2023
+Päijät-Häme
+&lt;70
+Sukupuolet yhteensä
+39
+4,7 (3,5 - 6,5)
+10
+2019-2023
+Kymenlaakso
+&lt;70
+Sukupuolet yhteensä
+29
+4,5 (3,1 - 6,5)
+11
+2019-2023
+Etelä-Karjala
+&lt;70
+Sukupuolet yhteensä
+24
+4,8 (3,2 - 7,1)
+12
+2019-2023
+Helsingin kaupunki
+&lt;70
+Sukupuolet yhteensä
+86
+3,0 (2,4 - 3,7)
+13
+2019-2023
+Etelä-Savo
+&lt;70
+Sukupuolet yhteensä
+33
+6,5 (4,6 - 9,1)
+14
+2019-2023
+Pohjois-Savo
+&lt;70
+Sukupuolet yhteensä
+32
+3,2 (2,2 - 4,5)
+15
+2019-2023
+Pohjois-Karjala
+&lt;70
+Sukupuolet yhteensä
+33
+5,0 (3,6 - 7,0)
+16
+2019-2023
+Keski-Suomi
+&lt;70
+Sukupuolet yhteensä
+34
+3,0 (2,1 - 4,2)
+17
+2019-2023
+Kanta-Häme
+&lt;70
+Sukupuolet yhteensä
+33
+4,8 (3,4 - 6,7)
+18
+2019-2023
+Pirkanmaa
+&lt;70
+Sukupuolet yhteensä
+79
+3,6 (2,9 - 4,5)
+19
+2019-2023
+Etelä-Pohjanmaa
+&lt;70
+Sukupuolet yhteensä
+39
+5,0 (3,7 - 6,8)
+20
+2019-2023
+Varsinais-Suomi
+&lt;70
+Sukupuolet yhteensä
+77
+3,9 (3,1 - 4,8)
+21
+2019-2023
+Satakunta
+&lt;70
+Sukupuolet yhteensä
+31
+3,6 (2,5 - 5,2)
+22
+2019-2023
+Pohjanmaa
+&lt;70
+Sukupuolet yhteensä
+41
+5,6 (4,1 - 7,6)
+23
+2019-2023
+Keski-Pohjanmaa
+&lt;70
+Sukupuolet yhteensä
+10
+3,6 (1,9 - 6,6)
+24
+2019-2023
+Pohjois-Pohjanmaa
+&lt;70
+Sukupuolet yhteensä
+65
+3,7 (2,9 - 4,7)
+25
+2019-2023
+Kainuu
+&lt;70
+Sukupuolet yhteensä
+15
+5,3 (3,2 - 8,8)
+26
+2019-2023
+Lappi
+&lt;70
+Sukupuolet yhteensä
+32
+4,4 (3,1 - 6,3)
+27
+2019-2023
+Etelä-Suomi
+70+
+Sukupuolet yhteensä
+469
+29,2 (26,7 - 32,0)
+1
+2019-2023
+Itä-Suomi
+70+
+Sukupuolet yhteensä
+243
+31,4 (27,7 - 35,6)
+2
+2019-2023
+Sisä-Suomi
+70+
+Sukupuolet yhteensä
+231
+30,2 (26,6 - 34,4)
+3
+2019-2023
+Länsi-Suomi
+70+
+Sukupuolet yhteensä
+291
+36,9 (32,9 - 41,4)
+4
+2019-2023
+Pohjois-Suomi
+70+
+Sukupuolet yhteensä
+182
+30,9 (26,7 - 35,7)
+5
+2019-2023
+Itä-Uusimaa
+70+
+Sukupuolet yhteensä
+30
+37,6 (26,3 - 53,7)
+6
+2019-2023
+Keski-Uusimaa
+70+
+Sukupuolet yhteensä
+39
+28,5 (20,8 - 39,0)
+7
+2019-2023
+Länsi-Uusimaa
+70+
+Sukupuolet yhteensä
+86
+27,8 (22,5 - 34,4)
+8
+2019-2023
+Vantaa ja Kerava
+70+
+Sukupuolet yhteensä
+44
+27,9 (20,8 - 37,5)
+9
+2019-2023
+Päijät-Häme
+70+
+Sukupuolet yhteensä
+63
+30,7 (24,0 - 39,3)
+10
+2019-2023
+Kymenlaakso
+70+
+Sukupuolet yhteensä
+51
+29,9 (22,7 - 39,3)
+11
+2019-2023
+Etelä-Karjala
+70+
+Sukupuolet yhteensä
+36
+27,8 (20,1 - 38,6)
+12
+2019-2023
+Helsingin kaupunki
+70+
+Sukupuolet yhteensä
+120
+28,8 (24,1 - 34,5)
+13
+2019-2023
+Etelä-Savo
+70+
+Sukupuolet yhteensä
+61
+39,9 (31,0 - 51,2)
+14
+2019-2023
+Pohjois-Savo
+70+
+Sukupuolet yhteensä
+64
+27,9 (21,8 - 35,6)
+15
+2019-2023
+Pohjois-Karjala
+70+
+Sukupuolet yhteensä
+51
+32,3 (24,5 - 42,5)
+16
+2019-2023
+Keski-Suomi
+70+
+Sukupuolet yhteensä
+67
+28,7 (22,6 - 36,4)
+17
+2019-2023
+Kanta-Häme
+70+
+Sukupuolet yhteensä
+56
+34,9 (26,9 - 45,4)
+18
+2019-2023
+Pirkanmaa
+70+
+Sukupuolet yhteensä
+129
+30,5 (25,6 - 36,2)
+19
+2019-2023
+Etelä-Pohjanmaa
+70+
+Sukupuolet yhteensä
+46
+25,4 (19,0 - 33,9)
+20
+2019-2023
+Varsinais-Suomi
+70+
+Sukupuolet yhteensä
+171
+40,9 (35,2 - 47,5)
+21
+2019-2023
+Satakunta
+70+
+Sukupuolet yhteensä
+60
+27,4 (21,3 - 35,3)
+22
+2019-2023
+Pohjanmaa
+70+
+Sukupuolet yhteensä
+60
+39,4 (30,6 - 50,7)
+23
+2019-2023
+Keski-Pohjanmaa
+70+
+Sukupuolet yhteensä
+15
+25,4 (15,3 - 42,1)
+24
+2019-2023
+Pohjois-Pohjanmaa
+70+
+Sukupuolet yhteensä
+97
+32,8 (26,9 - 40,1)
+25
+2019-2023
+Kainuu
+70+
+Sukupuolet yhteensä
+21
+28,5 (18,6 - 43,7)
+26
+2019-2023
+Lappi
+70+
+Sukupuolet yhteensä
+49
+30,3 (22,9 - 40,1)
+27
+Hoito
+Aikajakso
+Alue
+Hoitomuoto
+Ikäryhmä
+Sukupuoli
+Hoidettujen lkm
+Tapausten lkm
+Osuus (%)
+2019-2023
+Etelä-Suomi
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+154
+800
+18,0 (15,3 - 21,1)
+1
+2019-2023
+Itä-Suomi
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+100
+375
+27,7 (22,7 - 33,8)
+2
+2019-2023
+Sisä-Suomi
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+95
+382
+23,1 (18,7 - 28,6)
+3
+2019-2023
+Länsi-Suomi
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+73
+440
+17,9 (14,1 - 22,8)
+4
+2019-2023
+Pohjois-Suomi
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+47
+304
+15,1 (11,1 - 20,4)
+5
+2019-2023
+Itä-Uusimaa
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+10
+49
+13,3 (6,6 - 26,8)
+6
+2019-2023
+Keski-Uusimaa
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+9
+66
+10,5 (4,9 - 22,8)
+7
+2019-2023
+Länsi-Uusimaa
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+36
+151
+20,9 (14,9 - 29,3)
+8
+2019-2023
+Vantaa ja Kerava
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+19
+86
+21,6 (12,7 - 36,6)
+9
+2019-2023
+Päijät-Häme
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+19
+102
+18,7 (9,2 - 37,9)
+10
+2019-2023
+Kymenlaakso
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+11
+80
+14,2 (7,7 - 26,1)
+11
+2019-2023
+Etelä-Karjala
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+5
+60
+9,2 (3,7 - 23,2)
+12
+2019-2023
+Helsingin kaupunki
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+45
+206
+19,2 (14,0 - 26,2)
+13
+2019-2023
+Etelä-Savo
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+23
+94
+24,7 (15,8 - 38,6)
+14
+2019-2023
+Pohjois-Savo
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+30
+96
+28,8 (20,0 - 41,6)
+15
+2019-2023
+Pohjois-Karjala
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+25
+84
+27,1 (17,9 - 41,2)
+16
+2019-2023
+Keski-Suomi
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+22
+101
+21,0 (12,6 - 34,9)
+17
+2019-2023
+Kanta-Häme
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+17
+89
+19,4 (11,6 - 32,4)
+18
+2019-2023
+Pirkanmaa
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+51
+208
+21,9 (16,4 - 29,3)
+19
+2019-2023
+Etelä-Pohjanmaa
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+27
+85
+21,5 (14,4 - 32,2)
+20
+2019-2023
+Varsinais-Suomi
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+44
+248
+19,7 (14,5 - 26,8)
+21
+2019-2023
+Satakunta
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+11
+91
+14,8 (7,9 - 27,6)
+22
+2019-2023
+Pohjanmaa
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+18
+101
+14,1 (8,5 - 23,5)
+23
+2019-2023
+Keski-Pohjanmaa
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+6
+25
+21,9 (7,5 - 63,9)
+24
+2019-2023
+Pohjois-Pohjanmaa
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+20
+162
+11,4 (7,2 - 17,9)
+25
+2019-2023
+Kainuu
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+6
+36
+18,3 (7,4 - 45,3)
+26
+2019-2023
+Lappi
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+15
+81
+12,9 (7,2 - 23,2)
+27
+2019-2023
+Etelä-Suomi
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Miehet
+76
+402
+16,8 (13,3 - 21,1)
+1
+2019-2023
+Itä-Suomi
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Miehet
+63
+213
+28,7 (22,3 - 36,9)
+2
+2019-2023
+Sisä-Suomi
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Miehet
+63
+219
+23,7 (18,2 - 30,8)
+3
+2019-2023
+Länsi-Suomi
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Miehet
+47
+227
+19,7 (14,7 - 26,5)
+4
+2019-2023
+Pohjois-Suomi
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Miehet
+25
+172
+14,8 (9,7 - 22,6)
+5
+2019-2023
+Etelä-Suomi
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Naiset
+78
+398
+19,5 (15,6 - 24,4)
+1
+2019-2023
+Itä-Suomi
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Naiset
+37
+162
+26,4 (19,0 - 36,7)
+2
+2019-2023
+Sisä-Suomi
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Naiset
+32
+163
+22,2 (15,6 - 31,7)
+3
+2019-2023
+Länsi-Suomi
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Naiset
+26
+213
+15,7 (10,2 - 24,3)
+4
+2019-2023
+Pohjois-Suomi
+Autologinen kantasolusiirto
+Kaikki ikäryhmät
+Naiset
+22
+132
+15,4 (10,0 - 23,6)
+5
+2019-2023
+Etelä-Suomi
+Autologinen kantasolusiirto
+&lt;70
+Sukupuolet yhteensä
+140
+331
+42,3 (35,8 - 49,9)
+1
+2019-2023
+Itä-Suomi
+Autologinen kantasolusiirto
+&lt;70
+Sukupuolet yhteensä
+84
+132
+63,6 (51,4 - 78,8)
+2
+2019-2023
+Sisä-Suomi
+Autologinen kantasolusiirto
+&lt;70
+Sukupuolet yhteensä
+87
+151
+57,6 (46,7 - 71,1)
+3
+2019-2023
+Länsi-Suomi
+Autologinen kantasolusiirto
+&lt;70
+Sukupuolet yhteensä
+64
+149
+43,0 (33,6 - 54,9)
+4
+2019-2023
+Pohjois-Suomi
+Autologinen kantasolusiirto
+&lt;70
+Sukupuolet yhteensä
+40
+122
+32,8 (24,0 - 44,7)
+5
+2019-2023
+Etelä-Suomi
+Autologinen kantasolusiirto
+&lt;70
+Miehet
+71
+180
+39,4 (31,3 - 49,8)
+1
+2019-2023
+Itä-Suomi
+Autologinen kantasolusiirto
+&lt;70
+Miehet
+55
+83
+66,3 (50,9 - 86,3)
+2
+2019-2023
+Sisä-Suomi
+Autologinen kantasolusiirto
+&lt;70
+Miehet
+60
+102
+58,8 (45,7 - 75,8)
+3
+2019-2023
+Länsi-Suomi
+Autologinen kantasolusiirto
+&lt;70
+Miehet
+40
+91
+44,0 (32,2 - 59,9)
+4
+2019-2023
+Pohjois-Suomi
+Autologinen kantasolusiirto
+&lt;70
+Miehet
+20
+67
+29,9 (19,3 - 46,3)
+5
+2019-2023
+Etelä-Suomi
+Autologinen kantasolusiirto
+&lt;70
+Naiset
+69
+151
+45,7 (36,1 - 57,9)
+1
+2019-2023
+Itä-Suomi
+Autologinen kantasolusiirto
+&lt;70
+Naiset
+29
+49
+59,2 (41,1 - 85,2)
+2
+2019-2023
+Sisä-Suomi
+Autologinen kantasolusiirto
+&lt;70
+Naiset
+27
+49
+55,1 (37,8 - 80,3)
+3
+2019-2023
+Länsi-Suomi
+Autologinen kantasolusiirto
+&lt;70
+Naiset
+24
+58
+41,4 (27,7 - 61,7)
+4
+2019-2023
+Pohjois-Suomi
+Autologinen kantasolusiirto
+&lt;70
+Naiset
+20
+55
+36,4 (23,5 - 56,4)
+5
+2019-2023
+Etelä-Suomi
+Autologinen kantasolusiirto
+70+
+Sukupuolet yhteensä
+14
+469
+3,0 (1,8 - 5,0)
+1
+2019-2023
+Itä-Suomi
+Autologinen kantasolusiirto
+70+
+Sukupuolet yhteensä
+16
+243
+6,6 (4,0 - 10,7)
+2
+2019-2023
+Sisä-Suomi
+Autologinen kantasolusiirto
+70+
+Sukupuolet yhteensä
+8
+231
+3,5 (1,7 - 6,9)
+3
+2019-2023
+Länsi-Suomi
+Autologinen kantasolusiirto
+70+
+Sukupuolet yhteensä
+9
+291
+3,1 (1,6 - 5,9)
+4
+2019-2023
+Pohjois-Suomi
+Autologinen kantasolusiirto
+70+
+Sukupuolet yhteensä
+7
+182
+3,8 (1,8 - 8,1)
+5
+2019-2023
+Etelä-Suomi
+Autologinen kantasolusiirto
+70+
+Miehet
+5
+222
+2,3 (0,9 - 5,4)
+1
+2019-2023
+Itä-Suomi
+Autologinen kantasolusiirto
+70+
+Miehet
+8
+130
+6,2 (3,1 - 12,3)
+2
+2019-2023
+Sisä-Suomi
+Autologinen kantasolusiirto
+70+
+Miehet
+3
+117
+2,6 (0,8 - 8,0)
+3
+2019-2023
+Länsi-Suomi
+Autologinen kantasolusiirto
+70+
+Miehet
+7
+136
+5,1 (2,5 - 10,8)
+4
+2019-2023
+Pohjois-Suomi
+Autologinen kantasolusiirto
+70+
+Miehet
+5
+105
+4,8 (2,0 - 11,4)
+5
+2019-2023
+Etelä-Suomi
+Autologinen kantasolusiirto
+70+
+Naiset
+9
+247
+3,6 (1,9 - 7,0)
+1
+2019-2023
+Itä-Suomi
+Autologinen kantasolusiirto
+70+
+Naiset
+8
+113
+7,1 (3,5 - 14,2)
+2
+2019-2023
+Sisä-Suomi
+Autologinen kantasolusiirto
+70+
+Naiset
+5
+114
+4,4 (1,8 - 10,5)
+3
+2019-2023
+Länsi-Suomi
+Autologinen kantasolusiirto
+70+
+Naiset
+2
+155
+1,3 (0,3 - 5,2)
+4
+2019-2023
+Pohjois-Suomi
+Autologinen kantasolusiirto
+70+
+Naiset
+2
+77
+2,6 (0,6 - 10,4)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+650
+800
+81,5 (75,4 - 88,1)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+293
+375
+77,9 (69,3 - 87,6)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+316
+382
+81,4 (72,7 - 91,1)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+340
+440
+77,0 (69,0 - 86,0)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+238
+304
+77,4 (67,8 - 88,3)
+5
+2019-2023
+Itä-Uusimaa
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+34
+49
+57,3 (38,8 - 84,8)
+6
+2019-2023
+Keski-Uusimaa
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+40
+66
+58,2 (40,6 - 83,4)
+7
+2019-2023
+Länsi-Uusimaa
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+128
+151
+83,1 (69,5 - 99,4)
+8
+2019-2023
+Vantaa ja Kerava
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+68
+86
+71,8 (54,4 - 94,6)
+9
+2019-2023
+Päijät-Häme
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+90
+102
+85,5 (66,2 - 110,6)
+10
+2019-2023
+Kymenlaakso
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+68
+80
+83,4 (64,3 - 108,2)
+11
+2019-2023
+Etelä-Karjala
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+49
+60
+87,0 (63,4 - 119,4)
+12
+2019-2023
+Helsingin kaupunki
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+173
+206
+83,1 (71,1 - 97,1)
+13
+2019-2023
+Etelä-Savo
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+77
+94
+81,0 (63,3 - 103,7)
+14
+2019-2023
+Pohjois-Savo
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+77
+96
+79,0 (62,1 - 100,4)
+15
+2019-2023
+Pohjois-Karjala
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+75
+84
+83,0 (65,3 - 105,7)
+16
+2019-2023
+Keski-Suomi
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+64
+101
+59,3 (45,2 - 77,9)
+17
+2019-2023
+Kanta-Häme
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+79
+89
+86,9 (69,0 - 109,5)
+18
+2019-2023
+Pirkanmaa
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+177
+208
+82,8 (71,0 - 96,5)
+19
+2019-2023
+Etelä-Pohjanmaa
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+60
+85
+61,4 (46,4 - 81,2)
+20
+2019-2023
+Varsinais-Suomi
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+179
+248
+70,8 (60,8 - 82,5)
+21
+2019-2023
+Satakunta
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+75
+91
+81,2 (64,0 - 102,9)
+22
+2019-2023
+Pohjanmaa
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+86
+101
+78,9 (63,1 - 98,8)
+23
+2019-2023
+Keski-Pohjanmaa
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+19
+25
+63,1 (37,2 - 107,0)
+24
+2019-2023
+Pohjois-Pohjanmaa
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+128
+162
+77,6 (64,7 - 93,1)
+25
+2019-2023
+Kainuu
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+28
+36
+69,8 (46,3 - 105,2)
+26
+2019-2023
+Lappi
+Lääkehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+63
+81
+68,6 (52,5 - 89,8)
+27
+2019-2023
+Etelä-Suomi
+Lääkehoito
+Kaikki ikäryhmät
+Miehet
+330
+402
+82,1 (73,5 - 91,6)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito
+Kaikki ikäryhmät
+Miehet
+172
+213
+79,6 (68,4 - 92,5)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito
+Kaikki ikäryhmät
+Miehet
+183
+219
+81,3 (70,0 - 94,5)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito
+Kaikki ikäryhmät
+Miehet
+173
+227
+76,1 (65,4 - 88,5)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito
+Kaikki ikäryhmät
+Miehet
+130
+172
+74,0 (62,0 - 88,4)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito
+Kaikki ikäryhmät
+Naiset
+320
+398
+81,1 (72,6 - 90,5)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito
+Kaikki ikäryhmät
+Naiset
+121
+162
+76,4 (63,5 - 92,0)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito
+Kaikki ikäryhmät
+Naiset
+133
+163
+81,2 (68,3 - 96,7)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito
+Kaikki ikäryhmät
+Naiset
+167
+213
+77,9 (65,9 - 92,1)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito
+Kaikki ikäryhmät
+Naiset
+108
+132
+81,5 (67,1 - 99,1)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito
+&lt;70
+Sukupuolet yhteensä
+293
+331
+88,5 (78,9 - 99,3)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito
+&lt;70
+Sukupuolet yhteensä
+116
+132
+87,9 (73,3 - 105,4)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito
+&lt;70
+Sukupuolet yhteensä
+139
+151
+92,1 (78,0 - 108,7)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito
+&lt;70
+Sukupuolet yhteensä
+114
+149
+76,5 (63,7 - 91,9)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito
+&lt;70
+Sukupuolet yhteensä
+100
+122
+82,0 (67,4 - 99,7)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito
+&lt;70
+Miehet
+156
+180
+86,7 (74,1 - 101,4)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito
+&lt;70
+Miehet
+73
+83
+88,0 (69,9 - 110,6)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito
+&lt;70
+Miehet
+93
+102
+91,2 (74,4 - 111,7)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito
+&lt;70
+Miehet
+70
+91
+76,9 (60,9 - 97,2)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito
+&lt;70
+Miehet
+52
+67
+77,6 (59,1 - 101,9)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito
+&lt;70
+Naiset
+137
+151
+90,7 (76,7 - 107,3)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito
+&lt;70
+Naiset
+43
+49
+87,8 (65,1 - 118,3)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito
+&lt;70
+Naiset
+46
+49
+93,9 (70,3 - 125,3)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito
+&lt;70
+Naiset
+44
+58
+75,9 (56,5 - 101,9)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito
+&lt;70
+Naiset
+48
+55
+87,3 (65,8 - 115,8)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito
+70+
+Sukupuolet yhteensä
+357
+469
+76,1 (68,6 - 84,4)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito
+70+
+Sukupuolet yhteensä
+177
+243
+72,8 (62,9 - 84,4)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito
+70+
+Sukupuolet yhteensä
+177
+231
+76,6 (66,1 - 88,8)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito
+70+
+Sukupuolet yhteensä
+226
+291
+77,7 (68,2 - 88,5)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito
+70+
+Sukupuolet yhteensä
+138
+182
+75,8 (64,2 - 89,6)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito
+70+
+Miehet
+174
+222
+78,4 (67,6 - 90,9)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito
+70+
+Miehet
+99
+130
+76,2 (62,5 - 92,7)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito
+70+
+Miehet
+90
+117
+76,9 (62,6 - 94,6)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito
+70+
+Miehet
+103
+136
+75,7 (62,4 - 91,9)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito
+70+
+Miehet
+78
+105
+74,3 (59,5 - 92,7)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito
+70+
+Naiset
+183
+247
+74,1 (64,1 - 85,6)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito
+70+
+Naiset
+78
+113
+69,0 (55,3 - 86,2)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito
+70+
+Naiset
+87
+114
+76,3 (61,9 - 94,2)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito
+70+
+Naiset
+123
+155
+79,4 (66,5 - 94,7)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito
+70+
+Naiset
+60
+77
+77,9 (60,5 - 100,4)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+410
+800
+51,1 (46,3 - 56,3)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+221
+375
+59,0 (51,6 - 67,5)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+247
+382
+63,5 (55,8 - 72,1)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+208
+440
+47,6 (41,4 - 54,8)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+144
+304
+46,7 (39,4 - 55,3)
+5
+2019-2023
+Itä-Uusimaa
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+17
+49
+31,0 (17,4 - 55,0)
+6
+2019-2023
+Keski-Uusimaa
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+10
+66
+11,1 (5,3 - 23,2)
+7
+2019-2023
+Länsi-Uusimaa
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+73
+151
+47,0 (37,0 - 59,7)
+8
+2019-2023
+Vantaa ja Kerava
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+50
+86
+51,4 (36,9 - 71,4)
+9
+2019-2023
+Päijät-Häme
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+86
+102
+83,2 (64,0 - 108,2)
+10
+2019-2023
+Kymenlaakso
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+68
+80
+83,4 (64,3 - 108,2)
+11
+2019-2023
+Etelä-Karjala
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+1
+60
+3,0 (0,4 - 21,3)
+12
+2019-2023
+Helsingin kaupunki
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+105
+206
+49,9 (40,8 - 61,0)
+13
+2019-2023
+Etelä-Savo
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+56
+94
+60,2 (44,8 - 80,7)
+14
+2019-2023
+Pohjois-Savo
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+69
+96
+68,8 (53,5 - 88,5)
+15
+2019-2023
+Pohjois-Karjala
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+74
+84
+83,0 (65,2 - 105,6)
+16
+2019-2023
+Keski-Suomi
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+22
+101
+21,0 (12,6 - 34,8)
+17
+2019-2023
+Kanta-Häme
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+79
+89
+86,9 (69,0 - 109,5)
+18
+2019-2023
+Pirkanmaa
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+153
+208
+71,0 (60,2 - 83,8)
+19
+2019-2023
+Etelä-Pohjanmaa
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+15
+85
+12,4 (7,2 - 21,1)
+20
+2019-2023
+Varsinais-Suomi
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+62
+248
+23,9 (18,5 - 30,9)
+21
+2019-2023
+Satakunta
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+65
+91
+71,6 (55,5 - 92,5)
+22
+2019-2023
+Pohjanmaa
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+81
+101
+74,6 (59,2 - 94,0)
+23
+2019-2023
+Keski-Pohjanmaa
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+11
+25
+38,6 (18,8 - 79,3)
+24
+2019-2023
+Pohjois-Pohjanmaa
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+110
+162
+66,7 (54,9 - 81,2)
+25
+2019-2023
+Kainuu
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+6
+36
+11,2 (4,8 - 26,2)
+26
+2019-2023
+Lappi
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+17
+81
+16,1 (9,6 - 27,1)
+27
+2019-2023
+Etelä-Suomi
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Miehet
+202
+402
+49,7 (43,2 - 57,2)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Miehet
+133
+213
+61,6 (51,8 - 73,1)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Miehet
+144
+219
+63,2 (53,3 - 74,9)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Miehet
+105
+227
+46,4 (38,1 - 56,3)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Miehet
+78
+172
+45,2 (35,9 - 56,9)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Naiset
+208
+398
+52,9 (46,1 - 60,6)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Naiset
+88
+162
+56,5 (45,5 - 70,2)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Naiset
+103
+163
+63,4 (52,0 - 77,3)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Naiset
+103
+213
+49,2 (39,9 - 60,6)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito (sairaala)
+Kaikki ikäryhmät
+Naiset
+66
+132
+49,1 (38,3 - 63,0)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito (sairaala)
+&lt;70
+Sukupuolet yhteensä
+208
+331
+62,8 (54,9 - 72,0)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito (sairaala)
+&lt;70
+Sukupuolet yhteensä
+102
+132
+77,3 (63,6 - 93,8)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito (sairaala)
+&lt;70
+Sukupuolet yhteensä
+115
+151
+76,2 (63,4 - 91,4)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito (sairaala)
+&lt;70
+Sukupuolet yhteensä
+76
+149
+51,0 (40,7 - 63,9)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito (sairaala)
+&lt;70
+Sukupuolet yhteensä
+72
+122
+59,0 (46,8 - 74,4)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito (sairaala)
+&lt;70
+Miehet
+108
+180
+60,0 (49,7 - 72,5)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito (sairaala)
+&lt;70
+Miehet
+65
+83
+78,3 (61,4 - 99,9)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito (sairaala)
+&lt;70
+Miehet
+76
+102
+74,5 (59,5 - 93,3)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito (sairaala)
+&lt;70
+Miehet
+44
+91
+48,4 (36,0 - 65,0)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito (sairaala)
+&lt;70
+Miehet
+35
+67
+52,2 (37,5 - 72,8)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito (sairaala)
+&lt;70
+Naiset
+100
+151
+66,2 (54,4 - 80,6)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito (sairaala)
+&lt;70
+Naiset
+37
+49
+75,5 (54,7 - 104,2)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito (sairaala)
+&lt;70
+Naiset
+39
+49
+79,6 (58,2 - 108,9)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito (sairaala)
+&lt;70
+Naiset
+32
+58
+55,2 (39,0 - 78,0)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito (sairaala)
+&lt;70
+Naiset
+37
+55
+67,3 (48,7 - 92,8)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito (sairaala)
+70+
+Sukupuolet yhteensä
+202
+469
+43,1 (37,5 - 49,4)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito (sairaala)
+70+
+Sukupuolet yhteensä
+119
+243
+49,0 (40,9 - 58,6)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito (sairaala)
+70+
+Sukupuolet yhteensä
+132
+231
+57,1 (48,2 - 67,8)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito (sairaala)
+70+
+Sukupuolet yhteensä
+132
+291
+45,4 (38,2 - 53,8)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito (sairaala)
+70+
+Sukupuolet yhteensä
+72
+182
+39,6 (31,4 - 49,8)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito (sairaala)
+70+
+Miehet
+94
+222
+42,3 (34,6 - 51,8)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito (sairaala)
+70+
+Miehet
+68
+130
+52,3 (41,2 - 66,3)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito (sairaala)
+70+
+Miehet
+68
+117
+58,1 (45,8 - 73,7)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito (sairaala)
+70+
+Miehet
+61
+136
+44,9 (34,9 - 57,6)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito (sairaala)
+70+
+Miehet
+43
+105
+41,0 (30,4 - 55,2)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito (sairaala)
+70+
+Naiset
+108
+247
+43,7 (36,2 - 52,8)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito (sairaala)
+70+
+Naiset
+51
+113
+45,1 (34,3 - 59,4)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito (sairaala)
+70+
+Naiset
+64
+114
+56,1 (43,9 - 71,7)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito (sairaala)
+70+
+Naiset
+71
+155
+45,8 (36,3 - 57,8)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito (sairaala)
+70+
+Naiset
+29
+77
+37,7 (26,2 - 54,2)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+575
+800
+72,2 (66,5 - 78,5)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+251
+375
+66,9 (59,0 - 75,9)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+268
+382
+68,6 (60,7 - 77,6)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+275
+440
+61,9 (54,8 - 69,8)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+202
+304
+65,6 (56,8 - 75,7)
+5
+2019-2023
+Itä-Uusimaa
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+27
+49
+46,1 (29,4 - 72,3)
+6
+2019-2023
+Keski-Uusimaa
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+39
+66
+57,6 (40,1 - 82,9)
+7
+2019-2023
+Länsi-Uusimaa
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+114
+151
+75,0 (62,1 - 90,7)
+8
+2019-2023
+Vantaa ja Kerava
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+62
+86
+62,3 (46,7 - 83,0)
+9
+2019-2023
+Päijät-Häme
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+75
+102
+70,2 (52,8 - 93,5)
+10
+2019-2023
+Kymenlaakso
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+52
+80
+66,2 (49,1 - 89,2)
+11
+2019-2023
+Etelä-Karjala
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+49
+60
+87,0 (63,4 - 119,4)
+12
+2019-2023
+Helsingin kaupunki
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+157
+206
+75,2 (63,9 - 88,5)
+13
+2019-2023
+Etelä-Savo
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+58
+94
+62,0 (46,6 - 82,6)
+14
+2019-2023
+Pohjois-Savo
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+61
+96
+62,9 (48,2 - 82,1)
+15
+2019-2023
+Pohjois-Karjala
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+70
+84
+77,9 (60,6 - 100,0)
+16
+2019-2023
+Keski-Suomi
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+62
+101
+58,7 (44,6 - 77,3)
+17
+2019-2023
+Kanta-Häme
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+60
+89
+66,9 (51,3 - 87,3)
+18
+2019-2023
+Pirkanmaa
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+150
+208
+68,4 (58,0 - 80,7)
+19
+2019-2023
+Etelä-Pohjanmaa
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+58
+85
+59,5 (44,7 - 79,0)
+20
+2019-2023
+Varsinais-Suomi
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+171
+248
+67,9 (58,0 - 79,3)
+21
+2019-2023
+Satakunta
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+41
+91
+42,9 (31,2 - 58,9)
+22
+2019-2023
+Pohjanmaa
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+63
+101
+57,2 (43,9 - 74,4)
+23
+2019-2023
+Keski-Pohjanmaa
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+17
+25
+56,3 (32,0 - 99,0)
+24
+2019-2023
+Pohjois-Pohjanmaa
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+98
+162
+59,5 (48,3 - 73,4)
+25
+2019-2023
+Kainuu
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+24
+36
+61,5 (39,4 - 95,9)
+26
+2019-2023
+Lappi
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+63
+81
+68,6 (52,5 - 89,8)
+27
+2019-2023
+Etelä-Suomi
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Miehet
+291
+402
+72,5 (64,5 - 81,5)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Miehet
+145
+213
+67,7 (57,4 - 79,7)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Miehet
+158
+219
+70,1 (59,7 - 82,4)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Miehet
+140
+227
+61,7 (52,1 - 73,0)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Miehet
+111
+172
+62,9 (52,0 - 76,2)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Naiset
+284
+398
+72,1 (64,1 - 81,0)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Naiset
+106
+162
+66,8 (54,9 - 81,3)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Naiset
+110
+163
+67,3 (55,6 - 81,5)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Naiset
+135
+213
+61,8 (51,5 - 74,1)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito (osto)
+Kaikki ikäryhmät
+Naiset
+91
+132
+68,7 (55,5 - 85,0)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito (osto)
+&lt;70
+Sukupuolet yhteensä
+255
+331
+77,0 (68,1 - 87,1)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito (osto)
+&lt;70
+Sukupuolet yhteensä
+99
+132
+75,0 (61,6 - 91,3)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito (osto)
+&lt;70
+Sukupuolet yhteensä
+117
+151
+77,5 (64,6 - 92,9)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito (osto)
+&lt;70
+Sukupuolet yhteensä
+93
+149
+62,4 (50,9 - 76,5)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito (osto)
+&lt;70
+Sukupuolet yhteensä
+87
+122
+71,3 (57,8 - 88,0)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito (osto)
+&lt;70
+Miehet
+136
+180
+75,6 (63,9 - 89,4)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito (osto)
+&lt;70
+Miehet
+61
+83
+73,5 (57,2 - 94,5)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito (osto)
+&lt;70
+Miehet
+78
+102
+76,5 (61,3 - 95,5)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito (osto)
+&lt;70
+Miehet
+57
+91
+62,6 (48,3 - 81,2)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito (osto)
+&lt;70
+Miehet
+46
+67
+68,7 (51,4 - 91,7)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito (osto)
+&lt;70
+Naiset
+119
+151
+78,8 (65,8 - 94,3)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito (osto)
+&lt;70
+Naiset
+38
+49
+77,6 (56,4 - 106,6)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito (osto)
+&lt;70
+Naiset
+39
+49
+79,6 (58,2 - 108,9)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito (osto)
+&lt;70
+Naiset
+36
+58
+62,1 (44,8 - 86,0)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito (osto)
+&lt;70
+Naiset
+41
+55
+74,5 (54,9 - 101,2)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito (osto)
+70+
+Sukupuolet yhteensä
+320
+469
+68,2 (61,1 - 76,1)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito (osto)
+70+
+Sukupuolet yhteensä
+152
+243
+62,6 (53,4 - 73,3)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito (osto)
+70+
+Sukupuolet yhteensä
+151
+231
+65,4 (55,7 - 76,7)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito (osto)
+70+
+Sukupuolet yhteensä
+182
+291
+62,5 (54,1 - 72,3)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito (osto)
+70+
+Sukupuolet yhteensä
+115
+182
+63,2 (52,6 - 75,9)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito (osto)
+70+
+Miehet
+155
+222
+69,8 (59,6 - 81,7)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito (osto)
+70+
+Miehet
+84
+130
+64,6 (52,2 - 80,0)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito (osto)
+70+
+Miehet
+80
+117
+68,4 (54,9 - 85,1)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito (osto)
+70+
+Miehet
+83
+136
+61,0 (49,2 - 75,7)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito (osto)
+70+
+Miehet
+65
+105
+61,9 (48,5 - 78,9)
+5
+2019-2023
+Etelä-Suomi
+Lääkehoito (osto)
+70+
+Naiset
+165
+247
+66,8 (57,3 - 77,8)
+1
+2019-2023
+Itä-Suomi
+Lääkehoito (osto)
+70+
+Naiset
+68
+113
+60,2 (47,4 - 76,3)
+2
+2019-2023
+Sisä-Suomi
+Lääkehoito (osto)
+70+
+Naiset
+71
+114
+62,3 (49,4 - 78,6)
+3
+2019-2023
+Länsi-Suomi
+Lääkehoito (osto)
+70+
+Naiset
+99
+155
+63,9 (52,5 - 77,8)
+4
+2019-2023
+Pohjois-Suomi
+Lääkehoito (osto)
+70+
+Naiset
+50
+77
+64,9 (49,2 - 85,7)
+5
+2019-2023
+Etelä-Suomi
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+116
+800
+14,5 (12,1 - 17,4)
+1
+2019-2023
+Itä-Suomi
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+36
+375
+8,8 (6,3 - 12,3)
+2
+2019-2023
+Sisä-Suomi
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+38
+382
+10,0 (7,2 - 13,8)
+3
+2019-2023
+Länsi-Suomi
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+40
+440
+8,8 (6,4 - 12,0)
+4
+2019-2023
+Pohjois-Suomi
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+27
+304
+9,3 (6,3 - 13,9)
+5
+2019-2023
+Itä-Uusimaa
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+7
+49
+11,9 (5,5 - 25,5)
+6
+2019-2023
+Keski-Uusimaa
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+12
+66
+13,9 (7,3 - 26,6)
+7
+2019-2023
+Länsi-Uusimaa
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+14
+151
+8,6 (5,1 - 14,7)
+8
+2019-2023
+Vantaa ja Kerava
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+12
+86
+13,5 (7,0 - 26,2)
+9
+2019-2023
+Päijät-Häme
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+36
+102
+38,8 (25,1 - 59,9)
+10
+2019-2023
+Kymenlaakso
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+8
+80
+7,8 (3,9 - 15,8)
+11
+2019-2023
+Etelä-Karjala
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+1
+60
+1,8 (0,3 - 13,1)
+12
+2019-2023
+Helsingin kaupunki
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+26
+206
+11,7 (7,8 - 17,7)
+13
+2019-2023
+Etelä-Savo
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+6
+94
+6,3 (2,7 - 14,8)
+14
+2019-2023
+Pohjois-Savo
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+8
+96
+6,4 (3,0 - 13,7)
+15
+2019-2023
+Pohjois-Karjala
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+6
+84
+6,0 (2,4 - 15,0)
+16
+2019-2023
+Keski-Suomi
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+16
+101
+13,2 (7,7 - 22,4)
+17
+2019-2023
+Kanta-Häme
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+7
+89
+6,8 (3,2 - 14,4)
+18
+2019-2023
+Pirkanmaa
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+23
+208
+10,8 (7,1 - 16,5)
+19
+2019-2023
+Etelä-Pohjanmaa
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+8
+85
+9,3 (4,6 - 18,9)
+20
+2019-2023
+Varsinais-Suomi
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+20
+248
+7,4 (4,7 - 11,7)
+21
+2019-2023
+Satakunta
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+10
+91
+10,7 (5,6 - 20,4)
+22
+2019-2023
+Pohjanmaa
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+10
+101
+9,5 (4,9 - 18,2)
+23
+2019-2023
+Keski-Pohjanmaa
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+3
+25
+5,5 (1,8 - 17,2)
+24
+2019-2023
+Pohjois-Pohjanmaa
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+18
+162
+12,6 (7,5 - 21,1)
+25
+2019-2023
+Kainuu
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+1
+36
+2,5 (0,4 - 17,7)
+26
+2019-2023
+Lappi
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+5
+81
+5,8 (2,0 - 16,7)
+27
+2019-2023
+Etelä-Suomi
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Miehet
+59
+402
+14,9 (11,5 - 19,3)
+1
+2019-2023
+Itä-Suomi
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Miehet
+20
+213
+8,9 (5,7 - 13,9)
+2
+2019-2023
+Sisä-Suomi
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Miehet
+20
+219
+9,2 (5,8 - 14,4)
+3
+2019-2023
+Länsi-Suomi
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Miehet
+25
+227
+10,3 (7,0 - 15,4)
+4
+2019-2023
+Pohjois-Suomi
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Miehet
+14
+172
+8,9 (5,2 - 15,2)
+5
+2019-2023
+Etelä-Suomi
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Naiset
+57
+398
+14,2 (10,9 - 18,4)
+1
+2019-2023
+Itä-Suomi
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Naiset
+16
+162
+8,3 (5,0 - 13,7)
+2
+2019-2023
+Sisä-Suomi
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Naiset
+18
+163
+10,9 (6,8 - 17,5)
+3
+2019-2023
+Länsi-Suomi
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Naiset
+15
+213
+6,6 (3,9 - 11,1)
+4
+2019-2023
+Pohjois-Suomi
+Palliatiivinen hoito
+Kaikki ikäryhmät
+Naiset
+13
+132
+9,8 (5,5 - 17,5)
+5
+2019-2023
+Etelä-Suomi
+Palliatiivinen hoito
+&lt;70
+Sukupuolet yhteensä
+45
+331
+13,6 (10,2 - 18,2)
+1
+2019-2023
+Itä-Suomi
+Palliatiivinen hoito
+&lt;70
+Sukupuolet yhteensä
+9
+132
+6,8 (3,5 - 13,1)
+2
+2019-2023
+Sisä-Suomi
+Palliatiivinen hoito
+&lt;70
+Sukupuolet yhteensä
+12
+151
+7,9 (4,5 - 14,0)
+3
+2019-2023
+Länsi-Suomi
+Palliatiivinen hoito
+&lt;70
+Sukupuolet yhteensä
+15
+149
+10,1 (6,1 - 16,7)
+4
+2019-2023
+Pohjois-Suomi
+Palliatiivinen hoito
+&lt;70
+Sukupuolet yhteensä
+5
+122
+4,1 (1,7 - 9,8)
+5
+2019-2023
+Etelä-Suomi
+Palliatiivinen hoito
+&lt;70
+Miehet
+22
+180
+12,2 (8,0 - 18,6)
+1
+2019-2023
+Itä-Suomi
+Palliatiivinen hoito
+&lt;70
+Miehet
+7
+83
+8,4 (4,0 - 17,7)
+2
+2019-2023
+Sisä-Suomi
+Palliatiivinen hoito
+&lt;70
+Miehet
+8
+102
+7,8 (3,9 - 15,7)
+3
+2019-2023
+Länsi-Suomi
+Palliatiivinen hoito
+&lt;70
+Miehet
+11
+91
+12,1 (6,7 - 21,8)
+4
+2019-2023
+Pohjois-Suomi
+Palliatiivinen hoito
+&lt;70
+Miehet
+4
+67
+6,0 (2,2 - 15,9)
+5
+2019-2023
+Etelä-Suomi
+Palliatiivinen hoito
+&lt;70
+Naiset
+23
+151
+15,2 (10,1 - 22,9)
+1
+2019-2023
+Itä-Suomi
+Palliatiivinen hoito
+&lt;70
+Naiset
+2
+49
+4,1 (1,0 - 16,3)
+2
+2019-2023
+Sisä-Suomi
+Palliatiivinen hoito
+&lt;70
+Naiset
+4
+49
+8,2 (3,1 - 21,8)
+3
+2019-2023
+Länsi-Suomi
+Palliatiivinen hoito
+&lt;70
+Naiset
+4
+58
+6,9 (2,6 - 18,4)
+4
+2019-2023
+Pohjois-Suomi
+Palliatiivinen hoito
+&lt;70
+Naiset
+1
+55
+1,8 (0,3 - 12,9)
+5
+2019-2023
+Etelä-Suomi
+Palliatiivinen hoito
+70+
+Sukupuolet yhteensä
+71
+469
+15,1 (12,0 - 19,1)
+1
+2019-2023
+Itä-Suomi
+Palliatiivinen hoito
+70+
+Sukupuolet yhteensä
+27
+243
+11,1 (7,6 - 16,2)
+2
+2019-2023
+Sisä-Suomi
+Palliatiivinen hoito
+70+
+Sukupuolet yhteensä
+26
+231
+11,3 (7,7 - 16,5)
+3
+2019-2023
+Länsi-Suomi
+Palliatiivinen hoito
+70+
+Sukupuolet yhteensä
+25
+291
+8,6 (5,8 - 12,7)
+4
+2019-2023
+Pohjois-Suomi
+Palliatiivinen hoito
+70+
+Sukupuolet yhteensä
+22
+182
+12,1 (8,0 - 18,4)
+5
+2019-2023
+Etelä-Suomi
+Palliatiivinen hoito
+70+
+Miehet
+37
+222
+16,7 (12,1 - 23,0)
+1
+2019-2023
+Itä-Suomi
+Palliatiivinen hoito
+70+
+Miehet
+13
+130
+10,0 (5,8 - 17,2)
+2
+2019-2023
+Sisä-Suomi
+Palliatiivinen hoito
+70+
+Miehet
+12
+117
+10,3 (5,8 - 18,1)
+3
+2019-2023
+Länsi-Suomi
+Palliatiivinen hoito
+70+
+Miehet
+14
+136
+10,3 (6,1 - 17,4)
+4
+2019-2023
+Pohjois-Suomi
+Palliatiivinen hoito
+70+
+Miehet
+10
+105
+9,5 (5,1 - 17,7)
+5
+2019-2023
+Etelä-Suomi
+Palliatiivinen hoito
+70+
+Naiset
+34
+247
+13,8 (9,8 - 19,3)
+1
+2019-2023
+Itä-Suomi
+Palliatiivinen hoito
+70+
+Naiset
+14
+113
+12,4 (7,3 - 20,9)
+2
+2019-2023
+Sisä-Suomi
+Palliatiivinen hoito
+70+
+Naiset
+14
+114
+12,3 (7,3 - 20,7)
+3
+2019-2023
+Länsi-Suomi
+Palliatiivinen hoito
+70+
+Naiset
+11
+155
+7,1 (3,9 - 12,8)
+4
+2019-2023
+Pohjois-Suomi
+Palliatiivinen hoito
+70+
+Naiset
+12
+77
+15,6 (8,9 - 27,4)
+5
+2019-2023
+Etelä-Suomi
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+119
+800
+14,5 (12,1 - 17,5)
+1
+2019-2023
+Itä-Suomi
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+71
+375
+19,1 (15,0 - 24,3)
+2
+2019-2023
+Sisä-Suomi
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+88
+382
+22,2 (18,0 - 27,5)
+3
+2019-2023
+Länsi-Suomi
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+107
+440
+25,0 (20,5 - 30,5)
+4
+2019-2023
+Pohjois-Suomi
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+44
+304
+14,6 (10,7 - 19,8)
+5
+2019-2023
+Itä-Uusimaa
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+3
+49
+5,8 (1,9 - 18,2)
+6
+2019-2023
+Keski-Uusimaa
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+11
+66
+13,4 (6,8 - 26,4)
+7
+2019-2023
+Länsi-Uusimaa
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+18
+151
+11,3 (7,0 - 18,2)
+8
+2019-2023
+Vantaa ja Kerava
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+11
+86
+11,2 (5,8 - 21,6)
+9
+2019-2023
+Päijät-Häme
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+34
+102
+36,1 (22,9 - 57,0)
+10
+2019-2023
+Kymenlaakso
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+6
+80
+9,1 (3,8 - 22,1)
+11
+2019-2023
+Etelä-Karjala
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+6
+60
+8,2 (3,5 - 19,3)
+12
+2019-2023
+Helsingin kaupunki
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+30
+206
+12,8 (8,7 - 18,8)
+13
+2019-2023
+Etelä-Savo
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+14
+94
+13,8 (7,8 - 24,3)
+14
+2019-2023
+Pohjois-Savo
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+19
+96
+18,4 (11,5 - 29,5)
+15
+2019-2023
+Pohjois-Karjala
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+14
+84
+14,6 (8,5 - 25,0)
+16
+2019-2023
+Keski-Suomi
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+24
+101
+19,3 (12,6 - 29,5)
+17
+2019-2023
+Kanta-Häme
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+9
+89
+10,2 (5,0 - 20,8)
+18
+2019-2023
+Pirkanmaa
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+63
+208
+28,9 (22,4 - 37,3)
+19
+2019-2023
+Etelä-Pohjanmaa
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+16
+85
+15,7 (9,4 - 26,2)
+20
+2019-2023
+Varsinais-Suomi
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+64
+248
+27,5 (21,3 - 35,6)
+21
+2019-2023
+Satakunta
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+21
+91
+19,5 (12,5 - 30,5)
+22
+2019-2023
+Pohjanmaa
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+22
+101
+20,3 (13,0 - 31,7)
+23
+2019-2023
+Keski-Pohjanmaa
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+1
+25
+3,0 (0,4 - 21,3)
+24
+2019-2023
+Pohjois-Pohjanmaa
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+30
+162
+19,1 (13,0 - 28,2)
+25
+2019-2023
+Kainuu
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+6
+36
+15,2 (6,5 - 35,3)
+26
+2019-2023
+Lappi
+Sädehoito
+Kaikki ikäryhmät
+Sukupuolet yhteensä
+7
+81
+6,3 (2,8 - 14,0)
+27
+2019-2023
+Etelä-Suomi
+Sädehoito
+Kaikki ikäryhmät
+Miehet
+60
+402
+14,6 (11,3 - 18,8)
+1
+2019-2023
+Itä-Suomi
+Sädehoito
+Kaikki ikäryhmät
+Miehet
+42
+213
+19,0 (14,0 - 25,8)
+2
+2019-2023
+Sisä-Suomi
+Sädehoito
+Kaikki ikäryhmät
+Miehet
+58
+219
+25,4 (19,5 - 33,1)
+3
+2019-2023
+Länsi-Suomi
+Sädehoito
+Kaikki ikäryhmät
+Miehet
+62
+227
+27,1 (21,0 - 35,0)
+4
+2019-2023
+Pohjois-Suomi
+Sädehoito
+Kaikki ikäryhmät
+Miehet
+23
+172
+13,8 (9,1 - 20,9)
+5
+2019-2023
+Etelä-Suomi
+Sädehoito
+Kaikki ikäryhmät
+Naiset
+59
+398
+14,6 (11,3 - 18,9)
+1
+2019-2023
+Itä-Suomi
+Sädehoito
+Kaikki ikäryhmät
+Naiset
+29
+162
+19,3 (13,1 - 28,5)
+2
+2019-2023
+Sisä-Suomi
+Sädehoito
+Kaikki ikäryhmät
+Naiset
+30
+163
+19,3 (13,3 - 27,8)
+3
+2019-2023
+Länsi-Suomi
+Sädehoito
+Kaikki ikäryhmät
+Naiset
+45
+213
+23,5 (16,9 - 32,8)
+4
+2019-2023
+Pohjois-Suomi
+Sädehoito
+Kaikki ikäryhmät
+Naiset
+21
+132
+15,5 (10,0 - 24,1)
+5
+2019-2023
+Etelä-Suomi
+Sädehoito
+&lt;70
+Sukupuolet yhteensä
+62
+331
+18,7 (14,6 - 24,0)
+1
+2019-2023
+Itä-Suomi
+Sädehoito
+&lt;70
+Sukupuolet yhteensä
+36
+132
+27,3 (19,7 - 37,8)
+2
+2019-2023
+Sisä-Suomi
+Sädehoito
+&lt;70
+Sukupuolet yhteensä
+41
+151
+27,2 (20,0 - 36,9)
+3
+2019-2023
+Länsi-Suomi
+Sädehoito
+&lt;70
+Sukupuolet yhteensä
+48
+149
+32,2 (24,3 - 42,7)
+4
+2019-2023
+Pohjois-Suomi
+Sädehoito
+&lt;70
+Sukupuolet yhteensä
+16
+122
+13,1 (8,0 - 21,4)
+5
+2019-2023
+Etelä-Suomi
+Sädehoito
+&lt;70
+Miehet
+30
+180
+16,7 (11,7 - 23,8)
+1
+2019-2023
+Itä-Suomi
+Sädehoito
+&lt;70
+Miehet
+23
+83
+27,7 (18,4 - 41,7)
+2
+2019-2023
+Sisä-Suomi
+Sädehoito
+&lt;70
+Miehet
+29
+102
+28,4 (19,8 - 40,9)
+3
+2019-2023
+Länsi-Suomi
+Sädehoito
+&lt;70
+Miehet
+28
+91
+30,8 (21,2 - 44,6)
+4
+2019-2023
+Pohjois-Suomi
+Sädehoito
+&lt;70
+Miehet
+8
+67
+11,9 (6,0 - 23,9)
+5
+2019-2023
+Etelä-Suomi
+Sädehoito
+&lt;70
+Naiset
+32
+151
+21,2 (15,0 - 30,0)
+1
+2019-2023
+Itä-Suomi
+Sädehoito
+&lt;70
+Naiset
+13
+49
+26,5 (15,4 - 45,7)
+2
+2019-2023
+Sisä-Suomi
+Sädehoito
+&lt;70
+Naiset
+12
+49
+24,5 (13,9 - 43,1)
+3
+2019-2023
+Länsi-Suomi
+Sädehoito
+&lt;70
+Naiset
+20
+58
+34,5 (22,2 - 53,4)
+4
+2019-2023
+Pohjois-Suomi
+Sädehoito
+&lt;70
+Naiset
+8
+55
+14,5 (7,3 - 29,1)
+5
+2019-2023
+Etelä-Suomi
+Sädehoito
+70+
+Sukupuolet yhteensä
+57
+469
+12,2 (9,4 - 15,8)
+1
+2019-2023
+Itä-Suomi
+Sädehoito
+70+
+Sukupuolet yhteensä
+35
+243
+14,4 (10,3 - 20,1)
+2
+2019-2023
+Sisä-Suomi
+Sädehoito
+70+
+Sukupuolet yhteensä
+47
+231
+20,3 (15,3 - 27,1)
+3
+2019-2023
+Länsi-Suomi
+Sädehoito
+70+
+Sukupuolet yhteensä
+59
+291
+20,3 (15,7 - 26,2)
+4
+2019-2023
+Pohjois-Suomi
+Sädehoito
+70+
+Sukupuolet yhteensä
+28
+182
+15,4 (10,6 - 22,3)
+5
+2019-2023
+Etelä-Suomi
+Sädehoito
+70+
+Miehet
+30
+222
+13,5 (9,4 - 19,3)
+1
+2019-2023
+Itä-Suomi
+Sädehoito
+70+
+Miehet
+19
+130
+14,6 (9,3 - 22,9)
+2
+2019-2023
+Sisä-Suomi
+Sädehoito
+70+
+Miehet
+29
+117
+24,8 (17,2 - 35,7)
+3
+2019-2023
+Länsi-Suomi
+Sädehoito
+70+
+Miehet
+34
+136
+25,0 (17,9 - 35,0)
+4
+2019-2023
+Pohjois-Suomi
+Sädehoito
+70+
+Miehet
+15
+105
+14,3 (8,6 - 23,7)
+5
+2019-2023
+Etelä-Suomi
+Sädehoito
+70+
+Naiset
+27
+247
+10,9 (7,5 - 15,9)
+1
+2019-2023
+Itä-Suomi
+Sädehoito
+70+
+Naiset
+16
+113
+14,2 (8,7 - 23,1)
+2
+2019-2023
+Sisä-Suomi
+Sädehoito
+70+
+Naiset
+18
+114
+15,8 (9,9 - 25,1)
+3
+2019-2023
+Länsi-Suomi
+Sädehoito
+70+
+Naiset
+25
+155
+16,1 (10,9 - 23,9)
+4
+2019-2023
+Pohjois-Suomi
+Sädehoito
+70+
+Naiset
+13
+77
+16,9 (9,8 - 29,1)
+5
+Alue
+Hoitomuoto
+Koodin tyyppi
+Koodi
+Selitys
+Hoidettujen lkm
+Koodien lkm
+Lääkehoito (osto)
+ATC-koodi
+L04AX04
+Lenalidomidi
+1482
+Autologinen kantasolusiirto
+toimenpide
+WW300
+Autologinen kantasolusiirto
+472
+530
+Lääkehoito (sairaala)
+toimenpide
+WD305
+Laaj levin syövän hoito yksitt immuuniaktiv vapaut
+434
+2471
+Lääkehoito (sairaala)
+toimenpide
+WD105
+Laajal levinn syövän hoito yksitt solunsalpaajalla
+429
+4304
+Lääkehoito (sairaala)
+toimenpide
+WD125
+Laaj lev kasv vaat syt.hoito
+383
+5839
+Sädehoito
+toimenpide
+WF049
+Etäpesäkkeen sädehoito
+356
+1964
+Lääkehoito (sairaala)
+toimenpide
+WD325
+Laaj lev kasv vaat biovas.hoito
+291
+4766
+Lääkehoito (sairaala)
+toimenpide
+WD515
+Laaj levin syövän hoito kahd/useam proteiinik estä
+256
+3618
+Lääkehoito (osto)
+ATC-koodi
+L01AA03
+Melfalaani
+164
+Sädehoito
+toimenpide
+WF004
+Primaarikasvaimen palliatiivinen sädehoito
+155
+1039
+Palliatiivinen hoito
+toimenpide
+WF004
+Primaarikasvaimen palliatiivinen sädehoito
+155
+1039
+Lääkehoito (sairaala)
+toimenpide
+WD115
+Laaj levinn syövän hoito kahd/useam solunsalpaajal
+127
+748
+Lääkehoito (sairaala)
+toimenpide
+WD135
+Laaj levin syö va soluns.hoito sis os an tukihoido
+115
+219
+Palliatiivinen hoito
+diagnoosi
+Z515
+Palliatiivinen hoito
+112
+244
+Lääkehoito (sairaala)
+toimenpide
+WD505
+Laaj levin syövän hoito yksit proteiinik estäjällä
+106
+956
+Lääkehoito (sairaala)
+toimenpide
+WD405
+Laaj levin syövän hoito yksittäisel vasta-aineella
+88
+765
+Lääkehoito (sairaala)
+toimenpide
+WD415
+Laaj levin syövän hoito kahd/useam vasta-aineella
+69
+364
+Sädehoito
+toimenpide
+ZX080
+Kuvantaohjattu sädehoito (IGRT)
+61
+630
+Sädehoito
+toimenpide
+ZX012
+Ulkoinen sädehoito fotoneilla tai elektroneilla
+61
+488
+Lääkehoito (osto)
+ATC-koodi
+L04AX06
+Pomalidomidi
+61
+Lääkehoito (sairaala)
+toimenpide
+WD315
+Laaj levin syö hoito kahd/useam immuuniakt vapautt
+55
+395
+Sädehoito
+toimenpide
+WF002
+Primaarikasvaimen definitiivinen sädehoito
+49
+557
+Lääkehoito (sairaala)
+diagnoosi
+Z511
+Kasvaimen kemoterapeuttinen hoito
+45
+228
+Sädehoito
+toimenpide
+ZX070
+Intensiteettimuokattu sädehoito (IMRT)
+42
+320
+Lääkehoito (osto)
+ATC-koodi
+L01FC01
+Daratumumabi
+41
+Sädehoito
+toimenpide
+WF099
+Muu sädehoito
+32
+191
+Sädehoito
+diagnoosi
+Z510
+Sädehoidon hoitokerta
+26
+203
+Sädehoito
+toimenpide
+ZX090
+Muu sädehoidon tekniikka
+20
+22
+Sädehoito
+toimenpide
+WF003
+Primaarikasvaimen postoperatiivinen sädehoito
+8
+155
+Lääkehoito (osto)
+ATC-koodi
+L04AX02
+Talidomidi
+5
+Lääkehoito (sairaala)
+toimenpide
+WD215
+Laaj lev kasv monihorm.hoito
+2
+3
+Lääkehoito (sairaala)
+toimenpide
+WD225
+Laaj levin syö hormonih sc/im an hormonilääkkeellä
+2
+2
+Sädehoito
+toimenpide
+WF029
+Paikallisesti uusineen kasvaimen sädehoito
+2
+22
+Sädehoito
+toimenpide
+WF090
+Profylaktinen sädehoito
+1
+3
+Sädehoito
+toimenpide
+ZX020
+Kudoksensisäinen HDR-sädehoito
+1
+1
+Sädehoito
+toimenpide
+ZX095
+Yhdistetty sädehoito ja syöpälääkehoito
+1
+1

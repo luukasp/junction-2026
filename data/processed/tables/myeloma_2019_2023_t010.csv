@@ -1,0 +1,37 @@
+Hoitomuoto,Koodin tyyppi,Koodi,Selitys,Hoidettujen lkm,Koodien lkm
+Lääkehoito (osto),ATC-koodi,L04AX04,Lenalidomidi,1482,
+Autologinen kantasolusiirto,toimenpide,WW300,Autologinen kantasolusiirto,472,530
+Lääkehoito (sairaala),toimenpide,WD305,Laaj levin syövän hoito yksitt immuuniaktiv vapaut,434,2471
+Lääkehoito (sairaala),toimenpide,WD105,Laajal levinn syövän hoito yksitt solunsalpaajalla,429,4304
+Lääkehoito (sairaala),toimenpide,WD125,Laaj lev kasv vaat syt.hoito,383,5839
+Sädehoito,toimenpide,WF049,Etäpesäkkeen sädehoito,356,1964
+Lääkehoito (sairaala),toimenpide,WD325,Laaj lev kasv vaat biovas.hoito,291,4766
+Lääkehoito (sairaala),toimenpide,WD515,Laaj levin syövän hoito kahd/useam proteiinik estä,256,3618
+Lääkehoito (osto),ATC-koodi,L01AA03,Melfalaani,164,
+Sädehoito,toimenpide,WF004,Primaarikasvaimen palliatiivinen sädehoito,155,1039
+Palliatiivinen hoito,toimenpide,WF004,Primaarikasvaimen palliatiivinen sädehoito,155,1039
+Lääkehoito (sairaala),toimenpide,WD115,Laaj levinn syövän hoito kahd/useam solunsalpaajal,127,748
+Lääkehoito (sairaala),toimenpide,WD135,Laaj levin syö va soluns.hoito sis os an tukihoido,115,219
+Palliatiivinen hoito,diagnoosi,Z515,Palliatiivinen hoito,112,244
+Lääkehoito (sairaala),toimenpide,WD505,Laaj levin syövän hoito yksit proteiinik estäjällä,106,956
+Lääkehoito (sairaala),toimenpide,WD405,Laaj levin syövän hoito yksittäisel vasta-aineella,88,765
+Lääkehoito (sairaala),toimenpide,WD415,Laaj levin syövän hoito kahd/useam vasta-aineella,69,364
+Sädehoito,toimenpide,ZX080,Kuvantaohjattu sädehoito (IGRT),61,630
+Sädehoito,toimenpide,ZX012,Ulkoinen sädehoito fotoneilla tai elektroneilla,61,488
+Lääkehoito (osto),ATC-koodi,L04AX06,Pomalidomidi,61,
+Lääkehoito (sairaala),toimenpide,WD315,Laaj levin syö hoito kahd/useam immuuniakt vapautt,55,395
+Sädehoito,toimenpide,WF002,Primaarikasvaimen definitiivinen sädehoito,49,557
+Lääkehoito (sairaala),diagnoosi,Z511,Kasvaimen kemoterapeuttinen hoito,45,228
+Sädehoito,toimenpide,ZX070,Intensiteettimuokattu sädehoito (IMRT),42,320
+Lääkehoito (osto),ATC-koodi,L01FC01,Daratumumabi,41,
+Sädehoito,toimenpide,WF099,Muu sädehoito,32,191
+Sädehoito,diagnoosi,Z510,Sädehoidon hoitokerta,26,203
+Sädehoito,toimenpide,ZX090,Muu sädehoidon tekniikka,20,22
+Sädehoito,toimenpide,WF003,Primaarikasvaimen postoperatiivinen sädehoito,8,155
+Lääkehoito (osto),ATC-koodi,L04AX02,Talidomidi,5,
+Lääkehoito (sairaala),toimenpide,WD215,Laaj lev kasv monihorm.hoito,2,3
+Lääkehoito (sairaala),toimenpide,WD225,Laaj levin syö hormonih sc/im an hormonilääkkeellä,2,2
+Sädehoito,toimenpide,WF029,Paikallisesti uusineen kasvaimen sädehoito,2,22
+Sädehoito,toimenpide,WF090,Profylaktinen sädehoito,1,3
+Sädehoito,toimenpide,ZX020,Kudoksensisäinen HDR-sädehoito,1,1
+Sädehoito,toimenpide,ZX095,Yhdistetty sädehoito ja syöpälääkehoito,1,1

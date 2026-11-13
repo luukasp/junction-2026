@@ -1,0 +1,33 @@
+Cancer site,ICD-10,Incidence and mortality,Survival | 5-year,"Prevalence, time since diagnosis | 1 year","Prevalence, time since diagnosis | 5 years","Prevalence, time since diagnosis | 10 years"
+Lymphoid and haematopoietic tissue,"C81-96,D45-47,D76",1953,1958,1953,1957,1962
+Hodgkin lymphoma,C81,1953,1958,1953,1957,1962
+Mature B-cell neoplasms,–,2000,2005,2000,2004,2009
+Chronic lymphatic leukaemia,C91.1,1953,1958,1953,1957,1962
+Diffuse B lymphoma,C83.3,2000,2005,2000,2004,2009
+Follicular B lymphoma,C82,2000,2005,2000,2004,2009
+Myeloma and other plasma cell tumors,C90,1953,1958,1953,1957,1962
+Burkitt’s lymhoma/leukaemia,C83.7,2000,2005,2000,2004,2009
+Marginal zone lymphoma,C83.8,2000,2005,2000,2004,2009
+Mantle cell lymphoma,C83.1,2000,2005,2000,2004,2009
+Malignant immunoproliferative diseases,C88,2000,2005,2000,2004,2009
+Other mature B-cell neoplasms,–,2000,2005,2000,2004,2009
+Mature T and NK cell lymphomas/leukaemias,C84,2000,2005,2000,2004,2009
+Mature T-cell neoplasias of the skin,C84.0-1,2000,2005,2000,2004,2009
+Other T and NK cell lymphomas/leukaemias,C84.3-5,2000,2005,2000,2004,2009
+Acute lymphoblastic leukaemia/lymphoma,C91.0,1964,1969,1964,1968,1973
+Acute myeloid leukaemia,C92.0,1964,1969,1964,1968,1973
+"Non-Hodgkin lymphoma, other or unspeficied",C85,2000,2005,2000,2004,2009
+"Leukaemia, other or unspecified",C95,1964,1969,1964,1968,1973
+Myeloproliferative neoplasms,"C92.1,D45,D47.1,D47.3",2007,2012,2007,2011,2016
+Chronic myeloid leukaemia,C92.1,1953,1958,1953,1957,1962
+Polycythaemia vera,D45,1969,1974,1969,1973,1978
+Myelofibrosis,D47.1,1969,1974,1969,1973,1978
+Essential thrombocythemia,D47.3,2007,2012,2007,2011,2016
+"Myeloproliferative neoplasm, other",D47.1,2007,2012,2007,2011,2016
+Myelodysplastic syndromes and myelodysplastic/myeloproliferative neoplasms,–,2007,2012,2007,2011,2016
+Myelodysplastic syndromes,D46,2007,2012,2007,2011,2016
+Myelodysplastic/myeloproliferative neoplasms,–,2007,2012,2007,2011,2016
+"Other, unspecified or mixed hematological disease","C96, D76",2007,2012,2007,2011,2016
+Mastocytosis,C96.2,2007,2012,2007,2011,2016
+Histiocytic and denritic cell neoplasms,"C96.1, D76",2007,2012,2007,2011,2016
+"Other, unspecified or mixed hematological disease",C96.7-9,2007,2012,2007,2011,2016

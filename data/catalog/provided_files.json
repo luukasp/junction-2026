@@ -1,0 +1,26 @@
+[
+  {
+    "path": "Kansallinen_syopastrategia_2026_2035_FINAL.pdf",
+    "bytes": 1551018,
+    "sha256": "a07a9224413e98322e57a9f5933297aec6cc99684cdff91799a5dc94c3405550",
+    "origin": "user-provided challenge resource"
+  },
+  {
+    "path": "Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf",
+    "bytes": 1401669,
+    "sha256": "f9d4ed478a7531b0ee26c84f9d5df7c96137f8e192ca27efd8afc5b1c1e2ecb5",
+    "origin": "user-provided challenge resource"
+  },
+  {
+    "path": "Syöpästrategiat ja syöpädata_linkkikokoelma.pdf",
+    "bytes": 136281,
+    "sha256": "41a6d28e3eff41e1ce6d4f7d0f3ec025a3918728bcbe01c9e526e46f5b73cb08",
+    "origin": "user-provided challenge resource"
+  },
+  {
+    "path": "challenge.md",
+    "bytes": 5313,
+    "sha256": "6d6a022b186dd986010c159749d551e907c7bcc473a21de2d6aaf0c20f2c367f",
+    "origin": "user-provided challenge brief"
+  }
+]

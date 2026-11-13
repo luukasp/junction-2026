@@ -1,0 +1,117 @@
+{
+  "query": [
+    {
+      "code": "alue_23_20260101",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "SSS",
+          "KU091",
+          "MA1",
+          "MA2",
+          "HVA01",
+          "HVA02",
+          "HVA03",
+          "HVA04",
+          "HVA05",
+          "HVA06",
+          "HVA07",
+          "HVA08",
+          "HVA09",
+          "HVA10",
+          "HVA11",
+          "HVA12",
+          "HVA13",
+          "HVA14",
+          "HVA15",
+          "HVA16",
+          "HVA17",
+          "HVA18",
+          "HVA19",
+          "HVA20",
+          "HVA21",
+          "HVA90",
+          "HVA91"
+        ]
+      }
+    },
+    {
+      "code": "contentscode",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "vaerak-vaesto",
+          "vaerak-kokmuutos",
+          "kokmuutos_p",
+          "vaesto_alle15_p",
+          "vaesto_15_64_p",
+          "vaesto_yli64_p",
+          "vaerak-dem_huoltos",
+          "vaerak-tal_huoltos",
+          "vaesto_keski_ika",
+          "vaesto_keski_ika_1",
+          "vaesto_keski_ika_2",
+          "vaesto_kieli_fi",
+          "vaesto_kieli_fi_p",
+          "vaesto_kieli_sv",
+          "vaesto_kieli_sv_p",
+          "vaesto_kieli_se",
+          "vaesto_kieli_ulk",
+          "vaesto_kieli_ulk_p",
+          "vaesto_kansa_ulk",
+          "vaesto_kansa_ulk_p",
+          "vaesto_svaltio_ulk",
+          "vaesto_svaltio_ulk_p",
+          "vaesto_tausta_ulk",
+          "vaesto_tausta_ulk_p",
+          "vaesto_usk_evlut_p",
+          "vaesto_usk_muu_p",
+          "vaesto_usk_ei_p",
+          "vaerak-maa_pa",
+          "vaerak-vaesto_maa_pa",
+          "vaesto_skunta",
+          "vaesto_askunta_skunta",
+          "vaesto_askunta_eiskunta",
+          "vaesto_askunta_skunta_p",
+          "vaesto_skunta_askunta_p",
+          "vaesto_ks_p",
+          "vaesto_k1_p",
+          "vaesto_k2_p",
+          "vaesto_k3_p",
+          "vaesto_ms_p",
+          "vaesto_m4_p",
+          "vaesto_m5_p",
+          "vaesto_m6_p",
+          "vaesto_m7_p"
+        ]
+      }
+    },
+    {
+      "code": "timeperiod_y",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "2010",
+          "2011",
+          "2012",
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ]
+      }
+    }
+  ],
+  "response": {
+    "format": "json-stat2"
+  }
+}

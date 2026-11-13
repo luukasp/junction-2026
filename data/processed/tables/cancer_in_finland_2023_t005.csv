@@ -1,0 +1,27 @@
+Cancer site,ICD-10,Women,Men,Total
+All sites together,"C00-96,D09.0-1,D32-33,D41-43,D45-47,D76",95 000,97 800,193 000
+"Lung, trachea",C33-34,13 800,20 500,34 300
+Lymphoid and haematopoietic tissue,"C81-96,D45-47,D76",9 060,10 200,19 300
+Colon and rectum,C18-20,8 310,9 460,17 800
+Pancreas,C25,8 890,8 560,17 500
+Breast,C50,15 900,93,16 000
+Liver,C22,2 440,4 840,7 280
+Stomach,C16,2 820,4 030,6 850
+Glioma,–,2 700,3 610,6 300
+Prostate,C61,–,6 260,6 260
+Ovary etc.,"C48.1-2 (Serous), C56, C57.0-4",5 620,–,5 620
+Kidney,C64,1 890,3 240,5 130
+Oesophagus,C15,1 230,3 480,4 710
+"Mouth, pharynx",C00-14,1 470,3 120,4 590
+Bladder and urinary tract,"C65-68,D09.0-1,D41.1-9",1 360,3 010,4 370
+"Gallbladder, bile ducts",C23-24,2 210,1 720,3 930
+Corpus uteri,C54,2 790,–,2 790
+Melanoma of the skin,C43,791,1 370,2 160
+Soft tissues,C48-49,674,863,1 540
+"Skin, squamous cell carcinoma",C44 (Squamous cell),672,703,1 380
+Cervix uteri,C53,1 120,–,1 120
+"Larynx, epiglottis",C32,136,779,915
+Thyroid gland,C73,308,228,536
+Meningeoma,–,305,78,383
+Testis,C62,–,227,227
+Other,–,10 400,11 400,21 800

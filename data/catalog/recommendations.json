@@ -1,0 +1,92 @@
+[
+  {
+    "id": "screening_reminders",
+    "trigger": "Low participation after checking invitation delivery and cohort composition",
+    "proposal": "Audit invitations, provide appropriate language materials, and implement the screening reminder workflow",
+    "owner": "County screening programme lead",
+    "measure": [
+      "invitation delivery",
+      "participation by language and sex",
+      "reminder reach"
+    ],
+    "evidence": [
+      {
+        "path": "data/raw/evidence/manual_Suolistosyovan-seulonnan-laatukasikirja.pdf",
+        "section": "10.5",
+        "pdf_page": 21,
+        "url": "https://fican.fi/wp-content/uploads/2026/06/Suolistosyovan-seulonnan-laatukasikirja.pdf"
+      }
+    ],
+    "goal": "Goal 2; supporting detection pathway, not sufficient as the only Goal 3 measure",
+    "evidence_status": "Policy/guidance-supported proposal; local benefit unestimated; requires clinical validation"
+  },
+  {
+    "id": "positive_fit_followup",
+    "trigger": "Low recorded colonoscopy completion among positive tests",
+    "proposal": "Audit screening-nurse contact and diagnostic follow-up, account for clinical exclusions and alternatives, then address verified workflow gaps",
+    "owner": "County screening and endoscopy leads",
+    "measure": [
+      "follow-up completed",
+      "unresolved positive tests",
+      "record completeness",
+      "prospective time to follow-up"
+    ],
+    "evidence": [
+      {
+        "path": "data/raw/evidence/manual_Suolistosyovan-seulonnan-laatukasikirja.pdf",
+        "section": "11",
+        "url": "https://fican.fi/wp-content/uploads/2026/06/Suolistosyovan-seulonnan-laatukasikirja.pdf"
+      }
+    ],
+    "goal": "Detection-to-diagnosis; prospective times can support Goal 3 pathway monitoring",
+    "evidence_status": "Policy/guidance-supported proposal; local benefit unestimated; requires clinical validation"
+  },
+  {
+    "id": "stage_mdt_completeness",
+    "trigger": "Incomplete stage or MDT recording, or unexplained regional treatment-pattern differences",
+    "proposal": "Conduct a joint clinical and coding review, standardise documentation and registry delivery, and monitor missingness before attributing differences to care quality",
+    "owner": "County oncology lead and registry/data team",
+    "measure": [
+      "stage data coverage",
+      "validated MDT recording",
+      "clinical-notification completeness"
+    ],
+    "evidence": [
+      {
+        "path": "data/raw/quality/lung_2019_2023.html",
+        "url": "https://cancerregistry.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html"
+      },
+      {
+        "path": "Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf",
+        "action": "3.2.1",
+        "pdf_page": 60
+      }
+    ],
+    "goal": "Goal 3.2.1 and 3.2.2",
+    "evidence_status": "Policy/guidance-supported proposal; local benefit unestimated; requires clinical validation"
+  },
+  {
+    "id": "pathway_coordination",
+    "trigger": "Clinically verified referral or treatment delays, measured with agreed timestamp definitions",
+    "proposal": "Pilot a pathway coordinator and standardised milestones; review unresolved referrals with clinical teams and collect aggregate timestamp quality and interval measures",
+    "owner": "Primary and specialist care pathway leads",
+    "measure": [
+      "timestamp completeness",
+      "median and p90 interval",
+      "eligible patients within cancer-specific target"
+    ],
+    "evidence": [
+      {
+        "path": "Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf",
+        "action": "3.1.2",
+        "pdf_page": 57
+      },
+      {
+        "path": "data/raw/evidence/sweden_svf_colorectal.html",
+        "url": "https://kunskapsbanken.cancercentrum.se/diagnoser/tjock-och-andtarmscancer/vardforlopp/"
+      }
+    ],
+    "goal": "Goal 3.1.2; Swedish guidance is an external model, not a Finnish target",
+    "evidence_status": "Policy/guidance-supported proposal; local benefit unestimated; requires clinical validation"
+  }
+]

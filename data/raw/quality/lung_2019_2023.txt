@@ -1,0 +1,2046 @@
+keuhkosyoparaportti
+Sisällysluettelo
+1
+Yhteenveto
+2
+Tausta
+3
+Aineisto ja menetelmät
+3.1
+Määritelmät
+3.2
+Aineisto
+3.2.1
+Ikä ja sukupuoli
+3.3
+Menetelmät
+4
+Tulokset
+4.1
+Perusjoukon kuvaileva analyysi
+4.1.1
+Toteamistapa
+4.1.2
+Histologinen tyyppi
+4.1.3
+Levinneisyystiedon kattavuus
+4.2
+Prosessimittarit
+4.2.1
+Ikävakioidut osuudet sukupuolittain ja alueittain
+4.2.2
+Hoitopolku
+4.3
+Elossaolo-osuus
+4.3.1
+Elossaolo-osuus alueittain
+4.3.2
+Elossaolo-osuus ensivaiheen hoitomuodon mukaan
+5
+Liitteet
+5.1
+Toimenpidekoodisto
+1
+Yhteenveto
+Järjestyksessä toinen keuhkosyöpäraportti täydentää edellistä raporttia kolmella uudella näkökulmalla: MDT-kirjausten kattavuudella, diagnoosivaiheen levinneisyystiedon kattavuudella sekä hoitojen jaottelulla parantaviin (kuratiiviset), jarruttaviin (ei-kuratiiviset) ja oireenmukaisiin (palliatiiviset) hoitoihin. Tavoitteena on selvittää, miten hoidon arviointia varten tarvittavat tiedot saadaan kansallisista rekistereistä ja miten keuhkosyövän hoito Suomessa toteutuu. Vertailua varten tärkeimmät tiedot kuvataan sekä yhteistyö- että hyvinvointialueittain.
+Raportin pohjana ovat uudet primaarit keuhkosyövät (ICD-10 koodit C33 – C34) viiden vuoden ajalta eli 1.1.2019 – 31.12.2023, yhteensä 14 873 uutta tapausta. Potilaita seurattiin enintään 12 kuukautta seurannan alusta, joka määriteltiin syöpärekisterin toteamispäivän tai sitä enintään kolme kuukautta edeltäneen HILMO-keuhkosyöpäkäynnin perusteella.
+Noin kaksi kolmesta potilaasta oli 70-vuotias tai sitä vanhempi syövän toteamisen aikaan. Kolmasosassa tapauksia keuhkosyövän solutyyppi oli adenokarsinooma, viidesosassa levyepiteelikarsinooma ja 13 %:ssa pienisoluinen. Solutyypiltään tuntemattomia oli runsas viidennes uusista keuhkosyövistä (22 %). Yhteistyöalueiden väliset erot olivat erityisen suuria tuntemattoman solutyypin syöpien osuudessa. Potilaita ilman histologista tai sytologista varmistusta oli eniten Pohjois- ja Itä-Suomessa (23 % ja 19 %).
+MDT-kirjauksia löytyi pääsääntöisesti vain Sisä-Suomen yhteistyöalueelta (33 %:lle potilaita), muilla alueilla kirjauksia löytyi vain satunnaisesti.
+Syövän toteamisvaiheen levinneisyystiedot puuttuivat noin puolelta potilaita (48 %). Rekisteriin ilmoitettiin levinneisyys (TNM tai stage) noin kolmasosassa potilaita, lisäksi syöpärekisterin oma karkea levinneisyystieto kirjattiin ilmoituksista löytyvän tiedon perusteella noin viidennekselle.
+Ensimmäisen seurantavuoden aikana 60 % potilaista kuoli. Parantavaa hoitoa (leikkaus- tai parantava sädehoito) sai runsas neljännes potilaista, jarruttavaa hoitoa vajaa kolmannes ja oireenmukaista hoitoa noin 40 %. Vajaalle kolmannekselle ei löytynyt lainkaan hoitokirjauksia vuoden sisällä syövän toteamisesta. Suurin osa (79 %) näistä potilaista kuoli vuoden seurannan aikana. Parantavaan hoitoon ohjautuneista potilaista 9 % siirtyi jarruttavaan hoitoon ja 12 % kuoli vuoden seurannan aikana. Jarruttavan hoidon potilaista runsas puolet kuoli ja 11 % siirtyi oireenmukaiseen hoitoon vuoden aikana. Oireenmukaiseen hoitoon ensivaiheessa ohjautuneista suurin osa (85 %) kuoli vuoden seurannassa.
+Naispotilaiden yhden vuoden kokonaiselossaololuvut olivat merkitsevästi miespotilaiden vastaavia paremmat (47 % vs 37 %). Parantavan hoidon ryhmässä 12 kuukauden elossaololuvut olivat korkeimpia (84 %). Jarruttavaan hoitoon ensivaiheessa ohjautuneiden potilaiden elossaololuvut olivat 40 %, oireenmukaisen hoidon ryhmässä 12 % ja ilman hoitokirjauksia olevien potilaiden ryhmässä 22 %.
+Keuhkosyövän diagnostiikassa, hoitopäätösten tietopohjassa ja hoitoon ohjautumisessa todettiin edelleen merkittäviä alue-eroja. Solutyypiltään määrittämättömien tai tuntemattomien syöpien osuus oli edelleen suuri, ja histologinen tai sytologinen varmistus puuttui erityisen usein tietyillä alueilla. Levinneisyystieto puuttui lähes puolelta potilaista kertoen kliinisten syöpäilmoitusten puutteesta. MDT-kirjaukset toimenpidekoodia käyttäen olivat valtakunnallisesti hyvin puutteellisia, koska vain suoriin potilaskontakteihin liittyvät tiedot viedään HILMO:on. Samanaikaisesti vain noin neljännes potilaista ohjautui parantavaan hoitoon. Nämä havainnot viittaavat siihen, että osa alueellisista eroista ei selity yksin potilasrakenteella, vaan myös diagnostiikan, hoitoprosessien ja kirjaamiskäytäntöjen eroilla.
+2
+Tausta
+Keuhkosyöpä (ICD-10 C33-C34) on Suomessa sekä naisten että miesten kolmanneksi yleisin syöpä uusien tapausten määrällä laskettuna (
+Syöpärekisterin syöpätilastoraportti
+). Se aiheuttaa eniten syöpäkuolemia vuosittain ja keuhkosyövän takia menetettyjen elinvuosien määrä on suurin. Muihin Pohjoismaihin verrattuna miesten keuhkosyövän ilmaantuvuus on Suomessa laskenut eniten 1970-luvun puolivälin jälkeen ja se on nyt matalampi kuin Norjassa ja Tanskassa, mutta edelleen selkeästi Ruotsin miesten ilmaantuvuutta korkeampi (
+NORDCAN-tietokanta
+). Naisilla ilmaantuvuus on noussut tasaisesti, mutta on edelleen Pohjoismaiden matalin.
+Potilaiden elossaololuvut olivat Suomessa Pohjoismaiden parhaita 2000-luvun alussa, mutta niissä on tapahtunut vain maltillista kehitystä samaan aikaan kuin muiden Pohjoismaiden luvut ovat parantuneet selvästi. Selityksenä on ehdotettu syövän levinneisyyttä toteamisvaiheessa. Suomessa vain pieni osa keuhkosyövistä todetaan paikallisena, 5 % kaikista potilaista ja 11 % niistä, joilta tieto on kansallisesti saatavissa (noin 50 %) (
+Syöpärekisterin syöpätilastosovellus
+).
+Valtakunnallisen Keuhkosyöpäohjelman päätavoitteena on keuhkosyövän diagnostiikan ja hoidon parantaminen Suomessa. Ohjelmaan on kirjattu seuraavia tavoitteita: keuhkosyövän hoitoketjut ovat sujuvia ja laadukkaita, keuhkosyövän parantavan hoidon määrä kasvaa 10 % ja viiden vuoden elossaololuku paranee 5 %. Tavoitteita edistetään laatutiedon hyödyntämisellä, hoitosuositusten ja ohjeiden avulla, alueellisten hoitoketjujen ja moniammatillisen yhteistyön avulla.
+Raportti tavoittelee kaikkien keuhkosyöpään sairastuneiden hoitotietojen edustavuuden ja laadun arviointia, hoitoketjujen kuvaamista ja läpimenon indikaattoreiden arviointia Suomessa. Tiedon pohjalta terveydenhuollon toimijat voivat pohtia syitä ja toimenpiteitä, joilla voidaan edistää asetettuja keuhkosyövän hoitotavoitteita kaikkialla Suomessa.
+Raportti on osa kansallista
+syöpien laaturekisterin selvityshanketta
+.
+3
+Aineisto ja menetelmät
+3.1
+Määritelmät
+Raportin tiedot perustuvat THL:n valtakunnallisen syöpärekisterin keuhkosyöpätietoihin (ICD-10 C33–C34) ja näille potilaille poimittuihin THL:n hoitoilmoitusjärjestelmän (HILMO) käynti- ja hoitojaksotietoihin toimenpiteineen (
+Kuva 1
+). Potilaiden elossaolo- ja kotikuntatiedot päivittyvät syöpärekisteriin jatkuvasti THL:n kautta väestötietojärjestelmästä (VTJ).
+Aineistoon on poimittu 1.1.2019 - 31.12.2023 syöpärekisteriin rekisteröidyt uudet keuhkosyöpätapaukset (ICD10-koodit C33-C34)
+Hoitoilmoitusjärjestelmästä (HILMO) on poimittu näiden henkilöiden käynnit tai hoitojaksot 12 kuukauden seuranta-ajalla (viimeistään 31.12.2024)
+jos pää-, sivu- tai pitkäaikaisdiagnoosi on C33-C34-alkuinen (henkitorven tai keuhkojen syöpä) tai D38.1 (epäselvä keuhkokasvain) JA
+yhteystapa jokin seuraavista: R10 Asiakkaan käynti vastaanotolla, R80 Vuodeosastohoito, R40 Sairaalakäynti, R52 Reaaliaikainen etäasiointi, R71 Ammattihenkilöiden välinen neuvottelu, R90 Muu asiointi tai puuttuva
+Potilaiden seuranta alkaa aikaisimmasta alla olevista:
+D38.1 tai C33-C34-käynti HILMO:ssa korkeintaan 3kk ennen syöpärekisterin toteamispäivää
+Syöpärekisteriin kirjattu keuhkosyövän toteamispäivä
+Seuranta päättyy vuosi (12 kuukautta) seurannan alun jälkeen, maastamuuttoon tai kuolemaan, aikaisimpaan näistä
+3.2
+Aineisto
+Kaikkiaan Suomessa todettiin 14 873 uutta keuhkosyöpää vuosina 2019–2023. Näistä 950:llä potilaalla (6,4 %) ei ollut lainkaan keuhkosyöpään liittyvää käyntiä HILMO:ssa. Keuhkosyöpäkäyntiin liittyvä hoitotieto löytyi 10 784 potilaalta (72,5 %). Parantavaan hoitoon ohjautui 4009 potilasta kaikista uusista keuhkosyövistä (27,0 %). Vuoden sisällä syövän toteamisesta oireenmukainen hoito tai käynti kirjattiin 5871 potilaalle (39,5 %).
+Kuva 2
+Vain pieni osa potilaista oli toteamishetkellä alle 60-vuotiaita ja kaksi kolmesta 70-vuotiaita tai vanhempia. Keuhkosyöpiä todetaan edelleen enemmän miehillä kuin naisilla, naisia on noin 40 % kaikista uusista keuhkosyöpäpotilaista.
+Taulukko 1
+Keuhkosyövän sijainti on epäselvä runsaassa 40 %:ssa (6524 tapausta), noin 30 %:ssa se on ylälohkossa (4231 tapausta) ja 20 %:ssa alalohkossa (3032 tapausta).
+Eniten uusia syöpiä todetaan Etelä-Suomen yhteistyöalueella ja vähiten Pohjois-Suomen yhteistyöalueella. Naisten osuus uusista potilaista on pienin Itä-Suomessa (35 %) ja suurin Etelä-Suomessa (45 %)
+Kuva 3
+. Hyvinvointialueittain miesten ja naisten osuudet on esitetty kuvassa
+Kuva 4
+. Helsingin kaupungissa ja Vantaan ja Keravan hyvinvointialueella naisia on lähes puolet potilaista.
+Kuva 1: Laatutietojen rekisteröinnin lähteet
+Kuva 2: Keuhkosyöpäpotilaiden käynnit ja toimenpiteet 12 kuukauden seurannassa. Samalla potilaalla voi olla useita eri hoitomuotoja
+3.2.1
+Ikä ja sukupuoli
+Taulukko 1: Keuhkosyöpäpotilaiden ikä ja sukupuoli
+Mies
+Nainen
+Sukupuolet
+yhteensä
+Ikäryhmä
+Lukumäärä
+%
+Lukumäärä
+%
+Lukumäärä
+%
+-59
+745
+8.4
+589
+9.8
+1334
+9.0
+60-69
+2282
+25.7
+1553
+25.9
+3835
+25.8
+70-79
+3993
+45.0
+2486
+41.4
+6479
+43.6
+80-
+1846
+20.8
+1379
+23.0
+3225
+21.7
+Yhteensä
+8866
+100.0
+6007
+100.0
+14873
+100.0
+Yhteistyöalueittain
+Hyvinvointialueittain
+Kuva 3: Keuhkosyöpäpotilaiden sukupuoli yhteistyöalueittain. Palkkeihin merkityt luvut kuvaavat potilaiden lukumäärää
+Kuva 4: Keuhkosyöpäpotilaiden sukupuoli hyvinvointialueittain
+3.3
+Menetelmät
+Kultakin potilaalta on valittu vain henkilön ensimmäinen keuhkosyöpä. Raportissa käytetyt toimenpidekoodit on päätetty asiantuntijoiden ohjeiden ja Hoitoonpääsyn seuranta syövän hoidossa (THL 2016) – raportin avulla (Liite
+Taulukko 13
+). Aluekohtaiset luvut perustuvat potilaiden syövän toteamisvuoden alun kotikuntaan. Pienelle osalla potilaita ei ollut tiedossa toteamisvuoden kotikuntaa, joten nämä tapaukset puuttuvat aluekohtaisista luvuista (N 6). Avoterveydenhuollon käyntejä ei ole mukana aineistossa.
+Ahvenanmaan alueen potilaat ovat mukana kokonaisluvuissa, mutta niitä ei esitetä aluekohtaisissa tuloksissa pienten lukumäärien takia (yhteensä 93 tapausta).
+MDT-kirjaukset poimittiin HILMO:sta toimenpidekoodeja WZC15 ja WZC20 käyttäen. Osalle potilaista löytyi molempia toimenpidekoodeja. Erikoissairaanhoidon toimenpiteet viedään HILMO:on vain suorista potilaskontakteista, joten saatu tieto ei kuvaa kattavasti moniammatillisen käsittelyn laajuutta.
+Potilaiden alueittaiset hoito-osuudet on esitetty erikseen miehille ja naisille käyttäen suoraa ikävakiointia ja vakioväestönä tutkimusaikajakson koko maan potilaiden ikäjakaumaa neljässä ikäryhmässä (alle 60-vuotiaat, 60-69, 70-79 ja 80-vuotiaat ja sitä vanhemmat). Vastaavat luottamusvälit on laskettu normaaliapproksimaatiota käyttäen. Yhteistyöalueittaisia osuuksia verrattiin koko Suomen vastaaviin lukuihin.
+Potilaiden hoitopolkua on kuvattu ensimmäisen ja viimeisen kirjatun hoidon avulla vuoden sisällä syövän toteamisesta. Hoitovaihtoehdot ovat parantava eli kuratiivistavoitteinen hoito, jarruttava eli ei-kuratiivinen hoito ja oireenmukainen eli palliatiivinen hoito tai käynti.
+Elossaolo-osuudet on laskettu erikseen mies- ja naispotilaille koko maassa ja yhteistyö- ja hyvinvointialueittain ikäkorjattuna maksimaalisesti yhden vuoden seurannalla. Ikäkorjattu elossaolo-osuus on laskettu ikäryhmittäisten elossaolo-osuuksien painotettuna keskiarvona käyttäen painoina tutkimusjakson aikana koko maassa todettujen potilaiden ikäjakaumaa neljässä ikäryhmässä (alle 60-vuotiaat, 60-69, 70-79 ja 80-vuotiaat ja sitä vanhemmat). Elossa-olo osuuksien erojen merkitsevyyttä on tarkasteltu 95 % luottamusvälien avulla. Hoitokohtaiset elossaolo-osuudet on laskettu vastaavasti ensivaiheen hoidon alusta potilaan kuolemaan, maastamuuttoon tai 31.12.2024 asti, kuitenkin enintään yhden vuoden seuranta-ajalle hoidon alkamisesta.
+4
+Tulokset
+4.1
+Perusjoukon kuvaileva analyysi
+4.1.1
+Toteamistapa
+Keuhkosyövän toteaminen perustuu histologiseen kudosnäytteeseen noin 73 %:ssa, solunäytteeseen noin 8 %:ssa ja pelkkään kliiniseen tutkimukseen, kuten kuvantamiseen, noin 20 %:ssa.
+Taulukko 2
+Vanhoilla potilailla kliininen toteamistapa on yleisempi kuin nuorilla, jolloin myös syövän solutyyppi jää puuttumaan.
+Kuva 5
+Yhteistyöalueiden ja hyvinvointialueiden välillä on selkeitä eroja syövän toteamistavoissa. Pohjois-Suomen alueella kliininen toteamistapa on selkeästi muuta maata yleisempi.
+Kuva 6
+Kuva 7
+Taulukko 2: Keuhkosyöpäpotilaiden toteamistapa
+Toteamistapa
+Lukumäärä
+Osuus (%)
+Primaarin histologia
+8379
+56.3
+Kliininen
+2401
+16.1
+Metastaasin histologia
+1978
+13.3
+Sytologia yms.
+1174
+7.9
+Vain kuolintodistus/tuntematon
+496
+3.3
+Obduktio
+445
+3.0
+Yhteensä
+14873
+100.0
+Kuva 5: Keuhkosyöpäpotilaiden toteamistapa ikäryhmittäin. Palkkeihin merkityt luvut kuvaavat potilaiden lukumäärää
+Yhteistyöalueittain
+Hyvinvointialueittain
+Kuva 6: Keuhkosyöpäpotilaiden toteamistapa yhteistyöalueittain. Palkkeihin merkityt luvut kuvaavat potilaiden lukumäärää
+Kuva 7: Keuhkosyöpäpotilaiden toteamistapa hyvinvointialueittain
+4.1.2
+Histologinen tyyppi
+Keuhkosyövän solutyyppi on jaoteltu pienisoluisiin (small cell carcinoma), ei pienisoluisiin (muut karsinoomat, ml. neuroendokriiniset ei-pienisoluiset kasvaimet) ja muihin ja määrittämättömiin, joista suurimman ryhmän muodostavat ne, joista ei ole saatu solutyyppiä lainkaan. Ikäryhmittäinen tarkastelu osoittaa, että puuttuva solutyyppi on hyvin yleinen vanhimmilla potilailla (lähes puolella solutyyppi on muu tai tuntematon).
+Taulukko 3
+Kuva 8
+Alueiden kesken näkyy myös eroja solutyypin suhteen siten, että muu tai määrittämätön (yleensä tuntematon) on yleisin Pohjois-Suomen yhteistyöalueella ja harvinaisin Länsi-Suomessa.
+Kuva 9
+Kuva 10
+Taulukko 3: Keuhkosyöpäpotilaiden histologinen tyyppi ikäryhmittäin
+Ikäryhmä
+Histologinen tyyppi
+Lukumäärä
+Yhteensä
+Osuus (%)
+-59
+Ei-pienisoluiset
+876
+1334
+65.7
+Muu tai määrittämätön
+224
+1334
+16.8
+Pienisoluiset
+234
+1334
+17.5
+60-69
+Ei-pienisoluiset
+2342
+3835
+61.1
+Muu tai määrittämätön
+854
+3835
+22.3
+Pienisoluiset
+639
+3835
+16.7
+70-79
+Ei-pienisoluiset
+3926
+6479
+60.6
+Muu tai määrittämätön
+1729
+6479
+26.7
+Pienisoluiset
+824
+6479
+12.7
+80-
+Ei-pienisoluiset
+1455
+3225
+45.1
+Muu tai määrittämätön
+1562
+3225
+48.4
+Pienisoluiset
+208
+3225
+6.4
+Kuva 8: Keuhkosyöpäpotilaiden histologinen tyyppi ikäryhmittäin. Palkkeihin merkityt luvut kuvaavat potilaiden lukumäärää
+Yhteistyöalueittain
+Hyvinvointialueittain
+Kuva 9: Keuhkosyöpäpotilaiden histologinen tyyppi yhteistyöalueittain. Palkkeihin merkityt luvut kuvaavat potilaiden lukumäärää
+Kuva 10: Keuhkosyöpäpotilaiden histologinen tyyppi hyvinvointialueittain
+4.1.3
+Levinneisyystiedon kattavuus
+Keuhkosyövän levinneisyys toteamishetkellä puuttuu lähes puolelta uusia potilaita
+Taulukko 4
+. TNM-luokitukseen perustuva levinneisyys on ilmoitettu syöpärekisteriin noin kolmanneksella potilaita (täydennettynä sanallisen kuvauksen avulla, ns. condensed TNM). Syöpärekisterin oma levinneisyysluokitus ainoana levinneisyystietona on vajaassa 20 %:ssa tapauksia. Viiden vuoden aikana ei ole tapahtunut merkittäviä muutoksia levinneisyystiedon ilmoittamisessa
+Kuva 11
+.
+Alueittain tarkasteltuna levinneisyystieto puuttuu useimmiten Itä-Suomen alueelta ja parhaiten jokin levinneisyys on saatu Pohjois-Suomen alueelta
+Kuva 12
+Kuva 13
+.
+Taulukko 4: Keuhkosyöpäpotilaiden levinneisyysluokitus
+Levinneisyysluokitus
+Lukumäärä
+Osuus (%)
+TNM
+4055
+27.3
+Sanallinen
+860
+5.8
+Stage
+249
+1.7
+Syre -levinneisyys
+2612
+17.6
+Ei tietoa
+7097
+47.7
+Yhteensä
+14873
+100.0
+Kuva 11: Keuhkosyöpäpotilaiden levinneisyysluokitus vuosittain
+Yhteistyöalueittain
+Hyvinvointialueittain
+Kuva 12: Keuhkosyöpäpotilaiden levinneisyysluokitus yhteistyöalueittain. Palkkeihin merkityt luvut kuvaavat potilaiden lukumäärää
+Kuva 13: Keuhkosyöpäpotilaiden levinneisyysluokitus hyvinvointialueittain
+4.2
+Prosessimittarit
+Lähes kaikilta potilailta (94 %) löytyi keuhkosyöpään liittyvä käynti HILMO:sta vuoden seurannan aikana, mutta keuhkosyöpään liittyvä toimenpidetieto vain 73 %:lta. MDT-kirjaus löytyi ensimmäisen seurantavuoden aikana Koko Suomessa vain 6 %:lle ja ensimmäisen seurantavuoden aikana noin 60 % potilaista kuoli.
+Taulukko 5
+Ensimmäisen vuoden seurannan aikana parantavaan hoitoon liittyvä kirjaus löytyi 4009 potilaalta (27,0%), jarruttavan hoidon kirjaus 4522 potilaalta (30,4 %) ja oireenmukaisen hoidon kirjaus 5871 potilaalta (39,5 %). Ryhmät eivät ole toisiaan poissulkevia.
+Taulukko 6
+Kokonaan ilman hoitokirjauksia jäi yhteensä 4089 (27,5 %) potilasta.
+Kuva 14
+Parantavaan hoitoon on luettu leikkaushoito, stereotaktinen sädehoito, neoadjuvantti-, liitännäis- ja kemosädehoito. Uusista keuhkosyöpätapauksista noin 16 % ohjautui leikkaushoitoon, noin 11 % stereotaktiseen sädehoitoon ja noin 4 % liitännäishoitoon.
+Taulukko 7
+Keuhkosyövän leikkaushoidon toteutumisessa videoavusteisen torakoskooppisen kirurgian (VATS) osuus oli suuri erityisesti lohkopoistoissa. Kiilapoistot ja jaokkeen poistot muodostivat yhteensä noin 500 toimenpidettä, kun taas koko keuhkon poiston tarve oli vähäinen (46 tapausta). Laajennettujen poistotoimenpiteiden määrä pysyi erittäin pienenä kaikkina raportin vuosina.
+Jarruttavaa sädehoitoa sai 16 % potilaista, lääkehoitoa 21 % ja jompaakumpaa näistä 31 %.
+Taulukko 8
+Oireenmukainen hoito on joko oireenmukaista sädehoitoa tai käynnille kirjattu palliatiivinen tai saattohoitodiagnoosi Z51.5. Noin 14 % potilaista sai oireenmukaista sädehoitoa ja 33 %:lle oli kirjattu Z51.5 diagnoosi.
+Taulukko 9
+Eri hoitojen osuudet yhteistyö- ja hyvinvointialueittain on esitetty taulukoissa
+Taulukko 10
+ja
+Taulukko 11
+, joissa on esitetty myös ilman hoitotietoja jääneiden ja MDT-kirjausten osuudet. MDT-kirjauksia löytyi Sisä-Suomen yhteistyöalueella 33 %:lle potilaita, muilta alueita näitä tietoja ei käytännössä saatu lainkaan.
+Kun eri hoitojen osuuksia tarkasteltiin vuosittain, ei eroja juuri nähty paitsi ilman hoitokirjauksia jäävien osuudessa, joka oli pienempi tuoreimpina vuosina.
+Kuva 14
+Ikävakioidut hoito-osuudet sukupuolittain ja alueittain on esitetty sekä yhteistyö- että hyvinvointialueittain. Parantavan hoidon osuus oli koko maata alhaisempi Pohjois-Suomen yhteistyöalueella, jarruttavan ja oireenmukaisen hoidon osuus Länsi-Suomen alueella
+Kuva 15
+. Vastaavat tiedot hyvinvointialueittain löytyvät kuvasta
+Kuva 16
+.
+Taulukko 5: Keuhkosyöpäpotilaiden käynnit, toimenpiteet ja kuolemat 12 kuukauden seurannassa vuosittain
+Potilaita
+yhteensä
+Keuhkosyöpä-
+käynti (C33-C34, D38.1)
+Keuhkosyöpä-
+toimenpide
+MDT-käsittely
+Kuolema
+Seurannan alku
+Lukumäärä
+Lukumäärä
+%
+Lukumäärä
+%
+Lukumäärä
+%
+Lukumäärä
+%
+2019
+3049
+2853
+93.6
+2085
+68.4
+189
+6.2
+1798
+59.0
+2020
+2968
+2779
+93.6
+2171
+73.1
+161
+5.4
+1756
+59.2
+2021
+3010
+2810
+93.4
+2212
+73.5
+183
+6.1
+1787
+59.4
+2022
+3038
+2853
+93.9
+2221
+73.1
+180
+5.9
+1829
+60.2
+2023
+2808
+2628
+93.6
+2095
+74.6
+180
+6.4
+1595
+56.8
+Yhteensä
+14873
+13923
+93.6
+10784
+72.5
+893
+6.0
+8765
+58.9
+Taulukko 6: Keuhkosyöpäpotilaiden hoitomuodot 12 kuukauden seurannassa vuosittain
+Potilaita
+yhteensä
+Parantava hoito
+Jarruttava hoito
+Oireenmukainen hoito
+Seurannan alku
+Lukumäärä
+Lukumäärä
+%
+Lukumäärä
+%
+Lukumäärä
+%
+2019
+3049
+802
+26.3
+879
+28.8
+1081
+35.5
+2020
+2968
+743
+25.0
+988
+33.3
+1194
+40.2
+2021
+3010
+818
+27.2
+961
+31.9
+1188
+39.5
+2022
+3038
+818
+26.9
+859
+28.3
+1245
+41.0
+2023
+2808
+828
+29.5
+835
+29.7
+1163
+41.4
+Yhteensä
+14873
+4009
+27.0
+4522
+30.4
+5871
+39.5
+Samalla potilaalla voi olla useampia eri hoitomuotoja
+Taulukko 7: Keuhkosyöpäpotilaiden parantavat hoitotoimenpiteet 12 kuukauden seurannassa vuosittain
+Parantava hoito
+Potilaita
+yhteensä
+Leikkaus
+Kemosädehoito
+Stereotaktinen sädehoito
+Neoadjuvanttihoito
+Liitännäishoito
+Kaikki parantava
+hoito yhteensä
+Seurannan alku
+Lukumäärä
+Lukumäärä
+%
+Lukumäärä
+%
+Lukumäärä
+%
+Lukumäärä
+%
+Lukumäärä
+%
+Lukumäärä
+%
+2019
+3049
+504
+16.5
+34
+1.1
+286
+9.4
+30
+1.0
+134
+4.4
+802
+26.3
+2020
+2968
+431
+14.5
+25
+0.8
+311
+10.5
+27
+0.9
+139
+4.7
+743
+25.0
+2021
+3010
+461
+15.3
+26
+0.9
+369
+12.3
+35
+1.2
+106
+3.5
+818
+27.2
+2022
+3038
+479
+15.8
+22
+0.7
+344
+11.3
+28
+0.9
+105
+3.5
+818
+26.9
+2023
+2808
+464
+16.5
+27
+1.0
+362
+12.9
+43
+1.5
+125
+4.5
+828
+29.5
+Yhteensä
+14873
+2339
+15.7
+134
+0.9
+1672
+11.2
+163
+1.1
+609
+4.1
+4009
+27.0
+Samalla potilaalla voi olla useita erilaisia parantavia hoitotoimenpiteitä
+Taulukko 8: Keuhkosyöpäpotilaiden jarruttavat hoitotoimenpiteet 12 kuukauden seurannassa vuosittain
+Jarruttava hoito
+Potilaita yhteensä
+Sädehoito
+(pl. palliatiivinen, kemosädehoito ja stereotaktinen)
+Lääkehoito
+(pl. neoadjuvantti- ja liitännäishoito)
+Kaikki jarruttava
+hoito yhteensä
+Seurannan alku
+Lukumäärä
+Lukumäärä
+%
+Lukumäärä
+%
+Lukumäärä
+%
+2019
+3049
+483
+15.8
+581
+19.1
+879
+28.8
+2020
+2968
+532
+17.9
+649
+21.9
+988
+33.3
+2021
+3010
+490
+16.3
+655
+21.8
+961
+31.9
+2022
+3038
+438
+14.4
+579
+19.1
+859
+28.3
+2023
+2808
+360
+12.8
+630
+22.4
+835
+29.7
+Yhteensä
+14873
+2303
+15.5
+3094
+20.8
+4522
+30.4
+Samalla potilaalla voi olla useita erilaisia jarruttavia hoitotoimenpiteitä
+Taulukko 9: Keuhkosyöpäpotilaiden oireenmukaiset hoitotoimenpiteet ja käynnit 12 kuukauden seurannassa vuosittain
+Oireenmukainen hoito
+Potilaita
+yhteensä
+Oireenmukainen käynti/hoito,
+ICD-10
+Oireenmukainen sädehoito
+Kaikki oireenmukainen
+hoito yhteensä
+Seurannan alku
+Lukumäärä
+Lukumäärä
+%
+Lukumäärä
+%
+Lukumäärä
+%
+2019
+3049
+854
+28.0
+410
+13.4
+1081
+35.5
+2020
+2968
+987
+33.3
+421
+14.2
+1194
+40.2
+2021
+3010
+984
+32.7
+402
+13.4
+1188
+39.5
+2022
+3038
+1082
+35.6
+397
+13.1
+1245
+41.0
+2023
+2808
+999
+35.6
+373
+13.3
+1163
+41.4
+Yhteensä
+14873
+4906
+33.0
+2003
+13.5
+5871
+39.5
+Samalla potilaalla voi olla sekä oireenmukaisia hoitotoimenpiteitä että käyntejä
+Yhteistyöalueittain
+Hyvinvointialueittain
+Taulukko 10: Keuhkosyöpäpotilaiden hoitomuodot ja MDT-kirjaukset 12 kuukauden seurannassa yhteistyöalueittain
+Hoitomuoto
+Yhteistyöalue
+Lukumäärä
+Yhteensä
+Osuus (%)
+Parantava
+Etelä-Suomen yhteistyöalue
+1655
+5497
+30.1
+Itä-Suomen yhteistyöalue
+544
+2236
+24.3
+Länsi-Suomen yhteistyöalue
+641
+2568
+25.0
+Pohjois-Suomen yhteistyöalue
+459
+2134
+21.5
+Sisä-Suomen yhteistyöalue
+693
+2339
+29.6
+Koko maa
+4009
+14873
+27.0
+Jarruttava
+Etelä-Suomen yhteistyöalue
+1657
+5497
+30.1
+Itä-Suomen yhteistyöalue
+768
+2236
+34.3
+Länsi-Suomen yhteistyöalue
+640
+2568
+24.9
+Pohjois-Suomen yhteistyöalue
+597
+2134
+28.0
+Sisä-Suomen yhteistyöalue
+847
+2339
+36.2
+Koko maa
+4522
+14873
+30.4
+Oireenmukainen
+Etelä-Suomen yhteistyöalue
+2191
+5497
+39.9
+Itä-Suomen yhteistyöalue
+1032
+2236
+46.2
+Länsi-Suomen yhteistyöalue
+803
+2568
+31.3
+Pohjois-Suomen yhteistyöalue
+901
+2134
+42.2
+Sisä-Suomen yhteistyöalue
+903
+2339
+38.6
+Koko maa
+5871
+14873
+39.5
+Ei hoitotietoa
+Etelä-Suomen yhteistyöalue
+1485
+5497
+27.0
+Itä-Suomen yhteistyöalue
+497
+2236
+22.2
+Länsi-Suomen yhteistyöalue
+925
+2568
+36.0
+Pohjois-Suomen yhteistyöalue
+604
+2134
+28.3
+Sisä-Suomen yhteistyöalue
+538
+2339
+23.0
+Koko maa
+4089
+14873
+27.5
+MDT-käsittely
+Etelä-Suomen yhteistyöalue
+9
+5497
+0.2
+Itä-Suomen yhteistyöalue
+26
+2236
+1.2
+Länsi-Suomen yhteistyöalue
+58
+2568
+2.3
+Pohjois-Suomen yhteistyöalue
+37
+2134
+1.7
+Sisä-Suomen yhteistyöalue
+762
+2339
+32.6
+Koko maa
+893
+14867
+6.0
+Taulukko 11: Keuhkosyöpäpotilaiden hoitomuodot ja MDT-kirjaukset 12 kuukauden seurannassa hyvinvointialueittain
+Hoitomuoto
+Yhteistyöalue
+Hyvinvointialue
+Lukumäärä
+Yhteensä
+Osuus (%)
+Parantava
+Etelä-Suomen yhteistyöalue
+Etelä-Karjalan hyvinvointialue
+67
+355
+18.9
+Helsingin kaupunki
+491
+1486
+33.0
+Itä-Uudenmaan hyvinvointialue
+77
+272
+28.3
+Keski-Uudenmaan hyvinvointialue
+162
+481
+33.7
+Kymenlaakson hyvinvointialue
+114
+591
+19.3
+Länsi-Uudenmaan hyvinvointialue
+337
+1058
+31.9
+Päijät-Hämeen hyvinvointialue
+195
+659
+29.6
+Vantaan ja Keravan hyvinvointialue
+212
+595
+35.6
+Yhteistyöalue yhteensä
+1655
+5497
+30.1
+Itä-Suomen yhteistyöalue
+Etelä-Savon hyvinvointialue
+105
+448
+23.4
+Keski-Suomen hyvinvointialue
+173
+637
+27.2
+Pohjois-Karjalan hyvinvointialue
+109
+510
+21.4
+Pohjois-Savon hyvinvointialue
+157
+641
+24.5
+Yhteistyöalue yhteensä
+544
+2236
+24.3
+Länsi-Suomen yhteistyöalue
+Pohjanmaan hyvinvointialue
+125
+449
+27.8
+Satakunnan hyvinvointialue
+167
+682
+24.5
+Varsinais-Suomen hyvinvointialue
+349
+1437
+24.3
+Yhteistyöalue yhteensä
+641
+2568
+25.0
+Pohjois-Suomen yhteistyöalue
+Kainuun hyvinvointialue
+47
+226
+20.8
+Keski-Pohjanmaan hyvinvointialue
+33
+148
+22.3
+Lapin hyvinvointialue
+131
+710
+18.5
+Pohjois-Pohjanmaan hyvinvointialue
+248
+1050
+23.6
+Yhteistyöalue yhteensä
+459
+2134
+21.5
+Sisä-Suomen yhteistyöalue
+Etelä-Pohjanmaan hyvinvointialue
+165
+540
+30.6
+Kanta-Hämeen hyvinvointialue
+128
+546
+23.4
+Pirkanmaan hyvinvointialue
+400
+1253
+31.9
+Yhteistyöalue yhteensä
+693
+2339
+29.6
+Jarruttava
+Etelä-Suomen yhteistyöalue
+Etelä-Karjalan hyvinvointialue
+76
+355
+21.4
+Helsingin kaupunki
+457
+1486
+30.8
+Itä-Uudenmaan hyvinvointialue
+82
+272
+30.1
+Keski-Uudenmaan hyvinvointialue
+139
+481
+28.9
+Kymenlaakson hyvinvointialue
+222
+591
+37.6
+Länsi-Uudenmaan hyvinvointialue
+267
+1058
+25.2
+Päijät-Hämeen hyvinvointialue
+293
+659
+44.5
+Vantaan ja Keravan hyvinvointialue
+121
+595
+20.3
+Yhteistyöalue yhteensä
+1657
+5497
+30.1
+Itä-Suomen yhteistyöalue
+Etelä-Savon hyvinvointialue
+163
+448
+36.4
+Keski-Suomen hyvinvointialue
+237
+637
+37.2
+Pohjois-Karjalan hyvinvointialue
+120
+510
+23.5
+Pohjois-Savon hyvinvointialue
+248
+641
+38.7
+Yhteistyöalue yhteensä
+768
+2236
+34.3
+Länsi-Suomen yhteistyöalue
+Pohjanmaan hyvinvointialue
+193
+449
+43.0
+Satakunnan hyvinvointialue
+307
+682
+45.0
+Varsinais-Suomen hyvinvointialue
+140
+1437
+9.7
+Yhteistyöalue yhteensä
+640
+2568
+24.9
+Pohjois-Suomen yhteistyöalue
+Kainuun hyvinvointialue
+42
+226
+18.6
+Keski-Pohjanmaan hyvinvointialue
+48
+148
+32.4
+Lapin hyvinvointialue
+114
+710
+16.1
+Pohjois-Pohjanmaan hyvinvointialue
+393
+1050
+37.4
+Yhteistyöalue yhteensä
+597
+2134
+28.0
+Sisä-Suomen yhteistyöalue
+Etelä-Pohjanmaan hyvinvointialue
+218
+540
+40.4
+Kanta-Hämeen hyvinvointialue
+176
+546
+32.2
+Pirkanmaan hyvinvointialue
+453
+1253
+36.2
+Yhteistyöalue yhteensä
+847
+2339
+36.2
+Oireenmukainen
+Etelä-Suomen yhteistyöalue
+Etelä-Karjalan hyvinvointialue
+111
+355
+31.3
+Helsingin kaupunki
+513
+1486
+34.5
+Itä-Uudenmaan hyvinvointialue
+100
+272
+36.8
+Keski-Uudenmaan hyvinvointialue
+190
+481
+39.5
+Kymenlaakson hyvinvointialue
+303
+591
+51.3
+Länsi-Uudenmaan hyvinvointialue
+424
+1058
+40.1
+Päijät-Hämeen hyvinvointialue
+335
+659
+50.8
+Vantaan ja Keravan hyvinvointialue
+215
+595
+36.1
+Yhteistyöalue yhteensä
+2191
+5497
+39.9
+Itä-Suomen yhteistyöalue
+Etelä-Savon hyvinvointialue
+207
+448
+46.2
+Keski-Suomen hyvinvointialue
+231
+637
+36.3
+Pohjois-Karjalan hyvinvointialue
+266
+510
+52.2
+Pohjois-Savon hyvinvointialue
+328
+641
+51.2
+Yhteistyöalue yhteensä
+1032
+2236
+46.2
+Länsi-Suomen yhteistyöalue
+Pohjanmaan hyvinvointialue
+162
+449
+36.1
+Satakunnan hyvinvointialue
+198
+682
+29.0
+Varsinais-Suomen hyvinvointialue
+443
+1437
+30.8
+Yhteistyöalue yhteensä
+803
+2568
+31.3
+Pohjois-Suomen yhteistyöalue
+Kainuun hyvinvointialue
+109
+226
+48.2
+Keski-Pohjanmaan hyvinvointialue
+69
+148
+46.6
+Lapin hyvinvointialue
+316
+710
+44.5
+Pohjois-Pohjanmaan hyvinvointialue
+407
+1050
+38.8
+Yhteistyöalue yhteensä
+901
+2134
+42.2
+Sisä-Suomen yhteistyöalue
+Etelä-Pohjanmaan hyvinvointialue
+152
+540
+28.1
+Kanta-Hämeen hyvinvointialue
+187
+546
+34.2
+Pirkanmaan hyvinvointialue
+564
+1253
+45.0
+Yhteistyöalue yhteensä
+903
+2339
+38.6
+Ei hoitotietoa
+Etelä-Suomen yhteistyöalue
+Etelä-Karjalan hyvinvointialue
+152
+355
+42.8
+Helsingin kaupunki
+432
+1486
+29.1
+Itä-Uudenmaan hyvinvointialue
+86
+272
+31.6
+Keski-Uudenmaan hyvinvointialue
+127
+481
+26.4
+Kymenlaakson hyvinvointialue
+97
+591
+16.4
+Länsi-Uudenmaan hyvinvointialue
+302
+1058
+28.5
+Päijät-Hämeen hyvinvointialue
+117
+659
+17.8
+Vantaan ja Keravan hyvinvointialue
+172
+595
+28.9
+Yhteistyöalue yhteensä
+1485
+5497
+27.0
+Itä-Suomen yhteistyöalue
+Etelä-Savon hyvinvointialue
+104
+448
+23.2
+Keski-Suomen hyvinvointialue
+156
+637
+24.5
+Pohjois-Karjalan hyvinvointialue
+113
+510
+22.2
+Pohjois-Savon hyvinvointialue
+124
+641
+19.3
+Yhteistyöalue yhteensä
+497
+2236
+22.2
+Länsi-Suomen yhteistyöalue
+Pohjanmaan hyvinvointialue
+103
+449
+22.9
+Satakunnan hyvinvointialue
+203
+682
+29.8
+Varsinais-Suomen hyvinvointialue
+619
+1437
+43.1
+Yhteistyöalue yhteensä
+925
+2568
+36.0
+Pohjois-Suomen yhteistyöalue
+Kainuun hyvinvointialue
+64
+226
+28.3
+Keski-Pohjanmaan hyvinvointialue
+37
+148
+25.0
+Lapin hyvinvointialue
+240
+710
+33.8
+Pohjois-Pohjanmaan hyvinvointialue
+263
+1050
+25.0
+Yhteistyöalue yhteensä
+604
+2134
+28.3
+Sisä-Suomen yhteistyöalue
+Etelä-Pohjanmaan hyvinvointialue
+139
+540
+25.7
+Kanta-Hämeen hyvinvointialue
+175
+546
+32.1
+Pirkanmaan hyvinvointialue
+224
+1253
+17.9
+Yhteistyöalue yhteensä
+538
+2339
+23.0
+MDT-käsittely
+Etelä-Suomen yhteistyöalue
+Helsingin kaupunki
+1
+1486
+0.1
+Kymenlaakson hyvinvointialue
+3
+591
+0.5
+Länsi-Uudenmaan hyvinvointialue
+2
+1058
+0.2
+Päijät-Hämeen hyvinvointialue
+2
+659
+0.3
+Vantaan ja Keravan hyvinvointialue
+1
+595
+0.2
+Yhteistyöalue yhteensä
+9
+5497
+0.2
+Itä-Suomen yhteistyöalue
+Etelä-Savon hyvinvointialue
+1
+448
+0.2
+Keski-Suomen hyvinvointialue
+24
+637
+3.8
+Pohjois-Savon hyvinvointialue
+1
+641
+0.2
+Yhteistyöalue yhteensä
+26
+2236
+1.2
+Länsi-Suomen yhteistyöalue
+Pohjanmaan hyvinvointialue
+31
+449
+6.9
+Satakunnan hyvinvointialue
+4
+682
+0.6
+Varsinais-Suomen hyvinvointialue
+23
+1437
+1.6
+Yhteistyöalue yhteensä
+58
+2568
+2.3
+Pohjois-Suomen yhteistyöalue
+Kainuun hyvinvointialue
+2
+226
+0.9
+Keski-Pohjanmaan hyvinvointialue
+2
+148
+1.4
+Lapin hyvinvointialue
+21
+710
+3.0
+Pohjois-Pohjanmaan hyvinvointialue
+12
+1050
+1.1
+Yhteistyöalue yhteensä
+37
+2134
+1.7
+Sisä-Suomen yhteistyöalue
+Etelä-Pohjanmaan hyvinvointialue
+175
+540
+32.4
+Kanta-Hämeen hyvinvointialue
+118
+546
+21.6
+Pirkanmaan hyvinvointialue
+469
+1253
+37.4
+Yhteistyöalue yhteensä
+762
+2339
+32.6
+Kuva 14: Keuhkosyöpäpotilaiden parantavin hoitomuoto seurannan alkuvuoden mukaan. Jokainen potilas on esitetty vain kerran siten, että potilaan 12 kuukauden seuranta-aikavälin aikana saamista hoidoista parantavin hoitomuoto on valittu järjestyksessä parantava, jarruttava, oireenmukainen ja ei hoitotietoa
+4.2.1
+Ikävakioidut osuudet sukupuolittain ja alueittain
+Yhteistyöalueittain
+Hyvinvointialueittain
+Kuva 15: Hoitomuotojen ikävakioidut osuudet ja niiden 95 % luottamusvälit 12 kuukauden seurannassa sukupuolittain ja yhteistyöalueittain. Katkoviiva osoittaa koko maan osuuden
+Kuva 16: Hoitomuotojen ikävakioidut osuudet ja niiden 95 % luottamusvälit 12 kuukauden seurannassa sukupuolittain ja hyvinvointialueittain. Katkoviiva osoittaa koko maan osuuden. Kuvaajassa ei ole esitetty osuuksia niille alueille ja hoitomuodoille, joissa potilasmäärä on liian pieni ikävakiointiin
+4.2.2
+Hoitopolku
+Hoitopolkuanalyysissä ensivaiheen hoitomuoto oli parantava 3584 potilaalla (24 %), jarruttava 3330 potilaalla (22 %), oireenmukainen 3870 potilaalla (26 %) ja 4089 potilaalle (27 %) ei löydetty lainkaan hoitokirjauksia 12 kuukauden seurannassa. Ensivaiheen parantavaan hoitoon luokitelluista potilaista 76 %:lla myös viimeisin kirjattu hoitomuoto oli parantava, jarruttava 9 %:lla, oireenmukainen 3 prosentilla ja 12 % kuoli 12 kuukauden seurannan aikana. Ensivaiheen jarruttavaan hoitoon luokitelluista potilaista 33 %:lla viimeisin kirjattu hoitomuoto oli edelleen jarruttava, 11 %:lla oireenmukainen ja 54 % kuoli seurannan aikana. Ensivaiheen oireenmukaiseen hoitoon luokitelluista 85 % kuoli vuoden seurannassa. Potilaista, joille ei löytynyt hoitokirjauksia lainkaan, 79 % kuoli vuoden seurannan aikana.
+Taulukko 12
+Kuva 17
+Taulukko 12: Keuhkosyöpäpotilaiden ensivaiheen ja viimeisin kirjattu hoitomuoto 12 kuukauden seurannassa
+Ensivaiheen hoito
+Viimeisin
+hoitomuoto
+Potilaiden
+lukumäärä
+Osuus
+ensivaiheen hoidon
+mukaan (%)
+Osuus
+kaikista
+potilaista (%)
+Parantava
+Parantava
+2722
+75.9
+18.3
+Jarruttava
+312
+8.7
+2.1
+Oireenmukainen
+107
+3.0
+0.7
+Kuolema
+443
+12.4
+3.0
+Jarruttava
+Parantava
+110
+3.3
+0.7
+Jarruttava
+1086
+32.6
+7.3
+Oireenmukainen
+353
+10.6
+2.4
+Kuolema
+1781
+53.5
+12.0
+Oireenmukainen
+Parantava
+8
+0.2
+0.1
+Jarruttava
+93
+2.4
+0.6
+Oireenmukainen
+472
+12.2
+3.2
+Kuolema
+3297
+85.2
+22.2
+Ei hoitotietoa
+Ei hoitotietoa
+845
+20.7
+5.7
+Kuolema
+3244
+79.3
+21.8
+Kuva 17: Keuhkosyöpäpotilaiden ensimmäinen ja viimeisin hoitomuoto 12 kuukauden seurannassa
+4.3
+Elossaolo-osuus
+Naispotilaiden 12 kuukauden elossaololuvut koko Suomessa olivat merkitsevästi miespotilaiden vastaavia paremmat, 47 % vs. 37 %
+Kuva 18
+. Naisten ja miesten välinen ero säilyi merkitsevänä kaikilla yhteistyöalueilla ja miespotilaiden elossaololuvut olivat Etelä-Suomessa merkitsevästi Sisä-Suomen lukuja alhaisemmat.
+Kuva 19
+Hyvinvointialueiden välisiä eroissa oli enemmän vaihtelua, joskin myös potilasmäärissä oli suuria eroja.
+Kuva 20
+Ensivaiheen hoitolinjan mukaiset elossaolo-osuudet on kuvattu koko maassa
+Kuva 21
+ja yhteistyö- ja hyvinvointialueittain
+Kuva 22
+Kuva 23
+. Parantavaan hoitoon ohjatuilla potilailla 12 kuukauden elossaololuvut olivat korkeimpia, 84 %, jarruttavan hoidon potilailla 40 %, oireenmukaisen hoidon potilailla 12 % ja ilman hoitokirjauksia olevien potilaiden ryhmässä 22 %. Selkeitä yhteistyöalueiden välisiä eroja oli oireenmukaisen hoidon ja ilman hoitotietoa olevien potilaiden ryhmissä, joissa ilman hoitotietoja olevien potilaiden elossaolo-osuus oli oireenmukaiseen hoitoon ohjautuneiden potilaiden osuutta merkitsevästi parempi Etelä-, Länsi- ja Pohjois-Suomessa.
+Kuva 18: Ikäkorjattu elossaolo-osuus 0-12 kuukautta seurannan alusta sukupuolittain. Varjostettu alue viivan ympärillä kuvaa 95 % luottamusväliä
+4.3.1
+Elossaolo-osuus alueittain
+Yhteistyöalueittain
+Hyvinvointialueittain
+Kuva 19: Ikäkorjattu elossaolo-osuus sukupuolittain ja yhteistyöalueittain. Varjostettu alue viivan ympärillä kuvaa 95 % luottamusväliä
+Kuva 20: Ikäkorjattu elossaolo-osuus sukupuolittain ja hyvinvointialueittain. Varjostettu alue viivan ympärillä kuvaa 95 % luottamusväliä
+4.3.2
+Elossaolo-osuus ensivaiheen hoitomuodon mukaan
+Kuva 21: Ikäkorjattu elossaolo-osuus ensivaiheen hoitomuodon mukaan. Varjostettu alue viivan ympärillä kuvaa 95 % luottamusväliä
+Yhteistyöalueittain
+Hyvinvointialueittain
+Kuva 22: Ikäkorjattu elossaolo-osuus ensivaiheen hoitomuodon mukaan yhteistyöalueittain. Varjostettu alue viivan ympärillä kuvaa 95 % luottamusväliä
+Kuva 23: Ikäkorjattu elossaolo-osuus ensivaiheen hoitomuodon mukaan hyvinvointialueittain. Varjostettu alue viivan ympärillä kuvaa 95 % luottamusväliä
+5
+Liitteet
+5.1
+Toimenpidekoodisto
+Taulukko 13: Keuhkosyöpäpotilaiden toimenpidekoodit ja yleisyys raportin aineistossa
+Hoitomuoto
+Hoidon
+tyyppi
+Toimenpide-
+koodi
+Toimenpide
+Hoidettujen
+lukumäärä
+Osuus
+hoidetuista
+(%)
+Toimenpiteiden
+lukumäärä
+Osuus
+toimenpiteistä
+(%)
+Diagnostiikka
+MDT-käsittely
+WZC15
+Diagnostiikan ja hoidon moniammatillinen suunnittelu (MDT)
+130
+0.9
+209
+0.1
+WZC20
+Moniammatillinen hoitokokous
+809
+5.8
+1353
+0.6
+Jarruttava
+Muu lääkehoito pl. (neo-)adjuvanttihoito
+WC105
+Paikallisen uusiutuneen kasvaimen yksinkertainen solusalpaajahoito
+9
+0.1
+13
+0.0
+WC125
+Paikallisen uusiutuneen kasvaimen vaativa solusalpaajahoito
+19
+0.1
+43
+0.0
+WC205
+Paikallisen uusiutuneen kasvaimen yksinkertainen hormonihoito (=oraalinen)
+0
+0.0
+0
+0.0
+WC225
+Paikallisen uusiutuneen kasvaimen vaativa tavanomainen hormonihoito (=pistos)
+0
+0.0
+0
+0.0
+WC305
+Paikallisen uusiutuneen kasvaimen yksinkertainen hoito biovasteenmuuntajilla
+8
+0.1
+14
+0.0
+WC325
+Paikallisen uusiutuneen kasvaimen vaativa hoito biovasteenmuuntajilla, immunologiset lääkkeet
+11
+0.1
+33
+0.0
+WC401
+Paikallisesti uusiutuneen kasvaimen yksinkertainen vasta-ainehoito
+1
+0.0
+1
+0.0
+WC402
+Paikallisesti uusiutuneen kasvaimen vaativa vasta-ainehoito
+0
+0.0
+0
+0.0
+WC501
+Paikallisesti uusiutuneen kasvaimen yksinkertainen entsyymi-inhibiittori- ja vastaava hoito
+0
+0.0
+0
+0.0
+WD105
+Laajalle levinneen kasvaimen yksinkertainen tavanomainen solusalpaajahoito
+809
+5.8
+2950
+1.3
+WD125
+Laajalle levinneen kasvaimen vaativa solusalpaajahoito
+2092
+15.0
+9323
+4.1
+WD205
+Laajalle levinneen kasvaimen yksinkertainen hormonihoito (=oraalinen)
+8
+0.1
+14
+0.0
+WD225
+Laajalle levinneen kasvaimen vaativa hormonihoito (=pistos)
+16
+0.1
+23
+0.0
+WD305
+Laajalle levinneen kasvaimen yksinkertainen hoito biovasteenmuuntajilla sisältäen bifosfonaatti- ja muut luusto-lääkkeet
+212
+1.5
+542
+0.2
+WD325
+Laajalle levinneen kasvaimen vaativa hoito biovasteenmuuntajilla
+932
+6.7
+4897
+2.2
+WD405
+Laajalle levinneen kasvaimen yksinkertainen vasta-ainehoito
+80
+0.6
+244
+0.1
+WD415
+Laajalle levinneen kasvaimen vaativa vasta-ainehoito
+149
+1.1
+486
+0.2
+WD505
+Laajalle levinneen kasvaimen yksinkertainen entsyymi-inhibiittori- ja vastaava hoito
+228
+1.6
+1108
+0.5
+Muu sädehoito pl. streotaktinen ja palliatiivinen sädehoito
+AX099
+Koko keskushermoston sädehoito
+0
+0.0
+0
+0.0
+QX099
+Koko ihon sädehoito
+0
+0.0
+0
+0.0
+WA010
+Koko kehon sädehoito muun syöpähoidon tukihoitona
+1
+0.0
+1
+0.0
+WA029
+Puolikehon sädehoito
+0
+0.0
+0
+0.0
+WF001
+Sädehoito primaarikasvaimen preoperatiivisena hoitona
+26
+0.2
+360
+0.2
+WF003
+Sädehoito primaarikasvaimen liitännäishoitona
+120
+0.9
+1608
+0.7
+WF029
+Paikallisesti uusineen kasvaimen sädehoito
+10
+0.1
+20
+0.0
+WF049
+Etäpesäkkeen sädehoito
+2136
+15.3
+7904
+3.5
+WF090
+Profylaktinen sädehoito
+17
+0.1
+130
+0.1
+WF099
+Muu sädehoito
+84
+0.6
+357
+0.2
+Oireenmukainen
+Oireenmukainen hoito
+Z51.5
+1
+4906
+35.2
+14011
+6.2
+Oireenmukainen sädehoito
+WF004
+Sädehoito primaarikasvaimen palliatiivisena hoitona
+2003
+14.4
+12781
+5.6
+Parantava
+Kemosädehoito
+ZX095
+Yhdistetty sädehoito ja kemoterapia
+134
+1.0
+2469
+1.1
+Leikkaus
+GBC03
+Henkitorven osan poisto
+4
+0.0
+5
+0.0
+GBC10
+Henkitorven harjun poisto ja korjaus
+0
+0.0
+0
+0.0
+GDB10
+Keuhkon kiilapoisto
+22
+0.2
+23
+0.0
+GDB11
+Keuhkon kiilapoisto rintaontelon tähystyksessä
+131
+0.9
+135
+0.1
+GDB20
+Keuhkojaokkeen poisto
+18
+0.1
+18
+0.0
+GDB21
+Keuhkojaokkeen poisto rintaontelon tähystyksessä
+336
+2.4
+354
+0.2
+GDB96
+Muu keuhkon osan poistoleikkaus
+1
+0.0
+1
+0.0
+GDB97
+Muu keuhkon osan poisto rintaontelon tähystyksessä
+1
+0.0
+1
+0.0
+GDC00
+Keuhkolohkon poistoleikkaus
+340
+2.4
+351
+0.2
+GDC01
+Keuhkolohkon poisto rintaontelon tähystyksessä
+1383
+9.9
+1454
+0.6
+GDC10
+Kahden keuhkolohkon poistoleikkaus
+56
+0.4
+60
+0.0
+GDC11
+Kahden keuhkolohkon poisto rintaontelon tähystyksessä
+34
+0.2
+36
+0.0
+GDC13
+Laajennettu yhden tai kahden keuhkolohkon poisto poisto
+43
+0.3
+45
+0.0
+GDC20
+Keuhkolohkon poistoleikkaus ja sleeveresektio
+41
+0.3
+43
+0.0
+GDC23
+Keuhkolohkon ja -jaokkeen poistoleikkaus
+13
+0.1
+13
+0.0
+GDC26
+Keuhkolohkon ja muun keuhkon osan poistoleikkaus
+0
+0.0
+0
+0.0
+GDC96
+Muu keuhkolohkon poistoleikkaus
+2
+0.0
+2
+0.0
+GDC97
+Muu keuhkolohkon poisto rintaontelon tähystyksessä
+1
+0.0
+1
+0.0
+GDD00
+Keuhkonpoistoleikkaus
+41
+0.3
+44
+0.0
+GDD01
+Keuhkonpoisto rintaontelon tähystyksessä
+1
+0.0
+1
+0.0
+GDD10
+Keuhkopussin ja keuhkon poistoleikkaus
+0
+0.0
+0
+0.0
+GDD11
+Keuhkopussin ja keuhkon poisto rintaontelon tähystyksessä
+0
+0.0
+0
+0.0
+GDD20
+Laajennettu keuhkonpoistoleikkaus
+4
+0.0
+4
+0.0
+GDD23
+Keuhkonpoisto ja henkitorven harjun poisto osittain
+0
+0.0
+0
+0.0
+GDD26
+Keuhkonpoisto ja keuhkoputken tai henkitorven poisto osittain
+0
+0.0
+0
+0.0
+GDD96
+Muu avoin keuhkonpoistoleikkaus
+0
+0.0
+0
+0.0
+GDD97
+Muu keuhkonpoistoleikkaus rintaontelon tähystyksessä
+0
+0.0
+0
+0.0
+Liitännäishoito
+WB103
+Primaarikasvaimen yksinkertainen solusalpaajahoito liitännäishoitona
+149
+1.1
+382
+0.2
+WB113
+Primaarikasvaimen monisolusalpaajahoito liitännäishoitona
+521
+3.7
+2561
+1.1
+WB303
+Primaarikasvaimen yksinkertainen hoito biovasteen-muuntajilla liitännäishoitona
+14
+0.1
+46
+0.0
+WB323
+Primaarikasvaimen vaativa hoito biovasteenmuuntajilla, immunologiset lääkkeet
+43
+0.3
+240
+0.1
+WB401
+Primaarikasvaimen yksinkertainen vasta-ainehoito
+7
+0.1
+12
+0.0
+WB402
+Primaarikasvaimen vaativa vasta-ainehoito
+3
+0.0
+12
+0.0
+Neoadjuvanttihoito
+WB111
+Primaarikasvaimen leikkausta tai sädehoitoa edeltävä solunsalpaajahoito kahdella tai useammalla solunsalpaajalla
+15
+0.1
+73
+0.0
+WB121
+Primaarikasvaimen leikkausta tai sädehoitoa edeltävä vaativa solusalpaajahoito
+131
+0.9
+466
+0.2
+WB131
+Primaarikasvaimen leikkausta tai sädehoitoa edeltävä vaativa solunsalpaajahoito sisältäen osastolla annettavat tukihoidot
+3
+0.0
+5
+0.0
+WB301
+Primaarikasvaimen leikkausta tai sädehoitoa edeltävä hoito yksittäisellä  immuuniaktivaation vapauttajalla
+3
+0.0
+6
+0.0
+WB311
+Primaarikasvaimen leikkausta tai sädehoitoa edeltävä monihoito biovasteenmuuntajilla
+0
+0.0
+0
+0.0
+WB321
+Primaarikasvaimen leikkausta tai sädehoitoa edeltävä vaativa hoito biovasteenmuuntajilla
+3
+0.0
+10
+0.0
+WB501
+Primaarikasvaimen yksinkertainen entsyymi-inhibiittori- ja vastaava hoito
+14
+0.1
+24
+0.0
+WB600
+Primaarikasvaimen leikkausta tai sädehoitoa edeltävä hoito vasta-aineella
+3
+0.0
+9
+0.0
+WB610
+Primaarikasvaimen leikkausta tai sädehoitoa edeltävä vaativa hoito vasta-aineella
+2
+0.0
+7
+0.0
+WB700
+Primaarikasvaimen leikkausta tai sädehoitoa edeltävä hoito CDK4/6-kinaasin estäjällä
+0
+0.0
+0
+0.0
+WB702
+Primaarikasvaimen leikkausta tai sädehoitoa edeltävä hoito vasta-ainekonjugaattilääkkeellä (antibody-drug conjugate, ADC)
+0
+0.0
+0
+0.0
+WB703
+Primaarikasvaimen liitännäishoito vasta-ainekonjugaattilääkkeellä (antibody-drug conjugate, ADC)
+0
+0.0
+0
+0.0
+Stereotaktinen sädehoito
+WF002
+Radikaali primaarikasvaimen sädehoito
+1607
+11.5
+23060
+10.2
+ZX050
+Stereotaktinen sädehoito
+195
+1.4
+619
+0.3
+1
+Oireenmukaisen käynnin ICD-10 -koodi

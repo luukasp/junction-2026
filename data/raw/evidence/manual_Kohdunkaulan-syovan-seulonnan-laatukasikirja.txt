@@ -1,0 +1,2206 @@
+KOHDUNKAULAN
+    SYÖVÄN
+  SEULONNAN
+ LAATUKÄSIKIRJA
+
+
+
+
+          Päivitetty 25.5.2026
+SISÄLLYS
+
+ASIANTUNTIJARYHMÄN KOKOONPANO               4    9. SEULONTATESTIN NÄYTTEENOTTO
+                                                 JA ANALYYSI		
+                                                             21
+1. TIIVISTELMÄ		
+               5 9.1 Näytteenotto                                                         21
+                                                 9.2 Testin analyysi ja hyväksyt testialustat		
+                                                                                              21
+2. TERMISTÖ JA LYHENTEET		
+                         6 9.3 Sytologinen näyte ensisijaisena
+                                                     ja triagetestinä		
+                                                                      24
+3. JOHDANTO		
+            7 9.4 Seulontatestin tuloksen ilmoittaminen
+3.1 Muutokset aiempaan julkaisuun           7        seulottaville		
+                                                                   25
+
+4. TAUSTAA		
+           8 10. HPV-POSITIIVISTEN TRIAGE-TESTAUS		
+                                                  26
+4.1   Kohdunkaulan syövän epidemiologia		
+                                        8 10.1 Sytologia triagetestinä		
+                                                                       26
+4.2 HPV ja syövän kehittyminen		
+                               8 10.2 Tutkimuksen kohteena olevat
+4.3 Kohdunkaulan syövän seulonta		
+                                 9 triage-menetelmät		
+                                                     26
+4.4 HPV-rokotusohjelman vaikutus seulontaan		
+                                            10
+                                                 11. OHJAUS RISKIRYHMÄSEULONTAAN
+5. SEULONTAOHJELMAN                              JA JATKOTUTKIMUKSIIN		
+                                                                      27
+ORGANISAATIO JA VASTUUT		
+                        12 11.1 Ohjaus riskiryhmäseulontaan		
+                                                            27
+5.1. Lainsäädäntö		
+                  12 11.2 Ohjaus jatkotutkimuksiin		
+                                                   27
+5.2   Seulonnan ohjaus ja valvonta		        12
+5.3   Seulontaohjelman ulkopuolinen testaus		
+                                            13 12. JATKOTUTKIMUKSET (KOLPOSKOPIA)		
+                                                                                  29
+                            12.1 Kolposkopia		       29
+6. SEULONNAN KOHDEVÄESTÖ		
+                         14 12.2 Kolposkopiakoulutus		
+                                                     29
+6.1   Seulottavat ikäluokat		
+                            14 12.3 Kolposkopiayksikön ja tutkimushuoneen
+6.2 Rajaukset seulottavaan väestöön		
+                                    14 laatuvaatimukset		
+                                                        29
+6.3 Tarvittavat lainsäädännölliset muutokset		
+                                             15 12.4 Kolposkopian toteuttaminen ja kirjaus		
+                                                                                           30
+                          12.5 Kolposkopian laaduntarkkailu		
+                                                            30
+7. SEULONTA-ALGORITMIT		
+                       16 12.6 Esiastemuutosten ja syövän
+Erityisryhmien seulontasuositus		
+                                16 hoito ja hoidon seuranta		
+                                                            30
+Seulonta-algoritmi, hrHPV-testi
+(30 vuotta täyttäneet naiset)		
+                              17 13. HISTOLOGINEN DIAGNOOSI		
+                                                            31
+Seulonta-algoritmi, papatesti
+(alle 30-vuotiaat naiset)		
+                          17 14. TIETOJEN TOIMITUS- JA RAPORTOINTI		
+                                                                   32
+
+
+8. SEULONTAAN KUTSUMINEN                   18    15. SEULONNAN MONITOROINTI JA
+8.1   Kutsuttavien poiminnat ja                  OHJELMAN LAADUNVARMISTUS		
+                                                                          33
+    poiminnan ajankohdat		
+                         18
+8.2 Kutsun sisältö		     18 16. KOHDUNKAULAN SYÖVÄN
+8.3 Muistutuskutsu		     19 SEULONNAN HAITAT		      34
+8.4 Omanäytteenoton tarjoaminen                  16.1 Seulonnan haitat yksilölle		
+                                                                                 34
+      vaihtoehtona                         19    16.2 Seulonnan haitat yhteiskunnalle		
+                                                                                      34
+
+
+
+
+2         KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+17. VIESTINTÄ JA TIEDOTUS		
+                          36
+17.1 Viestinnän tavoite		
+                        36
+17.2 Viestinnän sisällöt		
+                         36
+17.3 Seulontaohjelman muutoksista viestiminen		
+                                              36
+17.4 Osallistumisen parantaminen		
+                                 37
+17.5 Erityisryhmät		
+                   37
+17.6 Tiedotus- ja viestintäkanavat		
+                                   37
+17.7 Pääviestit seulontaohjelmaan liittyen		
+                                           38
+
+18. HPV-ROKOTUSOHJELMAN
+VAIKUTUS SEULONTAOHJELMAAN		
+                           39
+18.1 Kansallinen HPV-rokotusohjelma		
+                                    39
+18.2 Tulevaisuuden näkymiä: HPV-tartunnat
+    eri ikäluokissa		
+                    39
+18.3 Tulevaisuuden näkymiä: seulonta
+    laumasuojan vallitessa		
+                           41
+
+19. LÄHDELUETTELO		
+                  43
+
+
+20. LIITTEET		
+             49
+
+
+
+
+3        KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+ASIANTUNTIJARYHMÄN KOKOONPANO
+
+PUHEENJOHTAJA
+
+Laura Kotaniemi-Talonen, dosentti, apulaisylilääkäri,
+Tampereen yliopistollinen sairaala ja Tampereen yliopisto
+
+JÄSENET
+
+Eeva Auvinen, dosentti, tutkija, HUS Diagnostiikkakeskus
+
+
+Ilkka Kalliala, dosentti, erikoislääkäri, kliininen opettaja, HUS ja Helsingin yliopisto
+
+
+Ivana Kholová, professori, ylilääkäri, Tampereen yliopisto ja Fimlab Laboratoriot Oy
+
+
+Matti Lehtinen, professori emeritus, Karoliininen instituutti
+
+
+Karolina Louvanto, professori, apulaisylilääkäri,
+Tampereen yliopisto ja Tampereen yliopistollinen sairaala
+
+
+Pekka Nieminen, LKT, dosentti, erikoislääkäri (eläkkeellä), Helsingin yliopisto
+
+
+Maiju Pankakoski, FT, tutkija, Suomen Syöpärekisteri
+
+
+Veli-Matti Partanen, FT, kehittämispäällikkö, Suomen Syöpärekisteri
+
+
+Simopekka Vänskä, dosentti, erikoistutkija, Terveyden ja hyvinvoinnin laitos
+
+
+
+
+4         KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+1. TIIVISTELMÄ                                           lonnan järjestäjien pitää ottaa käyttöön toimiviksi
+Kohdunkaulan syövän seulonnan tavoitteena on             todetut keinot, kuten esivaratun ajan tarjoaminen
+vähentää syövän ilmaantuvuutta ja sen aiheuttamia        sekä muistutuskutsujen lähettäminen. Näiden lisäksi
+kuolemia. Hyvinvointialueet ja Helsingin kaupunki        suositellaan, että omanäytteenottoa tarjottaisiin vaih-
+ovat vastuussa seulontaohjelman järjestämisestä          toehtoisena seulontamenetelmänä niille, jotka eivät
+alueellaan. Seulontaa on tarjottava seulonta-asetuk-     muistutuskutsun jälkeenkään osallistu seulontaan.
+sen mukaisesti 30–65-vuotiaille naisille viiden vuo-
+den välein.                                              Seulontaohjelman laadukkaan toiminnan turvaa-
+                                                         minen seulonnan kaikissa vaiheissa on tärkeää.
+Ensisijainen seulontatesti on HPV-testi ja käytettävän   Laadunvarmistus koskee niin seulonnan näytteen-
+testin tulee olla seulontakäyttöön validoitu. Papates-   ottoa ja analyysia kuin kolposkopiaa ja sen jälkeisiä
+tiä tulee käyttää vain ns. triage-testinä positiivisen   hoitotoimenpiteitä. Eri seulontatoimijat ovat kukin
+HPV-testin jälkeen ja ensisijaisena testinä mikäli       vastuussa laadunvarmistuksen toteutumisesta.
+seulontaa tarjotaan hyvinvointialueella myös 25-vuo-     Tietojen toimittaminen seulontaketjun kaikista vai-
+tiaille naisille. Vuonna 2023 noin 80 % seulonnasta      heista kansalliseen rekisteriin tukee seulonnan arvi-
+oli jo HPV-testiin perustuvaa.                           ointia ja mahdollistaa toimijoiden välisen vertailun.
+
+
+Lievän seulontalöydöksen tapauksessa riittää, että       Ensimmäinen HPV-rokotettu ikäluokka tulee 30
+tilannetta seurataan ottamalla ns. riskiryhmäseulon-     vuoden seulontaikään vuonna 2028. HPV-rokotettu-
+nassa uusi näyte 18–24 kuukauden kuluttua. Tällä         jen ikäluokkien seulonta tulee pienentyneen riskin
+kontrollitestillä tarkastetaan, toistuuko seulonta-      vuoksi järjestää edellisistä ikäluokista poikkeavalla
+löydös vai onko löydös normaalistunut itsestään.         tavalla. Tähän on varauduttava lainsäädäntöä muut-
+Vakavassa seulontalöydöksessä tai toistuvassa lie-       tamalla. Seulontaohjelman parantamiseksi kaikki
+vässä löydöksessä tarvitaan jatkotutkimuksia eli         seulontaluonteiset testit tulisi myös rekisteröidä
+kolposkopiaa ja koepalan ottamista sen yhteydessä        keskitetysti, mikä mahdollistaisi seulonnan laadun,
+hoitotoimenpiteiden tarpeen arviointia varten.           vaikuttavuuden ja kustannusten kokonaisvaltaisen
+                                                         arvioinnin.
+Seulontaan osallistuu nykyisin hieman yli 70 %
+kutsutuista ja osallistumisen parantamiseksi seu-
+
+
+
+
+5         KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+2. TERMISTÖ JA LYHENTEET
+AGC-FN  atyyppiset lieriösolut, neoplasia todennäköinen
+        (atypical glandular cells, favor neoplasia)
+AGC-NOS muutoin määrittämättömät atyyppiset rauhassolut
+        (atypical glandular cells not otherwise specified)
+AIS     kohdunkaulan pintasyöpä (adenocarcinoma in situ)
+ASC-H   atyyppiset levyepiteelisolut, HSIL ei suljettavissa pois
+        (atypical squamous cells, cannot exclude HSIL)
+ASC-US  atyyppiset levyepiteelisolut, merkitys epäselvä
+        (atypical squamous cells of undetermined significance)
+CIN     kohdunkaulan epiteelin atypia (cervical intraepithelial neoplasia)
+		              CIN 1 = lievä kypsymishäiriö (dysplasia levis)
+		              CIN 2 = vähäinen kypsymishäiriö (dysplasia moderata)
+		              CIN 3 = vahva kypsymishäiriö (dysplasia gravis, carcinoma in situ)
+FINGOG  Suomen Gynekologiyhdistys
+FICAN          Kansallinen Syöpäkeskus
+HPV            Ihmisen papilloomavirus (Human Papilloma Virus)
+hrHPV          Korkean syöpäriskin HPV-genotyyppi
+HSIL           vahva-asteinen levyepiteelimuutos (high-grade squamous intraepithelial lesion)
+IFCPC          International Federation of Cervical Pathology and Colposcopy
+LSIL           lieväasteinen levyepiteelimuutos (low-grade squamous intraepithelial lesion)
+MDT-kokous     Moniammatillinen suunnittelukokous (multidisciplinary team)
+THL            Terveyden ja hyvinvoinnin laitos
+
+
+
+
+6      KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+3. JOHDANTO
+Kohdunkaulan syövän seulonnan laatukäsikirja on tar-       3.1 MUUTOKSET AIEMPAAN JULKAISUUN
+koitettu päätöksenteon ja toiminnan tueksi seulonnan       Laatukäsikirjan ensimmäinen versio julkaistiin
+organisoinnista ja käytännön toteutuksesta vastaaville     18.4.2024.
+tahoille. Käsikirjassa annetaan tutkimustietoon ja käy-
+tännön kokemukseen perustuvia suosituksia toimivan         25.5.2026 hyväksyttyyn päivitykseen tehtiin seuraavat
+ja kustannusvaikuttavan organisoidun kohdunkaulan          sisällölliset muutokset, joiden lisäksi viitteitä ja linkke-
+syöpää estävän seulontaohjelman toteuttamiseen.            jä ajantasaistettu:
+Kohdunkaulan syövän esiastemuutosten tai kohdun-           - Suositeltiin, että seulontaa ei järjestetä 25-vuotiaille,
+kaulan syövän hoitoa tässä käsikirjassa ei varsinaisesti   koska nämä syntymäkohortit ovat HPV-rokotusohjel-
+käsitellä. Tarkempaa tietoa hoitosuosituksista löytyy      man piirissä.
+mm. Käypä hoito- ja FINGOG Kelpo hoito -suosituksis-       - Suositeltiin, että seulonnalle ei ole tarvetta mikäli
+ta .1,2
+                                                           henkilölle on tehty täydellinen kohdunpoisto hyvän-
+                                                           laatuisen sairauden vuoksi tai henkilöllä ei muusta
+                                                           syystä ole kohdunkaulaa.
+Kohdunkaulan syövän seulontaan liittyvä tieteellinen       - Lisättiin kohta, että omanäytteenottoa voidaan
+tutkimus on aktiivista, joten laatukäsikirjaa tullaan      tarjota vaihtoehtona terveydenhuollossa otetuille
+säännöllisesti päivittämään kertyvän tutkimustie-          näytteille, kunhan testi on validoitu, jatkotutkimusten
+don pohjalta. Teknologinen kehitys seulontamenetel-        osalta noudatetaan seulonta-algoritmia ja hyvinvoin-
+missä tarjoaa lupaavia vaihtoehtoja seulontaohjelman       tialue seuraa, että seulonnan eri vaiheet toteutuvat
+parantamiseen lähivuosina. Lisäksi HPV-rokotus-            suunnitellusti ja ryhtyy toimenpiteisiin, mikäli puut-
+ohjelma tulee vähentämään kohdunkaulan syöpiä,             teita havaitaan.
+mikä edellyttää muutoksia myös seulontaohjelmaan,          - Lisättiin Roche Cobas 5800 hyväksyttyjen HPV-tes-
+kun rokotetut naiset tulevat lähivuosina seulonta-         tien listalle ja Alinity-testi myös omanäytteenottoon.
+ikään. Rokotusohjelman vaikutus kohdunkaulan syö-          - Suositeltiin, että hyvinvointialueet varautuvat
+pien määrään väestötasolla nähdään kuitenkin vasta         HPV-rokotettujen ikäluokkien seulontaan varmis-
+2030-luvulla, kun vanhimmat rokotetut ikäluokat ovat       tamalla seulontapalveluja järjestäessään tai hank-
+30–40 vuoden iässä, jossa kohdunkaulan syöpää alkaa        kiessaan, että käytettävä HPV-testaus mahdollistaa
+yleisesti esiintyä.                                        laajennetun genotyypityksen (vähintään 16, 18 ja 45
+                                                           erikseen ja muut korkean riskin genotyypit kahdessa
+                                                           tai useammassa ryhmässä).
+
+
+
+
+7          KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+                                                                               sesti matalia ja peräisin rokottamattomasta väestöstä,
+  4. TAUSTAA
+                                                                               jota on seulottu vuosikymmeniä. Vuonna 2013 aloi-
+  Tämän luvun tavoitteena on antaa yleiskuva koh-                              tetun HPV-rokotusohjelman piirissä olevat silloiset
+  dunkaulan syövästä, sen seulonnasta sekä HPV-ro-                             11–15-vuotiaat nuoret eivät vielä laatukäsikirjan
+  kottamisesta niin, että seuraavien lukujen tarkastelut                       julkaisuhetkellä ole olleet iässä, jossa kohdunkaulan
+  saavat viitekehyksen.                                                        syöpää alkaa yleisesti ilmaantua.
+
+  4.1 KOHDUNKAULAN SYÖVÄN                                                      4.2 HPV JA SYÖVÄN KEHITTYMINEN
+  EPIDEMIOLOGIA                                                                Ihmisen papilloomavirus (human papillomavirus,
+  Kohdunkaulan syöpä on maailmanlaajuisesti nais-                              HPV) -infektio on kohdunkaulan syövän keskeinen,
+  ten neljänneksi yleisin syöpä. Vuonna 2020 siihen                            mutta ei yksinään riittävä etiologinen tekijä5.
+  sairastui arviolta 600 000 ja kuoli 340 000 naista3.                         HPV-tyyppejä on kuvattu yli 180 joista noin 40
+  Kohdunkaulan syövän ilmaantuvuus ja kuolleisuus                              kykenee aiheuttamaan infektion genitaalialueella.
+  on kehittyvissä maissa moninkertaista länsimaihin                            Suuren riskin (high risk HPV, hrHPV) tyyppejä,
+  verrattuna .    3
+                                                                               joiden aiheuttamilla pitkittyneillä infektioilla on
+                                                                               erityisesti riski kehittyä syöväksi, ovat HPV:t 16, 18,
+  Vuosina 2017–2021 Suomessa todettiin vuosittain                              31, 33, 35, 39, 45, 51, 52, 56, 58 ja 596. Nämä virukset
+  noin 180 kohdunkaulan syöpää, eli noin 6 uutta                               suosivat varsinkin kohdunkaulan muuntumisalueen
+  syöpää 100 000 henkilövuotta kohden, ja noin 50                              kudoksia ja tarttuvat yleensä sukupuoliteitse. Eri
+  kuolemaa kohdunkaulan syöpään . Koko elämänsä     4
+                                                                               hrHPV-tyyppien syöpäriskit vaihtelevat kuitenkin
+  aikana kohdunkaulan syöpään sairastuu Suomessa                               suuresti. HPV16 ja HPV18 vastaavat yhdessä lähes
+  noin viisi naista tuhannesta . Viiden vuoden kuluttua
+                                          4
+                                                                               80 % HPV-positiivisista kohdunkaulan syövistä, ja
+  kohdunkaulan syövän diagnoosin saaneista elossa on                           syyosuus nousee jo 90–94 %:iin, kun mukaan
+  noin 73 %. Suomen syöpäluvut ovat maailmanlaajui-                            otetaan HPV-tyypit, joille 9-valenttinen ja 2-valent-
+                                                                               tinen rokote muodostavat suojaa7.
+
+
+
+
+150
+
+
+
+120
+
+
+
+90
+
+
+
+60
+
+
+
+30
+
+
+
+ 0
+      0–4   5–9   10–14   15–19   20–24       25–29 30–34   35–39   40–44   45–49   50–54   55–59   60–64   65–69   70–74   75–79   80–84   85+
+
+
+
+      Kuva 1. Kohdunkaulan syöpien keskimääräinen vuosittainen tapausmäärä ikäryhmittäin 2017–2021
+
+
+
+  8               KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+                                                            siin. Yksittäinen seulontakierros käsittää kutsun ja
+Vaikka valtaosa hrHPV-infektioista paranee itsestään,       mahdolliset muistutuskutsut, näytteenoton ja testin
+pitkittynyt hrHPV-infektio voi johtaa kohdunkaulan          analysoimisen sekä positiivisesta löydöksestä tarvitta-
+syövän esiastemuutoksen kehittymiseen. Myös esias-          vat jatkotoimet (seulonta-algoritmi). Lievän seulonta-
+teista suuri osa paranee itsestään, mutta osa kuitenkin     löydöksen tapauksessa riittää, että tilannetta seura-
+etenee syöväksi. Syöpämuutos kehittyy esiasteesta           taan ottamalla ns. riskiryhmäseulonnassa uusi näyte
+pääsääntöisesti hitaasti, yleensä vuosien tai jopa vuosi-   18–24 kuukauden kuluttua. Tällä kontrollitestillä
+kymmenten kuluessa . HPV-infektion pitkittymiseen
+                      8
+                                                            tarkastetaan, toistuuko seulontalöydös vai onko
+sekä syövän ja sen esiasteiden kehittymiseen vaikut-        löydös normaalistunut itsestään. Vakavassa seulon-
+tavat useat muut tulehdukselliset, kemialliset, hormo-      talöydöksessä, tai toistuvassa lievässä löydöksessä,
+naaliset, immunologiset ja geneettiset tekijät .
+                                               6
+                                                            tarvitaan jatkotutkimuksia ja koepalan ottamista
+                                                            hoitotoimenpiteiden tarpeen arviointia varten.
+HPV-infektioiden määrä nousee nuorilla naisilla             Seulonnan tehokkaan toteutumisen kannalta
+nopeasti seksuaalielämän alkamisen jälkeen.                 seulonta-algoritmin merkitys on suuri.
+Suomessa (ja yleisemminkin Pohjois-Euroopassa)
+HPV-infektion vallitsevuus on 20 ikävuoden jäl-             Suurin osa etenkin nuorten naisten lievistä ja keski-
+keen yli 25 %, minkä jälkeen vallitsevuus laskee iän        vahvoista papilloomaviruksen aiheuttamista muutok-
+mukana, asettuen 40–50-vuotiailla noin 5 %:iin.             sista paranee itsestään9,10. Itsestään paranevan esi-
+Esiasteiden ilmaantuvuuden huippu on noin 30-vuo-           asteen löytämistä kutsutaan ylidiagnostiikaksi.
+tiailla seulonnan alkamisen aikaan (ks. alla tarkem-        Se aiheuttaa turhia hoitoja ja seurantaa ja vie tervey-
+min seulonnasta). Syöpäilmaantuvuus taas on kak-            denhuollon resursseja. Optimaalisesti toimiva
+sihuippuinen: ensimmäinen huippu on pian 30–35              kohdunkaulan syövän seulonta auttaa tunnistamaan
+ikävuoden jälkeen ja toinen nousu tapahtuu seulon-          taudin etenemiselle alttiit esiasteet, mutta löytää
+nan päättymisen jälkeen yli 65-vuotiailla (KUVA 1).         mahdollisimman vähän itsestään paranevia esiasteita
+                                                            ja hyvänlaatuisia HPV-tartuntaan liittyviä muutoksia.
+4.3 KOHDUNKAULAN SYÖVÄN SEULONTA                            Seulonnassa tulisikin tavoitella paitsi kohtuullisia
+Kohdunkaulan syövän seulonnan tavoitteena on                kustannuksia, myös naisille seulonnasta aiheutuvien
+vähentää syövän ilmaantuvuutta ja sen aiheuttamia           haittojen (ks. luku 16) minimoimista.
+kuolemia. Tavoitteen toteutumiseksi seulonnassa
+pyritään löytämään ja poistamaan kirurgisesti syö-          Suomessa on arvion mukaan estetty seulonnan
+vän esiasteet sekä varhaisvaiheen syövät. Esiasteen         avulla yli 80 % kohdunkaulan syövistä ja syöpä-
+hidas kehittyminen syöväksi luo pitkän aikaikkunan          kuolemista. Kohdunkaulan syövän ilmaantuvuus on
+esiasteen löytämiseksi ja hoitamiseksi, mikä on yksi        kuitenkin suurentunut 1990-luvun loppupuolelta
+keskeisimmistä edellytyksistä syövän tehokkaalle            alkaen alle 40-vuotiailla naisilla, joilla ilmaantuvuus
+torjumiselle väestöseulonnalla.                             on nyt seulontaa edeltävällä tasolla4. Suomessa
+                                                            seulonta on toteutunut paitsi seulontaohjelmassa,
+Kohdunkaulan syövän seulontaohjelmaa on toteu-              myös sen ulkopuolella ns. organisoimattomana
+tettu Suomessa perinteisesti siten, että nainen kut-        testaamisena. Papatestejä tehdään Suomessa enem-
+sutaan 25 tai 30 vuoden iästä alkaen viiden vuoden          män ohjelman ulkopuolella (n. 60 %) kuin valta-
+välein kohdunkaulan irtosolunäytteeseen perustu-            kunnallisessa seulontaohjelmassa11,12. Laajamittaisen
+vaan seulontaan. Alkamisikä on vaihdellut alueittain.       testaamisen hyötynä on ollut korkea seulonnan peit-
+Viimeinen ikäryhmäperusteinen kutsu on lähetetty            tävyys, kun otetaan huomioon sekä seulontaohjelma
+aiemmin 60-vuotiaille naisille, mutta vuoden 2022           että sen ulkopuolinen testaus (kaikkiaan vähintään
+alusta alkaen seulontaa on jatkettu myös 65-vuotiai-        yksi seulontatesti 5 vuoden aikana n. 90 % seu-
+
+
+
+9         KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+lontaikäisistä; seulontaohjelmassa osallistuminen           lonnan herkkyys havaita esiastemuutoksia on ylipää-
+30-vuotiailla n. 50 %, nousten 80 %:iin iän mukana).        tään huonompi kuin hrHPV-testiin perustuvan seu-
+Haittana Suomen kaksinapaisesta seulontatoimin-             lonnan13. Toisaalta hrHPV-testauksen haasteena on
+nasta on ollut seulontaprosessin heikko hallittavuus        sopivan algoritmin valinta hrHPV-positiivisille, koska
+kokonaisuutena, sillä organisoimattomat seulonta-           pelkkään papilloomavirusinfektioon ilman varmistet-
+luontoiset näytteet eivät ole kuuluneet rekisteröinnin      tuja kudosmuutoksia ei ole nykyään toimivaa hoitoa
+piiriin eikä näiden näytteiden kohdentamista tai            Viime aikoina onkin aktiivisesti tutkittu erilaisia
+jatkotutkimuskäytäntöjä ole järjestelmällisesti seu-        triagetestejä ja -menetelmiä, joiden tavoitteena on
+rattu. Tämä on johtanut sekä ylidiagnostiikkaan että        löytää nimenomaan syöväksi kehittyvät esiasteet
+erityisesti korkeampiin seulonnan kustannuksiin.            kaikkien todettujen esiastemuutoksien joukosta.
+
+
+On syytä korostaa, että kohdunkaulan syövän seu-            4.4 HPV-ROKOTUSOHJELMAN VAIKUTUS
+lonta ei tarkoita vain yksittäistä testikertaa ja toimen-   SEULONTAAN
+piteitä positiivisten löydösten käsittelemiseksi            Kansallinen rokotusohjelma merkittävimpiä korkean
+(seulontakierros ja sen algoritmi), vaan sarjaa seu-        riskin HPV-tyyppejä (mm. HPV-genotyypit 16 ja 18)
+lontakierroksia, jotka muodostavat vuosikymmen-             vastaan käynnistyi Suomessa vuonna 2013 tyttöjen
+ten mittaisen seulontaprosessin. Seulontaprosessin          ja vuonna 2020 poikien osalta. HPV-rokottamisen
+kontrolloinnissa tärkeässä roolissa ovat relevantin         myötä kohdunkaulan syövän torjuntaprosessi alkaa
+kohdeikäryhmän ja seulontavälien (aika seulontakier-        entistä varhaisemmassa vaiheessa elämää. Rokottei-
+rosten välillä) määrittäminen. Seulontaväli vaikuttaa       den tarjoaman hyvän suojan korkeimman syöpä-
+hyötyjen ja haittojen tasapainoon: pidempi seulonta-        riskin HPV-tyyppejä vastaan odotetaan alentavan
+väli antaa esiasteille mahdollisuuden, toisaalta paran-     kohdunkaulan syövän ilmaantuvuutta rokotetuilla
+tua spontaanisti ja vähentää näin ylidiagnostiikkaa,        suuresti. Tästä on julkaistu jo ensimmäisiä tieteel-
+toisaalta se voi antaa muutokselle enemmän aikaa            lisiä havaintoja14–16. Rokottamisen epäsuorat vaiku-
+edetä syöväksi ja lisätä näin syöpätaakkaa. Myös            tukset ulottuvat väestön viruskierron vähentymisen
+seulonnassa käytettävien testien ja toimenpiteiden          kautta myös niihin, joita ei ole rokotettu. Epäsuorat
+vaikuttavuus on kytköksissä seulontavälin optimiin.         vaikutukset näkyvät erityisesti rokotettujen ikäluok-
+                                                            kien rokottamattomilla henkilöillä, sillä nuorilla tar-
+Menneinä vuosikymmeninä seulontatestinä on ollut            tuntoja saadaan suunnilleen saman ikäisiltä. Van-
+papatesti, jossa kohdunkaulan irtosolunäytteestä            hemmissa ikäluokissa epäsuorat vaikutukset ovat
+etsitään esiasteeseen tai syöpään liittyviä muutoksia.      vähäisempiä. Rokottamisen myötä merkittävimmät
+Nykyisin käytetään ensisijaisesti hrHPV-testausta           hrHPV-tartunnat ja edelleen myös HPV-riippuvai-
+(primaaritesti) ketjutettuna tarvittaessa papatestiin       set syövät tulevat harvinaistumaan rokotetuissa ikä-
+(triage-, eli luokittelutesti): näytteestä analysoidaan     luokissa sekä rokotetuilla että rokottamattomilla.
+ensin hrHPV-status, ja mikäli näyte on hrHPV-posi-          Väestötason laumasuoja, jolla rokotteen sisältämät
+tiivinen, siitä tutkitaan myös papatesti. HrHPV-            HPV-tyypit eivät kykene leviämään laajamittaisiksi
+testituloksen ollessa negatiivinen seulottavan riski        epidemioiksi, saavutetaan, jos rokotuskattavuus sekä
+sairastua kohdunkaulan syöpään lähiaikoina on mer-          tytöillä että pojilla yltää noin 75 % tasolle17. Viime
+kittävästi pienempi kuin papatestin ollessa negatii-        vuosina HPV-rokotusten piiriin kuuluvissa ikä-
+vinen eli normaali, koska hrHPV-negatiivisella ei           ryhmissä n. 80 % tytöistä ja 70 % pojista on saanut
+ole havaittu syövälle altistavaa papilloomavirustar-        rokotteen. On syytä huomata, että HPV-rokotusten
+tuntaa. Tämä eroaa suuresti pelkän papatestin nor-          myötä väestön HPV-tyyppien jakauma muuttuu
+maalista tuloksesta, jossa normaali solukuva ei sulje       siten, että jäljelle jäävien HPV-tyyppien infektioilla
+pois hrHPV-tartuntaa. Papatestiin perustuvan seu-           on selvästi alhaisempi kyky kehittyä esiasteesta
+
+
+
+10        KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+syöväksi.
+                                                       suhteelliseen lisääntymiseen18. Tämän haitallisen
+Nämä rokotusohjelman aikaansaamat positiiviset         kehityskulun välttämiseksi ja seulonnan kustannus-
+muutokset tuovat haasteen kohdunkaulan syövän          vaikuttavuuden parantamiseksi kaikkien toimijoiden
+seulontaohjelman tehokkaalle toteuttamiselle ja        tulee jatkossa seurata seulontasuosituksia selvästi
+korostavat seulontaprosessin kontrolloimisen roolia.   nykyistä paremmin ja toimia yhdessä koordinoidusti.
+Rokotetuissa ikäluokissa HPV-infektiot ja esiasteet    Lisäksi, jotta seulontaohjelman koordinointi ja
+tulevat kehittymään nykyistä harvemmin syöväksi,       muutosten tekeminen tarvittaessa olisi tehokasta,
+joten esiasteiden nykyisenkaltainen laajamittainen     on kaikki papa- ja HPV-testit, jatkotutkimukset ja
+etsiminen ja hoitaminen johtavat edelleen koros-       -hoidot saatava rekisteröityä ajantasaisesti ja katta-
+tuvaan ylidiagnostiikkaan ja seulonnan haittojen       vasti toimijasta riippumatta.
+
+
+
+
+11          KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+5. SEULONTAOHJELMAN                                     luotettavuutta säännöllisesti, sekä toimittaa seulon-
+ORGANISAATIO JA VASTUUT                                 nasta yksilötason tiedot Syöpärekisterin ylläpitämään
+                                                        joukkotarkastusrekisteriin, jonka perusteella seulon-
+● Hyvinvointialueet ja Helsingin kaupunki ovat          nan laatua ja vaikuttavuutta voidaan arvioida. Tervey-
+     vastuussa seulontaohjelman järjestämisestä         den ja hyvinvoinnin laitos on antanut Suomen Syöpä-
+● Seulonnan toteutusta ja kehitystä ohjeistaa ja        rekisterin tehtäväksi seurata ja arvioida yhteistyössä
+     seuraa Kansallisen syöpäkeskuksen osana toimiva    muiden alan toimijoiden kanssa käynnissä olevia
+     kansallinen syöpäseulontojen ohjausryhmä sekä      seulontaohjelmia ja niissä käytettäviä menetelmiä.
+     sen nimeämä kohdunkaulan syövän seulonnan
+     asiantuntijaryhmä                                  Muun kuin valtakunnallisen seulontaohjelman
+● Suomen Syöpärekisteri seuraa ja arvioi yhteis-		      mukaisen seulonnan järjestämiseksi (esimerkiksi
+     työssä muiden alan toimijoiden kanssa käynnissä    seulonnan ikäryhmiä laajennettaessa) hyvinvointi-
+     olevia seulontaohjelmia ja niissä käytettäviä      alueen on ennen seulonnan aloittamista arvioitava,
+     menetelmiä.                                        millaisia vaatimuksia seulonta asettaa terveyden-
+                                                        huollon palvelujärjestelmälle ja miten seulonta
+                                                        siihen vaikuttaa.
+5.1. LAINSÄÄDÄNTÖ
+Terveydenhuoltolain 14 § mukaisesti hyvinvointi-        5.2 SEULONNAN OHJAUS JA VALVONTA
+alueen on järjestettävä alueellaan valtakunnallisen     Kansallinen syöpäseulontojen ohjausryhmä, joka
+seulontaohjelman mukaiset seulonnat. Valtio-            toimii Kansallisen syöpäkeskuksen (FICAN) osana,
+neuvoston seulonta-asetuksessa (339/2011) ja sen        ohjeistaa, seuraa ja selvittää syöpäseulontojen käyn-
+muutoksissa (752/2021 ja 1243/2022) on säädetty         nistämistä, toteutusta ja kehitystä. Ohjausryhmä
+tarkemmin, että kohdunkaulan syövän seulonta on         koostuu kansallisen syöpäkeskuksen ja sen viiden
+järjestettävä 30–65-vuotiaille naisille viiden vuoden   alueel­lisen syöpäkeskuksen sekä Syöpärekisterin
+välein. Lisäksi seulonta-asetuksessa (622/2023) on      asiantuntijajäsenistä ja sosiaali- ja terveysministeriön
+määrätty, että kohdunkaulan syövän seulonta järjes-     edustajasta. Ohjausryhmä on nimennyt myös asian-
+tetään myös syntymäsukupuolen mukaan kohde-             tuntijaryhmän jokaiselle syöpäseulontaohjelmalle,
+ryhmään kuuluville henkilöille, joiden sukupuoli        jonka tehtävänä on antaa tarkempia ohjeita seulon-
+on vahvistettu mieheksi.                                nan toteuttamisesta.
+
+
+Vastuu seulontojen järjestämisestä siirtyi vuoden       Asiantuntijaryhmän laatimassa laatukäsikirjassa
+2023 alussa kunnilta 21 hyvinvointialueelle sekä        annetaan hyvinvointialueille tarkempia ohjeita
+Helsingin kaupungille. Lisäksi Ahvenanmaan maa-         seulontaohjelman toteuttamisesta. Hyvinvointi-
+kunta on vastuussa seulonnan järjestämisestä alueel-    alueet vastaavat näiden ohjeiden toimeenpanosta.
+laan. Seulonta järjestetään hyvinvointialueen ennalta
+päättämän ohjelman mukaisesti ja hyvinvointialueen      Seulontaohjelman valvonnasta vastaavat ensisijaisesti
+on nimettävä kustakin seulontaohjelmasta vastaava       hyvinvointialueet itse. Vuoden 2026 alusta lähtien
+henkilö. Hyvinvointialueet voivat toteuttaa seulon-     Lupa- ja valvontavirasto vastaa muun terveydenhuol-
+nan joko omana toimintanaan tai ulkoistaa seulon-       lon tavoin myös hyvinvointialueiden järjestämän seu-
+nan toteuttamisen valitsemalleen palveluntuotta-        lonnan valvonnasta, kun aluehallintovirastojen tehtä-
+jalle. Molemmissa tilanteissa ohjelman tulee sisältää   vät siirrettiin sille.
+asianmukainen laadunhallinta- ja laadunvarmistus-
+menettely. Hyvinvointialueen tulee seurata ja arvi-
+oida koko seulontaprosessin laatua ja seulontatestien
+
+
+
+12          KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+5.3 SEULONTAOHJELMAN ULKOPUOLINEN                          nuoremmilla testausta tapahtuu etenkin julkisessa
+TESTAUS                                                    terveydenhuollossa. Seulontaikäisillä päällekkäinen
+Kaikesta seulontaluonteisesta testaamisesta vain           testaus ohjelmassa ja sen ulkopuolella on yleistä, ja
+noin 40 % arvioidaan tapahtuvan virallisen seulon-         ulkopuolisia testejä tehdään useammin yksityisessä
+taohjelman puitteissa  11,12
+                            . Seulontaohjelman ulko-       terveydenhuollossa11. Seulontaohjelman ulkopuoli-
+puolista testausta ei tällä hetkellä rutiininomaisesti     sen testauksen on osoitettu ehkäisevän syöpää
+rekisteröidä keskitetysti, jolloin sen hyödyntäminen       seulonnan kohdeikäryhmässä21–23. Ulkopuolinen
+ja laadunarviointi jää puutteelliseksi (kts. luku 6.3).    testaaminen on yleisintä ylemmillä toimihenkilöillä,
+Seulontaluonteisen testauksen tulisi tapahtua viral-       kotimaista kieltä äidinkielenään puhuvilla sekä
+lisessa seulontaohjelmassa, sillä siinä kohdeikäryh-       kaupunkimaisissa kunnissa asuvilla12.
+mät ja seulontaväli perustuvat tutkimusnäyttöön ja
+ylidiagnostiikan riski on pienempi kuin ns. opportu-       Seulontaohjelman ulkopuolinen testaaminen on
+nistisessa seulonnassa  19,20
+                               . Seulonnan kustannusvai-   aiheellista vain tietyissä tapauksissa, kuten silloin,
+kuttavuuden parantamiseksi myös ulkopuoliset testit        jos nainen ei ole osallistunut ohjelmaan ja edellisestä
+pitää liittää osaksi seulontaohjelman laadunarvioin-       seulontatestistä on 5 vuotta tai enemmän, tai jos
+tia, ja päällekkäistä testausta pitää pyrkiä välttämään.   hänellä on oireita (ks. Käypä Hoito -suositus).
+
+
+Seulontaohjelman ulkopuolinen testaus painottuu
+erityisesti nuorempiin ikäluokkiin11,12. Seulontaikää
+
+
+
+
+13         KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+6. SEULONNAN KOHDEVÄESTÖ                                       rokotettuja. Rokotetussa väestössä HPV-genotyyp-
+                                                               pien jakauma on muuttunut merkittävästi, eli geno-
+● Kohdunkaulan syövän seulonta järjestetään 		                 tyypit 16 ja 18 ovat harvinaisia, mutta muut HPV-tyy-
+  30–65-vuotiaille naisille viiden vuoden välein               pit ovat edelleen yleisiä.
+● Asiantuntijaryhmä suosittaa, että hyvinvointi-		
+
+  alueet eivät enää laajenna kohdunkaulan syövän               Kohdunkaulan syövän seulonnan on todettu olevan
+  seulontaa 25-vuotiaiden ikäryhmään, mikäli                   vaikuttavaa vähintään 65-vuotiaaksi saakka tai jopa
+  seulontaa ei ole alueella tälle ikäryhmälle                  pidempään21,25,26. Toisaalta naiset, jotka ovat osallistu-
+  aiemmin järjestetty                                          neet säännöllisesti seulontaan ja saaneet vain negatii-
+● Lainsäädännöllisiä muutoksia tarvitaan, jotta                via seulontatuloksia 50 ikävuoden jälkeen, ovat mata-
+  kutsukäytännöissä voidaan huomioida                          lassa riskissä sairastua enää vanhempana. Sen sijaan
+  HPV-rokotetut kohortit sekä seulontaohjelman                 riski on kohonnut, jos osallistuminen on ollut epä-
+  ulkopuolella testatut                                        säännöllistä tai jos on havaittu poikkeavia tuloksia27,28.
+                                                               Riskiryhmäseulontaa tulee jatkaa tarvittaessa 69 ikä-
+                                                               vuoteen saakka seulontaohjelmassa. Tämän jälkeen-
+6.1 SEULOTTAVAT IKÄLUOKAT                                      kin seulontaluonteisia näytteitä voidaan suositella
+Kohdunkaulan syövän seulonnan kohderyhmänä                     otettavaksi muualla terveydenhuollossa erityis-
+ovat seulonta-asetuksen mukaisesti 30–65-vuotiaat              tapauksissa (mm. vaihdevuosi-iän jälkeen hoidetun
+naiset viiden vuoden välein. Sen lisäksi seulonta              HPV-peräisen muutoksen takia, immuunipuuttei-
+järjestetään syntymäsukupuolen mukaan kohde-                   silla potilailla jne.).
+ryhmään kuuluville henkilöille, joiden sukupuoli
+on vahvistettu mieheksi. Seulontaan kutsutaan aina             6.2 RAJAUKSET SEULOTTAVAAN VÄESTÖÖN
+niinä vuosina, kun seulontaan oikeutettu täyttää               Suomalaisessa seulontaohjelmassa ei ole tehty eril-
+viidellä jaollisia vuosia. Seulonnan rajaus 30–65-vuo-         lisiä rajauksia seulontaan kutsuttaviin henkilöihin,
+tiaisiin perustuu tutkimustietoon seulonnan vaikut-            vaan seulontaan on kutsuttu myös mm. kohdunpois-
+tavuudesta sekä hyötyjen ja haittojen tasapainosta   19,24
+                                                           .   ton jälkeen. Asiantuntijaryhmä suosittaa, että mikäli
+                                                               täydellinen kohdunpoisto (sisältäen myös kohdun-
+Sukupuolensa mieheksi vahvistaneille henkilöille               kaulan) on tehty hyvänlaatuisen sairauden vuoksi tai
+ei lähetetä erillisiä kutsuja seulontaan, sillä kutsut         henkilöllä ei jostain muusta syystä ole kohdunkau-
+perustuvat Digi- ja väestötietovirastossa olevaan              laa, ei seulontaan osallistumiselle ole tarvetta. Mikäli
+sukupuolimerkintään. Nämä henkilöt ovat                        kohdunpoisto on tehty syövän esiasteen hoitamiseksi
+kuitenkin oikeutettuja osallistumaan seulontaan                tai kohdunkaulassa todetaan solumuutoksia kohdun-
+(ks. luku 8.1).                                                poiston yhteydessä, seulontaan osallistumista suosi-
+                                                               tellaan edelleen.
+Asiantuntijaryhmä suosittaa, että rokotetuille synty-
+mäkohorteille ei järjestetä seulontaa 25-vuotiaana.            Muissa Pohjoismaissa kaikki kohdunkaulalta otetut
+Mikäli hyvinvointialue järjestää seulontaa 25-vuoti-           testit, riippumatta siitä tehdäänkö ne virallisen seulon-
+aille niin seulonta tulee tehdä HPV-testillä, joka erot-       taohjelman osana vai sen ulkopuolella, rekisteröidään
+telee vähintään genotyypit 16 ja 18, joita vastaan             kansallisesti. Seulontakutsut lähetetään vain naisille,
+rokote suojaa. Ensimmäinen HPV-rokotusohjelman                 joilla ei ole rekisteröityä testiä seulontavälin aikana.
+piirissä oleva syntymäkohortti on syntynyt vuonna
+1998 ja tulee lakisääteisen seulonnan piiriin 30-vuoti-        Suomessa valtaosa kohdunkaulan seulontaluontei-
+aana eli vuonna 2028. Alueilla, joissa seulontaan kut-         sista testeistä tehdään seulontaohjelman ulkopuolella
+sutaan jo 25-vuotiaana, seulottavat ovat jo pääosin            ja merkittävällä osalla naisista on sekä ohjelmassa
+
+
+
+14         KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+että sen ulkopuolella tehtyjä testejä. Päällekkäistä tes-   olevaa kansallista rokotusrekisteriä (THL), johon on
+taamista voitaisiin vähentää myös Suomessa                  yksilötasolla kirjattu kansallisessa rokotusohjelmassa
+kutsumalla seulontaan vain henkilöt, joita ei ole           annetut HPV-rokotukset. Rokotusrekisterin tietojen
+testattu viimeisen viiden vuoden aikana. Tämä edel-         hyödyntäminen seulontaan kutsuttavien rajaamisessa
+lyttää kuitenkin, että kaikki seulontatestejä analysoivat   edellyttää kuitenkin lainsäädännöllisiä muutoksia,
+laboratoriot raportoivat joukkotarkastusrekisteriin         joiden valmistelu on aloitettava viipymättä.
+kattavasti ja viipeettä kaikki tehdyt testit.
+                                                            Lainsäädännön päivittämistä tarvitaan lisäksi, jotta
+6.3 TARVITTAVAT LAINSÄÄDÄNNÖLLISET                          terveydenhuollon toimijat voidaan velvoittaa rapor-
+MUUTOKSET                                                   toimaan myös seulontaohjelman ulkopuolisista
+Ensimmäisen HPV-rokotetun ikäluokan tuleminen               papa- ja HPV-testeistä sekä niiden tuloksista yksilö
+30 vuoden seulontaikään vuodesta 2028 lähtien               tason tiedot Suomen Syöpärekisterin joukkotarkastus-
+aiheuttaa jatkossa muutoksia seulontaohjelmaan,             rekisteriin. Näillä keinoilla kaikkien HPV-peräisten
+koska näiden ja heitä seuraavien ikäluokkien koh-           tautien ehkäisyyn käytettävien toimien (HPV-rokotus-
+dunkaulan syövän seulonta tulee pienentyneen ris-           ohjelman, organisoidun seulonnan ja organisoimat-
+kin vuoksi järjestää edellisistä ikäluokista poikkea-       toman testauksen) laatua, vaikuttavuutta ja kustan-
+valla tavalla (ks. tarkemmin luku HPV-rokotteen             nuksia voidaan arvioida kokonaisvaltaisesti. Asian-
+vaikutuksista seulontaan). Tarkemmat päätökset seu-         tuntijaryhmä suosittelee, että kaikki laboratoriot
+lontaohjelman muuttamisesta rokotettujen osalta             velvoitetaan raportoimaan Suomen Syöpärekisterin
+tehdään myöhemmin, mutta tähän on varauduttava              joukkotarkistusrekisteriin kattavasti ja viipeettä
+mahdollistamalla rokotetun väestön kutsuminen               yksilötason tiedot kaikista tehdyistä papa- ja HPV-
+seulontaan rokottamattomista syntymäkohorteista             testeistä. Tämän jälkeen voitaisiin harkita siirtymistä
+poikkeavalla tavalla.                                       käytäntöön, jossa seulontakutsut lähetetään vain
+                                                            naisille, joilla ei ole rekisteröityä testiä seulontavälin
+Seulonnan kohdentaminen HPV-rokotusstatuksen                aikana.
+mukaisesti voidaan toteuttaa hyödyntämällä olemassa
+
+
+
+
+15         KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+                                                           Papa- ja hrHPV-testien yhteiskäyttöä primaaritestinä
+7. SEULONTA-ALGORITMIT                                     (ns. co-testing) ei suositella.
+
+● 30 vuotta täyttäneillä naisilla primaariseulonta-        Koska HPV-rokotettujen ikäluokkien tullessa seulon-
+		 menetelmä on viiden vuoden välein hrHPV-testi           taan infektioiden tyyppijakauma muuttuu, asiantunti-
+		 ja papatestiä käytetään positiivisen hrHPV-testin       jaryhmä suosittelee, että hyvinvointialueet varmista-
+		 jatko- eli triage-testinä                               vat seulontapalveluja järjestäessään tai hankkiessaan,
+● Mikäli hyvinvointialueella tarjotaan seulontaa 		        että käytettävä HPV-testilaitteisto mahdollistaa laa-
+		 25–29-vuotiaille, primaariseulontamenetelmänä           jennetun genotyypityksen (vähintään HPV-tyypit 16,
+		 on pelkkä papatesti                                     18 ja 45 erikseen sekä muut korkean riskin genotyypit
+● HPV-rokotettujen ikäluokkien seulontaan tulee            jaoteltuna kahteen tai useampaan ryhmään).
+valmistautua varmistamalla, että HPV-testilaitteisto
+mahdollistaa laajennetun genotyypityksen.                  ERITYISRYHMIEN SEULONTASUOSITUS
+● Tietyillä immuunipuutteisilla potilailla on              Tietyillä immuunipuutteisilla potilailla on suurentu-
+		 suurentunut riski kohdunkaulan syöpään ja sen           nut riski saada kohdunkaulan syövän esiastemuu-
+		 esiasteisiin, jolloin nykyistä tiheämpi seulontaväli    toksia ja kohdunkaulan syöpä. HIV-potilaiden, elin-
+		 osana kliinistä seurantaa on suositeltava               siirtopotilaiden, immunosuppressiivista lääkitystä
+                                                           saavien tulehduksellista suolistosairautta sairasta-
+Korkean syöpäriskin papilloomavirukset tunnistava          vien, SLE-potilaiden sekä immunosuppressiivista
+hrHPV-testi on todettu parhaaksi primaariseulon-           lääkitystä saavien reumapotilaiden kohdalla nykyistä
+tamenetelmäksi 30 vuotta täyttäneillä ja sitä van-         tiheämpi seulontaväli (3 v) olisi suositeltava. Käytän-
+hemmilla . Papatestiä käytetään tällöin ensimmäi-
+          29
+                                                           nössä tämän voisi toteuttaa yhdellä ylimääräisellä
+senä positiivisen hrHPV-testin jatko eli triage-testinä.   näytteenottokerralla ikäryhmäperusteisten näytteen-
+25–29-vuotiailla primaariseulontamenetelmänä on            ottokertojen välissä osana kliinistä seurantaa1. Niille,
+pelkkä papatesti.                                          joilla ei ole käytössä immunosuppressiivista lääki-
+                                                           tystä suositellaan seurantaa normaaliväestön seulonta-
+Kohdunkaulan syövän seulonnassa noudatettavat              ohjeiden mukaisesti.
+algoritmit on esitetty 30 vuotta täyttäneille kuvassa 2
+ja alle 30-vuotiaiden osalta kuvassa 3.
+
+
+
+
+16        KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+                               Poiminta seulontaan
+                              ikäryhmän perusteella
+
+                                       Kutsu
+
+     Tarvittaessa muistutuskutsu
+
+                                    hrHPV -testi
+
+
+                hrHPV–                                       hrHPV+
+
+     Seuraava kutsu iän perusteella                  Papa-näyte analysoidaan
+
+
+                            >LSIL tai lieriösoluatypia                   Normaali tai ASC-US
+
+                                 Kolposkopia*
+
+
+                          Kutsu riskiryhmäseulontaan
+                               18–24 kk kuluttua
+
+
+      Tarvittaessa muistutuskutsu
+
+                                    hrHPV -testi
+
+
+                hrHPV–                                       hrHPV+
+
+     Seuraava kutsu iän perusteella                  Papa-näyte analysoidaan
+                                                                                                        *Käypä hoito -suosituksen
+                                                          Kolposkopia*                                  määrittämällä kiireellisyydellä7
+
+
+Kuva 2. Seulonta-algoritmi, hrHPV-testi (30 vuotta täyttäneet naiset)
+
+
+
+
+                                                 Poiminta seulontaan
+                                                ikäryhmän perusteella
+
+                                                         Kutsu
+
+                     Tarvittaessa muistutuskutsu
+
+                                                      Papatesti
+
+
+           Ei solumuutoksia                    >ASC-H tai lieriösoluatypia              ASC-US tai LSIL**
+     Seuraava kutsu iän perusteella                  Kolposkopia*
+
+
+
+                                               Kutsu riskiryhmäseulontaan
+                                                    18–24 kk kuluttua
+
+
+                      Tarvittaessa muistutuskutsu
+                                                                                                       *Käypä hoito -suosituksen määrittämällä
+                                                       Papatesti                                       kiireellisyydellä7
+
+                                                                                                       **Mikäli papa-testiä käytetään ensisijaisena
+                           Ei solumuutoksia                                  Solumuutos                seulontatestinä 30 vuotta täyttäneillä, myös
+                                                                                                       LSIL -tasoisen levyepiteeliatypian perusteella
+                     Seuraava kutsu iän perusteella                          Kolposkopia*              tehdään kolpskopia.
+
+
+
+
+Kuva 3. Seulonta-algoritmi, papatesti (alle 30-vuotiaat naiset)
+
+
+
+17          KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+8. SEULONTAAN KUTSUMINEN                                   varmistusta varten Syöpärekisterin ylläpitämään
+                                                           joukkotarkastusrekisteriin.
+● Seulontaan kutsuttavat henkilöt poimitaan
+
+  DVV:n väestötietojärjestelmästä                          Seulontaan kutsuttavaksi on poimittava ikäryhmän
+● Hyvinvointialueiden tulee varmistaa, että myös           perusteella kutsun saavien lisäksi riskiryhmäseulon-
+  henkilöt, jotka eivät tähän poimintaan sisälly 		        taan ne henkilöt, joiden edellisessä seulontatestissä
+  (kuten henkilöt, joilla on voimassa oleva turva-         (ikäryhmäseulonta) on todettu lievä solumuutos
+  kielto tai sukupuolensa mieheksi vahvistaneet)           (ASC-US tai LSIL) tai pelkkä hrHPV-positiivisuus
+  saavat riittävästi tietoa ja voivat vaivattomasti 		     eikä lähetettä jatkotutkimuksiin ole tehty. Tämä riski-
+  varata ajan seulontaan                                   ryhmäpoiminta tulee tehdä siten, että seulonta voidaan
+● Kutsukirjeen tulee olla henkilökohtaisesti osoi-         järjestää 18–24 kuukauden kuluessa edellisestä testistä.
+  tettu seulontaan kutsuttavalle henkilölle ja sen
+  tulee sisältää riittävät tiedot seulonnasta sekä esi-    Seulontojen järjestämisen sujuvoittamiseksi on
+  varatun ajan ja paikan näytteenotolle                    mahdollista hyödyntää Suomen Syöpärekisterin
+● Seulontaan osallistumattomille tulee lähettää 		         tarjoamaa maksullista kutsupalvelua, jossa seulon-
+  muistutuskutsu 4–8 viikon päästä ensimmäisen             nan järjestäjälle toimitetaan henkilötunnusten lisäksi
+  kutsun lähettämisestä                                    osoitetiedot seulontakutsujen lähettämistä varten.
+● Omanäytteenottoon perustuvia testejä suositel		          Yhteystiedot poimitaan väestötietojärjestelmästä.
+  laan otettavaksi käyttöön seulontaan osallistumat-       Kutsuttavien poiminta riskiryhmäseulontaan tapah-
+  tomien joukossa, mikäli muut keinot osallistu-           tuu joko seulonnan järjestäjän tai Syöpärekisterin
+  misen parantamiseksi on hyvinvointialueella 		           kutsupalvelun toimesta.
+  otettu käyttöön.
+                                                           Seulontakutsut tulisi lähettää siten, että seulonnan
+                                                           primaarivaihe saadaan hoidettua seulontavuoden
+8.1 KUTSUTTAVIEN POIMINNAT JA POIMINNAN                    aikana, mutta viimeistään seulontavuotta seuraavan
+AJANKOHDAT                                                 vuoden maaliskuun loppuun mennessä.
+Seulontaan kutsuttavat henkilöt poimitaan väestö-
+tietojärjestelmästä (Digi- ja väestötietovirasto, DVV)     8.2 KUTSUN SISÄLTÖ
+syntymävuoden perusteella. Syöpärekisteri toimittaa        Kutsukirjeen tulee olla henkilökohtaisesti osoitettu
+listan seulontaan kutsuttavien henkilötunnuksista          seulontaan kutsuttavalle henkilölle. Kutsu voidaan
+hyvinvointialueiden osoittamille seulontatoimijoille.      toimittaa myös sähköisesti käyttämällä suomi.fi-pal-
+                                                           velua tai vastaavaa kanavaa, jonka seulottava on
+Henkilöt, joilla on voimassa oleva turvakielto, tai        ottanut käyttöön. Kutsukirje on joko kaksikielinen
+jotka ovat vahvistaneet sukupuolensa mieheksi, eivät       tai vastaanottajan omalla äidinkielellä, jos äidinkieli
+tule tässä poiminnassa mukaan. Hyvinvointialueen           on suomi tai ruotsi. Jos hyvinvointialueella on
+tulee kuitenkin tarjota myös näille ryhmille riittävästi   merkittäviä kielivähemmistöjä, on syytä harkita
+tietoa seulonnasta ja vaivaton mahdollisuus varata         kutsun kääntämistä myös muille kielille.
+aika seulontaan. Seulonnan järjestäjän on lisäksi
+tarjottava internetsivuillaan ohjeet, miten seulontaan     Osallistumispäätöksen tueksi kutsukirjeen tulee
+oikeutettu nainen voi osallistua seulontaan, vaikka        sisältää tiedot:
+ei olisikaan saanut kutsukirjettä.                         ●   Seulonnan tarkoituksesta
+                                                           ●   Käytettävästä seulontatestistä ja siitä, miten
+Tieto lähetetyistä kutsuista toimitetaan laadun-               seulontanäyte otetaan ja tutkitaan
+                                                           ●   Sairauden varhaisen toteamisen
+
+
+
+18        KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+    (syövän tai esiasteen) merkityksestä                 soitavaksi. Näytteelle tehdään hrHPV-analyysi, mutta
+●   Seulonnan hyödyistä ja haitoista                     itse otetusta näytteestä tehty sytologinen analytiikka
+●   Mahdollisista jatkotutkimuksista ja niiden           (papa-testi) ei ole luotettava, joten positiivisen tulok-
+    merkityksestä                                        sen saaneet pitää kutsua papa-testiin erikseen.
+●   Esivarattu aika ja paikka seulontanäytteen           Seulontaväestössä PCR-pohjaisilla HPV-DNA-tes-
+    ottamiselle                                          teillä analysoituna itse otettu näyte oli suhteellisesti
+                                                         yhtä herkkä (0,99, 95 % C.I. 0,97–1,02) mutta hie-
+Lisäksi kirjeessä tulee olla:                            man epätarkempi (0,98, 95 % C.I. 0,97–0,99) totea-
+●   Tieto, miten seulontatestituloksesta tiedotetaan     maan HSIL-tasoisen esiastemuutoksen verrattuna
+    osallistujaa                                         sairaanhoitohenkilökunnan ottamaan näytteeseen32.
+●   Tieto, miten nopeasti seulontatestitulos
+    toimitetaan (tavoitetilanteessa alle 4 viikkoa       Suomessa tehdyissä tutkimuksissa omanäytteen-
+    eikä saisi ylittää 8 viikkoa)                        ottoa on tarjottu joko ns. ‘mail-to-all’ asetelmassa,
+●   Yhteystiedot lisätietojen saamiseksi                 jossa self-sampling näytteenottoväline lähetetiin kai-
+●   Maininta osoitelähteestä (Digi- ja väestötieto-      kille seulontaan osallistumattomille naisille postitse,
+    viraston väestötietojärjestelmä)                     tai ns. ‘opt-in’ asetelmassa, jossa seulontaan osallis-
+                                                         tumattomille tarjottiin mahdollisuutta tilata kotiin
+Kutsukirjeistä on olemassa Syöpärekisterin tuot-         näytteenottoväline. Keskimääräinen osallistumis-
+tamat ja ylläpitämät pohjat (kieliversiot suomeksi,      osuus self-sampling seulontaan oli 24 % ‘mail-to-all’
+ruotsiksi, englanniksi, pohjoissaameksi ja venäjäksi),   asetelmassa ja 15 % ‘opt-in’ asetelmassa33,34.
+joita on mahdollista käyttää pohjana tai sellaisenaan
+kutsukirjeenä. Kutsumallit kuten muutkin Syöpä-          Omanäytteenottoa on viime vuosina otettu käyttöön
+rekisterin seulontamateriaalit ovat löydettävissä Suo-   useiden eri maiden seulontaohjelmissa tarjoten sitä
+men Syöpärekisterin verkkosivuilta.                      joko koko kohdeväestölle (mm. Ruotsi, Viro, Alanko-
+                                                         maat, Australia) tai seulontaan osallistumattomille
+8.3 MUISTUTUSKUTSU                                       (mm. Tanska, Italia).
+Jos seulontaan kutsuttu ei ole osallistunut seulon-
+taan, seulontalaboratorio lähettää hänelle muistutus-    Asiantuntijaryhmä suosittaa, että omanäytteenottoon
+kirjeen 4–8 viikon päästä ensimmäisen kutsun lähet-      perustuvia testejä otetaan käyttöön osana seulonta-
+tämisestä. Malli muistutuskutsuksi on saatavissa         ohjelmaa siihen osallistumattomien joukossa seuraa-
+suomeksi, ruotsiksi ja englanniksi Syöpärekisterin       vin edellytyksin:
+verkkosivuilta muiden kohdunkaulan syövän seulon-        ●   Hyvinvointialueella on otettu käyttöön laatukäsi-
+nan kutsu- ja vastauskirjepohjien tavoin.                    kirjassa määritetyt keinot osallistumisen paranta-
+                                                             miseen, eli esivaratun ajan ja paikan tarjoaminen
+8.4 OMANÄYTTEENOTON TARJOAMINEN                              sekä muistutuskutsun lähettäminen
+VAIHTOEHTONA                                             ●   Naisella ei ole seulontaohjelman ulkopuolista
+Suuri osa kohdunkaulan syövistä todetaan naisilla,           rekisteröityä näytettä seulontavälin aikana
+joiden osallistuminen seulontaan on ollut puutteel-      ●   Omanäytteenottoon testiä tarjotaan seulontaan
+lista     . Omanäytteenotto (ns. self-sampling), jossa
+      25,30
+                                                             muistutuskutsun jälkeen osallistumattomille joko
+näyte seulontatestiä varten otetaan seulottavan              mail-to all tai opt-in -tyyppisesti. Mail-to-all
+toimesta itse, voi toimia keinona lisätä seulonnan           -mallissa näytteenottovälineet omanäytteenottoa
+peittävyyttä . Kyseessä on useimmiten harjalla tai
+               31
+                                                             varten lähetetään suoraan, kun taas opt-in-mallissa
+näytetikulla emättimestä tai alkuvirtsanäyte otettava        muistutuskutsun jälkeen lähetetään kirje, jossa
+näyte, joka lähetetään postitse laboratorioon analy-         tarjotaan mahdollisuutta tilata näytteenottovälineet.
+
+
+
+19            KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+    Suurin kokonaisosallistuvuus saadaan todennäköi-           seuraavin edellytyksin:
+    sesti tarjoamalla omanäytteenottoon mahdolli-		
+                                                               ●   Käytetyn testin tulee olla validoitu omanäytteenot-
+    suutta ‘mail-to-all’ -asetelmassa, vasta primaari-         toon (ks. Lista hyväksytyistä testeistä luku 9.2)
+    kutsun ja yhden muistutuskutsun jälkeen.
+                                                               ●   Jatkotutkimusten osalta noudatetaan yleistä seu-
+●   Käytetyn testin tulee olla seulontakäyttöön                lonta-algoritmia, jolloin hrHPV-positiivisen tuloksen
+    validoitu (ks. Lista hyväksytyistä testeistä luku 9.2) ​   saaneet tulee kutsua triage-testiin (sytologia) varten
+●   Omanäytteenottotestissä hrHPV-positiivisen                 uudestaan kliiniseen näytteenottoon
+    tuloksen saaneiden jatkotutkimukset voidaan 		
+                                                               ●   Omanäytteenottoa toteuttavan hyvinvointialueen
+    toteuttaa joko kutsumalla nämä triage-näytettä 		 on seurattava, että omanäytteenoton eri vaiheet
+    (papatesti) varten uudestaan kliiniseen näytteen- triage-testiin ja jatkotutkimuksiin hakeutumisesta
+    ottoon tai antamalla näille henkilöille suoraan            toteutuvat suunnitellusti (mm. osallistumisosuus,
+    jatkotutkimuslähete kolposkopiaan. Ohjaus                  triage-testiin sekä jatkotutkimuksiin osallistuminen,
+    kolposkopiaan ja riskiryhmäseulontaan tapahtuu             löydösosuudet) ja ryhdyttävä tarvittaviin toimenpitei-
+    tämän jälkeen normaalin seulonta-algoritmin 		             siin, mikäli puutteita havaitaan.
+    mukaisesti. Myös ne naiset, jotka eivät hakeudu
+    triage-testiin kutsutaan seulonta-algoritmin               Omanäytteenottoon mahdollisuuden sisällyttämi-
+    mukaisesti riskiryhmäseulontaan.                           nen seulontaohjelmaan ei saa vaikeuttaa näytteenot-
+●   Testissä hrHPV-negatiivisen tuloksen saaneita              toon pääsyä niiden joukossa, jotka toivovat näytettä
+    käsitellään normaalin seulonta-algoritmin                  otettavaksi perinteiseen tapaan terveydenhuollon
+    mukaisesti.                                                ammattilaisen toimesta.
+
+
+Omanäytteenottoa voidaan tarjota myös vaihtoehto-
+na terveydenhuollon toimijoiden ottamille näytteille
+
+
+
+
+20           KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+9. SEULONTATESTIN                                            ohjeistuksen päivityksen ja näytteenottoon osallistu-
+NÄYTTEENOTTO JA ANALYYSI                                     van henkilökunnan perehdyttämisen.
+
+● Näytteenottotoiminnan tulee olla akkreditoitua             On syytä huomioida, että sekä käytetty primaariseu-
+     ja seulontaorganisaatiolta edellytetään näytteen-       lontatesti että triage-testi vaikuttavat näytteenottoon.
+     oton laadunhallintaohjelman käyttöä                     Näytteenoton vaiheet on siis suunniteltava siten, että
+● Näytteenottoon osallistuvalle henkilökunnalle 		           kumpikin testi voidaan luotettavasti toteuttaa kerä-
+     tulee järjestää riittävä perehdytys ja myöhemmin        tystä näytemateriaalista.
+     säännöllisesti osaamista ylläpitävää täydennys-
+     koulutusta                                              Kuukautisvuoto ei ole este näytteenotolle, kun se
+● Seulontaohjelmassa tulee käyttää vain testejä,             ennen näytteenottoa pyyhitään pois. Myöskään
+     jotka on validoitu seulontakäyttöön                     raskausaika ei ole este kohdunkaulan seulontanäyt-
+● Seulontatestin vastauksen tavoiteaika on optimi-           teen ottamiselle, joskaan näytteenottoa raskausviikon
+     tilanteessa alle 4 viikkoa eikä se saa ylittää          35 jälkeen ei ensisijaisesti suositella. Seulonnasta
+     8 viikkoa.                                              vastaavien tahojen tulisi näytteenottajien koulutuk-
+● Negatiivinen testitulos voidaan toimittaa kirjeellä        sen myötä aktiivisesti huolehtia siitä, ettei raskaus-
+     tai tekstiviestillä, jos seulottava on antanut siihen   aika automaattisesti viivästytä tai vähennä seulontaan
+     suostumuksensa ja puhelinnumeron ajantasai-             osallistumista.
+     suus ja oikeellisuus on varmistettu.
+● Positiivisen testituloksen tapauksessa seulonta-           9.2 TESTIN ANALYYSI JA HYVÄKSYTYT
+     löydös ja sen merkitys tulee selittää kansan-           TESTIALUSTAT
+     tajuisesti vastauskirjeessä ja syöpäepäilyn             Seulontanäytteiden hrHPV-testausta tekevän mikro-
+     yhteydessä seulottu tulee tavoittaa kiireellisenä       biologian laboratorion tulee olla akkreditoitu ja labo-
+     puhelimitse                                             ratoriolta edellytetään osallistumista laadunhallinta-
+                                                             ohjelmaan. Näytteiden lähettämisen, käyntiinpanon,
+                                                             prosessoinnin ja vastaamisen tulee olla ohjeistettua.
+9.1 NÄYTTEENOTTO
+Seulontanäytteitä ottavat Suomessa tehtävään                 Seulonnan hrHPV-testausprosessissa tulee noudat-
+koulutetut terveydenhuollon ammattilaiset.                   taa testien valmistajien ohjeistusta. Henkilökunnalle
+Näytteenottotoiminnan tulee olla akkreditoitua ja            on järjestettävä tätä varten riittävä perehdytys ja osaa-
+seulontaorganisaatiolta edellytetään näytteenoton            mista ylläpitävää täydennyskoulutusta. Mahdollisten
+laadunhallintaohjelman käyttöä.                              uusien testimenetelmien käyttöönotto vaatii aina
+                                                             menetelmän verifioinnin, ohjeistuksen päivityksen
+Näytteenotossa noudatetaan käytössä olevan seulon-           ja henkilökunnan uudelleenperehdyttämisen labo-
+tatestin tai testien valmistajien ohjeistusta. Näytteen-     ratoriokohtaisesti.
+ottoon osallistuvalle henkilökunnalle tulee järjestää
+riittävä perehdytys ja myöhemmin säännöllisesti              Seulontaohjelmassa tulee käyttää vain testejä, jotka
+osaamista ylläpitävää täydennyskoulutusta. Labora-           täyttävät kansainvälisesti hyväksytyt kriteerit seulonta-
+torioiden tulee seurata näytteenottotoimintaa riittä-        testeiksi ja joiden validaatiotutkimusten tulokset on
+mättömien näytteiden prosenttiosuuden ja lieriö-             julkaistu vertaisarvioidussa julkaisussa.
+solujen esiintyvyyden suhteen laboratorio- ja näyt-
+teenottajakohtaisesti ja raportoida tästä myös seu-          Kriteeristön seulontakäyttöön validoidulle HPV-tes-
+lonnasta vastaavalle hyvinvointialueelle. Mahdollis-         tille laati vuonna 2009 kansainvälinen asiantuntija-
+ten uusien testimenetelmien äyttöönotto vaatii aina          ryhmä35.
+
+
+
+21           KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+●   Vertailutesteinä arvioitavalle testille käytetään 		              suositukset tarvittavista näytemääristä.
+    Hybrid Capture-2 ja GP5+/6+ PCR-EIA-testejä,              ●   Myös testitulosten riittävä laboratorion sisäinen ja
+    joiden vaikuttavuus verrattuna sytologiseen 		                laboratorioiden välinen toistettavuus tulee osoittaa.
+    papa-testiin perustuvaan seulontaan on osoitettu
+    satunnaistetuissa tutkimuksissa.                          Seulontakäyttöön 30 vuotta täyttäneillä ja sitä
+     ●   Näissä testeissä kohteena on HPV-tyypit              vanhemmilla naisilla validoidut hrHPV-testit on
+         16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, 68   esitetty taulukossa 1.
+         ja GP5+/6+ PCR testissä lisäksi 66.
+●   Vertailtavan testin herkkyys ja tarkkuus todeta
+    kohdunkaulan esiastemuutos (histologinen HSIL,
+    aik. CIN2/3) tai syöpä tulee olla samanarvoinen
+    (non-inferior) kuin vertailutesteillä.
+     ●   Lisäksi suositellaan, että validaatiotutki-		
+         muksessa käytetyt näytteet ovat väestö-
+         pohjaisesta 30–60-vuotiaista naisista
+         koostuvasta seulontapopulaatiosta tai siihen
+         verrattavasta aineistosta36, ottaen huomioon
+
+
+
+
+22            KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+  TESTITYYPPI                         SEULONTATESTI                                               VALIDAATIOTUTKIMUKSET
+
+ hrHPV-DNA-testi                      Hybrid Capture-2 (Qiagen)                                   Ronco, 201437
+                                                                                                  Ronco, 201524
+
+                                      NeuMoDx HPV assay (Qiagen)                                  Heideman, 202238
+
+                                      PCR GP5+/6+ EIA                                             Ronco, 201437
+                                                                                                  Ronco, 201524
+
+                                      RealTime (Abbott)                                           Carozzi, 201139
+                                                                                                  Poljak, 201140
+                                                                                                  Hesselink, 201341
+
+                                      Alinity (Abbott)                                            Arbyn, 202142
+
+                                      Cobas 4800 (Roche)                                          Heideman, 201143
+                                                                                                  Llovveras, 201344
+
+                                      Cobas 5800 (Roche)                                          Mehta, 202445
+
+                                      Cobas 6800 (Roche)                                          Arbyn, 202142
+
+                                      PapilloCheck (Greiner Bio-one)                              Hesselink, 201046
+                                                                                                  Arbyn, 201547
+                                                                                                  Heard, 201648
+
+                                      Onclarity HPV assay (BD)                                    Ejegod, 201449
+                                                                                                  Cuschieri, 201550
+                                                                                                  Ejegod, 201651
+
+                                      HPV-Risk assay (Self-Screen BV)                             Hesselink, 201452
+                                                                                                  Polman, 201753
+
+                                      Anyplex II HPV HR (Seegene Inc)                             Hesselink, 201654
+                                                                                                  Jung, 201655
+
+                                      Xpert HPV (Cepheid AB)                                      Cuschieri, 201656
+
+                                      Cervista (Hologic)                                          Boers, 201457
+
+ hrHPV-RNA-testi*                     APTIMA assay* (Hologic)                                     Heideman, 201358
+
+ hyväksytyt self-sampling -testit     Alinity (Abbott) + Qvintip / Evalyn / multiCollect          Latsuzbaia2023a59
+
+                                      Onclarity (BD) + FLOQSwab / Evalyn / Qvintip                Martinelli, 202360
+                                                                                                  Latsuzbaia202261
+
+                                      RealTime (Abbott) + Evalyn / Qvintip                        Latsuzbaia, 202262
+
+                                      Xpert HPV (Cepheid AB) + Evalyn                             Latsuzbaia 202363
+
+Taulukko 1. Seulontakäyttöön 30 vuotta täyttäneillä ja sitä vanhemmilla naisilla validoidut hrHPV-testit.
+
+
+* Seulontaan validoitujen HPV-testien kriteerit on laadittu hrHPV-DNA-testeille, koska vertailutestit, joilla pitkän aika-
+välin seurannassa negatiivisen testituloksen jälkeen on osoitettu hyvin matala vaikean esiasteen tai syövän riski, ovat
+DNA-testejä. APTIMA assay (Holologic) on RNA-testi, mutta täyttää poikkileikkaustutkimusten valossa seulontaan
+validoidun testin kriteerit. Lisäksi 3-vuoden pitkittäisseurannan64 ja pidemmän seuranta-ajan epäsuoria pitkittäisvalidoin-
+tituloksia on julkaistu65,66. Asiantuntijaryhmän enemmistön kanta on, että Aptiman validiteetti seulontatutkimuk-
+sena on näin ollen riittävällä tasolla osoitettu, vaikka testattava molekyyli on eri kuin referenssitesteissä (HC2 ja G5/6).
+
+
+
+
+23           KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+9.3 SYTOLOGINEN NÄYTE ENSISIJAISENA JA                    Näytetyyppi                       Sivelyvalmiste
+TRIAGETESTINÄ                                                                               Nestepapa
+Sytologista näytettä käytetään kohdunkaulan syövän        Näytteen edustavuus               Riittävä
+                                                                                            Riittävä, lieriösolut puuttuvat
+seulonnassa seulontavuonna alle 30-vuotiailla ensi-
+                                                                                            Tulkinta epävarma (syy)
+sijaisena seulontatestinä ja muiden osalta triage-
+                                                                                            Ei tulkittavissa (syy)
+testinä. Perinteisen papatestin rinnalla käytetään
+                                                          Yleinen luokitus                  Ei epiteelisoluatypiaa
+lisääntyvästi nestepapatestiä, joka mahdollistaa seu-                                       Epiteelisoluatypia
+lonnan primaari- ja triagetestien tekemisen samasta                                         Muu muutos, ks. Lausunto
+irtosolunäytteestä. Nestepapadiagnostiikassa näyte        Normaalista poikkeavat mikrobit   Bakteerivaginoosi, clue-soluja
+otetaan valmistajan ohjeiden mukaisesti ja siinä                                            Sekafloora
+                                                                                            Sieni
+voidaan hyödyntää myös digitalisointia ja tekoäly-
+                                                                                            Actinomyces
+luentaa. Perinteisen sytologisen näytteen ottaminen
+                                                                                            Trichomonas vaginalis
+on kuvattu liitteessä 2.
+                                                                                            Herpes
+                                                          Reaktiiviset muutokset            Tulehdus
+Sytologisen näytteen tulkintaa varten tarvitaan                                             Regeneraatio
+lähete, jonka tulee sisältää näytteen tulkinnan kan-                                        Sädetysmuutos
+nalta oleelliset esitiedot. Tällaisia ovat mm. hormoni-                                     Ehkäisykierukan
+                                                                                            aiheuttama muutos
+tasoihin vaikuttavat asiat (ikä, raskaus/imetys, kuu-
+                                                          Muut ei-neoplastiset muutokset    Endometriaalisia soluja
+kautiskierron vaihe, hormonilääkitykset), olennaiset
+                                                                                            yli 50-vuotiaalla
+tiedot aikaisempien irtosolunäytteiden tuloksista ja
+                                                                                            Lieriösoluja kohdunpoiston
+mahdollisista histologisista löydöksistä ja hoidoista,                                      jälkeen
+sekä potilaan mahdolliset oireet ja poikkeavat löy-                                         Atrofia
+dökset näytteenotossa.                                                                      Sytolyysi
+                                                          Levyepiteeliatypia                ASC-US
+                                                                                            ASC-H (HSIL-muutosta
+Sytologisia näytteitä tutkivan patologian laborato-
+                                                                                            ei voida sulkea pois)
+rion tulee olla akkreditoitu. Laboratoriolla on oltava
+                                                                                            LSIL (lievä epiteelivaurio)
+laadunhallintaohjelma ja henkilökunnalla mahdolli-
+                                                                                            HSIL (vahva epiteelivaurio)
+suus osallistua sisäiseen ja ulkoiseen laadunvarmis-                                        Levyepiteelikarsinooma
+tukseen. Näytteiden lähettämisen, prosessoinnin           Lieriöepiteeliatypia              AGC-NOS endoserviksin
+ja vastaamisen on oltava huolellisesti ohjeistettua.                                        soluissa, merkitys epäselvä
+Näytteiden tulkinnasta vastaavien patologian erikois-                                       AGC-FN endoserviksin soluissa,
+                                                                                            epäily neoplasiasta
+lääkäreiden ja heidän ohjauksessaan työskentelevien
+                                                                                            Endometriumin soluissa,
+patologiaan erikoistuvien lääkäreiden tulee olla
+                                                                                            merkitys epäselvä
+Suomessa laillistettuja ja perehtyneitä gynekologi-
+                                                                                            Endometriumin soluissa,
+seen sytologiaan.                                                                           epäily neoplasiasta
+                                                                                            Alkuperä ei määritettävissä,
+Näytteet vastataan voimassa olevan Bethesda-luoki­                                          merkitys epäselvä
+tuksen mukaisesti (Taulukko 2) ja lausunnon lisäksi                                         Alkuperä ei määritettävissä,
+                                                                                            epäily neoplasiasta
+taulukkomuotoinen vastaus on suositeltava.
+                                                                                            Adenokarsinooma in situ
+                                                                                            Adenokarsinooma
+                                                          Hormonivaikutus                   Kypsyysindeksi
+                                                                                            Vastaa ikää ja esitietoja
+                                                                                            Ei vastaa ikää ja esitietoja (syy)
+Taulukko 2. Gynekologisen irtosolunäytteen                                                  Ei voida tulkita (syy)
+raportoinnissa käytettävä Bethesda 2014 -luokitus.        		
+
+
+24        KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+9.4 SEULONTATESTIN TULOKSEN                                 Tekstiviestin ei tule tietoturvasyistä sisältää henkilö-
+ILMOITTAMINEN SEULOTTAVALLE                                 tietoja.
+Seulontatestin vastauksen tavoiteaika on optimi-
+tilanteessa alle 4 viikkoa eikä se saa ylittää 8 viikkoa.   Positiivisen testituloksen tapauksessa seulontalöydös
+Negatiivinen testitulos voidaan toimittaa kirjeellä tai     ja sen merkitys tulee selittää kansantajuisesti vastaus-
+tekstiviestillä. Tekstiviestiä käytettäessä laboratorion    kirjeessä. Syöpärekisteri tarjoaa mallivastauksia, joi-
+tulee varmistaa seulottavan suostumus tekstiviestin         ta seulontatoimijat voivat vapaasti hyödyntää. Syöpä-
+käyttöön sekä puhelinnumeron ajantasaisuus ja               epäilyn yhteydessä seulottu tulee tavoittaa kiireelli-
+oikeellisuus kyseisen seulontakierroksen aikana.            senä puhelimitse.
+
+
+
+
+25         KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+10. HPV-POSITIIVISTEN                                      Metylaatio
+TRIAGE-TESTAUS                                             Tutkimustietoa metylaation käytöstä triage- tai
+                                                           primaariseulontamenetelmänä on alkanut kertyä
+● Positiivisen HPV-testin ollessa positiivinen, 		         muutamasta Euroopan maasta ja asia on seuratta-
+  samalle näytteelle tehdään triage-testinä                vana. Vielä toistaiseksi metylaatiotesti ei ole korvan-
+  sytologinen analyysi                                     nut missään maassa nykyisiä seulontatestejä.
+● Muiden triage-menetelmien, kuten geno-
+
+  tyypityksen, metylaation ja biokemiallisten              Koska metylaation mahdollisia hyötyjä seulonnassa
+  markkereiden käyttö rajataan tieteellisiin               ei vielä toistaiseksi voida tieteellisesti osoittaa,
+  tutkimusasetelmiin                                       asiantuntijatyöryhmä suosittaa, että metylaation
+                                                           käyttö triage-testinä rajoitetaan toistaiseksi tieteel-
+                                                           lisiin tutkimusasetelmiin.
+10.1 SYTOLOGIA TRIAGETESTINÄ
+Mikäli primaaritestinä käytetyn HPV-testin tulos on        Biokemialliset markkerit p16/Ki-67
+positiivinen, samalle näytteelle tehdään ns. triage-       Biokemiallisten markkereiden, kuten p16 ja Ki-67,
+testinä sytologinen analyysi (ks. edellinen luku).         käytöstä kohdunkaulan syövän seulonnassa on
+                                                           olemassa muutama tutkimus ja meta-analyysi, mutta
+10.2 TUTKIMUKSEN KOHTEENA                                  pääasiassa niiden käyttöä on tutkittu papatestin
+OLEVAT TRIAGE-MENETELMÄT                                   jälkeisenä triage-testinä verrattuna hrHPV-triageen
+Genotyypitys                                               (Schmidt 2011, Peeters 2019).
+Genotyypityksestä primaarin HPV-seulonnan triage-
+menetelmänä on olemassa niukasti tutkimustietoa            HPV-testiin verrattuna p16/Ki-67 on todettu olevan
+rutiiniolosuhteissa. Suomalaisessa aineistossa             spesifisempi, mutta sensitiivisyys on samaa luokkaa.
+HPV-tyypit 16 ja 18 olivat yhteydessä vaikeampias-         Menetelmä vaatii sytologisen näytteen ja p16/Ki67
+teisiin sytologisiin ja histologisiin muutoksiin muihin    menetelmällä on keskinkertainen yhtenevyys68.
+hrHPV-genotyyppeihin nähden, mutta valtaosalla
+hrHPV-positiivisista genotyyppi on muu hrHPV-tyyppi        Tutkimusnäyttöä biomarkkereiden käytöstä HPV-
+kuin HPV16 tai 18 (non16/18-tyypit) ja niihinkin liittyy   testiin perustuvan seulonnan triagetestinä ei ole
+merkittävässä määrin syövän esiasteita .  67
+                                                           riittävästi, joten asiantuntijaryhmä suosittaa, että
+                                                           biokemiallisten markkereiden käyttö triage-testinä
+Koska genotyypityksen mahdollisista hyödyistä seu-         rajoitetaan tutkimusasetelmiin.
+lonnassa on vasta alustavaa tieteellistä näyttöä, geno-
+tyypityksen käyttö triage-testinä rajoitetaan toistai-
+seksi tieteellisiin tutkimusasetelmiin.
+
+
+
+
+26        KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+11. OHJAUS RISKIRYHMÄSEULON-                                tulee seurata seulontaohjelmassa uusintatestillä 18–24
+TAAN JA JATKOTUTKIMUKSIIN                                   kuukauden kuluttua (ns. riskiryhmäseulonta). Jos ris-
+                                                            kiryhmäseulonnassa hrHPV-testi on edelleen
+● Lievästi poikkeavissa seulontalöydöksissä                 positiivinen, seulottava lähetetään kolposkopiaan
+  (hrHPV-testi kertaalleen positiivinen ja triage-          triage-papatestin määräämällä kiireellisyydellä.
+  papatesti normaali tai ASC-US) hrHPV-tartunnan
+  spontaania paranemista tulee seurata seulonta-            Alle 30-vuotiailla sytologinen tulos ASCUS tai LSIL
+  ohjelmassa uusintatestillä 18–24 kuukauden 		             johtaa riskiryhmäseulontaan eikä erillistä HPV-testiä
+  kuluttua (ns. riskiryhmäseulonta)                         tehdä. Mikäli riskiryhmäseulonnassa todetaan lieväkin
+● Jos riskiryhmäseulonnassa hrHPV-testi on                  sytologinen poikkeavuus, tehdään lähete kolposko-
+  edelleen positiivinen, nainen lähetetään                  piaan papatestin määräämällä kiireellisyydellä.
+  kolposkopiaan triage-papatestin määräämällä
+  kiireellisyydellä                                         11.2 OHJAUS JATKOTUTKIMUKSIIN
+● hrHPV-positiiviset naiset, joilla triage-papatestissä     Seulonnassa hrHPV-positiiviset naiset, joilla triage-
+  todetaan LSIL-tasoinen tai sitä vahvempi levyepi-         papatestissä todetaan LSIL-tasoinen tai sitä vahvempi
+  teeliatypia tai mikä tahansa lieriösoluatypia,            levyepiteeliatypia tai mikä tahansa lieriösoluatypia,
+  lähetetään jatkotutkimuksena kolposkopiaan 		             lähetetään jatkotutkimuksena kolposkopiaan papa-
+  papalöydöksen määräämällä kiireellisyydellä               löydöksen määräämällä kiireellisyydellä. Jatkotutki-
+● Alle 30-vuotiailla sytologinen tulos ASCUS tai            muksiin ohjataan myös jos riskiryhmässä lievä löy-
+  LSIL johtaa riskiryhmäseulontaan eikä erillistä           dös toistuu. Raskauden aikana ja synnytyksen
+  HPV-testiä tehdä ja lähete kolposkopiaan                  jälkeen kolposkopia tulee toteuttaa Käypä hoito
+  tehdään, jos papassa on vähintään ASC-H-                  -suosituksessa olevan kaavion mukaisesti (Kuva 4).
+  tasoinen levyepiteeliatypia tai mikä tahansa
+  lieriösoluatypia, tai jos LSIL- tai ASC-US-löydös         25–29-vuotiaiden papaseulonnassa tehdään jatkotut-
+  toistuu riskiryhmäseulonnassa                             kimuksena kolposkopia, jos papassa on vähintään
+                                                            ASC-H-tasoinen levyepiteeliatypia tai mikä tahansa
+                                                            lieriösoluatypia, tai jos LSIL- tai ASC-US-löydös tois-
+11.1 OHJAUS RISKIRYHMÄSEULONTAAN                            tuu riskiryhmäseulonnassa.
+Lievästi poikkeavissa seulontalöydöksissä (hrHPV-testi
+kertaalleen positiivinen ja triage-papatesti normaali tai   Kolposkopian kiireellisyys Käypä hoito -suosituksen
+ASC-US) hrHPV-tartunnan spontaania paranemista              mukaisesti1
+
+
+HRHPV POSITIIVINEN TESTITULOS JA TRIAGETESTISSÄ (SYTOLOGIA)
+Epäily syövästä                                               heti
+HSIL                                                          kolposkopia yhden kuukauden kuluessa
+ASC-H                                                         kolposkopia yhden kuukauden kuluessa
+LSIL                                                          kolposkopia viimeistään 6 kuukauden kuluttua
+toistuva ASC-US                                               kolposkopia 6 kuukauden kuluessa viimeisestä testistä
+AGC-FN, epäily lieriöepiteelisolujen neoplasiasta             kolposkopia yhden kuukauden kuluessa
+AGC-NOS, lieriöepiteelin merkitykseltään epäselvä atypia      kolposkopia 2 kuukauden kuluessa
+toistuva hrHPV-positiivisuus                                  kolposkopia 6 kuukauden kuluessa,
+                                                              vaikka papatestin tulos normaali
+
+
+
+
+27        KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+                 Papassa                    Papassa LSIL                      Papassa
+              ASC-US tai LSIL              >30 -vuotiaalla,                   ASC-H,
+ 0 kk                                        harkinnan
+              <30 -vuotiaalla                                               HSIL tai AGC
+                                              mukaan
+
+
+
+  1 kk                                                      Kolposkopia
+                                                          1 kk:n kuluessa
+
+
+                                                         Kolposkooppinen                   Kolposkooppinen
+                                                         LSIL, ei biopsioita                HSIL, biopsiat
+
+
+                                                                                            Histologinen
+                                                                                                HSIL
+                                                                 <histologinen
+                                                                     LSIL
+
+                                                                                                     Invaasiota
+                                                                                    Ei viitettä         ei voi
+                                                                                   invaasiosta       sulkea pois
+
+
+
+
+30–32rv                                                                           Kolposkopia
+                                                                                                     Loop-hoito
+                                                                                   rv 30–32
+
+synnytys
+
+
+            Papa-näyte           Kolposkopia              Kolposkopia ja
+              2–3 kk                2–3 kk             uudet biopsiat 2–3 kk
+           synnytyksestä        synnytyksestä             synnytyksestä
+
+
+
+Kuva 4. Solumuutosten seuranta ja hoito raskauden aikana ja synnytyksen jälkeen
+
+
+
+
+ 28         KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+12. JATKOTUTKIMUKSET                                         muuttujat ovat erittäin moninaisia. Hyvin informoi-
+(KOLPOSKOPIA)                                                dun ja neuvotun potilaan toiveet, ikä, aiempi seulon-
+                                                             tahistoria ja muut mahdolliset sairaudet vaikuttavat
+● Kolposkopistin tulee olla asianmukaisesti koulut-          hoitopäätökseen samoin kuin HPV-status/tyyppi,
+tautunut ja mielellään sertifioitu                           papa-testin vastaus, koepalojen PAD-vastaus, kolpo-
+● Kolposkopiatutkimuksissa käytettävän vastaanotto           skopistin kokemus sekä potilaan valmius seuran-
+  huoneen täytyy olla riittävän suuri ja rauhallinen         taan. Kolposkopistin tulisikin olla asianmukaisesti
+● Kolposkopian tekijän tulee käyttää löydösten               kouluttautunut ja mielellään sertifioitu (ks.alla).
+  kuvauksessa määriteltyä terminologiaa ja kirjata
+  tutkimuksesta potilaskertomukseen tietyt                   12.2 KOLPOSKOPIAKOULUTUS
+  määritellyt asiat                                          Kolposkopiakoulutusohjelma käynnistettiin Suomen
+● Kolposkopiatutkimukset suorittavan yksikön tulisi          Kolposkopiayhdistys (SKY) ry:n toimesta vuonna
+  raportoida seulonnan toteuttajalle seulonta-               2016 varmistamaan osaltaan suomalaista kohdun-
+  lähetteiden perusteella tehdyistä kolposkopia-             kaulan syövän ehkäisyohjelmaa ja sen laadun ylläpi-
+  tutkimuksista ja nämä tiedot pitäisi määritellä            toa (kts. liite 1). Potilaiden hyvän hoidon takia kolpos-
+  myös joukkotarkastusrekisteriin toimitettaviksi            kopistien on oltava teknisesti ja diagnostisesti päteviä
+  tiedoiksi                                                  ja heillä täytyy olla myös hyvät vuorovaikutustaidot.
+● Esiastemuutosten ja syövän hoito sekä hoidon               Suomi on ollut yksi edelläkävijämaista kolposkopia-
+  seuranta tapahtuvat Käypä Hoito – ja Kelpo                 koulutuksessa.
+  hoito -suositusten mukaisesti
+                                                             Koulutusohjelman on tarkoitus antaa koulutettaville
+                                                             tarvittava ydintieto ja -taidot kolposkopiatutkimusten
+12.1 KOLPOSKOPIA                                             itsenäiseen toteuttamiseen sekä auttaa koulutettavia
+Kolposkopialla tarkoitetaan kohdunkaulan, emätti-            henkilökohtaisten ja ammatillisten ominaisuuksien
+men ja ulkosynnyttimien alueen tutkimista suurenta-          kehittämisessä, jotta he saavuttaisivat pätevyyden
+valla optisella laitteella. Se on tavallisin jatkotutkimus   kolposkopisteina. Pätevyyden merkiksi koulutetta-
+poikkeavan kohdunkaulan syövän seulontalöydöksen             valle myönnetään hyväksytyn koulutuksen jälkeen
+jälkeen, ja mahdollistaa diagnoosin tekemisen                SKY:n kolposkopiasertifikaatti. Kolposkopiasertifi-
+epäillyn muutoksen osalta. Myös mahdollinen hoito            kaatti pitää päivittää neljän vuoden välein.
+toteutetaan kolposkopian avulla.
+                                                             12.3 KOLPOSKOPIAYKSIKÖN JA TUTKIMUS-
+Kolposkopisti eli kolposkopiatutkimuksen toteuttava          HUONEEN LAATUVAATIMUKSET
+lääkäri on yleensä ensimmäinen terveydenhuollon              Kolposkopiatutkimuksissa käytettävän vastaanotto-
+ammattilainen, jonka seulottu nainen tapaa seulon-           huoneen täytyy olla riittävän suuri ja rauhallinen.
+nan jälkeen. Tämän vuoksi kolposkopistilla on                Kolposkoopin pitää olla laadukas (hyvä optiikka
+tärkeä rooli naisen informoinnissa poikkeavan                ja riittävä suurennus) ja siihen pitää olla liitettynä
+seulontalöydöksen jälkeen ja koko hoitoprosessin             kuvantamismahdollisuus digitaalisten kuvien tallen-
+suunnittelussa yhdessä hoidettavan kanssa. Suoma-            tamiseksi potilaskertomukseen. Lisäksi potila-
+lainen ”Kohdunkaulan, emättimen ja ulkosynny-                alla tulee olla mahdollisuus seurata tutkimusta kolpo-
+tinten solumuutokset” Käypä Hoito-suositus sekä              skooppiin liitetyn kameran kautta kuvamonitorilta.
+vastaavat EU:n hoitosuositukset ovat hoitosuunni-
+telman laatimisen ohjeena ja tukena, mutta ne eivät          Kolposkopiayksiköllä täytyy olla vastaava lääkäri, jolla
+luonnollisestikaan pysty antamaan vastausta kaikkiin         on kolposkopistin koulutus ja sertifikaatti. Samoin
+kysymyksiin, koska tutkimukseen ja hoitoon liittyvät         yksiköllä pitää olla asiaan perehtynyt vastaava
+
+
+
+29        KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+sairaanhoitaja, jolla on myös tarvittava taito solunäyt-   ●   muuntumisvyöhykkeen tyyppi: TZ1 / TZ2 / TZ3
+teiden ottamiseen ja potilasneuvontaan.                    ●   Swede Score -kokonaispisteet
+
+12.4 KOLPOSKOPIAN TOTEUTTAMINEN                            Samantyyppinen käytäntö on tällä hetkellä suolisto-
+JA KIRJAUS                                                 syövän seulontaohjelmassa kolonoskopioiden rapor-
+Kolposkopian tekijän tulee käyttää löydösten kuvauk-       toinnissa. Vastaavalla tavalla kolposkopian laatua voi-
+sessa IFCPC:n (International Federation of Cervical        daan seurata valtakunnallisesti toimittamalla nämä
+Pathology and Colposcopy) terminologiaa) ja potilas-       tiedot joukkotarkastusrekisteriin.
+kertomukseen tulee Käypä Hoito-suosituksen mukai-
+sesti kirjata tutkimuksesta:                               12.6 ESIASTEMUUTOSTEN JA SYÖVÄN HOITO
+●   tutkimuksen syy, hrHPV-testin tulos                    JA HOIDON SEURANTA
+    (mahdollisuuden mukaan HPV-tyyppi)                     Käypä Hoito-suositus antaa ohjeet ja vuokaaviot
+    ja sytologisen muutoksen aste                          löydettyjen esiastemuutosten hoitoon ja seurantaan1.
+●   aiempi merkityksellinen seulontahistoria               Syöpätapausten hoito tapahtuu FINGOG Kelpo hoito
+●   muuntumisvyöhykkeen tyyppi                             -suositusten mukaisesti2.
+    (TZ1, TZ2 tai TZ3)
+●   kuvaus kolposkopialöydöksistä                          Kohdunkaulan esiasteiden hoito tehdään aina kolpo-
+    IFCPC:n luokituksen mukaan                             skopia-avusteisesti sertifioidun kolposkopistin
+●   löydöksen pisteytys Swedescore-pisteytys-              toimesta tai valvonnassa. Hoito toteutetaan pääsään-
+    järjestelmää käyttäen                                  töisesti polikliinisesti paikallispuudutuksessa säh-
+●   kolposkooppinen diagnoosi, joka merkitään 		           kösilmukalla (englanniksi LEEP/LLETZ). Hoidon
+    myös mahdolliseen PAD-lähetteeseen                     yhteydessä tehdään uudelleen kolposkooppinen
+    (esim. SNOMED CT), sis. vaginan ja                     diagnoosi ja löydökset kuvataan kuten edellä on
+    vulvan diagnoosit                                      kerrottu. Myös instrumentaation ja kuvantamisen
+●   mielellään (digitaalinen) kuva leesiosta               täytyy täyttää e.m. kriteerit.
+●   biopsioiden ottopaikkojen kuvaus
+    (kellotaulun mukaan, 1-12)                             Hoidon toteutus suunnitellaan muuntumisvyöhyk-
+                                                           keen mukaisesti. European Federation for Colpo-
+12.5 KOLPOSKOPIAN LAADUNTARKKAILU                          scopyn laatusuositusten mukaisesti yli 85%:lla
+Koko seulontaketjun laaduntarkkailun ja -valvonnan         hoidetuista täytyy löytyä CIN 2+ muutos konuksesta
+merkitys on suuri seulonnan tuloksellisuuden ja            tai sitä edeltävästä biopsiasta.
+kehittämisen kannalta. Koska kolposkopia on
+oleellinen osa seulontaketjua, laaduntarkkailun vaati-     Hoidetun esiasteen seuranta tapahtuu kuuden kuu-
+mus pätee myös siihen.                                     kauden kuluttua hoidosta hrHPV- ja papatesteillä.
+                                                           Jos hrHPV-testin tulos on negatiivinen ja papatestin
+Asiantuntijaryhmä suosittaa, että kolposkopiatutki-        tulos normaali, seuraavat seurantanäytteet otetaan
+mukset suorittava yksikkö raportoi seulonnan toteut-       24 kk kuluttua hoidosta. Mikäli seuraavan seuranta-
+tajalle seulontalähetteiden perusteella tehdyistä kol-     näytteen tulos on edelleen sama, potilaan kliininen
+poskopiatutkimuksista seuraavat tiedot:                    seuranta lopetetaan, mutta hän saa jatkossa kutsun
+                                                           seulontaan ikäryhmänsä mukaisesti. Jos taas seuran-
+●   onko kolposkopia tehty ja jos, milloin                 tanäytteistä hrHPV-testi osoittautuu positiiviseksi tai
+●   kolposkooppinen diagnoosi: syöpä/vahva muutos/         papassa todetaan merkittävä epiteelisoluatypia, poti-
+    lievä muutos / normaalin rajoissa ei-diagnostinen      laalle tehdään uusi kolposkopia mahdollisen resi-
+    kolposkopia                                            diivi- tai residuaalitaudin löytämiseksi.
+
+
+
+30          KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+13. HISTOLOGINEN DIAGNOOSI                                  saan työskentelevien patologiaan erikoistuvien lää-
+                                                            käreiden tulee olla Suomessa laillistettuja ja pereh-
+● Näytteitä tutkivan patologian laboratorion pitää          tyneitä gynekologiseen patologiaan. Patologien
+     olla akkreditoitu ja sen on osallistuttava sisäiseen   osaamisen päivittämiseksi ja ylläpitämiseksi tulee
+     ja ulkoiseen laadunvarmistukseen                       huolehtia jatkuvasta kouluttautumisesta.
+● Näytteiden tulkinnasta vastaavien patologian
+
+     erikoislääkäreiden ja heidän ohjauksessaan 		          Laboratoriossa on oltava myös immunohistokemian
+     työskentelevien patologiaan erikoistuvien              (mm. p16) mahdollisuudet diagnostiikassa. Vastaus-
+     lääkäreiden tulee olla Suomessa laillistettuja ja      ajan pitää tukea diagnostiikan ja hoitoketjun suju-
+     perehtyneitä gynekologiseen patologiaan                vuutta. Optimitavoiteaika näytteenotosta vastaukseen
+● Optimitavoiteaika näytteenotosta vastaukseen on           on alle 2 viikkoa, maksimitavoiteaika on 4 viikkoa.
+     alle 2 viikkoa, maksimitavoiteaika on 4 viikkoa
+                                                            Näytteet vastataan uusimman WHO-luokituksen69
+                                                            mukaisesti ja taulukkovastaus on suositeltava lausun-
+Histologisen näytteen saatteeksi kirjoitettavan lähet-      non lisäksi. Diagnoosit annetaan uusimman WHO:n
+teen tulee sisältää tiivistetysti tiedot potilaan aikai-    tuumoriluokituksen ja SNOMED CT -diagnoosilistan
+semmista löydöksistä, nyt todetuista muutoksesta            mukaisesti. Korkeintaan 30-vuotiaiden kohdalla koh-
+sekä siitä, mistä ja miten nyt tutkittavaksi lähetetty      dunkaulan kudosnäytteiden vastauksissa on suosi-
+kudosnäyte/-näytteet on otettu.                             teltavaa antaa myös CIN-luokituksen mukainen arvio
+                                                            HSIL-löydöksestä, sillä toisinaan CIN2-tasoista muutok-
+Näytteitä tutkivan patologian laboratorion pitää olla       sen paranemista voidaan jäädä seuraamaan siinä missä
+akkreditoitu. Laboratoriolla on oltava laadunhallin-        CIN3-tasoiset muutokset hoidetaan.
+taohjelma ja sen on osallistuttava sisäiseen ja ulkoi-
+seen laadunvarmistukseen. Näytteiden lähettämisen,          Haastavat potilastapaukset tulisi voida käsitellä
+käyntiinpanon, prosessoinnin ja vastaamisen tulee           moniammatillisessa MDT-kokouksessa, joihin osallis-
+olla ohjeistettua. Näytteiden tulkinnasta vastaavien        tuvat sekä gynekologit/kolposkopistit että patologit.
+patologian erikoislääkäreiden ja heidän ohjaukses-
+
+
+
+
+31          KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+14. TIETOJEN TOIMITUS- JA                                tiedot Suomen Syöpärekisterin joukkotarkastusrekis-
+RAPORTOINTI                                              teriin. Syöpärekisteriin toimitettujen tietojen perus-
+                                                         teella arvioidaan seulonnan laatua ja vaikuttavuutta.
+● Seulonnasta vastaavan toimijan tehtävä on 		           On suositeltavaa, että tietojen toimitus toteutetaan
+  koota tiedot seulontaketjun kaikista vaiheista         automaattisesti säännöllisin väliajoin, mutta kerty-
+  Syöpärekisteriin raportoimista varten ja lähettää      neet tiedot tulee olla toimitettuna joukkotarkastus
+  kerätyt tiedot Suomen Syöpärekisterin joukko-          rekisteriin viimeistään seulontavuotta seuraavan
+  tarkastus rekisteriin määritetyn tietomallin ja 		     vuoden elokuun loppuun mennessä.
+  parametriston mukaisesti
+● Kolposkopioiden laaduntarkkailun kehittämiseksi        THL:n hallintopäätöksen (THL/5274/5.03.00/2023)
+  Syöpärekisterin tietosisältöön tulee lisätä kolpo-     mukaisesti seulonnan yksilötasoiset kutsu- ja tarkas-
+  skopian laatuun liittyviä parametreja luvun 12.5.      tustiedot sekä ensimmäisen tarjotun hoidon tiedot
+  mukaisesti.                                            on toimitettava Suomen Syöpärekisterin määritelty-
+                                                         jen tietomallin ja parametristön mukaisina. Tarkem-
+                                                         mat ohjeet sekä tietomallin ja parametristön kuvauk-
+Seulonnasta vastaavan toimijan, eli hyvinvointi-         set ovat saatavilla Syöpärekisterin verkkosivuilta.
+alueen tai sen ulkoistaman palveluntarjoajan, tehtävä
+on koota tiedot seulontaketjun kaikista vaiheista        Kolposkopioiden laaduntarkkailun kehittämiseksi
+Syöpärekisteriin raportoimista varten. Olennaista        asiantuntijaryhmä suosittelee myös, että Syöpärekis-
+tiedonkeruussa on myös eri prosessin vaiheiden           terin parametristöön lisätään Kolposkopia-luvussa
+(esim. kutsuminen, näytteen otto ja analysointi,         esitetyt parametrit:
+jatkotutkimukset) yhteyden säilyminen, jotta tietoja     ●   onko kolposkopia tehty
+voidaan analysoida yhtenäisenä seulontaketjuna.          ●   kolposkopian ajankohta
+                                                         ●   kolposkooppinen diagnoosi: syöpä/vahva muutos/
+Seulonnan yhteydessä syntyvien potilastietojen               lievä muutos/normaalin rajoissa/ei-diagnostinen
+rekisterinpitäjä on hyvinvointialue tai Helsingin            kolposkopia
+kaupunki, vaikka se hankkisi palvelun ulkopuoliselta     ●   muuntumisvyöhykkeen tyyppi: TZ1 / TZ2 / TZ3
+palvelujen tuottajalta. Seulontatiedot ovat potilas-     ●   Swede Score -kokonaispisteet
+asiakirjoja ja ne ovat salassa pidettäviä. Seulonnan
+toteuttajalla on kuitenkin lakisääteinen oikeus käsi-    Laki sosiaali- ja terveydenhuollon asiakastietojen
+tellä kaikkia seulontatietoja, myös jatkotutkimus- ja    käsittelystä (703/2023) velvoittaa arkistoimaan
+erikoissairaanhoidon tietoja. Vastaavasti jatkotutki-    potilastietoja valtakunnallisten Kanta-palvelujen
+mus- ja erikoissairaanhoidon yksiköillä on lakisäätei-   potilastiedon arkistoon. Seulontatutkimuksista
+nen oikeus toimittaa nämä tiedot seulonnan toteutta-     syntyvät laboratoriotulokset on tallennettava
+jalle Syöpärekisteriin raportointia varten.              Kantaan viimeistään 1.10.2026.
+
+
+Syöpäseulonnan toteuttajan on huolehdittava siitä,
+että seulonnan eri vaiheista toimitetaan yksilötason
+
+
+
+
+32        KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+15. SEULONNAN MONITOROINTI JA
+OHJELMAN LAADUNVARMISTUS                                   Raportointi mahdollistaa seulontatoimijoiden välisen
+                                                           vertailun ja tukee seulonnan laadunparannustoimen-
+                                                           piteitä.
+● Hyvinvointialueet, seulontalaboratoriot ja
+
+     erikoissairaanhoidon yksiköt ovat kukin               Tavoitetasot indikaattoreihin kuten seulonnan
+     vastuussa laadunvarmistuksen toteutumisesta           peittävyyteen:
+● Suomen Syöpärekisteri julkaisee vuosittain               ●   Kutsujen peittävyys (>99 %)
+     tilastot sekä laajemman tilastoraportin seulonta-     ●   Ikäryhmittäinen osallistumisosuus eri
+     ohjelman toteutumisesta                                   väestöryhmissä (EU-suositus: vähintään
+                                                               yli 70 %, tavoite yli 85 %)
+                                                           ●   Viipeet seulonta- ja jatkotutkimusten tulosten 		
+Suomen Syöpärekisteri julkaisee Terveyden ja hyvin-            ilmoittamisessa seulottavalle (tavoite 90 %
+voinnin laitoksen puolesta vuosittain tilastot kohdun-         määräajassa)
+kaulan syövän seulonnan toteutumisesta. Näiden             ●   Viipeet jatkotutkimusten toteutumisessa
+lisäksi se julkaisee vuosittain laajemman tilasto-             (tavoite 90 % määräajassa)
+raportin seulontaohjelman toiminnasta. Syöpärekis-
+teri ja muut toimijat, kuten yliopistosairaalat, tekevät   Lisäksi suuret vaihtelut hyvinvointialueiden/laborato-
+myös seurantatutkimusta seulonnan vaikuttavuudesta         rioiden välillä eri indikaattoreissa (mm. riskiryhmään
+yhdistämällä seulonta-aineistoon syöpärekisterin           kutsuttavien osuus, läheteosuus, positiivinen ennus-
+tietoja kohdunkaulan syövistä ja syöpäkuolemista.          tearvo, jatkotutkimuksiin osallistuminen) edellyttävät
+                                                           hyvinvointialueelta tai laboratoriolta jatkoselvityksiä.
+Hyvinvointialueet, seulontalaboratoriot ja erikois-
+sairaanhoidon yksiköt ovat kukin vastuussa laadun-         Koska kohdunkaulan syövän seulonnassa seulonnan
+varmistuksen toteutumisesta. Syöpärekisterin tulee         vaikuttavuus perustuu mitä suurimmassa määrin
+tukea tätä laadunvarmistusta raportoimalla sille           hyvänlaatuisten esiastemuutosten hoitoon, kohdun-
+toimitetusta datasta koostetut hyvinvointialue- sekä       kaulan syövän seulonnan vaikuttavuuden ja haittojen
+seulontalaboratoriokohtaiset seulonnan tulostiedot.        välisen suhteen arvioinnin tulee olla säännönmukaista.
+
+
+
+
+33          KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+16. KOHDUNKAULAN SYÖVÄN                                   16.1 SEULONNAN HAITAT YKSILÖLLE
+SEULONNAN HAITAT                                          Näytteenotosta aiheutuva haitta on seulottavalle
+                                                          useimmiten vähäinen. Näytteenottoon voi kuitenkin
+● Näytteenotosta aiheutuva haitta on                      liittyä sekä fyysisiä että psykologisia haittoja, kuten
+  seulottavalle useimmiten vähäinen                       kipua, epämukavuutta, pelkoa, häpeää tai ahdistusta70.
+● Tehty sähkösilmukkahoito voi myöhem-                    Lievätkin poikkeavat seulontatulokset edellyttävät
+  missä raskauksissa lisätä ennenaikaisen                 tihentynyttä seurantaa. Vaikka HPV-infektio tai lievä
+  synnytyksen riskiä                                      solumuutos johtavat syöpään vain erittäin harvoin,
+● Ylidiagnostiikan, ylihoidon ja seulontatoiminnan        tieto poikkeavasta seulontatuloksesta voi aiheuttaa
+  vaatimien resurssien minimoimiseksi kaiken              seulottavalle huomattavaa psykologista kuormitusta,
+  seulontaluonteisen testaamisen tulisi tapahtua          kuten ahdistusta ja stressiä71,72. Testitulosten ja mah-
+  kansallisessa seulontaohjelmassa                        dollisten seurantatestien tai jatkotutkimusten odotta-
+● Seulonnan haitoista, kuten hyödyistäkin, tulisi         minen ovat välttämätön osa seulontaprosessia. Odot-
+  tiedottaa seulottavaa henkilöä selkeästi jo kutsu-      taminen voi kuitenkin seulottavan näkökulmasta olla
+  vaiheessa.                                              vaikeaa, kun pelko syövästä on todellinen. Hyvällä
+                                                          viestinnällä voidaan vähentää pelkoja (ks. luku 17).
+
+
+Seulonta kohdistuu terveeseen väestöön, joten siitä       Kolposkopia on olennainen seulontaketjun osa, sillä
+aiheutuu väistämättä myös haittoja. Suoraan seulot-       mahdolliset esiasteet tunnistetaan ja hoidetaan kol-
+tavaan henkilöön vaikuttavat haitat ovat sekä fyysisiä    poskopiassa. Kolposkopiaan ja sen odottamiseen liit-
+että psyykkisiä. Haitat voivat ilmetä myös yhteiskun-     tyy luonnollisesti psyykkistä pelkoa, ahdistusta ja syö-
+nan tasolla, kuten ylidiagnostiikasta aiheutuvina yli-    vänpelkoa, myös niissä tilanteissa, missä sille ei olisi
+määräisinä kustannuksina.                                 aihetta. Tämän takia kolposkopistin täytyy ymmärtää
+                                                          seulotun naisen tilanne ja hyvällä informaatiolla sekä
+Syöpäseulonnassa ylidiagnostiikalla tarkoitetaan          neuvonnalla vähentää mahdollisimman tehokkaasti
+yleisesti sitä, että seulonnalla havaitaan sellainen      näitä psyykkisiä haittoja. Sama pätee tietysti myös
+syöpä, joka ei olisi aiheuttanut haittaa henkilölle       muuhun hoitohenkilökuntaan, kuten kolposkopia-
+tämän elinaikana, vaikka se olisi jäänyt diagnosoi-       hoitajin sekä puhelinneuvontaan.
+matta. Kohdunkaulan syövän seulonnassa myös
+itsekseen paranevien tai koskaan syöväksi etene-          Hyvin valmisteltu kolposkopia ei perusteellisesti
+mättömien esiasteiden löytyminen luokitellaan yli-        neuvotulle potilaalle ole yleensä merkittävää kipua
+diagnostiikaksi. Tällaiset löydökset muodostavat          aiheuttava toimenpide. Toimenpiteeseen liittyvä koe-
+merkittävän osan kohdunkaulan syövän seulonnan            palojen otto saattaa aiheuttaa hetkellisiä kiputunte-
+ylidiagnostiikasta.                                       muksia, joten potilaan kanssa kannattaa neuvotella
+                                                          paikallispuudutuksen tarpeesta.
+Kansallista seulontaohjelmaa kehittäessä on pun-
+nittava ohjelman aiheuttamat hyödyt ja haitat koko        Todetun kohdunkaulan esiastemuutoksen hoitami-
+väestön tasolla, ja saavutettava näissä hyväksyttävä      seksi tehdään tarvittaessa ns. sähkösilmukkahoito,
+tasapaino. Seulonnan haitoista, kuten hyödyistäkin,       jossa poikkeava limakalvoalue poistetaan paikal-
+tulisi myös tiedottaa seulottavaa henkilöä selkeästi jo   lispuudutuksessa. Sähkösilmukkahoidon aiheut-
+kutsuvaiheessa.                                           tama kiputuntemus on 10-portaisella VAS-asteikolla
+                                                          yleensä luokkaa 0–4. Hoidon jälkeen potilaalla on
+                                                          noin kolme viikkoa verisen rusehtavaa vuotoa, jonka
+                                                          aikana yhdyntä, uiminen, kylpeminen ja tamponin
+
+
+
+34        KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+sekä kuukupin käyttö on kielletty infektioriskin            hin ja kolposkopialähetteisiin, ja edelleen mahdolli-
+vuoksi. Kaikki muu on sallittua ja sairauslomaa ei tar-     sesti hyödyttömiin hoitoihin.
+vita. Tehty sähkösilmukkahoito voi myöhemmissä
+raskauksissa lisätä ennenaikaisen synnytyksen riskiä        HPV-seulonnassa testipositiivisia on enemmän kuin
+(riskisuhde 1,3-2,3)73,74
+                         . Riskin suuruus riippuu sähkö-    papaseulonnassa, keskimäärin noin 7–8 % seulontaan
+silmukkapoiston laajuudesta. Hedelmällisyyteen              kutsutuista. Tällöin kontrollinäytesuosituksia ja kolpo-
+HPV-infektio, todettu kohdunkaulan solumuutos tai           skopialähetetteitä tehdään yleisesti enemmän kuin
+sähkösilmukkahoito eivät vaikuta.                           papaseulonnassa76, jonka vuoksi riskiryhmäseulon-
+                                                            nan näytteenottojen ja kolposkopiatutkimusten määrä
+Pienellä osalla naisista hrHPV-tartunta jatkuu vuosi-       lisääntyy merkittävästi. Etenkin ensimmäisellä seulon-
+kausia ja heistä osalla todetaan kenties toistuvastikin     takierroksella kolposkopialähetteitä on runsaasti, jopa
+hoitoa vaativia esiastemuutoksia kohdunkaulalla,            3–4-kertaisesti papaseulontaan nähden. Lähetteiden
+emättimessä, ulkosynnytinalueella tai peräaukon             määrä samoilla naisilla vähenee seuraavilla kierrok-
+seudussa – tai useammassakin paikassa. Tällöin eri-         silla77, mikä selittynee sillä, että osalla HPV-seulonta
+koissairaanhoitoon keskitetty seuranta ja hoitosuun-        varhentaa esiastemuutosten toteamista ja hoitoa.
+nitelmien varmistaminen MDT-kokouksissa vähen-              HPV-seulonnalla kuitenkin löydetään myös sellaisia esi-
+tänevät hyödyttömiä kontrollikäyntejä, näytteenottoja       asteita, joita papaseulonta ei löytäisi. On mahdollista,
+ja hoitoja ja siten myös potilaan kannalta tilanteeseen     että osa HPV-seulonnalla todetuista uusista esiaste-
+liittyvää kuormitusta.                                      muutoksista on luonteeltaan itsekseen paranevia tai
+                                                            etenemättömiä.
+16.2 SEULONNAN HAITAT YHTEISKUNNALLE
+Väärät positiiviset seulontatulokset, eli jatkokontrol-     Ylihoidolla tarkoitetaan sellaisten esiasteiden hoita-
+leihin ja -tutkimuksiin johtavat löydökset, joiden taus-    mista, jotka eivät olisi edenneet syöväksi saakka seu-
+talta ei löydy hoidettavan tasoista muutosta, aiheut-       lottavan elämän aikana. Kohdunkaulan syövän seu-
+tavat haittaa seulottavalle itselleen ja kuluttavat myös    lonnasta voi aiheutua ylihoitoa väärien positiivisten
+terveydenhuollon resursseja. Koska HPV-infektio on          seulontatulosten, väärien diagnoosien sekä liian kon-
+luonteeltaan ohimenevä, hrHPV-testillä ja HPV-infek-        servatiivisen histologisen luokittelun vuoksi. Ylidiag-
+tioon liittyviä solumuutoksia tunnistavalla papatestillä    nostiikan, ylihoidon ja seulontatoiminnan vaatimien
+löydetään todennäköisimmin akuutteja infektioita tai        resurssien minimoimiseksi kaiken seulontaluontei-
+itsestään paranevia esiasteita. Etenkin nuorilla naisilla   sen testaamisen tulisi tapahtua kansallisessa seulon-
+HPV-infektioiden ja esiasteiden paranemispotentiaali        taohjelmassa, ja muualla terveydenhuollossa tehtävän
+on suuri . Liian tiheällä seulonnalla lisätään
+        9,75
+                                                            testaamisen tulisi olla hyvin perusteltua, laadukasta ja
+väärien positiivisten testitulosten määrää ja osuutta,      valvottua (ks. luku 5.3 ja Käypä Hoito -suositus).
+mikä puolestaan johtaa tarpeettomiin seurantatestei-
+
+
+
+
+35         KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+17. VIESTINTÄ JA TIEDOTUS                                    vaiheista. Seulontakutsujen ja -materiaalien tulee
+                                                             sisältää samat tiedot joka puolella maata, jotta alu-
+● Seulontaan liittyvä viestintä on ensisijaisesti            eellinen yhdenvertaisuus toteutuu. Syöpärekisteri
+  hyvinvointialueiden vastuulla                              tarjoaa ja päivittää materiaaleja (mm. esitteet, kutsu-
+● Viestinnän tulee antaa hyvä käsitys seulonnan              kirjeet, vastauskirjeet) vapaasti seulontatoimijoiden
+  tarkoituksesta ja seulontaprosessin kulusta sekä           käyttöön. Materiaaleja on saatavilla eri kielillä.
+  seulonnan hyödyistä ja haitoista
+● Viestinnällä tulisi pyrkiä tavoittamaan myös               Poikkeavan tuloksen saaneiden tiedonsaantiin tulee
+  sellaiset henkilöt, jotka eivät ole osallistuneet          kiinnittää erityistä huomiota. Esimerkiksi hrHPV-
+  seulontaohjelmaan                                          testipositiivisella, jolla sytologisen testin tulos on
+                                                             normaali tai ASC-US, 18—24 kuukauden odotusaika
+                                                             riskiryhmätarkastukseen voi aiheuttaa merkittävää
+17.1 VIESTINNÄN TAVOITE                                      stressiä. Tätä voidaan vähentää oikeansisältöisellä ja
+Seulonta on vähentänyt kohdunkaulan syövän ilmaan-           -aikaisella viestinnällä. Seulontavastauksessa pitäisi
+tuvuutta ja kuolleisuutta merkittävästi. Seulonnan           korostaa, että tällaiseen löydökseen liittyy absoluutti-
+hyötyjen on myös arvioitu ylittävän selvästi siitä koi-      sesti hyvin pieni syöpäriski, ja että virustartunta
+tuvat haitat. Jotta seulonta olisi jatkossakin vaikutta-     paranee hyvin usein itsekseen muutaman seuranta-
+vaa, ohjelmasta viestiessä tulee tavoitella mahdollisim-     testin aikana. Myös kolposkopistilla on merkittävä
+man hyvää seulontaosallistumista kohdeväestössä.             rooli viestinnässä jatkotutkimuksiin osallistuvien
+                                                             naisten osalta (ks. luku 12 Kolposkopia)
+Viestinnän tulee antaa hyvä käsitys seulonnan tarkoi-
+tuksesta ja seulontaprosessin kulusta sekä seulonnan         17.3 SEULONTAOHJELMAN MUUTOKSISTA
+hyödyistä ja haitoista. Viestinnän tulee myös lisätä         VIESTIMINEN
+turvallisuudentunnetta seulontaketjun eri vaiheissa.         HPV-seulontaan siirtymisestä on tarpeen tiedottaa
+Hyvällä viestinnällä ja tiedottamisella voidaan mini-        seulontaan kutsuttavia. Toisaalta on hyvä korostaa,
+moida mahdollisia seulonnan aiheuttamia psyko-               että HPV-näytteenotto ei eroa papaseulonnasta. Eri-
+logisia haittoja.                                            laisten seulontavastausten määrä kasvaa HPV-seu-
+                                                             lonnassa (HPV+ ja erilaiset papavastaukset), mikä
+Seulontaan liittyvä viestintä on ensisijaisesti hyvin-       on pyritty huomioimaan Syöpärekisterin tuottamissa
+vointialueiden vastuulla. Hyvinvointialueen tulee            mallivastauksissa.
+huolehtia siitä, että sen asukkaiden saatavilla on
+riittävästi tietoa seulonnan tavoitteista ja vaikutta-       Asiantuntijaryhmä suosittaa, että hyvinvointialueet
+vuudesta, seulontaan mahdollisesti liittyvistä               tarjoavat tietyin edellytyksin HPV-omanäytteenoton
+riskeistä sekä seulonnan järjestämisestä.                    mahdollisuutta sellaisille naisille, jotka eivät ole osal-
+                                                             listuneet seulontaan muistutuskutsun jälkeen. Oma-
+17.2 VIESTINNÄN SISÄLLÖT                                     näytteenoton mahdollisuudesta tulee tällöin viestiä
+Hyvää tiedotusta tarvitaan kaikissa seulontaketjun           uudella kutsukirjeellä joko lähettämällä omanäyt-
+eri vaiheissa: seulontakutsuun, näytteenottoon,              teenottomahdollisuus osallistumattomille suoraan
+seulontavastaukseen ja mahdollisiin jatkotutkimuk-           (ns. mail-to-all) tai tarjota kirjeessä mahdollisuus
+siin liittyen. Seulontaan kutsutulla tulee koko ajan         tilata veloituksetta omanäytteenottomahdollisuus
+olla pääsy selkeään ja oikeaan kirjalliseen tietoon.         (ns. opt-in).
+
+
+Saatavilla tulee olla sekä tiivistettyä perustason tietoa,   HPV-rokote vähentää tulevaisuudessa seulonnan tar-
+että yksityiskohtaisempaa tietoa seulonnan eri               vetta, mutta toistaiseksi kaikille seulontaikäisille suo-
+
+
+
+36         KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+sitellaan seulontaan osallistumista huolimatta mah-           seulontaan on turvattava asiaankuuluvalla ja hyvin
+dollisesta HPV-rokotteesta. Tiedottaminen koskee              saavutettavalla viestinnällä. Paikkakuntaa seulonta-
+siis niin rokottamatonta kuin rokotettua väestöä.             vuonna muuttaneille tulisi järjestää yhteydenottoka-
+                                                              nava seulontaan osallistumisen turvaamiseksi.
+17.4 OSALLISTUMISEN PARANTAMINEN
+Viestinnällä tulisi pyrkiä tavoittamaan myös sellai-          17.6 TIEDOTUS- JA VIESTINTÄKANAVAT
+set henkilöt, jotka eivät ole osallistuneet seulonta-         Seulonnan kutsukirje on tärkeä ensimmäinen kon-
+ohjelmaan. Muistutuskutsut ovat avainasemassa                 takti seulottavaan. Sen tulee olla tiivis ja selkeä ja sisäl-
+osallistumisen parantamisessa, ja niitä tulee käyttää         tää mieluiten valmiiksi varattu aika ja paikka näytteen-
+rutiininomaisesti joka puolella maata. Alueilla, joilla       otolle, sekä ohjeet niiden muuttamiseen netissä ja
+seulontaosallistuminen on keskimääräistä matalam-             puhelimitse. Lisäksi kutsussa tulee kertoa, mistä yksi-
+paa, voidaan tarpeen mukaan toteuttaa alueellisia             tyiskohtaisempaa tietoa on saatavilla (ks. luku 8.2).
+viestintätoimia ja kampanjoita.
+                                                              Kattavaa ja ajantasaista mutta yleistajuista tietoa
+Viestinnän pitää korostaa seulonnan tarpeellisuutta,          on saatavilla internetissä, esimerkiksi seuraavilla
+kuitenkin niin, että seulottavan itsemääräämisoikeus          sivustoilla:
+ja mahdollisuus kieltäytyä testistä eivät vaarannu.           Terveyskylän Naistalo:
+Seulontaohjelman ulkopuolisia testejä otetaan run-            https://www.terveyskyla.fi/naistalo/gynekologi-
+saasti nuorilta naisilta, mikä todennäköisesti vähen-         nen-terveys/kohdunsuun-irtosolumuutokset-papa
+tää nuorempien ikäryhmien seulontaosallistumista.             Syöpäjärjestöt:
+Muualla terveydenhuollossa tulisi kannustaa naisia            https://www.ilmansyopaa.fi/tarkkaile-kehoasi/koh-
+osallistumaan seulontaohjelmaan, jota seurataan ja            dunkaulan-syovan-seulonta/
+kehitetään ja jossa kokonaiskustannukset sekä yli-            Terveydenhuollon ammattilaisten taustamateriaaliksi
+diagnosoinnin riski ovat pienemmät.                           soveltuu mm. Käypä hoito -suositus:
+                                                              https://www.kaypahoito.fi/hoi50049
+17.5 ERITYISRYHMÄT
+Merkittävä haaste seulontaohjelmasta viestiessä ovat          Näytteenottajat ovat suorassa kontaktissa seulotta-
+erilaiset tiedon vastaanottajat. Tiedotemateriaalia voi       vien kanssa, joten heitä olisi hyvä kouluttaa viestin-
+olla tarpeen räätälöidä erilaisille vastaanottajille sopi-    nällisesti. Näytteenottajat voivat näin vastata seulot-
+viksi. Esimerkiksi sosioekonomiset, kielelliset ja kulttuu-   tavien kysymyksiin tai kertoa, mistä lisätietoa on
+riset erot tulee ottaa huomioon. Tietoa tulee olla saata-     saatavilla, mikä lisää luottamusta seulontaohjelmaan.
+villa eri kanavista ja eri kielillä, ja tarvittaessa          Myös kirjallista materiaalia, kuten seulontaesitteitä
+voidaan tehdä yhteistyötä esimerkiksi erilaisten              olisi hyvä olla saatavilla näytteenottopaikoilla.
+etnisten yhteisöjen kanssa .   78
+
+
+                                                              Henkilön, jolla on poikkeava seulontatulos, tulisi
+On myös huolehdittava, että transmiehet, joiden koh-          halutessaan saada ottaa henkilökohtaisesti yhteyttä
+tua ei ole poistettu, tietävät olevansa oikeutettuja mak-     terveydenhuollon ammattilaiseen lisätietoja saadak-
+suttomaan seulontaan, vaikka kutsua ei henkilötun-            seen. Yhteystiedot tätä varten voi ilmoittaa esimer-
+nuksen muuttumisen jälkeen enää tulekaan. Asiasta             kiksi seulontatuloksen vastauskirjeessä. Ammattilai-
+voidaan tiedottaa esimerkiksi yksiköissä, jotka koordi-       sen tulee korostaa, että poikkeava seulontanäyte ei
+noivat sukupuolenkorjaushoitoja.                              tarkoita syöpää tai edes sen esiastetta, eikä edellytä
+                                                              esimerkiksi välittömiä uusia tutkimuksia. Psykolo-
+Myös muiden erityisryhmien, kuten liikunta-, kuulo-           gista tukea voi saada esimerkiksi Syöpäyhdistyksen
+ja näkörajoitteisten sekä kehitysvammaisten, oikeus
+
+
+
+37          KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+neuvontapalvelusta.
+                                                             ennenaikaiseen synnytykseen
+Hyvinvointialueiden tulee tiedottaa kaikista seulon-     ●   Seulontaohjelman ikäryhmät ja seulontaväli
+taohjelman muutoksista, esimerkiksi mahdollisesta            perustuvat tieteelliseen näyttöön.
+HPV-testaamiseen siirtymisestä. Tiedotuskanava voi       ●   Seulontaohjelman ulkopuolinen testaaminen on
+olla esim. lehdistötiedote.                                  tarpeellista vain erityistapauksissa.
+                                                         ●   HPV-infektio on erittäin yleinen, lähes kaikki
+17.7 PÄÄVIESTIT SEULONTAOHJELMAAN                            saavat sen elämänsä aikana.
+LIITTYEN                                                 ●   HPV-testi tunnistaa HPV-infektioita. Samasta
+Alle on koottu tutkimusnäyttöön perustuvia päävies-          näytteestä voidaan testata sekä HPV että papa.
+tejä seulontaohjelman viestinnän tueksi.                 ●   Papa-testillä etsitään esiasteeseen/syöpään
+                                                             viittaavia solumuutoksia. Papa tutkitaan 30 vuotta
+●   Seulonnan myötä kohdunkaulan syövän ilmaan-              täyttäneillä vain niiltä, joilta löytyy HPV-infektio.
+    tuvuus ja kuolleisuus on vähentynyt jopa 80 %        ●   Poikkeava seulontatulos ei tarkoita syöpää.
+●   Seulonnalla on hyötyjen lisäksi myös haittoja, 		        Solumuutokset paranevat yleensä itsekseen.
+    kuten esiastehoitojen aiheuttama lisääntynyt riski   ●   Tupakointi lisää kohdunkaulan syövän riskiä.
+
+
+
+
+38          KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+                                                         70 % ja tyttöjen 79 % syksyllä 2022.
+
+
+18. HPV-ROKOTUSOHJELMAN                                  HPV-rokotuskattavuuksissa on aluekohtaisia eroja.
+VAIKUTUS SEULONTAOHJELMAAN                               Syksyllä 2022 HPV-rokotuskattavuudet vaihtelivat
+                                                         vuonna 2009 syntyneillä seuraavasti. Tyttöjen roko-
+● Ensimmäinen HPV-rokotusohjelmaan                       tuskattavuus oli 88 %Pohjois-Savon sairaanhoitopii-
+		 osallistunut syntymäkohortti on 30 vuoden             rissä ja 70 % Keski-Pohjanmaalla. Poikien rokotus-
+		 seulontaiässä vuonna 2028.                            kattavuus oli Itä-Savossa, Varsinais-Suomessa ja
+● Mallinnuksen perusteella rokotetuille naisille         Ahvenanmaalla yli 80 %. Sen sijaan Päijät-Hämeessä,
+		 riittänee hyvin kevyt seulonta, mutta ennen           Pohjois-Pohjanmaalla ja Etelä-Pohjanmaalla katta-
+		 laumasuojan syntymistä rokottamattomat                vuus oli 63 %.
+		 tarvitsevat edelleen merkittävässä määrin
+		 seulontaa, vaikka HPV-tartunnat vähenevät             Tieto annetusta rokotuksesta siirtyy ja tallentuu
+		heilläkin                                              THL:n rokotusrekisteriin, jos tieto annetusta roko-
+● Myöhäisissä rokotetuissa ikäluokissa HPV               tuksesta on kirjattu noudattaen yhtenäisiä kansalli-
+		 -genotyypit, joilta rokote suojaa, ovat lauma-        sia luokituksia ja potilastietojärjestelmä on kytketty
+		 suojan ansiosta käytännössä kadonneet myös            Avohilmo-tiedonsiirtoon. Rokotusten kirjaamiseen
+		 rokottamattomilta naisilta. Näissä ikäluokissa        ja tiedonsiirtoon liittyvien ongelmien vuoksi todelli-
+		 ei enää ole seulonnan kannalta eroa rokotetuilla      set rokotuskattavuudet voivat olla rokotusrekisterin
+		 ja rokottamattomilla naisilla, jolloin seulonta voi   lukuja korkeampia. Rokotuskattavuuksia voi tarkas-
+		 olla yhtä lailla kevyttä kaikille naisille            tella THL:n julkaiseman interaktiivisen karttaesityksen
+                                                         avulla79. Siinä raportoidaan vähintään yhden HPV-ro-
+                                                         kotuksen saaneiden alueelliset kattavuudet syntymä-
+18.1 KANSALLINEN HPV-ROKOTUSOHJELMA                      vuoden ja sukupuolen mukaan.
+Tyttöjen HPV-rokotukset aloitettiin kansallisessa
+rokotusohjelmassa syksyllä 2013 ja poikien syksyllä      Jo ennen rokotusohjelman alkamista noin 20 000
+2020. THL suosittaa, että HPV-rokotussarja aloite-       tyttöä tai naista ja 3 000 poikaa tai miestä HPV-
+taan alakoulun viidennellä luokalla. Ro kotusohjel-      rokotetutkimuksissa, joista ensimmäiset tehtiin
+massa käytettävä rokote kilpailutetaan muutaman          2000-luvun alussa. Lisäksi HPV-rokotuksia on
+vuoden välein. Vuoteen 2023 asti käytössä on ollut       annettu ennen rokotusohjelmaa vähäisessä määrin,
+kaksivalenttinen valmiste (Cervarix).                    kun 4-valenttinen Gardasil-rokote tuli apteekki-
+                                                         myyntiin vuonna 2006 ja 2-valenttinen Cervarix
+THL seuraa HPV-rokotusten kattavuutta valtakunnal-       vuonna 2007.
+lisen rokotusrekisterin avulla. Kun tyttöjen HPV-
+rokotukset käynnistettiin, vuonna 1998 syntyneet oli     18.2 TULEVAISUUDEN NÄKYMIÄ:
+vanhin syntymäkohortti, jolla oli mahdollisuus saada     HPV-TARTUNNAT ERI IKÄLUOKISSA
+HPV-rokotus osana rokotusohjelmaa. Tämä syntymä-         HPV-rokottaminen jakaa naisia HPV-tartuntojen kan-
+kohortti täyttää 30 vuotta ja tulee lakisääteisen        nalta erilaisiin ryhmiin kahdella tapaa. Ensinnäkin
+seulonnan piiriin vuonna 2028. Vuonna 2005               rokottaminen jakaa naiset rokotettuihin ja rokotta-
+syntyneet pojat on vanhin syntymäkohortti, joka on       mattomiin. HPV-rokotettujen naisten kohdalla rokot-
+HPV-rokotusohjelman piirissä. Syksyllä 2022 oli          teiden odotetaan vähentävän radikaalisti potenti-
+kuudesluokkalaisten vuonna 2010 syntyneiden ikä-         aalisesti syöväksi kehittyviä HPV-infektioita, mikä
+luokassa tytöistä lähes 73 % ja pojista 63 % saanut      luonnollisesti vähentää seulonnan tarvetta rokote-
+HPV-rokotuksen. Yläkoulun aloittaneiden vuonna           tuilla naisilla. Toiseksi HPV-rokotusohjelma jakaa ikä-
+2009 syntyneiden poikien rokotuskattavuus oli noin       luokat kolmeen ryhmään: rokottamattomat ikäluokat,
+
+
+
+39         KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+      varhaiset rokotetut ikäluokat ja myöhäisemmät roko-                      Tämä johtuu siitä, että HPV tarttuu paljolti seksi-
+      tetut ikäluokat. Näissä erilaisissa ikäluokissa rokot-                   kontaktien kautta, ja nämä painottuvat lähelle kun-
+      tamattomat naiset hyötyvät rokottamisen tuomasta                         kin omaa ikää (ikähaitari on nuorilla kapea ja kasvaa
+      epäsuorasta suojasta eri tavoin. Tyttöjen ja poikien                     vähitellen iän mukana). Näin myös tartunnat painot-
+      rokotusohjelman odotetaan yltävän laumasuojan                            tuvat lähelle omaa ikäluokkaa, eikä nuorempien ikä-
+      kriittiseen tasoon niiden HPV-tyyppien osalta, joille                    ryhmien rokottaminen juuri vähennä potentiaalisia
+      rokotteet muodostavat suojaa, käytännössä poistaen                       tartunnan lähteitä vanhemmilta. Seulonnan kannalta
+      kyseiset tyypit väestöstä           . Osittainenkin
+                                      17,80
+                                                                               tämä tarkoittaa, että rokottamattomissa ikäluokissa
+      rokotussuoja riittää monen HPV-tyypin kohdalla                           seulontaa joudutaan jatkamaan nykyiseen tapaan –
+      kriittiselle tasolle yltämiseen väestötasolla.                           toki seulontamenetelmien kehittyessä seulontaa
+                                                                               näiden osalta parantaen.
+      Rokottamattomissa ikäluokissa (Kuva 5, 2015 ikä-
+      luokasta selvästi diagonaalisesti vasemmalle), joissa                    Varhaisissa rokotetuissa ikäluokissa (Kuva 5, lähellä
+      kaikki ovat rokottamattomia, rokottaminen vaikuttaa                      2015 ikäluokkaa) omasta ja hieman nuoremmista
+      HPV-infektioiden ilmaantumiseen vain vähän vuosi-                        ikäluokista tuleva tartuntapaine on jo alentunut,
+      kymmentenkin kuluttua rokottamisen aloittamisesta.                       mutta tartuntapainetta tulee vielä merkittävässä
+
+
+
+
+               HPV16-prevalenssi, rokottamattomat naiset                          HPV16-prevalenssi, rokottamattomat miehet
+      80                                                                  80                                                                0.14
+
+
+
+      70                                                                  70                                                                0.12
+
+
+
+      60                                                                  60                                                                0.1
+
+
+
+      50                                                                  50                                                                0.08
+
+Ikä
+      40                                                                  40                                                                0.06
+
+
+
+      30                                                                  30                                                                0.04
+
+
+
+      20                                                                  20                                                                0.02
+
+
+
+      10                                                                  10                                                                 0
+              2010    2020     2030           2040   2050   2060   2070          2010     2020    2030      2040   2050       2060   2070
+                                      Aika                                                               Aika
+
+
+
+
+      Kuva 5. Arvio HPV-16 vallitsevuudesta rokottamattomilla naisilla (vasen) ja miehillä (oikea) ajassa ja iässä Suo-
+      men rokotusohjelmassa toteutuneilla kattavuuksilla 2009 ikäluokkiin asti ja tämän jälkeen käyttäen tytöille 80%
+      ja pojille 65% rokotuskattavuutta. Valkea vinoviiva kuvaa vuoden 2015 ikäluokkaa. Laskenta: Vänskä 201381
+
+
+
+
+      40         KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+määrin rokottamattomista hieman vanhemmista                  naisissa täsmällisesti näin selkeää vedenjakajaa.
+ikäluokista. Siksi varhaisten rokotettujen ikäluokkien       HPV-tyyppien kesken voi myös olla eroa. Toteutuvaa
+rokottamattomat naiset kohtaavat edelleen                    HPV-tyyppien tilannetta on seurattava väestössä ja
+tartuntoja, mutta alentuneesti aikaisempiin ikäluok-         seulontatoimintaa säädettävä se mukaan.
+kiin verrattuna. Seulonnan kannalta nämä lienevät
+hankalimmat ikäluokat. Rokotetuille naisille riittänee       18.3 TULEVAISUUDEN NÄKYMIÄ: SEULONTA
+hyvin kevyt seulonta, mutta rokottamattomat tarvitse-        LAUMASUOJAN VALLITESSA
+vat edelleen merkittävässä määrin seulontaa, vaikka          Rokottamisen ja seulonnan yhteispeliä havainnol-
+HPV-tartunnat vähenevät jo heilläkin. Näille ikä-            listaa Kuva 6, joka esittää väestötason tautitaakkaa
+luokille seulonta on joko voitava järjestää eri tavoin       (30000 naisen + 30000 miehen ikäryhmät) eri roko-
+rokotetuille ja rokottamattomille, tai sitten seulonta-      tus- ja seulontaskenaarioilla rokottamisen jälkeisessä
+prosessi on kyettävä järjestämään adaptiiviseksi niin,       uudessa tasapainotilanteessa. Skenaariot on laskettu
+että se automaattisesti kohdentuu suuremman riskin           THL:n HPV-malleilla81–83. Vertailun vuoksi kuviossa on
+naisiin. Tällaisen vajaasti rokotetun väestön seulon-        mukana myös “ei rokoteta” -rokotusskenaario. Tauti-
+nan järjestäminen on tällä hetkellä tutkimuksen koh-         taakkaa esittää kuviossa terveysmenetys (x-akseli),
+teena. Mikäli rokottaminen etenee suotuisasti sekä           yksikkönä laatupainotetut elinvuodet (QALY, quality
+tyttöjen että poikien parissa, tällaisia ikäluokkia ei ole   adjusted life years), ja kustannukset (y-akseli), jotka
+kuitenkaan kovin paljon (10–20). Toisaalta, mikäli           aiheutuvat kohdunkaulan syöpä- ja seulontalöydös-
+rokottamisessa olisi laajoja ongelmia eikä laumasuo-         ten hoitamisesta ja seurannasta sekä itse seulonnasta.
+jaa saavutettaisi, tilanne jäisi pysyväksi.                  Kuvio ei sisällä rokottamisen kustannuksia, koska
+                                                             näkökulma on seulonnassa. Eri rokottamisen skenaa-
+Myöhäisissä rokotetuissa ikäluokissa (Kuva 5, joita-         riot on erotettu toisistaan väreillä ja seulonnan ske-
+kin vuosia 2015 ikäluokan jälkeen) ne HPV-tyypit,            naariot merkeillä. Ympyrä on seulontaskenaariolle
+joilta rokote suojaa, ovat laumasuojan ansiosta              “ei seulota” ja rasti ennen rokottamisen aloittamista
+käytännössä kadonneet myös rokottamattomilta                 toteutuneelle seulonnalle, käsittäen sekä ohjelman
+naisilta. Näissä ikäluokissa ei enää ole seulonnan           että sen ulkopuolisen seulonnan. Muita seulonnan
+kannalta eroa rokotetuilla ja rokottamattomilla nai-         skenaarioita (pisteet) ei tässä tarkemmin spesifioida,
+silla, kun rokotesuojan HPV-tyypit puuttuvat molem-          mutta tyypillisesti enemmän oikealla olevat ske-
+milta. Tällöin seulonta voi olla yhtä lailla kevyttä         naariot tarkoittavat kevyempää seulontaa. Kuvion
+kaikille naisille (katso seuraava alaluku 18.3).             kevyimmät seulontaskenaariot koostuvat
+                                                             vain yhdestä seulontakierroksesta.
+Kotimainen laumasuoja ei auta rokottamatonta tilan-
+teessa, jossa hän (tai hänen kumppaninsa) saa                Ennen rokottamista toteutuneella seulonnalla (musta
+tartuntansa ulkomailta alueilta, joilla onkogeeniset         rasti) saavutettiin runsaasti terveyshyötyä verrattuna
+HPV-tyypit ovat edelleen yleisiä. Tällaisia tapauksia        siihen, ettei olisi seulottu lainkaan (musta ympyrä).
+varten saattaa tulevaisuudessa olla tarpeen jonkinlai-       Tosin toteutunut seulonta ei välttämättä ollut varsin-
+nen kohdennettu toimintatapa. Ulkomailta tuotu               kaan kustannusten kannalta täysin optimaalista
+tartunta ei kotimaassa vallitsevan laumasuojan               (muut skenaariot, mustat pisteet). Toisaalta rokotta-
+vuoksi pääse kuitenkaan leviämään epidemiaksi.               minen on itsenäisenä torjuntatoimena hyvin vaikut-
+                                                             tavaa, kun kohdunkaulan syövän terveysmenetys ale-
+Kuva 5 on suuntaa antavaa arvio, joka on mallinnettu         nee oleellisesti (värilliset ympyrät vs. musta ympyrä).
+auttamaan seulonnan ja rokotusohjelman nivel-                Rokottaminen yksin ei välttämättä kuitenkaan riitä
+tymisen suunnittelussa, eikä erityisesti ikäluokka           saavuttamaan ennen rokottamista seulomalla
+2015 välttämättä muodosta rokottamattomissa                  saavutettua terveysmenetyksen tasoa, erityisesti jos
+
+
+
+41         KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+                                       käytössä on vain tyttöjen rokottamiseen perustuva                   sen rokottamista edeltäneelle tasolle, ja paljon sen
+                                       ohjelma (punertavat ympyrät) ja/tai käytetyn valmis-                allekin. Toisaalta tietyn tason jälkeen seulontaa lisää-
+                                       teen kyky torjua eri onkogeenisia HPV-tyyppejä ei ole               mällä on enää vaikea saavuttaa merkittäviä terveys-
+                                       riittävän kattavaa.                                                 hyötyjä eikä terveydenhuollon resurssien kohdenta-
+                                                                                                           minen rajatason ylittävään seulontaan ole millään
+                                       Tyypillisesti jo vähäinen määrä seulontaa yhdistet-                 muotoa järkevää. Tällainen rajataso riippuu rokotta-
+                                       tynä rokottamiseen riittää tuomaan terveysmenetyk-                  misen skenaariosta.
+
+
+
+
+                                                                                Rokotussenaario                                          Seulontaskenaario
+                                                                 9vHPV, T 80%             9vHPV, T&P 80%
+                                                                                                                                           Ei seulontaa
+                                                                 2vHPV, T 80%             2vHPV, T&P 80%
+                                                                                                                                           Toteutunut
+                                                                 4vHPV, T 80%             4vHPV, T&P 80%
+                                                                                                                                           Skenaario
+                                                                 Ei rokotusta              Toteutunut QAL V-menetys, ei rokottamista
+
+
+                                        50                                                                                     40
+
+                                        45
+                                                                                                                               35
+                                        40
+
+
+
+
+Seulonta-ja hoitokustannukset (MEUR)
+                                                                                                                               30
+                                        35
+
+                                                                                                                               25
+                                        30
+
+                                        25                                                                                     20
+
+                                        20
+                                                                                                                               15
+                                        15
+                                                                                                                               10
+                                        10
+
+                                        5                                                                                      5
+
+
+                                        0                                                                                      0
+                                             0           5000                   10 000            15 000           20 000           0     1000            2000        3000
+
+                                                                        QALY-menetykset                                                      QALY-menetykset
+
+
+
+
+                                       Kuva 6. Kohdunkaulan syöpään ja sen seulontaan liittyvä vuosittainen tautitaakka (QALY-menetys, x-akseli;
+                                       Seulonta- ja hoitokustannukset, y-akseli) eri seulonta- ja rokotusskenaarioilla 30,000 + 30,000 syntymäkohorttien
+                                       väestössä. A-kuvan katkoviivalla rajattu osa on esitetty suurennettuna B-kuvassa. Kukin merkki esittää yhtä
+                                       skenaariota. Rokotusskenaariot ovat 80% kattavuuden ohjelmia käyttäen 9-valenttista, 2-valenttista tai 4-valenttista
+                                       rokotetta (punertavat: vain tytöt; sinertävät: tytöt ja pojat; musta: ei rokotusta). Seulontaskenaariot esitetään merkeillä:
+                                       ympyrä – ei seulontaa, rasti - toteutunut seulontaohjelma, pisteet - erilaisia tarkemmin määrittelemättömiä skenaarioita.
+                                       Pystysuora pisteviiva kuvaa toteutunutta QALY-menetyksen tasoa, joka vallitsi ennen rokotusohjelman alkamista.
+                                       Laskenta: Vänskä 201381; Vänskä 201982; THL työryhmä83
+
+
+
+
+                                       42        KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+19. LÄHDELUETTELO                                       Neoplasia: Estimating the Time to Preclinical
+1. Suomalaisen Lääkäriseuran Duodecimin ja              Cervical Cancer From Doubly Censored National
+Suomen Kardiologisen Seuran asettama työryhmä.          Registry Data. American Journal of Epidemiology.
+Kohdunkaulan, emättimen ja ulkosynnytinten              2013;178(7):1161-1169. doi:10.1093/aje/kwt077
+solumuutokset. Käypä hoito -suositus. Published
+online 2023. www.kaypahoito.fi                          9. Tainio K, Athanasiou A, Tikkinen KAO, et al.
+                                                        Clinical course of untreated cervical intraepithelial
+2. Suomen Gynekologisen Onkologian Erikois-             neoplasia grade 2 under active surveillance:
+lääkärit (FIN-GOG). Gynekologisten syöpien              systematic review and meta-analysis. BMJ.
+hoito-ohjeisto. Published online 2024. https://         Published online February 27, 2018:k499.
+gynekologiyhdistys.fi/pienryhmat/onkologia/             doi:10.1136/bmj.k499
+fingog-kelpohoito/
+                                                        10. Loopik DL, Bentley HA, Eijgenraam MN,
+3. Sung H, Ferlay J, Siegel RL, et al. Global Cancer    IntHout J, Bekkers RLM, Bentley JR. The Natural
+Statistics 2020: GLOBOCAN Estimates of                  History of Cervical Intraepithelial Neoplasia Grades
+Incidence and Mortality Worldwide for 36 Cancers        1, 2, and 3: A Systematic Review and Meta-analysis.
+in 185 Countries. CA A Cancer J Clinicians.             J Low Genit Tract Dis. 2021;25(3):221-231.
+2021;71(3):209-249. doi:10.3322/caac.21660              doi:10.1097/LGT.0000000000000604
+
+4. Suomen Syöpärekisteri. Syöpätilastot.                11. Salo H, Nieminen P, Kilpi T, et al. Divergent
+https://tilastot.syoparekisteri.fi/syovatilastot.       coverage, frequency and costs of organised and
+syoparekisteri.fi/syovat                                opportunistic Pap testing in Finland. International
+                                                        Journal of Cancer. 2014;135(1):204-213. doi:10.1002/
+5.Walboomers JM, Jacobs MV, Manos MM, et al.            ijc.28646
+Human papillomavirus is a necessary cause of
+invasive cervical cancer worldwide. J Pathol.           12. Pankakoski M, Heinävaara S, Anttila A, Sarkeala
+1999;189(1):12-19. doi:10.1002/(SICI)1096-9896          T. Differences in cervical test coverage by age,
+(199909)189:1<12::AID-PATH431>3.0.CO;2-F                socioeconomic status, ethnic origin and
+                                                        municipality type - A nationwide register-based
+6. IARC Working Group on the Evaluation of              study. Prev Med. 2020;139:106219. doi:10.1016/j.
+Carcinogenic Risks to Humans. Biological agents.        ypmed.2020.106219
+IARC Monogr Eval Carcinog Risks Hum. 2012;100
+(Pt B):1-441.                                           13. Leinonen M, Nieminen P, Kotaniemi-Talonen L,
+                                                        et al. Age-Specific Evaluation of Primary Human
+7. Vänskä S, Luostarinen T, Lagheden C, et al.          Papillomavirus Screening vs Conventional
+Differing Age-Specific Cervical Cancer Incidence        Cytology in a Randomized Setting. JNCI J Natl
+Between Different Types of Human Papillomavirus:        Cancer Inst. 2009;101(23):1612-1623. doi:10.1093/
+Implications for Predicting the Impact of Elimination   jnci/djp367
+Programs. American Journal of Epidemiology.
+2021;190(4):506-514. doi:10.1093/aje/kwaa121            14. Falcaro M, Castañon A, Ndlela B, et al.
+                                                        The effects of the national HPV vaccination
+8. Vink MA, Bogaards JA, van Kemenade FJ, de            programme in England, UK, on cervical cancer and
+Melker HE, Meijer CJLM, Berkhof J. Clinical             grade 3 cervical intraepithelial neoplasia incidence:
+Progression of High-Grade Cervical Intraepithelial      a register-based observational study. The Lancet.
+
+
+
+43        KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+2021;398(10316):2084-2092. doi:10.1016/                  22. Arbyn M, Raifu AO, Weiderpass E, Bray F,
+S0140-6736(21)02178-4                                    Anttila A. Trends of cervical cancer mortality in the
+                                                         member states of the European Union. European
+15. Lei J, Ploner A, Elfström KM, et al. HPV             Journal of Cancer. 2009;45(15):2640-2648.
+Vaccination and the Risk of Invasive Cervical            doi:10.1016/j.ejca.2009.07.018
+Cancer. N Engl J Med. 2020;383(14):1340-1348.
+doi:10.1056/NEJMoa1917338                                23. Nieminen P, Kallio M, Anttila A, Hakama M.
+                                                         Organised vs. spontaneous pap-smear screening
+16. Lehtinen M, Lagheden C, Luostarinen T, et al.        for cervical cancer: A case-control study. Int J
+Human papillomavirus vaccine efficacy against            Cancer. 1999;83(1):55-58. doi:10.1002(SICI)1097-
+invasive, HPV-positive cancers: population-based         0215(19990924)83:1<55::AID-IJC11>3.0.CO;2-U
+follow-up of a cluster-randomised trial. BMJ Open.
+2021;11(12):e050669. doi:10.1136/                        24. European Commission. Directorate General for
+bmjopen-2021-050669                                      Health and Food Safety. European Guidelines for
+                                                         Quality Assurance in Cervical Cancer Screening :
+17. Vänskä S, Luostarinen T, Bausssano I, et al.         Second Edition : Supplements. Publications Office;
+Vaccination with moderate coverage eradicates            2015. Accessed November 21, 2023. https://data.
+oncogenic human papillomaviruses if a gender             europa.eu/doi/10.2875/93363
+-neutral strategy is applied. J Infect Dis. Published
+online March 11, 2020. doi:10.1093/infdis/jiaa099        25. Lönnberg S, Anttila A, Luostarinen T, Nieminen
+                                                         P. Age-Specific Effectiveness of the Finnish Cervical
+18. Salo, Heini, Nieminen, Pekka, Kilpi, Terhi, et al.   Cancer Screening Programme. Cancer Epidemiology,
+Papa-koekäytäntö ei vastaa suosituksia. Suom             Biomarkers & Prevention. 2012;21(8):1354-1361.
+Lääk-L. 2014;69(39).                                     doi:10.1158/1055-9965.EPI-12-0162
+
+19. Arbyn M, European Union, European                    26. Kamineni A, Weinmann S, Shy KK, Glass AG,
+Commission, Health and Consumer Protection               Weiss NS. Efficacy of screening in preventing
+Directorate-General. European Guidelines for             cervical cancer among older women. Cancer Causes
+Quality Assurance in Cervical Cancer Screening.          Control. 2013;24(9):1653-1660. doi:10.1007/
+Office for Official Publications of the European         s10552-013-0239-4
+Communities; 2008.
+                                                         27. Wang J, Andrae B, Sundström K, et al.
+20. Anttila A, von Karsa L, Arbyn M, et al. European     Effectiveness of cervical screening after age 60
+guidelines for quality assurance in cervical cancer      years according to screening history: Nationwide
+screening. Summary of the supplements on HPV             cohort study in Sweden. Zheng W, ed. PLoS Med.
+screening and vaccination. Papillomavirus research.      2017;14(10):e1002414. doi:10.1371/journal.
+2015;1:22-31.                                            pmed.1002414
+
+21. Pankakoski M, Sarkeala T, Anttila A, Heinävaara      28. Castañón A, Landy R, Cuzick J, Sasieni P.
+S. Effectiveness of Cervical Testing in and outside a    Cervical Screening at Age 50–64 Years and the
+Screening Program-A Case-Control Study. Cancers          Risk of Cervical Cancer at Age 65 Years and Older:
+(Basel). 2022;14(21):5193. doi:10.3390/                  Population-Based Case Control Study. Franco EL,
+cancers14215193                                          ed. PLoS Med. 2014;11(1):e1001585. doi:10.1371/
+                                                         journal.pmed.1001585
+
+
+
+44        KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+29. World Health Organization. WHO Guideline for       37. Ronco G, Dillner J, Elfström KM, et al. Efficacy of
+Screening and Treatment of Cervical Pre-Cancer         HPV-Based Screening for Prevention of Invasive
+Lesions for Cervical Cancer Prevention: Use of mRNA    Cervical Cancer: Follow-up of Four European
+Tests for Human Papillomavirus (HPV). Second           Randomized Controlled Trials. Obstetrical &
+edition. World Health Organization; 2021.              Gynecological Survey. 2014;69(8):472-473.
+                                                       doi:10.1097/01.ogx.0000453824.69728.c0
+30. IARC. IARC Handbooks of Cancer Prevention.
+Cervix Cancer Screening. Vol 10. IARC; 2005.           38. Heideman DAM, Oštrbenk Valencak A, Doorn
+                                                       S, et al. Clinical Validation of the Fully Automated
+31. Costa S, Verberckmoes B, Castle PE, Arbyn M.       NeuMoDx HPV Assay for Cervical Cancer
+Offering HPV self-sampling kits: an updated            Screening. Viruses. 2022;14(5):893. doi:10.3390/
+meta-analysis of the effectiveness of strategies to    v14050893
+increase participation in cervical cancer screening.
+Br J Cancer. 2023;128(5):805-813. doi:10.1038/         39. Carozzi FM, Burroni E, Bisanzi S, et al.
+s41416-022-02094-w                                     Comparison of Clinical Performance of Abbott
+                                                       RealTime High Risk HPV Test with That of Hybrid
+32. Arbyn M, Smith SB, Temin S, Sultana F, Castle      Capture 2 Assay in a Screening Setting. J Clin
+P. Detecting cervical precancer and reaching           Microbiol. 2011;49(4):1446-1451. doi:10.1128/
+underscreened women by using HPV testing on            JCM.02311-10
+self samples: updated meta-analyses. BMJ.
+Published online December 5, 2018:k4823.               40. Poljak M, Oštrbenk A, Seme K, et al.
+doi:10.1136/bmj.k4823                                  Comparison of Clinical and Analytical Performance
+                                                       of the Abbott RealTime High Risk HPV Test to the
+33. Virtanen A, Anttila A, Luostarinen T, Malila N,    Performance of Hybrid Capture 2 in Population-
+Nieminen P. Improving cervical cancer screening        Based Cervical Cancer Screening. J Clin Microbiol.
+attendance in Finland. Int J Cancer.                   2011;49(5):1721-1729. doi:10.1128/JCM.00012-11
+2015;136(6):E677-684. doi:10.1002/ijc.29176
+                                                       41. Hesselink AT, Meijer CJLM, Poljak M, et al.
+34. Auvinen E, Nieminen P, Pellinen J, Dillner J,      Clinical Validation of the Abbott RealTime High
+Tarkkanen J, Virtanen A. Human papillomavirus          Risk HPV Assay According to the Guidelines for
+self-sampling with mRN testing benefits routine        Human Papillomavirus DNA Test Requirements
+screening. Intl Journal of Cancer. 2022;151(11):       for Cervical Screening. J Clin Microbiol.
+1989-1996. doi:10.1002/ijc.34170                       2013;51(7):2409-2410. doi:10.1128/JCM.00633-13
+
+35. Meijer CJLM, Berkhof J, Castle PE, et al.          42. Arbyn M, Simon M, Peeters E, et al. 2020 list of
+Guidelines for human papillomavirus DNA test           human papillomavirus assays suitable for primary
+requirements for primary cervical cancer screening     cervical cancer screening. Clinical Microbiology and
+in women 30 years and older. Intl Journal of Cancer.   Infection. 2021;27(8):1083-1095. doi:10.1016/
+2009;124(3):516-520. doi:10.1002/ijc.24010             j.cmi.2021.04.031
+
+36. Arbyn M, Depuydt C, Benoy I, et al. VALGENT:       43. Heideman DAM, Hesselink AT, Berkhof J, et al.
+A protocol for clinical validation of human            Clinical Validation of the cobas 4800 HPV Test for
+papillomavirus assays. Journal of Clinical Virology.   Cervical Screening Purposes. J Clin Microbiol.
+2016;76:S14-S21. doi:10.1016/j.jcv.2015.09.014         2011;49(11):3983-3985. doi:10.1128/JCM.05552-11
+
+
+
+45        KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+                                                      51. Ejegod D, Bottari F, Pedersen H, Sandri MT,
+44. Lloveras B, Gomez S, Alameda F, et al. HPV        Bonde J. The BD Onclarity HPV Assay on Samples
+Testing by cobas HPV Test in a Population from        Collected in SurePath Medium Meets the
+Catalonia. Scheurer M, ed. PLoS ONE.                  International Guidelines for Human Papillomavirus
+2013;8(3):e58153. doi:10.1371/journal.pone.0058153    Test Requirements for Cervical Screening. Tang YW,
+                                                      ed. J Clin Microbiol. 2016;54(9):2267-2272.
+45. Mehta N, Keung MHT, Pineda E, et al. Clinical     doi:10.1128/JCM.00508-16
+validation of the Roche cobas HPV test on the
+Roche cobas 5800 system for the purpose of            52. Hesselink AT, Berkhof J, Van Der Salm ML, et al.
+cervical screening. Microbiol Spectr.                 Clinical Validation of the HPV-Risk Assay, a Novel
+2024;12(10):e0149324. doi:10.1128/spect-              Real-Time PCR Assay for Detection of High-Risk
+rum.01493-24                                          Human Papillomavirus DNA by Targeting the E7
+                                                      Region. Caliendo AM, ed. J Clin Microbiol.
+46. Hesselink AT, Heideman DAM, Berkhof J, et al.     2014;52(3):890-896. doi:10.1128/JCM.03195-13
+Comparison of the Clinical Performance of
+PapilloCheck Human Papillomavirus Detection           53. Polman NJ, Oštrbenk A, Xu L, et al. Evaluation
+with That of the GP5+/6+-PCR-Enzyme                   of the Clinical Performance of the HPV-Risk Assay
+Immunoassay in Population-Based Cervical              Using the VALGENT-3 Panel. Tang YW, ed. J Clin
+Screening. J Clin Microbiol. 2010;48(3):797-801.      Microbiol. 2017;55(12):3544-3551. doi:10.1128/
+doi:10.1128/JCM.01743-09                              JCM.01282-17
+
+47 Arbyn M, Snijders PJF, Meijer CJLM, et al. Which   54. Hesselink AT, Sahli R, Berkhof J, et al. Clinical
+high-risk HPV assays fulfil criteria for use in       validation of AnyplexTM II HPV HR Detection
+primary cervical cancer screening? Clinical           according to the guidelines for HPV test
+Microbiology and Infection. 2015;21(9):817-826.       requirements for cervical cancer screening. Journal
+doi:10.1016/j.cmi.2015.04.015                         of Clinical Virology. 2016;76:36-39. doi:10.1016/j.
+                                                      jcv.2016.01.009
+48. Heard I, Cuschieri K, Geraets DT, Quint W,
+Arbyn M. Clinical and analytical performance of       55. Jung S, Lee B, Lee KN, Kim Y, Oh EJ. Clinical
+the PapilloCheck HPV-Screening assay using the        Validation of Anyplex II HPV HR Detection Test for
+VALGENT framework. Journal of Clinical Virology.      Cervical Cancer Screening in Korea. Archives of
+2016;81:6-11. doi:10.1016/j.jcv.2016.05.004           Pathology & Laboratory Medicine. 2016;140(3):
+                                                      276-280. doi:10.5858/arpa.2015-0117-OA
+49. Ejegod DM. Clinical Validation of the BD
+Onclarity? HPV Assay Using a Non-Inferiority Test.    56. Cuschieri K, Geraets D, Cuzick J, et al.
+J Med Microb Diagn. 2015;s3. doi:10.4172/2161-        Performance of a Cartridge-Based Assay for
+0703.S3-003                                           Detection of Clinically Significant Human
+                                                      Papillomavirus (HPV) Infection: Lessons from
+50. Cuschieri K, Geraets DT, Moore C, Quint W,        VALGENT (Validation of HPV Genotyping Tests).
+Duvall E, Arbyn M. Clinical and Analytical            Loeffelholz MJ, ed. J Clin Microbiol. 2016;54(9):
+Performance of the Onclarity HPV Assay Using the      2337-2342. doi:10.1128/JCM.00897-16
+VALGENT Framework. Tang YW, ed. J Clin Microbiol.
+2015;53(10):3272-3279. doi:10.1128/JCM.01366-15       57. Boers A, Wang R, Slagter-Menkema L, et al.
+
+
+
+
+46       KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+Clinical Validation of the Cervista HPV HR Test        Framework. The Journal of Molecular Diagnostics.
+According to the International Guidelines for          2023;25(9):702-708. doi:10.1016/j.
+Human Papillomavirus Test Requirements for             jmoldx.2023.06.004
+Cervical Cancer Screening. Tang YW, ed. J Clin
+Microbiol. 2014;52(12):4391-4393. doi:10.1128/         64. Reid JL, Wright TC, Stoler MH, et al. Human
+JCM.02716-14                                           Papillomavirus Oncogenic mRNA Testing for
+                                                       Cervical Cancer Screening. American Journal of
+58. Heideman DAM, Hesselink AT, Van Kemenade           Clinical Pathology. 2015;144(3):473-483. doi:10.1309/
+FJ, et al. The Aptima HPV Assay Fulfills the           AJCPHVD7MIP3FYVV
+Cross-Sectional Clinical and Reproducibility
+Criteria of International Guidelines for Human         65. Forslund O, Miriam Elfström K, Lamin H,
+Papillomavirus Test Requirements for Cervical          Dillner J. HPV-mRNA and HPV-DNA detection in
+Screening. J Clin Microbiol. 2013;51(11):3653-3657.    samples taken up to seven years before severe
+doi:10.1128/JCM.01517-13                               dysplasia of cervix uteri. Intl Journal of Cancer.
+                                                       2019;144(5):1073-1081. doi:10.1002/ijc.31819
+59. Latsuzbaia A, Van Keer S, Vanden Broeck D, et
+al. Clinical Accuracy of Alinity m HR HPV Assay on     66. Iftner T, Neis KJ, Castanon A, et al. Longitudinal
+Self- versus Clinician-Taken Samples Using the         Clinical Performance of the RNA-Based Aptima
+VALHUDES Protocol. J Mol Diagn. 2023;25(12):957-       Human Papillomavirus (AHPV) Assay in
+966. doi:10.1016/j.jmoldx.2023.09.008                  Comparison to the DNA-Based Hybrid Capture 2
+                                                       HPV Test in Two Consecutive Screening Rounds
+60. Martinelli M, Latsuzbaia A, Bonde J, et al.        with a 6-Year Interval in Germany. Tang YW, ed.
+Performance of BD Onclarity HPV Assay on                J Clin Microbiol. 2019;57(1):e01177-18. doi:10.1128/
+FLOQSwabs Vaginal Self-Samples. Public and Global      JCM.01177-18
+Health; 2023. doi:10.1101/2023.07.08.23292408
+                                                       67. Kares S, Veijalainen O, Kholová I, et al.
+61. Latsuzbaia A, Vanden Broeck D, Van Keer S, et      HIGH-RISK HPV testing as the primary screening
+al. Validation of BD Onclarity HPV Assay on Vaginal    method in an organized regional screening
+Self-Samples versus Cervical Samples Using the         program for cervical cancer: the value of HPV16
+VALHUDES Protocol. Cancer Epidemiology,                and HPV18 genotyping? APMIS. 2019;127(11):
+Biomarkers & Prevention. 2022;31(12):2177-2184.        710-716. doi:10.1111/apm.12990
+doi:10.1158/1055-9965.EPI-22-0757
+                                                       68. Benevolo M, Allia E, Gustinucci D, et al.
+62. Latsuzbaia A, Vanden Broeck D, Van Keer S, et      Interobserver reproducibility of cytologic p16 INK4a/
+al. Clinical Performance of the RealTim e High Risk    Ki-67 dual immunostaining in human papilloma-
+HPV Assay on Self-Collected Vaginal Samples            virus-positive women. Cancer Cytopathology.
+within the VALHUDES Framework. Lainhart W, ed.         2017;125(3):212-220. doi:10.1002/cncy.21800
+Microbiol Spectr. 2022;10(5):e01631-22. doi:10.1128/
+spectrum.01631-22                                      69. WHO. WHO Classification of Tumours Online.
+                                                       Published online 2023. https://tumourclassifi-
+63. Latsuzbaia A, Vanden Broeck D, Van Keer S,         cation.iarc.who.int/welcome/
+et al. Comparison of the Clinical Accuracy of Xpert
+HPV Assay on Vaginal Self-Samples and Cervical         70. Bloomfield HE, Olson A, Greer N, et al.
+Clinician-Taken Samples within the VALHUDES            Screening Pelvic Examinations in Asymptomatic,
+
+
+
+47       KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+                                                         prospective randomised trial in Finland. The BMJ.
+Average-Risk Adult Women: An Evidence Report for         2012;345. doi:10.1136/bmj.e7789
+a Clinical Practice Guideline From the American
+College of Physicians. Ann Intern Med.                   77. Veijalainen O, Kares S, Kotaniemi-Talonen L,
+2214;161(1):46. doi:10.7326/M13-2881                     et al. Primary HPV screening for cervical cancer:
+                                                         Results after two screening rounds in a regional
+71. Korfage IJ, van Ballegooijen M, Huveneers H,         screening program in Finland. Acta Obstet Gynecol
+Essink-Bot ML. Anxiety and borderline PAP smear          Scand. 2021;100(3):403-409. doi:10.1111/aogs.14021
+results. European Journal of Cancer. 2010;46(1):134-
+141. doi:10.1016/j.ejca.2009.07.003                      78. Sarkeala, Tytti, Lamminmäki, Maarit. Miten
+                                                         houkuttelen syöpäseulontoihin? Duodecim.
+72. Ideström M, Milsom I, Andersson-Ellström A.          2022;138(16). Accessed November 21, 2023.
+Women’s experience of coping with a positive Pap         https://www.duodecimlehti.fi/duo16976
+smear: a register-based study of women with two
+consecutive Pap smears reported as CIN 1. Acta           79. Rokotuskattavuus. https://www.thl.fi/roko/
+Obstet Gynecol Scand. 2003;82(8):756-761.                vaccreg/atlas/public/atlas.html?show=hpv
+doi:10.1080/j.1600-0412.2003.00165.x
+                                                         80. Lehtinen M, Baussano I, Paavonen J, Vänskä S,
+73. Athanasiou A, Veroniki AA, Efthimiou O, et al.       Dillner J. Eradication of human papillomavirus and
+Comparative effectiveness and risk of preterm birth      elimination of HPV-related diseases – scientific
+of local treatments for cervical intraepithelial         basis for global public health policies. Expert Review
+neoplasia and stage IA1 cervical cancer:                 of Vaccines. 2019;18(2):153-160. doi:10.1080/147605
+a systematic review and network meta-analysis.           84.2019.1568876
+The Lancet Oncology. 2022;23(8):1097-1108.
+doi:10.1016/S1470-2045(22)00334-5                        81. Vänskä S, Auranen K, Leino T, et al. Impact of
+                                                         Vaccination on 14 High-Risk HPV Type Infections:
+74. Kyrgiou M, Athanasiou A, Paraskevaidi M, et al.      A Mathematical Modelling Approach. Wu JT, ed.
+Adverse obstetric outcomes after local treatment         PLoS ONE. 2013;8(8):e72088. doi:10.1371/journal.
+for cervical preinvasive and early invasive disease      pone.0072088
+according to cone depth: systematic review and
+meta-analysis. BMJ. Published online July 28,            82. Vänskä S, Bogaards JA, Auranen K, Lehtinen M,
+2016:i3633. doi:10.1136/bmj.i3633                        Berkhof J. Fast approximate computation of
+                                                         cervical cancer screening outcomes by a
+75. Ronco G, Giorgi-Rossi P, Carozzi F, et al. Results   deterministic multiple-type HPV progression
+at Recruitment From a Randomized Controlled Trial        model. Mathematical Biosciences. 2019;309:92-106.
+Comparing Human Papillomavirus Testing Alone             doi:10.1016/j.mbs.2019.01.006
+With Conventional Cytology as the Primary Cervical
+Cancer Screening Test. JNCI Journal of the National      83. Terveyden ja hyvinvoinnin laitoksen asettaman
+Cancer Institute. 2008;100(7):492-501. doi:10.1093/      papilloomavirustautien torjuntatyöryhmän selvitys
+jnci/djn065                                              30.4.2011. Published online 2011. https://www.
+                                                         julkari.fi/bitstream/handle/10024/80336/94d6f45d-
+76. Leinonen MK, Nieminen P, Lönnberg S, et al.          22e1-4b53-b615-2eea48d90e1c.pdf?sequence=1&is-
+Detection rates of precancerous and cancerous            Allowed=y
+cervical lesions within one screening round of
+primary human papillomavirus DNA testing:
+
+
+
+48        KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+                                                           kauimmaiseen reunaan lasin mattapäästä katsottuna.
+20. LIITTEET                                               2. Portionäyte otetaan siten, että lastaimen lovetun
+LIITE 1. SUOMEN KOLPOSKOPIAYHDISTYKSEN                     pään pidempi kärki asetetaan kohdunkaulakana-
+KOULUTUSOHJELMAN SISÄLTÖ                                   vaan jolloin lovettu reuna nojaa kohdunnapukkaan
+Suomen kolposkopiayhdistyksen koulutusohjelman             ja solunäytteen keräämiseksi lastainta kierretään
+sisältö (curriculum) on kuvattu tiivistettynä alla.        tässä asennossa kohdunkaulakanavan ulkosuulla 1-2
+Lisätietoja https://www.kolposkopiayhdistys.fi/)           kierrosta ympäri, jolloin näytteeseen saadaan soluja
+Koulutus sisältää seuraavat aihepiirit:                    kohdunkaulan ns. muuntumisalueelta. Portionäyte
+● Kliininen pätevyys, yleinen pätevyys, sitoutu-           sivellään lasin keskiosaan ohuena kalvona.
+  neisuus jatkuvaan lääketieteellisten tietojen ja
+  taitojen päivittämiseen, ammatilliset ydinarvot          3. Endoserviksin eli kohdunkaulakanavan näyte
+● Kouluttautujan pitää olla naistentautien ja synny-       kerätään soluharjalla, joka työnnetään kohdunkaula-
+  tysten erikoislääkäri tai alalle erikoistuva. Kaikkien   kanavaan niin että harjakset menevät piiloon ja har-
+  koulutettavien pitää tutustua alan viimeisimpään         jaa kierretään 360 astetta (1 kierros) kohdunkaula-
+  Käypä Hoito-suositukseen ja suorittaa siihen             kanavassa limakalvopintaa pitkin. Jos ensimmäinen
+  liittyvä verkkotentti ja -kurssi, ennen kliinisen 		     näyte on runsaasti limainen, kannattaa ottaa varsi-
+  osuuden alkamista. European Federation for               nainen näyte uudella soluharjalla. Endoserviksnäyte
+  Colposcopy:n (EFC) järjestämä Basic Colposcopy           siirretään soluharjasta objektilasille pyörittämällä
+  Course täydentää tätä ja on myös suositeltava.           harjaa lasilla. Endoserviksnäyte tulee objektilasille
+● On suositeltavaa, että kliininen harjoittelu suori-      lähimmäksi lasin mattapäätä portionäytteen viereen.
+  tetaan 12 kk aikana. Koulutettavan pitää nähdä
+  tutkia/hoitaa 50 potilasta (joista 20 täytyy olla 		     Näyte kiinnitetään fiksaatiosuihkeella välittömästi,
+  ensikäyntejä) ohjauksessa ja 50 potilasta (joista        kun endoserviksnäyte on lisätty objektilasille. Mikäli
+  30 ensikäyntejä) epäsuorassa ohjauksessa. Hoito-         käytetään fiksaatiosuihketta käytetään 3-4 suihkausta
+  toimenpiteet voivat sisältyä näihin lukuihin. Hyvä       lasille 20-30 senttimetrin päästä siten, että koko lasi
+  kommunikointikyky ja potilaan kohtaamisen                peittyy kunnolla. Fiksoidun näytelasin annetaan
+  hallitseminen ovat kolposkopistin avaintaitoja. 		       kuivahtaa ennen kuljetuslaatikkoon pakkausta.
+  Koulutettavan tulee osallistua vähintään kuuteen         Näyte voidaan fiksoida myös upottamalla näytelasi
+  yhteiskokoukseen patologien kanssa (Multi-               välittömästi näytteen oton jälkeen mieluiten 90 %
+  disciplinary Team Meeting)                               etanoliin 10–15 minuutin ajaksi. Sen jälkeen se ilma-
+● Lokikirja dokumentoi koulutettavan edistystä 		          kuivataan ennen kuljetusta. Kiinnittämätön näyte ei
+  teoreettisella ja kliinisellä puolella. Kouluttajan on   ole lainkaan käyttökelpoinen.
+  hyvä säännöllisesti käydä läpi lokikirja ja tunnistaa
+  mahdolliset ongelmat yhdessä koulutettavan 		            Nestepapanäyte otetaan näytevalmistajan ohjeen
+  kanssa. Lisäksi lokikirja heijastaa kliinisen 		         mukaisella näytteenottovälineellä kohdunkaula-
+  kokemuksen karttumista.                                  kanavan muuntumisalueelta (vrt. portionäyte).
+                                                           Kerätty irtosolumateriaali siirretään tämän jälkeen
+LIITE 2. PERINTEISEN SYTOLOGISEN                           ohjeen mukaisesti kuljetusnesteeseen.
+NÄYTTEEN OTTAMINEN
+Perinteinen sytologinen näyte otetaan kolmi-
+vaiheisesti:
+1.Vaginanäyte kaavitaan lastaimen pyöreällä/tasai-
+semmalla päällä kohdunnapukan ympäriltä ja
+sivellään objektilasille ohuena kalvona objektilasin
+
+
+
+49        KOHDUNKAULAN SYÖVÄN SEULONNAN LAATUKÄSIKIRJA
+

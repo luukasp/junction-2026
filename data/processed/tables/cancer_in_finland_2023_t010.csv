@@ -1,0 +1,35 @@
+Cancer site,ICD-10,5-year relative survival (%) | All,5-year relative survival (%) | Age at diagnosis | 0-54,5-year relative survival (%) | Age at diagnosis | 55-74,5-year relative survival (%) | Age at diagnosis | 75+
+All sites together,"C00-96,D09.0-1,D32-33,D41-43,D45-47,D76",72,89,75,60
+"Mouth, pharynx",C00-14,77,91,76,73
+Digestive organs,C15-26,45,66,49,37
+Oesophagus,C15,15,38,14,13
+Stomach,C16,38,58,43,28
+Colon and rectum,C18-20,70,78,73,64
+Colon,C18,69,79,72,64
+"Rectum, rectosigmoid",C19-20,70,77,75,62
+Liver,C22,7,16,9,4
+"Gallbladder, bile ducts",C23-24,12,31,18,5
+Pancreas,C25,8,34,10,2
+Respiratory and intrathoracic organs,C30-39,26,54,28,19
+"Lung, trachea",C33-34,24,48,26,19
+Breast,C50,92,94,94,87
+Female genital organs,C51-58,67,85,71,52
+Cervix uteri,C53,75,88,56,42
+Corpus uteri,C54,81,91,86,72
+Ovary etc.,"C48.1-2 (Serous), C56, C57.0-4",47,76,50,27
+Urinary organs,"C64-68,D09.0-1,D41.1-9",69,83,73,62
+Kidney,C64,74,84,74,67
+Bladder and urinary tract,"C65-68,D09.0-1,D41.1-9",65,80,72,58
+Skin,C43-44,94,98,96,92
+Melanoma of the skin,C43,95,98,96,90
+"Skin, squamous cell carcinoma",C44 (Squamous cell),95,99,96,95
+"Brain, meninges and central nervous system","C70-72,D32-33,D42-43",79,91,80,63
+Glioma,–,32,69,14,3
+Meningeoma,–,97,99,96,97
+Endocrine glands,C73-75,94,99,96,77
+Thyroid gland,C73,94,100,97,74
+Soft tissues,C48-49,63,82,64,52
+Lymphoid and haematopoietic tissue,"C81-96,D45-47,D76",69,92,77,48
+Hodgkin lymphoma,C81,93,100,88,41
+Mature B-cell neoplasms,–,68,92,78,51
+Myeloma and other plasma cell tumors,C90,49,89,62,30

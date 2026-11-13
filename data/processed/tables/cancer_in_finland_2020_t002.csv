@@ -1,0 +1,12 @@
+Cancer type,Detected,Prediction,Registration,Registration [2],Covid-19,Covid-19 [2]
+All sites together,34 760,37 378,1 015,(2.7%),1 603,(4.3%)
+Prostate,5 035,5 535,19,(0.3%),481,(8.7%)
+Breast (women),4 885,5 235,18,(0.3%),333,(6.4%)
+Colon and rectum,3 617,3 741,53,(1.4%),71,(1.9%)
+Lymphoid and haematopoietic tissue,3 327,3 609,305,(8.4%),-22,(-0.6%)
+"Lung, trachea",2 801,3 031,171,(5.7%),59,(1.9%)
+"Skin, squamous cell carcinoma",1 916,1 906,-2,(-0.1%),-8,(-0.4%)
+Melanoma of the skin,1 543,1 956,4,(0.2%),409,(20.9%)
+Bladder and urinary tract,1 474,1 486,16,(1.1%),-3,(-0.2%)
+Pancreas,1 189,1 439,240,(16.7%),9,(0.7%)
+Kidney,992,1 074,30,(2.8%),52,(4.9%)

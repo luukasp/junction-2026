@@ -1,0 +1,10 @@
+Cancer site,ICD-10,Number of cases | Number,Number of cases | Change,Incidence | Rate 1,Incidence | Change,Deaths from cancer | Number,Deaths from cancer | Change,Mortality | Rate 1,Mortality | Change
+All sites together,"C00-96,D09.0-1,D32-33, D41-43,D45-47,D76",48800,25 %,670.5,4 %,15800,16 %,191.2,-12 %
+Prostate,C61,6470,15 %,191.4,-2 %,1260,24 %,30.0,-20 %
+Colon and rectum,C18-20,6060,33 %,81.8,10 %,1830,19 %,22.0,-9 %
+Breast (women),C50,5390,4 %,154.2,-8 %,952,10 %,21.8,-11 %
+Lymphoid and haematopoietic tissue,"C81-96,D45-47,D76",4730,25 %,63.6,3 %,1630,21 %,18.7,-12 %
+Melanoma of the skin,C43,2780,48 %,39.8,26 %,171,-26 %,2.0,-46 %
+Bladder and urinary tract,"C65-68,D09.0-1,D41.1-9",1940,23 %,25.2,-4 %,545,41 %,6.1,-3 %
+"Lung, trachea (men)",C33-34,1660,0 %,47.6,-17 %,1270,-3 %,35.6,-20 %
+"Lung, trachea (women)",C33-34,1440,19 %,33.6,-3 %,1000,13 %,21.7,-12 %

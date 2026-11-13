@@ -1,0 +1,70 @@
+Cancer site,ICD-10,MV (%) | 2023,MV (%) | 2024,MV (%) | 2025,DCO (%) | 2023,DCO (%) | 2024
+All sites together,"C00-96,D09.0-1,D32-33, D41-43,D45-47,D76",90.1,90.7,95.9,1.5,4.9
+"Mouth, pharynx",C00-14,98.2,97.0,99.1,0.7,1.0
+Lip,C00,100.0,96.6,98.2,0.0,0.0
+Tongue,C02,97.9,97.4,100.0,1.6,1.5
+Salivary glands,C07-08,99.0,98.3,98.8,0.0,0.0
+"Mouth, other or unspecified",C03-06,98.7,97.7,100.0,0.4,0.9
+Pharynx,"C01,C09-14",97.4,95.8,98.3,0.7,1.4
+Digestive organs,C15-26,84.9,86.0,94.0,1.8,9.0
+Oesophagus,C15,92.6,92.0,98.9,1.5,5.3
+Stomach,C16,95.6,96.4,98.7,0.8,2.8
+Small intestine,C17,94.9,96.6,97.9,1.6,2.2
+Colon and rectum,C18-20,95.6,95.4,97.7,0.7,2.9
+Anus,C21,95.3,93.4,96.0,0.0,3.3
+Liver,C22,64.6,68.7,83.2,1.7,16.2
+"Gallbladder, bile ducts",C23-24,71.1,76.8,91.9,5.1,15.9
+Pancreas,C25,56.7,59.9,77.1,2.8,26.2
+"Digestive organs, other and unspecified",C26,65.2,65.7,94.6,18.8,29.8
+Respiratory and intrathoracic organs,C30-39,81.4,82.2,93.8,2.5,12.6
+"Nose, sinuses",C30-31,95.2,95.7,100.0,0.0,0.0
+"Larynx, epiglottis",C32,95.4,96.2,99.2,2.3,3.1
+"Lung, trachea",C33-34,80.7,81.8,93.4,2.3,12.8
+Other or unspecified respiratory or intrathoracic organs,C37-39,71.4,59.7,90.5,12.9,31.3
+Breast,C50,99.1,99.2,99.7,0.5,0.6
+Female genital organs,C51-58,96.8,95.4,98.4,1.8,4.1
+Cervix uteri,C53,99.5,97.7,97.7,0.0,1.9
+Corpus uteri,C54,99.0,98.7,99.3,0.4,1.1
+Ovary etc.,"C48.1-2 (Serous), C56, C57.0-4",95.7,93.1,97.3,3.8,5.9
+Vulva,C51,97.3,100.0,98.2,0.0,0.0
+Vagina,C52,95.8,91.7,100.0,4.2,0.0
+Placenta,C58,100.0,100.0,–,0.0,0.0
+"Female genital, other and unspecified","C55,C57.5-9",60.7,51.7,97.5,12.5,46.6
+Male genital organs,C60-63,98.7,99.0,99.7,0.4,0.5
+Penis,C60,96.0,98.3,98.2,2.0,1.7
+Prostate,C61,98.7,99.1,99.7,0.4,0.5
+Testis,C62,99.4,96.3,98.7,0.6,0.5
+"Male genital, other and unspecified",C63,100.0,100.0,100.0,0.0,0.0
+Urinary organs,"C64-68,D09.0-1,D41.1-9",95.7,95.7,98.5,0.9,3.2
+Kidney,C64,93.5,93.6,97.5,1.6,5.3
+Bladder and urinary tract,"C65-68,D09.0-1,D41.1-9",97.1,97.1,99.1,0.4,1.9
+Skin,C43-44,99.8,99.5,99.5,0.0,0.1
+Melanoma of the skin,C43,99.8,99.3,99.4,0.1,0.1
+"Skin, squamous cell carcinoma",C44 (Squamous cell),100.0,100.0,99.7,0.0,0.0
+"Skin, other",C44 (Other),98.1,95.9,98.6,0.0,2.4
+Eye,C69,44.4,39.2,44.7,0.0,0.0
+"Brain, meninges and central nervous system","C70-72,D32-33,D42-43",54.1,61.3,78.6,0.5,3.7
+Glioma,–,97.1,99.2,98.5,0.0,0.0
+Meningeoma,–,99.8,99.3,99.4,0.0,0.0
+"CNS, nerve sheath tumor",–,36.4,45.3,74.4,0.0,0.0
+"Other and unspecified tumor of brain, meninges and central nervous system",–,6.7,6.5,10.8,1.3,10.5
+Endocrine glands,C73-75,98.2,98.7,99.1,0.6,0.4
+Thyroid gland,C73,98.7,98.8,99.2,0.3,0.5
+Adrenal gland,C74,100.0,95.8,100.0,0.0,0.0
+Other endocrine glands,C75,88.2,100.0,95.8,5.9,0.0
+Mesothelioma,C45,96.0,94.3,100.0,3.0,5.7
+Bone,C40-41,91.1,94.5,100.0,3.6,5.5
+Soft tissues,C48-49,94.1,92.9,95.1,0.7,3.8
+"Peripheral nerves, autonomic nervous system",C47,100.0,100.0,100.0,0.0,0.0
+Ill-defined or unknown,"C76,C80",47.6,47.1,94.7,30.2,49.8
+Lymphoid and haematopoietic tissue,"C81-96,D45-47,D76",85.9,84.3,87.0,1.5,4.3
+Hodgkin lymphoma,C81,98.4,98.0,100.0,0.0,1.0
+Mature B-cell neoplasms,–,92.0,90.5,91.2,0.5,1.9
+Mature T and NK cell lymphomas/leukaemias,C84,100.0,99.3,97.5,0.0,0.0
+Acute lymphoblastic leukaemia/lymphoma,C91.0,92.3,89.2,87.1,0.0,1.5
+Acute myeloid leukaemia,C92.0,79.0,75.3,70.3,2.5,11.2
+"Non-Hodgkin lymphoma, other or unspeficied",C85,72.6,70.3,90.8,8.0,24.3
+"Leukaemia, other or unspecified",C95,36.7,45.7,71.0,16.3,37.0
+Myeloproliferative neoplasms,"C92.1,D45,D47.1,D47.3",78.4,72.7,76.7,2.2,1.9
+Myelodysplastic syndromes and myelodysplastic/myeloproliferative neoplasms,–,59.8,59.4,70.6,3.9,15.8
+"Other, unspecified or mixed hematological disease","C96, D76",57.1,95.8,100.0,0.0,4.2

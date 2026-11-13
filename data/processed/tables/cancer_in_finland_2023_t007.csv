@@ -1,0 +1,6 @@
+Cancer site,ICD-10,All | Number of people | Number,All | Number of people | Change,All | Prevalence | Rate 1,All | Prevalence | Change,Less than 5 years since diagnosis | Number of people | Number,Less than 5 years since diagnosis | Number of people | Change,Less than 5 years since diagnosis | Prevalence | Rate 1,Less than 5 years since diagnosis | Prevalence | Change
+All sites together,"C00-96,D09.0-1,D32-33, D41-43,D45-47,D76",459000,38 %,6 188,16 %,141000,28 %,2 008,12 %
+Breast,C50,102000,21 %,2 604,4 %,24300,7 %,701,-4 %
+Prostate,C61,77600,23 %,2 084,-5 %,27800,19 %,810,1 %
+Colon and rectum,C18-20,58300,76 %,743,43 %,22400,59 %,302,35 %
+"Lung, trachea",C33-34,9030,24 %,119,6 %,4830,8 %,66,-4 %

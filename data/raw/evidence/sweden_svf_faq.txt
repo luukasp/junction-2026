@@ -1,0 +1,200 @@
+Frågor och svar om standardiserade vårdförlopp (SVF) - Regionala cancercentrum i samverkan
+Hoppa till innehåll
+Regionala cancercentrum i samverkan - till startsida
+Kunskapsbanken
+, länk till annan webbplats.
+In English
+Ange sökord
+Sök
+Sök
+Meny
+Regionsväljare
+Välj region
+Samverkan
+Nationell
+Mellansverige
+Norr
+Stockholm Gotland
+Syd
+Sydöst
+Väst
+Välj
+Prevention & tidig upptäckt
+Diagnos & behandling
+Rehabilitering & palliativ vård
+Utvecklingsarbete & utbildning
+Om RCC
+INCA
+Startsida
+/
+Diagnos & behandling
+/
+Vårdförlopp, SVF
+/
+Frågor och svar
+Frågor och svar om standardiserade vårdförlopp (SVF)
+Här hittar du frågor och svar om standardiserade vårdförlopp och satsningen på kortare väntetider i cancervården. Har du en fråga du inte hittar här? Skicka in din egen fråga!
+Välkommen att skicka in din fråga
+.
+Generella frågor om kodning/mätpunkter
+Start och avslut av standardiserat vårdförlopp
+Uppföljning och ledtider
+Generella frågor om kodning/mätpunkter
+Hur gör vi när vi inte får tag i patienten?
+Om SVF fördröjs mer än tre veckor på grund av att ni inte får kontakt med patienten ska SVF avslutas med orsakskod ”VXX76 – Patientens val” även om patienten här inte gjort ett aktivt val.
+Vilket datum sätter man för KVÅ-koderna för överflyttning?
+Koden (VXX91) används för att markera själva mottagandet och det är datum för remissmottagandet som ska anges.
+Man ska ange om SVF startat i primärvården eller specialistvården. Hur definierar man företagshälsovården?
+Företagshälsovården kan klassas som primärvård i det här sammanhanget.
+Kan en patient ingå i samma SVF mer än en gång?
+Ja, t.ex. om ett SVF har avslutats första gången på grund av att kriterierna för välgrundad misstanke inte var uppfyllda, men att det vid ett förnyat besökstillfälle finns symtom som uppfyller kriterierna för välgrundad misstanke. Vid misstanke om ny primärtumör efter avslutad uppföljning, och för vissa vårdförlopp även under pågående uppföljning (se respektive kodningsvägledning), ska nytt SVF startas.
+Kan en patient ingå i flera SVF samtidigt?
+Ja, om två cancerdiagnoser misstänks samtidigt ska patienten utredas och kodas för SVF i båda diagnoserna, t.ex. om en misstänkt primär lungcancer upptäcks inom utredningen av en annan diagnos. Planeringen kommer att behöva vara individuell och anpassas till vad som är till störst nytta för patienten.
+Hur hanterar vi återfall i relation till standardiserade vårdförlopp?
+Ett standardiserat vårdförlopp (SVF) ska endast omfatta de patienter som får den aktuella cancerdiagnosen för första gången och de som insjuknar igen efter ett avslutat uppföljnings- eller kontrollprogram. Patienter som får återfall (recidiv) under pågående uppföljning ska inte inkluderas i SVF. I några SVF finns förtydliganden av hur nya primärtumörer ska betraktas i detta sammanhang. En sammanställning av detta finns i
+kodningsvägledningen för samtliga diagnoser
+pdf, 684 kB.
+.
+Finns det patientriktad information om satsningen?
+Ja, information till patienter och närstående har tagits fram på nationellt nivå. Materialet distribueras till regionerna via
+cancercentrum.se
+och kan anpassas efter regionala och lokala behov och förutsättningar. Det finns även information om standardiserade vårdförlopp som vänder sig till patienter och närstående på
+1177.se
+Länk till annan webbplats.
+.
+Ska barn inkluderas i SVF?
+SVF gäller patienter som är 18 år och äldre. Undantaget är SVF för akuta leukemier som även gäller patienter 16–18 år som vårdas vid vuxenklinik.
+Tillbaka till alla frågor
+Start och avslut av standardiserat vårdförlopp
+Vad är det för skillnad på misstanke och välgrundad misstanke om cancer?
+I de flesta vårdförlopp anges vilka symtom eller fynd som ska ge misstanke om diagnosen och vilka utredningar som ska vidtas för att säkerställa eller avfärda att ett kriterium för välgrundad misstanke är uppfyllt. Vid välgrundad misstanke ska det standardiserade vårdförloppet startas. Välgrundad misstanke kan också uppstå utan att det tidigare har funnits någon misstanke, t.ex. som ett bifynd i samband med undersökning som görs av något annat skäl.
+Kan en patient starta ett standardiserat vårdförlopp själv med en egen vårdbegäran?
+En så kallad egen vårdbegäran granskas på samma sätt som en remiss från t.ex. primärvården. Om beskrivningen innehåller symtom som ingår i definitionen av välgrundad misstanke kan remissgranskaren starta utredning enligt standardiserat vårdförlopp.
+Ska välgrundad misstanke registreras även en bit in i ett utredningsförlopp, då man av olika skäl missat att registrera välgrundad misstanke tidigare?
+Ja, välgrundad misstanke ska alltid registreras då någon inser att kriterierna är uppfyllda, oavsett om någon annan borde ha insett det tidigare. Vid uppföljning kommer det att ge en falskt kortare ledtid, vilket påverkar statistiken. Då systemet satt sig kommer detta bli allt mer sällsynt.
+När ett bilddiagnostiskt fynd ger välgrundad misstanke, vilket datum ska anges som start av SVF?
+Koden VXX10 – Beslut välgrundad misstanke, ska sättas det datum då patienten får information om fyndet. Det innebär naturligtvis en fördröjning jämfört med om koden skulle sättas vid datum för undersökning eller vid svar till remittenten, men ett SVF ska aldrig starta utan en föregående dialog med patienten och detta får anses vara överordnat.
+När en remiss kommer in där det tydligt framgår att kriterierna för välgrundad misstanke är uppfyllda men SVF ändå inte är startat, vilket datum ska anges som start av SVF?
+Huvudprincipen är att ett SVF inte ska starta utan en föregående dialog med patienten. Alltså sätts koden VXX10 – Beslut välgrundad misstanke det datum då patienten får information om att det finns cancermisstanke och att utredningen därför kommer att ske enligt SVF.
+När avslutas ett standardiserat vårdförlopp?
+För patienter som får en cancerdiagnos avslutas vårdförloppet när patienten startar sin första cancerbehandling. Denna behandling kan vara operation, strålbehandling, medicinsk behandling eller ett beslut om så kallad exspektans (regelbunden uppföljning av patienten utan att sätta in tumörbehandling). För patienter som inte får en cancerdiagnos avslutas vårdförloppet då utredningar visar att cancer kan uteslutas/ej bekräftas. I dessa fall avslutas alltså vårdförloppet det datum då patienten får information om utredningsresultat.
+SVF har startats vid misstanke om ny primärtumör hos en tidigare cancerpatient, men PAD visar att det är ett recidiv eller en metastas av den tidigare cancern - vilken avslutningskod ska användas?
+Om patienten är under pågående uppföljning för sin tidigare diagnos bör SVF avslutas med "VXX70 – Kriterier för välgrundad misstanke ej uppfyllda".
+Om uppföljnings- eller kontrollprogrammet är avslutat bör SVF fortsätta tills patienten startar behandling. SVF avslutas då med koden för den aktuella behandlingen.
+Riktlinjerna för detta beskrivs i vårdförloppsdokumenten, under rubriken "Hantering av recidiv": "Ett standardiserat vårdförlopp (SVF) ska omfatta de patienter som får den aktuella cancerdiagnosen för första gången och de som insjuknar igen efter ett avslutat uppföljnings- eller kontrollprogram. Patienter som får recidiv under pågående uppföljning ska inte inkluderas i SVF, däremot omfattar vissa SVF även nya primärtumörer under uppföljning." Se respektive kodningsvägledning.
+När behandlingen inleds med strålbehandling mot en metastas, vilket datum ska man välja för behandlingsstart? Datumet för start av behandling mot metastasen eller datumet för start av behandling av själva primärtumören?
+Det är den första insatta behandlingen (utöver allmän symtomlindrande behandling) som räknas som start av behandling, oavsett om den riktas mot primärtumören eller mot en metastas.
+Ska avslutskoden ändras i efterhand?
+En patient opereras och avslutas med kod VXX50 – Start av behandling, kirurgi, men PAD-svaret visar inte på malignitet. Ska koden i efterhand ändras till VXX78 – Misstanke om cancer avskrivs?
+Nej, huvudprincipen ska vara att man inte kodar om.
+Hur avslutas SVF vid avbruten operation?
+Ibland kan en operation bara bli öppning och stängning, p.g.a. oväntad spridning eller annat fynd. Då blir operationen inte behandling. Hur ska SVF avslutas?
+SVF avslutas vid datum för operationen, kod VXX50 – Start av första behandling, kirurgi, eftersom operationen genomfördes med intentionen att vara behandling.
+Patienten avlider innan behandling startas – hur ska SVF avslutas?
+Använd kod VXX74 – Andra medicinska skäl.
+Patienten väljer vård i annat land – hur ska SVF avslutas?
+Använd avslutskod VXX76 – Patientens val.
+När ett SVF avslutas av annan orsak än behandlingsstart, vilket datum ska man sätta?
+Ange det datum då patienten får information om detta, t.ex. när patienten får diagnosbesked med annan diagnos.
+Hur ska SVF avslutas då ingen cancer påvisats men en uppföljning planeras då misstanke inte helt kan avskrivas?
+Använd kod VP878 – Misstanke om cancer avskrivs. Koden heter ”Misstanke om cancer avskrivs” men kan i vissa fall tolkas som ”Misstanke är ej bekräftad”.
+I vissa vårdförlopp finns koden ”exspektans” som kan användas i vissa situationer när patienten ska följas. Se respektive kodningsvägledning hur koden ska användas.
+Tillbaka till alla frågor
+Uppföljning och ledtider
+Målet är att 70 procent av cancerpatienterna ska utredas enligt SVF. Vilka är de 30 procent som inte ska inkluderas?
+Målet är att
+minst
+70 procent ska utredas enligt SVF. Det innebär inte att 30 procent av patienterna ska exkluderas. Det finns dock några exempel på patienter som av olika skäl inte kommer att inkluderas i SVF.
+Patienter som blir akutopererade och där operationen innebär både diagnos och behandlingsstart vid samma tillfälle.
+Patienter som inte vill bli utredda enligt SVF.
+Patienter där cancermisstanke uppstår i en mycket sen palliativ fas.
+Gemensamt för dessa grupper är att de inte gynnas av en snabb och standardiserad utredning. Det är vanligare i vissa diagnoser och mindre vanligt i andra diagnoser.
+Hur ska de angivna ledtiderna tolkas?
+Den ledtid som ska följas upp på nationell nivå (från välgrundad misstanke till start av första behandling) ska läsas som den sammanlagda maximala ledtiden (ej mediantid) angivet i kalenderdagar. Ledtidsuppgiften anger hur många kalenderdagar som åtgår för att med god kvalitet och säkerhet utföra alla nödvändiga utredningsmoment i en utredning, under förutsättning att det inte förekommer någon kötid eller andra organisatoriska fördröjningar.
+Som ett stöd i införandet finns även ledtider angivna för de ingående momenten i vårdförloppet. Dessa ledtider bygger på arbetsgruppens bedömning av vad som är medicinskt motiverad tid, men det finns inga krav på att regionerna måste klara att hålla dessa, så länge den sammanlagda ledtiden hålls.
+Beskrivningarna av vårdförloppen anger i vissa fall även vad som ska göras för att gå från misstanke till välgrundad misstanke och hur många dagar detta kan kräva. Den ledtiden kommer inte att mätas nationellt men kan fungera som vägledning och fördjupad uppföljning för regionerna.
+Tillbaka till alla frågor
+Tillbaka till alla frågor
+Prevention & tidig upptäckt
+Diagnos & behandling
+Cancerdiagnoser
+Cancerläkemedel
+Vårdprogram och stöddokument
+Vårdförlopp, SVF
+Strategisk utvärdering av SVF
+Mätning och kodning
+Handlingsplaner och redovisningar
+Ändringar, vårdförlopp
+Samordningsgrupp
+Arbetsgrupp kvalitetssäkring
+Dokument och informationsmaterial
+Frågor och svar
+Skicka in din fråga
+Nordisk samverkansgrupp för SVF
+Min vårdplan
+Individuell patientöversikt, IPÖ
+Kontaktsjuksköterska
+Diagnostik
+Precisionsmedicin
+Strålbehandling
+Uppföljning efter behandling
+Biverkningar
+Rehabilitering & palliativ vård
+Utvecklingsarbete & utbildning
+Om RCC
+Ansvarig redaktör:
+David Ekberg
+Faktaägare: Helena Brändström
+Sidan uppdaterad:
+3 november 2026
+Prevention & tidig upptäckt
+Diagnos & behandling
+Cancerdiagnoser
+Cancerläkemedel
+Vårdprogram och stöddokument
+Vårdförlopp, SVF
+Strategisk utvärdering av SVF
+Mätning och kodning
+Handlingsplaner och redovisningar
+Ändringar, vårdförlopp
+Samordningsgrupp
+Arbetsgrupp kvalitetssäkring
+Dokument och informationsmaterial
+Frågor och svar
+Skicka in din fråga
+Nordisk samverkansgrupp för SVF
+Min vårdplan
+Individuell patientöversikt, IPÖ
+Kontaktsjuksköterska
+Diagnostik
+Precisionsmedicin
+Strålbehandling
+Uppföljning efter behandling
+Biverkningar
+Rehabilitering & palliativ vård
+Utvecklingsarbete & utbildning
+Om RCC
+Mer om oss
+Följ RCC
+RCC på Via TT
+, länk till annan webbplats.
+RCC på LinkedIn
+, länk till annan webbplats.
+Kontakt
+RCC Samverkan
+RCC Mellansverige
+RCC Norr
+RCC Stockholm Gotland
+RCC Syd
+RCC Sydöst
+RCC Väst
+Genvägar
+Pressrum
+Nyhetsbrev
+Kunskapsbanken
+, länk till annan webbplats.
+Integritetspolicy
+Tillgänglighetsredogörelse
+Om kakor/ändra inställningar
+Regionala cancercentrum i samverkan - till startsida
+Till toppen av sidan

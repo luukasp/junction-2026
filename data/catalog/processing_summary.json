@@ -1,0 +1,14 @@
+{
+  "tables": 333,
+  "source_table_rows": 6709,
+  "screening_observations": 24585,
+  "regional_outcome_rows": 140,
+  "statfin_rows": {
+    "11ra": 18576,
+    "11ay": 8448,
+    "13u5": 18304
+  },
+  "county_screening_observations": 12864,
+  "county_lung_treatment_rows": 106,
+  "region_crosswalk_rows": 23
+}

@@ -1,0 +1,92 @@
+Cancer site,ICD-10,Incidence | Count,Incidence | Rate 1,Mortality | Count,Mortality | Rate 1,Prevalence | Count,Prevalence | Proportion 2
+All sites together,"C00-96,D09.0-1,D32-33, D41-43,D45-47,D76",19646,699.02,7023,253.64,142558,5057.4
+"Mouth, pharynx",C00-14,459,16.71,147,5.31,3927,141.2
+Lip,C00,35,1.26,–,0.04,563,21.4
+Tongue,C02,88,3.23,28,1.04,788,28.2
+Salivary glands,C07-08,49,1.76,10,0.40,466,16.7
+"Mouth, other or unspecified",C03-06,94,3.49,45,1.60,750,26.6
+Pharynx,"C01,C09-14",193,6.97,63,2.23,1413,50.3
+Digestive organs,C15-26,4263,152.18,2433,87.36,20400,726.7
+Oesophagus,C15,256,9.10,227,8.11,606,21.0
+Stomach,C16,416,14.53,254,9.15,1639,58.0
+Small intestine,C17,114,4.12,35,1.23,796,28.2
+Colon and rectum,C18-20,2241,80.84,754,27.35,15591,558.1
+Colon,C18,1341,48.61,458,16.76,9099,328.0
+"Rectum, rectosigmoid",C19-20,900,32.23,296,10.59,6678,236.8
+Anus,C21,29,1.00,12,0.44,173,6.1
+Liver,C22,359,12.47,314,11.04,658,22.8
+"Gallbladder, bile ducts",C23-24,158,5.54,148,5.32,310,10.6
+Pancreas,C25,569,20.16,612,21.79,781,27.2
+"Digestive organs, other and unspecified",C26,121,4.42,77,2.94,99,3.4
+Respiratory and intrathoracic organs,C30-39,1936,67.56,1563,54.67,4868,166.8
+"Nose, sinuses",C30-31,42,1.52,15,0.56,232,8.3
+"Larynx, epiglottis",C32,122,4.42,39,1.39,974,34.1
+"Lung, trachea",C33-34,1740,60.46,1495,52.24,3519,119.4
+Other or unspecified respiratory or intrathoracic organs,C37-39,32,1.16,14,0.50,176,6.1
+Breast,C50,30,1.12,5,0.20,301,10.8
+Male genital organs,C60-63,5723,201.14,943,35.61,65640,2309.5
+Penis,C60,55,2.00,10,0.40,404,14.5
+Prostate,C61,5514,193.69,920,34.75,61514,2161.5
+Testis,C62,150,5.30,11,0.37,3754,134.6
+"Male genital, other and unspecified",C63,–,0.15,–,0.08,75,2.6
+Urinary organs,"C64-68,D09.0-1,D41.1-9",1757,62.24,452,16.71,14956,531.8
+Kidney,C64,643,22.58,206,7.28,5510,194.8
+Bladder and urinary tract,"C65-68,D09.0-1,D41.1-9",1114,39.66,246,9.43,9583,341.9
+Skin,C43-44,2272,82.93,151,5.62,19618,718.7
+Melanoma of the skin,C43,1024,36.96,114,4.20,11027,397.0
+"Skin, squamous cell carcinoma",C44 (Squamous cell),1163,42.88,29,1.12,8187,308.2
+"Skin, other",C44 (Other),85,3.09,8,0.30,902,32.7
+Eye,C69,33,1.18,17,0.58,466,16.7
+"Brain, meninges and central nervous system","C70-72,D32-33,D42-43",514,18.60,244,8.86,4857,173.2
+Glioma,–,230,8.30,200,7.14,1613,57.8
+Meningeoma,–,108,3.78,7,0.25,1731,61.1
+"CNS, nerve sheet tumor",–,32,1.18,–,0.07,921,33.1
+"Other and unspecified tumor of brain, meninges and central nervous system",–,144,5.35,35,1.40,651,23.4
+Endocrine glands,C73-75,182,6.48,25,0.92,2605,93.1
+Thyroid gland,C73,155,5.49,18,0.65,2317,82.8
+Adrenal gland,C74,21,0.77,–,0.12,202,7.3
+Other endocrine glands,C75,6,0.22,–,0.15,90,3.2
+Mesothelioma,C45,60,2.09,62,2.12,110,3.7
+Bone,C40-41,29,1.06,11,0.42,488,17.6
+Soft tissues,C48-49,128,4.64,47,1.66,1301,46.9
+"Peripheral nerves, autonomic nervous system",C47,7,0.24,–,0.14,119,4.3
+Illdefined or unknown,"C76,C80",278,10.27,196,7.32,503,17.8
+Lymphoid and haematopoietic tissue,"C81-96,D45-47,D76",1975,70.58,723,26.15,16636,588.0
+Hodgkin lymphoma,C81,87,3.06,13,0.44,2075,74.2
+Mature B-cell neoplasms,–,1141,40.85,403,14.60,8643,303.5
+Chronic lymphatic leukaemia,C91.1,191,6.74,47,1.74,1864,65.0
+Diffuse B lymphoma,C83.3,384,13.77,150,5.48,2542,89.6
+Follicular B lymphoma,C82,148,5.25,26,0.93,1562,54.5
+Myeloma and other plasma cell tumors,C90,224,8.08,136,4.82,1237,43.5
+Burkitt’s lymhoma/leukaemia,C83.7,13,0.46,–,0.08,191,6.8
+Marginal zone lymphoma,C83.8,48,1.68,7,0.28,441,15.5
+Mantle cell lymphoma,C83.1,75,2.70,24,0.87,491,17.2
+Malignant immunoproliferative diseases,C88,51,1.90,8,0.31,276,9.9
+Other mature B-cell neoplasms,–,7,0.26,–,0.09,270,9.6
+Mature T and NK cell lymphomas/leukaemias,C84,87,3.05,30,1.09,628,22.4
+Mature T-cell neoplasias of the skin,C84.0-1,28,0.98,–,0.09,353,12.6
+Other T and NK cell lymphomas/leukaemias,C84.3-5,59,2.08,28,1.00,282,10.0
+Acute lymphoblastic leukaemia/lymphoma,C91.0,46,1.73,11,0.38,1068,38.2
+Acute myeloid leukaemia,C92.0,128,4.64,104,3.75,541,19.3
+"Non-Hodgkin lymphoma, other or unspeficied",C85,52,1.92,26,0.98,1390,49.4
+"Leukaemia, other or unspecified",C95,15,0.54,16,0.55,97,3.5
+Myeloproliferative neoplasms,"C92.1,D45,D47.1,D47.3",278,9.86,37,1.29,2014,71.4
+Chronic myeloid leukaemia,C92.1,30,1.06,–,0.11,345,12.4
+Polycythaemia vera,D45,77,2.74,7,0.25,535,18.9
+Myelofibrosis,D47.1,44,1.54,14,0.48,234,8.2
+Essential thrombocythemia,D47.3,88,3.10,–,0.14,727,25.8
+"Myeloproliferative neoplasm, other",D47.1,39,1.41,9,0.32,280,9.9
+Myelodysplastic syndromes and myelodysplastic/myeloproliferative neoplasms,–,134,4.70,81,3.01,319,11.0
+Myelodysplastic syndromes,D46,112,3.99,71,2.64,245,8.5
+Myelodysplastic/myeloproliferative neoplasms,–,22,0.71,10,0.37,75,2.5
+"Other, unspecified or mixed hematological disease","C96, D76",7,0.24,–,0.05,113,4.1
+Mastocytosis,C96.2,–,0.07,–,0.03,49,1.8
+Histiocytic and denritic cell neoplasms,"C96.1, D76",–,0.10,–,0.03,55,2.0
+"Other, unspecified or mixed hematological disease",C96.7-9,–,0.07,0,0.00,9,0.3
+Not included above,Not included above,Not included above,Not included above,Not included above,Not included above,Not included above,Not included above
+Basal cell carcinoma of the skin,C44 (Basal cell),4451,159.25,–,0.04,53924,1949.2
+Basal cell carcinoma of the genitals,"C51-53,C60-63 (Basal cell)",0,0.00,0,0.00,10,0.4
+Carcinoma in situ of the breast,D05,–,0.14,0,0.00,31,1.1
+Ductal carcinoma on situ of the breast,D05.1,–,0.10,0,0.00,25,0.9
+Lobular carcinoma in situ of the breast,D05.0,0,0.00,0,0.00,0,0.0
+Other or unspecified carcinoma in situ of the breast,D05.7-9,–,0.04,0,0.00,6,0.2

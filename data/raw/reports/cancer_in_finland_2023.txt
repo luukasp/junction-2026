@@ -1,0 +1,1307 @@
+Karri Seppä, Sanna Lappi-Heikkinen, Sebastian Johansson, Nea Malila, Janne Pitkäniemi
+
+
+
+
+CANCER IN FINLAND 2023
+Karri Seppä, Sanna Lappi-Heikkinen, Sebastian Johansson,
+                            Nea Malila, Janne Pitkäniemi
+
+
+
+
+   Cancer in Finland 2023
+Editorial board:
+Karri Seppä, Sanna Lappi-Heikkinen, Sebastian Johansson, Nea Malila, Janne Pitkäniemi
+
+Cancer coding:
+Elina Hermiö, Paula Kujala, Nea Malila, Minna Merikivi, Anne-Mari Nyholm, Tea Piipponen,
+Tomas Tanskanen
+
+Data management:
+Jack Bergkulla, Sebastian Johansson, Mika Lappalainen, Niko Lavonen, Katja Lehtinen, Jussi Orpana
+
+Statistical data analysis and data protection:
+Elli Hirvonen, Tapio Luostarinen, Joonas Miettinen, Eetu Mäkinen, Heidi Ryynänen, Karri Seppä,
+Salla Toikkanen
+
+Lay out: AT-Julkaisutoimisto Oy
+
+ISSN 2814-4333 (pdf )
+
+This report should be cited as follows:
+Seppä K, Lappi-Heikkinen S, Johansson S, Malila N, Pitkäniemi J. Cancer in Finland 2023. Cancer Society
+of Finland, Helsinki 2025.
+Contents
+
+
+1    Foreword ................................................................................................................................................... 5
+2 Cancer situation in 2023 ........................................................................................................................ 6
+3 Statistical methods .................................................................................................................................10
+
+
+
+
+4 Data and quality ..................................................................................................................................... 14
+
+
+
+
+5 Incidence and new cancer cases ........................................................................................................... 18
+
+
+
+6 Mortality..................................................................................................................................................22
+
+
+7 Prevalence ...............................................................................................................................................25
+8 Cancer patient survival ......................................................................................................................... 26
+9 Years of life lost due to cancer .............................................................................................................. 29
+10 Time series ............................................................................................................................................. 33
+11 Predictions ..............................................................................................................................................45
+12 Regional statistics.................................................................................................................................. 49
+
+
+
+
+13 Educational level and cancer burden .................................................................................................... 53
+
+
+
+14 Tables ...................................................................................................................................................... 57
+
+
+
+
+List of Figures .............................................................................................................................................72
+List of Tables ................................................................................................................................................74
+1 Foreword
+
+The Finnish Cancer Registry published the cancer statistics for 2023 and the preliminary data for 2024 at
+the end of April 2025 (cancerregistry.fi/statistics/cancer-statistics). Compared to the preliminary data for 2023
+published a year ago, the statistics were supplemented by a total of nearly 5,000 cancer cases. Most of these
+cases were pancreatic cancer (528 cases), lung cancer (572 cases) and haematological cancer (546 cases).
+In addition, there will be a delay in the reporting of central nervous system tumours, so the preliminary
+statistics are not reliable in this regard.
+This report compiles the latest statistical data on new cancer cases, cancer deaths and patient survival in
+Finland. In addition, the report presents the number of people living with and after cancer, the years of life
+lost due to cancer as well as predictions of the cancer burden until 2040. All told, there were 39,199 new
+cancer cases and 13,645 cancer deaths recorded in 2023. The most common new cases were breast cancer
+in women and prostate cancer in men, followed by colorectal cancer in both men and women. The most
+common causes of cancer deaths in women were lung cancer and breast cancer. In men, the most common
+causes of cancer deaths were lung cancer and prostate cancer.
+The cancer burden will increase significantly in the coming years as the population ages. Based on predictions,
+the number of cancer cases diagnosed each year will increase to 48,800 by 2040. People with cancer are
+expected to live longer, which will only further increase the cancer burden. At the end of 2040, there will be
+a projected 460,000 people alive in Finland with a past cancer diagnosis.
+The report now also examines the cancer burden by wellbeing services county and collaborative area for
+healthcare and social welfare. There are significant differences between wellbeing services counties in the
+incidence of the most common cancers and the mortality they cause. The differences were greatest in the
+case of lung cancer in women. There were only a few discrepancies in the cancer-specific patient prognoses
+compared to the nationwide prognosis.
+The cancer statistics in this report have been compiled in line with the clinical cancer classification system
+(ICD- 10), going back as far as 1953, the year the Finnish Cancer Registry was founded. The data sources of
+the Finnish Cancer Registry are healthcare providers and pathology laboratories. In particular, cases for which
+no tissue or cell sample has been obtained and cases of haematological tumours may remain unreported. The
+aim is to improve the data coverage of these data through cooperation with health services and developers
+of patient information systems. The updated, latest statistics on clinical cancer notifications, also including
+preliminary data for 2024, are available on our website (syoparekisteri.fi/tilastot/kliinisten-ilmoitusten-tilasto).
+The disclosure of cancer data on 2023 for research purposes began in May 2025. The Finnish Cancer Registry
+is a research institute under the Cancer Society of Finland that maintains a national registry of all diagnosed
+cancer cases and a registry on cervical, breast and colorectal cancer screening. The Finnish Institute for
+Health and Welfare is the controller of the cancer registry and as such has given the Cancer Society of Finland
+responsibility for the operation of the registries.
+We want to extend our sincerest thanks to all our collaborators and data providers. The reliable knowledge
+base on cancer provided by comprehensive and long time series lays a solid foundation for both healthcare
+development and research.
+
+Helsinki, 1 June 2025
+
+Janne Pitkäniemi, Professor                Nea Malila, Docent                    Karri Seppä, Docent
+Director                                   Chief Medical Officer                 Research Manager
+tel. +358 50 372 3335                      tel. +358 50 305 5730                 tel. +358 50 441 8556
+2 Cancer situation in 2023
+
+There were a total of 39 199 new cancer cases diagnosed in Finland in 2023. Of these, 18 553 were
+diagnosed in women and 20 646 in men. A total of 13 645 people died from cancer in 2023 (Table 1). More
+than 330,000 Finns who had been diagnosed with cancer were alive at the end of 2023: 56% were women
+and 44% were men. The five-year relative survival rate of cancer patients monitored between 2021 and 2023
+was 71%.
+
+
+Table 1: New cancer cases and cancer deaths in 2023, cancer prevalence and five-year relative survival ratio of patients in
+the Finnish population separately for women and men.
+
+
+
+
+Figure 1: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population)
+and age-standardised five-year relative survival ratio (%) by sex in 1953–2023.
+
+
+
+Figure (Figure 1) shows the age-standardised cancer incidence and mortality and the relative survival rate
+of patients from 1953 to 2023. The incidence of cancer in women increased by an average of 0.9% per year
+between 1990 and 2015, and by an average of 0.5% per year thereafter (Table 12). In men, the previous
+increase (1.0% per year in 1990–2003, Table 13) has levelled out (-0.1% per year in 2004–2023). Cancer
+mortality decreased among women and men: on average by 0.5% per year (2006–2023) in women and by
+1.2% per year in men (2008–2023, Table 14 and Table 15). The relative survival rate has improved steadily
+in women, and the previous rapid improvement in the survival rate in men has slowed down since the early
+2000s.
+
+
+
+
+Figure 2: Number and incidence of new cancer cases (per 100,000 person-years and age standardised to the 2014 Finnish
+population), stratified by cancer type in men (Figures A and B) and women (C and D) in 1953–2023. Other digestive organs
+include cancer of the oesophagus, small intestine, anus, liver, gallbladder and bile ducts, pancreas and other or unspecified
+digestive organs.
+
+
+
+Figure (Figure 2) shows the annual number of new cancer cases and the age-standardised incidence of the
+most common types of cancer by gender. In the 1950s, around 2 000 new cases of stomach cancer were
+diagnosed annually in Finland, and it was the most common cancer among both men and women. Today,
+around 640 new cases of stomach cancer are diagnosed annually. The incidence of lung cancer has also
+decreased in men since the 1970s. The incidence of prostate cancer began to increase significantly in the
+1990s. In women, the incidence of breast cancer increased until the early 2010s.
+Figure 3: Number of new cancer deaths and mortality rate (per 100,000 person-years and age standardised to the 2014
+Finnish population), stratified by cancer type, in men (Figures A and B) and women (C and D) in 1953–2023. Other digestive
+organs include cancer of the oesophagus, small intestine, anus, liver, gallbladder and bile ducts, pancreas and other or
+unspecified digestive organs.
+
+
+Figure (Figure 3) shows the number of cancer deaths and the age-standardised mortality in men and
+women since 1953. The number of cancer deaths in women has grown relatively steadily throughout the
+period considered, while in men the strong increase declined in the 1980s and 1990s, but accelerated
+thereafter. The changes in prostate cancer mortality in men and breast cancer mortality in women have
+had a relatively small impact on the change in overall cancer mortality. This has been mostly influenced by
+a significant decrease in stomach cancer mortality in both men and women, and by a decrease in lung cancer
+mortality in men. In women, lung cancer mortality has increased, and lung cancer is now a major cause of
+cancer deaths.
+The age-standardised incidence of cancer is predicted to increase moderately (Figure 4). From 2023 to 2040,
+the average annual increase is projected to be 0.2% for women and men. The decline in mortality is projected
+to continue. On average, mortality in women is set to decrease by 0.6% per year and mortality in men by
+0.7% per year.
+Figure 4: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population)
+in 1953–2023, and projected development until 2040 by sex.
+
+
+
+
+Figure 5: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population)
+in the population aged 25 and over by sex and level of education in 1986–2023.
+
+
+As a whole, the incidence of cancer and the mortality rate were highest among those with a basic education
+and lowest among those with a higher education (Figure 5). The greatest differences were observed for lung
+cancer. However, the incidence of the most common cancer types among women and men, breast cancer and
+prostate cancer, was highest among people with a higher education. Overall, the greatest differences between
+educational levels were found in men’s cancer mortality, where the mortality rate among those with a basic
+education was higher than among those with a higher education for all cancers included in the examination.
+Similarly, the cancer mortality among highly educated women was generally slightly lower than among those
+with a basic level of education.
+3 Statistical methods
+
+3.1 Definitions
+
+Incidence The number of new cancer cases in the population or part of it over a specific period of time
+(e.g. one calendar year). The incidence rate is the number of cases per 100,000 person-years.
+Prevalence Number of deaths attributable to cancer in the population or part of it over a specific period of
+time. The mortality rate is the number of deaths per 100,000 person-years.
+Vallitsevuus The number of people in the population or part of it who have been diagnosed with cancer and
+who are alive at a specific point in time. The prevalence proportion is the corresponding number in relation
+to the population.
+Age-standardised incidence, mortality and prevalence In this report, incidence, mortality and prevalence
+have been standardised to the age structure of the Finnish population in 2014 with a view to, for example,
+improving the comparability of calendar-year figures, taking into account changes in the age structure.
+Risk of cancer Estimate of the proportion of people in the population who will develop cancer.
+Risk of developing and dying from cancer Estimate of the proportion of people in the population who will
+develop and die from cancer.
+Relative survival rate Estimate of the proportion of patients who are alive after a certain period of time after
+diagnosis, if the cancer would be the only factor affecting the mortality. It is used as an indicator of cancer
+patient survival.
+Age-standardised relative survival rate In this report, an age-standardised relative survival rate for patients
+diagnosed in Finland during the most recent three-year period. It is aimed, for example, at improving the
+comparability of calendar-year figures, taking into account changes in the age structure.
+Cancer burden The harms caused by cancer in the population. The most commonly used indicators are
+incidence, cancer mortality and relative survival rate.
+
+
+
+3.2 New cancer cases – incidence
+
+The cancer statistics are based on reports on the number of new cancer cases diagnosed over a specific
+period of time. The period is often one year. Incidence refers to the number of new cancer cases diagnosed
+per 100,000 person-years. The number of person-years in the Finnish population, i.e. the time accumulated
+by the population at risk of cancer, broken down by statistical year, gender and age, is derived from the
+population data maintained by Statistics Finland. These data play a key role in the assessment of cancer
+burden indicators, as the age structure of the Finnish population has changed dramatically over the past
+decades (Figure 6). As the population ages, the number of cancers increases, but this does not necessarily
+mean that the incidence of cancer increases by age group.
+Age-standardised incidence describes the number of new cancer cases per 100,000 person-years if the
+age structure of the Finnish population corresponded to the standard population. There are two options for
+the standard population: ‘standard world population’ and ‘Finland 2014’. The standard world population is
+based on the global age structure in the 1950s. Selecting ‘Finland 2014’ standardises the figures to correspond
+to the age structure of the Finnish population in 2014. The purpose of age standardisation is to improve
+the comparability of figures between population groups with different age structures and between different
+periods of time. The ‘Finland 2014’ standard population is well suited for comparing, for example, calendar
+years and hospital districts, and the standard world population enables comparisons with other countries.
+
+
+
+
+Figure 6: Age structure of the Finnish population by sex in 1953 and 2023.
+
+
+
+
+3.3 Cancer deaths – cancer mortality
+
+The number of deaths attributable to cancer is often reported for a single year or another chosen period of
+time. Cancer mortality refers to the number of cancer-related deaths (cancer as the primary cause of death)
+per 100,000 person-years.
+Age-standardised cancer mortality describes the number of cancer deaths per 100,000 person-years if
+the age structure of the Finnish population corresponded to the ‘standard population’. There are two options
+for the standard population: ‘standard world population’ and ‘Finland 2014’. The standard world population is
+based on the global age structure in the 1950s. Selecting ‘Finland 2014’ standardises the figures to correspond
+to the age structure of the Finnish population in 2014. Age standardisation makes it possible to compare
+cancer mortality figures between population groups with different age structures and between different
+periods of time. The ‘Finland 2014’ standard population is well suited for comparing, for example, calendar
+years and hospital districts, and the standard world population enables comparisons with other countries.
+
+
+
+3.4 Persons diagnosed with cancer – prevalence
+Prevalence refers to the number of people in the population who have been diagnosed with cancer and
+who are alive at a specific point in time. The prevalence is broken down by time since diagnosis. For example,
+a five-year figure only includes patients whose cancer was diagnosed no more than five years ago (e.g. at the
+earliest on 31 December 2005, if counted from 31 December 2010).
+Prevalence proportion refers to the number of persons diagnosed with cancer in the population relative to
+the population. For example, a prevalence proportion of 5,000 per 100,000 means that 5,000 persons of
+100,000 persons (5% of the population) have a previous cancer diagnosis.
+
+
+
+3.5 Risk of cancer and risk of cancer death
+
+Risk of cancer refers to the average lifetime probability in the population of developing cancer. In the
+present report, the risk assessment is based on the cancer incidence and overall mortality rates of the
+population in the last five-year period, by age group. The assessment takes into account that part of the
+population will avoid developing cancer because they will die from other causes before that.
+Risk of developing and dying from cancer refers to the average lifetime probability in the population of
+developing and dying from cancer. The risk assessment is based on the age-group mortality rates and the
+overall mortality rates of the population in the last five-year period. The assessment takes into account that
+part of the population will avoid dying from cancer because they will die from other causes before that.
+
+
+
+3.6 Prognoses for cancer patients – survival
+
+The relative survival rate (patient’s prognosis) is calculated by comparing the patient mortality rate with the
+mor- tality rate of the Finnish population of the same gender and the same age and in the same calendar
+period. It is an indicator of the hazards of cancer. Relative survival can be interpreted as the probability that
+a patient would be alive after a specific period of time after diagnosis if the cancer in question were the only
+possible cause of death for the patient. Survival is often presented as a five-year relative survival rate.
+The age-standardised relative survival rate standardises the age structure of patients across the country to
+the age structure of patients diagnosed in the most recent three-year period by cancer type and gender.
+The purpose of age standardisation is to improve the comparability of figures between areas with different
+age structures and between different periods of time. This report uses the traditional method of age
+standardisation, which is based on age-group-specific survival rates. The age-standardised survival rate is
+missing if no patients are alive in an age group five years after the diagnosis.
+
+
+
+3.7 Years of life lost due to cancer
+
+Years of life lost due to cancer have been calculated by estimating the average life expectancy of patients
+and comparing it with the average life expectancy of a population of the same age and gender. Ten years
+after the cancer diagnosis, the mortality rate for surviving patients was assumed to be similar to the overall
+mortality rate for the population of the same age. The exceptions to this are prostate and breast cancer, where
+it was assumed that after ten years patients would continue to have an annual excess mortality rate of around
+1% compared to the mortality in the population. The number of years of life lost for the whole population was
+obtained by multiplying the patient’s average years of life lost by the number of patients diagnosed in a single
+year (annual average 2014– 2023).
+
+
+
+3.8 Time series and change assessment
+
+Long-term development. The development of cancer incidence and cancer mortality is measured by an
+average annual change (percentage). This method assesses whether the age-standardised trend has been
+steady or whether it has changed during the period considered. If there has been a statistically significant
+change, two change percentages will be used to describe the development before and after the point of change.
+The time series for survival rates is based on patient monitoring in 13 five-year periods: 1959–1963, …,
+2019–2023. The time series has been age-standardised to the age structure of patients diagnosed in
+2019–2023 (by cancer type). The rates for women and men were standardised to the same age structure. The
+age standardisation was based on a statistical method that provided an estimate of the survival rate for as
+many periods as possible, including in the smallest patient datasets.
+The time series coverage for haematological cancers is described in more detail in section 4.3, Time series
+cover-age.
+
+
+3.9 Predictions of incidence and mortality
+The predictions of cancer incidence and mortality for 2024–2040 were calculated with the Nordpred statistics
+programme developed by the Cancer Registry of Norway. The method estimates the effects of age, calendar
+year and year of birth on the observed incidence of cancer using a statistical model. The effects were estimated
+by gender and cancer type based on the last 10–35 years. The incidence prediction assumes that the observed
+calendar trend will level out over time. The observed linear trend was cut by one-fourth in 2029–2033 and by
+half from 2034 onwards. The incidence predictions were used to derive predictions of the annual number of
+new cancer cases by using Statistics Finland’s 2024 forecast for Finland’s population in 2025–2040.
+
+
+3.10 Regional statistics
+Statistics by wellbeing services county and collaborative area are presented for cancer incidence, relative
+survival rates, five-year prevalence and cancer mortality for the period 2019–2023. The regional statistics are
+based on the persons’ municipality of residence in the year the cancer was diagnosed, except in the case of
+cancer mortality, where they are based on the municipality of residence in the year of death.
+The incidence, prevalence and mortality have been age-standardised to Finland’s age structure in 2014. The
+relative survival rate has been calculated for persons diagnosed with cancer between 2019 and 2023, with
+mortality follow-up until the end of 2024, and it has been age-standardised to the cancer-specific age structure
+of cancer patients in the whole country. A 95% confidence interval estimating the statistical random error is
+presented for incidence, survival and mortality.
+
+
+
+3.11 Risk ratios for incidence and mortality between levels of education
+
+In the statistics presented by educational level, the population was divided into three groups according to
+the highest degree obtained. The educational data are based on Statistics Finland’s Register of Completed
+Education and Degrees and the classification of educational levels. Persons at the basic educational level
+had not obtained a degree at a higher level than basic education, primary school (folk school), civic school or
+middle school. The upper secondary level of education included persons who had completed the matriculation
+examination or a voca- tional qualification (e.g. 1–3-year vocational qualifications and basic vocational
+qualifications as well as specialist vocational qualifications). The tertiary level of education included those
+who had completed lowest level tertiary education (e.g. technician engineer diploma, diploma in business
+and administration and diploma in nursing, which are not polytechnic degrees), lower-degree level tertiary
+education or higher-degree level tertiary education.
+Differences in the incidence and mortality of cancer between different levels of education were examined
+by comparing the average incidence and mortality rates per age group in the last five-year period. The age-
+standardised risk ratio (RR) describes the average relative difference between age-group-specific incidence
+and mortality rela- tive to the population in persons with basic or secondary level of education compared to
+persons with a tertiary level of education. Confidence intervals of 95% are shown for the risk ratios to assess
+random errors.
+4 Data and quality
+
+4.1 Objectives of the Cancer Registry
+
+The Finnish Cancer Registry monitors the cancer burden in the entire Finnish population. This encompasses
+the number of new cancer cases and cancer deaths, the survival of patients, the risk factors of cancer, cancer
+prevention and early detection. The Registry also compiles predictions of the future cancer burden.
+More and more people survive cancer. One of the challenges for the future is therefore to ensure the quality
+of life of cancer survivors. It is important to examine the potentially harmful effects of cancer treatments and
+how such effects can be prevented and treated.
+Epidemiological research aims to set out the broad lines for directing research. The Cancer Registry
+provides data for a number of epidemiological, clinical and cancer biology studies. Registry employees help
+in planning cancer research and in choosing research designs.
+
+
+
+4.2 Cancer types recorded and reported
+
+The Cancer Registry collects data on all cancer cases diagnosed in Finland. The country’s healthcare providers
+have a statutory obligation to deliver the data to the Registry. A cancer notification must also be made in cases
+of strong suspicion of cancer, especially in the absence of histological or cytological confirmation.
+As the statistics must be comparable over time and with corresponding figures in other countries, they follow
+the international rules for multiple primary cancers, with the exception of haematological cancers (see section
+4.3, Time series coverage). In the case of the brain and the central nervous system, data on all tumours,
+including benign tumours, are collected in the register and included in the statistics. For the urinary tracts,
+data are recorded on malign tumours, tumours with an unclear growth tendency and carcinomas in situ.
+Data are also collected on certain other non-malignant tumours, which are recorded separately from actual
+cancers, so they are not included in the overall cancer figures. These include basal cell carcinoma of the skin,
+borderline ovarian tumours, intraductal breast cancers and pre-cancer of the cervix.
+The Cancer Registry annually updates data from Statistics Finland on causes of death for all patients included
+in the register. In addition, the cancer register is updated with information on cancer deaths that have not been
+reported. In such cases, the cancer data are based solely on the death certificate (death certificate only, DCO).
+
+
+4.3 Time series coverage
+
+Finland’s cancer data have been comprehensively recorded ever since 1953. Due to improvements in
+classification and changes in definitions, the registration of certain disease entities began later.
+Table (Table 2) shows the years of initiation for the time series on haematological cancers, most of which
+differ from when the registry was started, that is, from 1953 for new cases and cancer deaths and from 1958
+for survival statistics.
+The detection and classification of haematological cancers has changed significantly during the registry’s
+operation. Reliable methods for detecting different forms of the disease only became available in the 1990s.
+In 2008, the Finnish Cancer Registry adopted the ICD-O-3 classification, which was used to register cases
+from 2007. New specifications in the classification, which guides the registration, have also been introduced
+since then. The specifications have made the registry data more detailed for researchers to use.
+Table 2: Starting year of time series for incidence, mortality, survival and prevalence for malignant disease groups of the
+lymphoid and haematopoietic tissues.
+
+
+
+
+For these reasons, the figures for most haematological cancers can only be considered reliable from the
+2000s onwards, for certain subtypes only from 2007 onwards. In other solid tumours, the time series have
+been reliable since the 1950s, taking into account a certain reporting deficit.
+The Cancer Registry also compiles statistics on basal cell carcinoma of the skin (since 1964) and high-grade
+cervical dysplasia (since around 1991).
+
+
+4.4 Data sources
+
+The Cancer Registry has several independent sources of data. The most important of these are notifications
+from pathology laboratories (diagnoses). Each year, the Cancer Registry receives more than 330,000 of these.
+All pathology laboratories in Finland provide data based on either the old SNOMED II classification or the
+SNOMED CT classification in a structured format (organ of origin or topography and cell type or morphology).
+They also submit a verbal statement for samples that carry a malignant diagnosis. Electronic submission was
+introduced in the late 1980s and has been used for more than 30 years.
+All healthcare providers are obliged to submit on new cancer cases a summary of the case at diagnosis
+(clinical cancer notification). Clinical cancer notifications are essential for cancers where histological
+confirmation is not available. In addition, clinical data form the basis for recording the cancer stage at the time
+of diagnosis. Information on cancer cases is also collected through treatment notifications by the care provider,
+which can typically be submitted in several different ways for different courses and methods of treatment.
+All notifications are submitted in electronic format. The Cancer Registry maintains the data models and
+classifications. Since 2024, the data models have been available for download from the Registry’s website and
+the classifications from a server maintained by the Finnish Institute for Health and Welfare, from where they
+can be deployed for the collection of structured data.
+The municipality of residence, migration history and date of death of persons with cancer are updated from
+the Population Information System maintained by the Digital and Population Data Services Agency. Statistics
+Finland in turn provides data on the persons’ causes of death, socio-economic status and education.
+All clinical cancer data are based on the activity of notifiers, and the low number of notifications is currently
+a cause for concern. In recent years, the Cancer Registry has received clinical notifications on only around
+40% of new cancer cases. Because clinical cancer notifications provide information that is not available from
+other sources, such as information on cancers that lack histological confirmation, there is a lack of coverage
+particularly in the case of malignant blood diseases. For the statistical year 2023 and the preliminary statistical
+year 2024, we have published the statistics on notification activity on our website (syoparekisteri.fi/tilastot/
+kliinisten-ilmoitusten-tilasto, in Finnish) The figures can be examined by wellbeing services county or
+collaborative area for the most common cancers on which statistics are collected.
+
+
+4.5 Compilation of cancer data
+
+Cancer cases are compiled into a national registry with the help of individual notifications (see above).
+A case summary suitable for statistical and research use is recorded for each cancer case, with the date and
+method of diagnosis, the organ of origin or primary site, the histological type and stage at diagnosis. The work
+is guided by international guidelines and classifications (ICD-O-3) for cancer registration. The work is carried
+out by professionals at the Registry who are tasked with compiling cancer data based on the information
+received, either as new cases or as part of cases diagnosed previously.
+Since the statistical year 2018, the compilation of case summaries has been partly automated. However,
+the automated processing is based on structured data and therefore depends on the notification content
+complying with the data definitions. The automated processing is applied to 13 common cancer types. In
+previous years, checks performed based on random sampling of automatically compiled cases have been
+found to be of good quality. No changes were made to the automations in use. A new automatic process was
+introduced to remove notifications of non-recorded diseases from the manual processing.
+With regard to the compilation of cancer data, it is essential that the persons carrying out the cancer
+registration have sufficient qualifications and competence. The chief medical officer and expert pathologist
+of the Cancer Registry advise on the registration of complex cases. The date of diagnosis of new cancer cases
+based solely on data from death certificates is specified by using the diagnosis and visit data from the national
+care register of the Finnish Institute for Health and Welfare, if the data result in an earlier date. The Gleason
+score, which indicates the spread of prostate cancer, is extracted from the cancer notifications. More than
+90% of cases have at least one Gleason score within four months of the cancer diagnosis between 2015 and
+2023. The Gleason score coverage is lower for earlier years.
+
+
+4.6 Quality indicators
+Typically, the quality of a cancer registry is described by indicators such as the percentage of microscopically
+verified cases (%MV) that is, cases confirmed from cell or tissue samples, the percentage of cases confirmed
+by death certificate only (%DCO) and the percentage of cases with unknown primary site (%) of all cancer
+cases. The most recent statistical year is always partly indicative for these indicators, as new cancer cases,
+especially those registered through death certificates, still appear in the registry several years afterwards.
+According to the most recent statistics, the %MV for cancers diagnosed in 2023 was 91.2% (90.2% in 2022),
+the %DCO was 1.5% (1.6% in 2022) and the percentage of cases with unknown primary site was 1.5%
+(1.4% in 2022). Most of the unknown primary site cases were found in persons aged 70 and older. Table
+(Table 3) shows the %MV and %DCO in cancers diagnosed in 2022 and 2023, and the %MV in the preliminary
+statistics for cancers diagnosed in 2024. Death certificate data are not yet available for 2024. Due to this and
+other additions to the statistics, the %MV in 2024 will largely be higher than in 2022 and 2023.
+Table 3: Percentage of microscopically verified cancer cases (MV) and cancer cases confirmed by death certificate only
+(DCO) by cancer disease.
+5 Incidence and new cancer cases
+
+Figure (Figure 7) shows the age-standardised incidence rates for the most common cancer types and
+Figure (Figure 8) shows the number of new cancer cases.
+Breast cancer was the most common new cancer diagnosed in women in 2023. It had an age-standardised
+incidence of 168.3 per 100,000 person-years, with a total of 5 173 new cases diagnosed. The second most
+common new cancer diagnosed was colorectal cancer (incidence 61.2, 2 070 cases), and the third most
+common was lung and tracheal cancer (incidence 34.5, 1 217 cases).
+Prostate cancer was the most common new cancer diagnosed in men in 2023. It had an age-standardised
+inci- dence of 194.9 per 100,000 person-years, with a total of 5 631 new cases. The second most
+common new cancer diagnosed in men was colorectal cancer (incidence 87.4, 2 467 new cases), followed by
+lung and tracheal cancer (incidence 57, 1 663 new cases).
+
+
+
+
+Figure 7: Incidence of cancer among women and men (per 100,000 person-years and age standardised to the 2014 Finnish
+population) for the most common cancer types in 2023.
+Figure 8: Number of new cancer cases in women and men for the most common cancer types in 2023.
+
+
+
+5.1 Incidence by age group
+
+Cancers in children and young adults differ from cancers in older persons. New cancers diagnosed in
+children and young people are usually haematological (blood and lymphatic) cancers or brain and central
+nervous system tumours such as gliomas. Figure (Figure 9) shows the incidence of cancer in the population
+under 20 years of age. In 2023, the incidence of cancer among people under 20 years of age was approximately
+20 cases per 100,000 persons, with 225 new cases diagnosed. Acute lymphoblastic leukaemia and Hodgkin’s
+lymphoma were among the most common cancer types in children and young adults.
+Figures (Figure 10) and (Figure 11) show the incidence of cancer in 2023 in the population aged 20–69 and
+the population aged 70 and over. The highest incidences in the female population aged 20–69 were recorded
+for breast cancer (incidence 181.2/100 000, 3 109 new cases), colorectal cancer (48.4, 830 cases) and melanoma
+of the skin (27, 463 cases). In the male population of the same age, the highest incidences were observed
+for prostate cancer (126.7, 2 238 new cases), colorectal cancer (62.8, 1 109 cases) and lung and tracheal cancer
+(31.5, 555 cases).
+The most common cancer types in the female population aged 70 and over were breast cancer (379.7/100 000,
+2 064 new cases), colorectal cancer (227, 1 234 cases) and squamous cell carcinoma of the skin (148.8, 809
+cases). In the male population of the same age, the most common cancer types diagnosed were prostate cancer
+(827.1, 3 393 cases), colorectal cancer (330.8, 1 357 cases) and lung and tracheal cancer (269.4, 1 105 cases).
+Figure 9: Incidence of cancer among women and men aged under 20 (per 100,000 person-years) for the most common
+cancer types in 2023.
+
+
+
+
+Figure 10: Incidence of cancer among women and men aged 20–69 (per 100,000 person-years) for the most common
+cancer types in 2023.
+Figure 11: Incidence of cancer among women and men aged 70 and over (per 100,000 person-years) for the most common
+cancer types in 2023.
+
+
+
+5.2 Risk of developing and dying from cancer
+
+Table (Table 4) shows estimates of the proportions of women and men that will develop cancer and
+the proportions that will die from cancer during their lifetime. On average, 36% of women and 38% of
+men develop cancer during their lifetime. On average, 17% of women and 20% of men die from cancer.
+The estimates can be interpreted as a newborn child’s lifetime risk of developing and dying from cancer.
+The estimates assume that a person’s risk of cancer, risk of cancer death and risk of overall death at different
+stages of life would equal the risks in a population of the same age in 2019–2023.
+Analysed by cancer type, 13.2% of women develop breast cancer and 13.9% of men develop prostate cancer.
+3.0% of women die from breast cancer and 3.8% of men die from prostate cancer. According to the estimate,
+3.4% of women and 5.2% of men develop lung cancer. On average, 2.7% of women and 4.7% of men die from
+lung cancer. Given the major changes in smoking habits among both women and men, it is unlikely that
+these estimates reflect the actual risk of lung cancer in any of the birth cohorts. Fewer and fewer newborns
+start smoking in later life, which reduces the risk of lung cancer in relation to the estimate.
+
+Table 4: Lifetime risk (%) of developing and dying from cancer. The calculation is based on cancer incidence, cancer
+mortality and overall mortality in the population in 2019–2023.
+6 Mortality
+
+Figure (Figure 12) shows the age-standardised mortality rates and Figure (Figure 13) the number of deaths
+for the cancers types with the highest mortality. The cancers responsible for the most cancer deaths were
+lung and tracheal cancer (2 195 deaths), colorectal cancer (1 537 deaths) and pancreatic cancer (1 365 deaths).
+The most common cause of cancer death in women was lung and tracheal cancer (mortality 24.7 per 100,000
+person-years, 889 deaths). Breast cancer caused the second most deaths (24.6, 865 deaths) and colorectal
+cancer the third most deaths (18.9, 699 deaths) in women.
+The most common cause of cancer death in men was lung and tracheal cancer (mortality 44.7 per 100,000
+person-years, 1 306 deaths). Prostate cancer caused the second most deaths (37.6, 1 012 deaths) and colorectal
+cancer the third most deaths (29.7, 838 deaths) in men.
+
+
+
+
+Figure 12: Cancer mortality (per 100,000 person-years and age standardised to the 2014 Finnish population) in women and
+men for the cancer types with the highest mortality rate in 2023.
+Figure 13: Number of cancer deaths in women and men for the cancer types with the highest mortality rate in 2023.
+
+
+
+
+6.1 Mortality by age group
+
+In 2023, a total of 26 people under 20 years of age died from cancer, and their most common cause of cancer
+death was brain and central nervous system tumours.
+Figures (Figure 14) and (Figure 15) show the cancer mortality (per 100,000 persons in 2023) in the population
+aged 20–69 and the population aged 70 and over. In women aged 20–69, the main causes of cancer death
+were breast cancer (mortality rate 16.1, 277 deaths), lung and tracheal cancer (14.3, 242 deaths) and pancreatic
+cancer (9.8, 166 deaths). In men of the same age, the main causes of cancer death were lung and tracheal
+cancer (20.4, 357 deaths), colorectal cancer (12.7, 225 deaths) and pancreatic cancer (12.5, 220 deaths).
+In women aged 70 and over, the main causes of cancer death were lung and tracheal cancer (118.3,
+643 deaths), breast cancer (108.2, 588 deaths) and colorectal cancer (99.1, 539 deaths). In men aged 70 and
+over, the main causes of cancer death in 2023 were lung and tracheal cancer (230.4, 945 deaths), prostate
+cancer (213.5, 876 deaths) and colorectal cancer (149.4, 613 deaths).
+Figure 14: Cancer mortality (per 100,000 person-years) in women and men aged 20–69 for the cancer types with the
+highest mortality rate in 2023.
+
+
+
+
+Figure 15: Cancer mortality (per 100,000 person-years) in women and men aged 70 and over for the cancer types with the
+highest mortality rate in 2023.
+7 Prevalence
+
+The prevalence of cancer is a statistical indicator used to assess the burden on and resources of
+healthcare services. Prevalence is influenced by incidence and also by age of onset and patients’ prognoses.
+For example, although there are many new cases of lung cancer diagnosed, lung cancer has a low prevalence
+due to its high mortality rate.
+At the end of 2023, there were 334 024 people (prevalence) alive in Finland with a past cancer diagnosis.
+This was equivalent to 6% of the Finnish population (prevalence proportion). The most prevalent cancer
+types are shown by sex in Figure (Figure 16).
+At the end of 2023, the prevalence of breast cancer in women was 84 004, the prevalence of colorectal
+cancer was 16 422 and the prevalence of endometrial cancer was 13 354. The prevalence of prostate cancer
+at year-end 2023 was 63 042. There were a total of 16 340 men alive with colorectal cancer and 11 454 alive
+with melanoma of the skin.
+Looking only at people with no more than five years since cancer diagnosis (diagnosed in 2019-2023), there
+were 55 288 women and 55 158 men alive at year-end 2023.
+
+
+
+
+Figure 16: Number of people living with cancer at the end of 2023.
+8 Cancer patient survival
+
+The five-year relative survival rate in 2021–2023 was 70% in male patients and 72% in female patients.
+Compared to the previous period of 2018–2020, the survival rate had increased by 1.0 percentage points in
+both women and men.
+For patients monitored in 2021–2023, the survival rate for breast cancer in women was 92% and the
+survival rate for prostate cancer was 94%a (Figure 17). The average survival rate for colorectal cancer
+was 68%, while lung cancer had an average survival of 19%. The survival rate for pancreatic cancer was
+only 7%. Among these five cancer types, the survival rate for women increased the most for lung cancer
+(by 2.1 percentage points from 2018–2020 to 2021–2023), and the survival rate for men increased the most
+for colorectal cancer (1.4 percentage points).
+Figures (Figure 18 and Figure 19 and Taulukko 10 and Taulukko 11) show the survival rates for three age
+groups: patients diagnosed with cancer aged 0–54, 55–74 and 75 and over. The survival rates in the youngest
+age group were higher than those of the older age groups for most cancer types. For breast cancer and
+melanoma of the skin in women, the survival rates were approximately the same for persons under 55 years
+of age and persons aged 55–74. For women aged 75 and over, however, the survival rates were lower than for
+the other age groups. In lung cancer, the survival rates clearly differed between people under 55 years of age
+and people aged 55–74. The five-year survival rate of women diagnosed with lung cancer at under 55 years of
+age was 48%; the corresponding rates for women diagnosed at 55–74 and at 75 and over were 26% and 19%,
+respectively.
+Figure 17: Five-year relative survival ratios (%) in patients followed up in 2021–2023 by sex and cancer type. The survival
+ratios for laryngeal cancer in women and breast cancer in men are not presented due to a small number of cases.
+Figure 18: Five-year relative survival ratios (%) in female patients followed up in 2021-2023 by age group (under 55, 55–74
+and 75 and over) for the seven most common cancer types in women (excl. mature B-cell neoplasms and cutaneous
+squamous cell carcinoma).
+
+
+
+
+Figure 19: Five-year relative survival ratios (%) in male patients followed up in 2021-2023 by age group (under 55, 55–74 and
+75 and over) for the seven most common cancer types in men (excl. mature B-cell neoplasms and cutaneous squamous
+cell carcinoma).
+9		Years of life lost due to cancer
+
+It was estimated that a total of around 193 000 years of life are lost in the population in a single year due to
+cancer (Table 5). Women lose 95 000 years and men 97 800 years.
+In the population as a whole, lung cancer caused the greatest number of years of life lost (34 300 years). The
+next greatest number of years of life lost was due to lymphatic and haematopoietic cancers (19 300), followed
+by colorectal cancer (17 800), pancreatic cancer (17 500) and breast cancer (16 000). For other cancer types,
+the combined years of life lost by men and women were significantly lower. Women lose the greatest number
+of years of life due to breast cancer. For men, the number of years of life lost to prostate cancer (6 260) was
+slightly lower than the number of years of life lost to pancreatic cancer (8 560).
+Figures (Figure 20 and Figure 21) show the average age at cancer diagnosis and estimates of average
+patient life expectancy and years of life lost due to cancer for cancers diagnosed between 2014 and 2023.
+The number of years of life lost by a cancer patient is affected not only by the length of life after cancer, but
+also by the age of onset. The average age of onset ranged from 36 years for men with testicular cancer to 80
+years for women with squamous cell carcinoma of the skin. Cancer can reduce life expectancy, particularly
+in young people.
+The average age of onset for women diagnosed with breast cancer was 65 years. They were expected to live
+an average of 19.5 years after the cancer diagnosis and to lose 3.2 years of life, as they would have been
+expected to live 22.7 years based on population mortality. The number of years of life lost in the population
+as a whole is also affected by the incidence of cancer. On average, 4 983 women were diagnosed with breast
+cancer each year between 2014 and 2023. It was estimated that a total of 15 900 years of life were lost in the
+female population in a single year due to breast cancera (Table 5, coloured area Figure 20).
+The average age at diagnosis for prostate cancer patients was 72 years. They were expected to live
+an average of 13.1 years after the cancer diagnosis and to lose 1.2 years of life. Between 2014 and 2023,
+an average of 5 215 cases of prostate cancer were diagnosed each year. On average, 6 260 years of life are lost
+in the population in a single year due to prostate cancera (Table 5, coloured area Figure 21).
+Table 5: Number of years of life lost to cancer in a single year, by gender and cancer type. Calculation includes cancer cases
+diagnosed in 2014–2023.
+Figure 20: Average age of onset, life expectancy after diagnosis and years of life lost to cancer for women by cancer type in
+patients diagnosed 2014–2023.
+Figure 21: Average age of onset, life expectancy after diagnosis and years of life lost to cancer for men by cancer type in
+patients diagnosed 2014–2023.
+10		Time series
+Figures Figure 22 – Figure 30 show the time series for the incidence and mortality of cancer and
+the five-year relative survival rate of patients in line with the ICD-10 classification. Changes in incidence and
+mortality since the beginning of the 1990s are presented in tables Table 12 – Table 15. The change is shown as
+an average annual change percentage. If there has been a statistically significant change, separate percentages
+are presented for two consecutive calendar-year periods.
+
+
+1.   Lip: In men, incidence and mortality have decreased. In women, both incidence and mortality have
+     remained low. The survival rate has been around 90% in recent years (Figure 22).
+2. Pharynx: Incidence has risen in the 2000s. In men, the incidence is about three times higher than in
+   women. Mortality has remained at the same level. The survival rate has increased steadily since the 1990s
+   and is currently around 70% among women and around 60% among men (Figure 22).
+3.   Oesophagus: Incidence and mortality decreased until the early 2000s. In men, the incidence has shown
+     a slight increase in the 2000s. The survival rate has increased slowly and is currently around 20% among
+     women and 15% among men (Figure 22).
+4. Stomach: Incidence and mortality have decreased throughout the observation period. The survival rate
+   has remained at around 30% among women and around 25% among men during the 2000s (Figure 23).
+5.   Colon and rectum: Incidence has increased in both women and men. The nationwide colorectal cancer
+     screening programme launched in 2022 has increased the incidence, as screening facilitates early
+     detection. Mortality has decreased since the 1990s. The survival rate has increased and is currently
+     around 70% in both women and men (Figure 23).
+6. Liver: Incidence and mortality have increased, more so among men than among women. The survival
+   rate has increased slowly and is currently around 10% (Figure 23).
+7.   Gallbladder, bile ducts: Incidence increased until the 1980s and decreased thereafter, especially in
+     women until the turn of the 2010s. The survival rate has increased slowly and is currently around 15% in
+     women and 10% in men (Figure 24).
+8. Pancreas: Incidence and mortality have remained at the same level since the 1980s among both women
+   and men. Survival is currently nearly 10% in women and above 5% in men (Figure 24).
+9. Larynx: Among men, incidence and mortality have decreased since the 1970s. Among women, both
+   incidence and mortality have remained low. Survival has long been steady at around 60% (Figure 24).
+10. Lung, trachea: Among women, incidence and mortality have increased throughout the period
+    considered. Among men, the increase started to decline at the end of the 1970s. The incidence among
+    men is still almost twice as high as the incidence among women. The survival rate has increased to nearly
+    25% among women and to 15% among men (Figure 25).
+11. Breast, women: Incidence increased until the early 2010s. Mortality began to fall in the 1990s. Survival is
+    currently above 90% (Figure 25).
+12. Prostate: Incidence has increased. The increase accelerated in the 1990s, with the highest incidence
+    recorded in 2004. Currently, the incidence is at the same level as in the mid-1990s. Mortality began to
+    fall in the 1990s. The survival rate has increased and is currently nearly 95% (Figure 25).
+13. Cervix uteri: Incidence decreased from the 1960s until the 1990s and has remained at the same level
+    since then. The decrease in mortality has continued in the 2000s. Survival is currently around 75%
+    (Figure 25).
+14. Corpus uteri: Incidence increased until the turn of the century and then began to fall slightly. Mortality
+    has remained at the same level. The survival rate increased until the early 2000s and is currently above
+    80% (Figure 25).
+15. Ovary, etc.: Incidence and mortality increased until the 1990s and then began to decrease. Survival
+    has remained at around 45% during the 2000s (Figure 26).
+16. Testis: Incidence increased sharply from the 1980s onwards, but the increase levelled out in the 2010s.
+    Mortality and survival have remained at the same level since the 1990s. Survival is currently at around
+    95% (Figure 26).
+17. Kidney: Incidence and mortality increased until the 1990s. In the 2000s, the incidence in men first
+    declined and later began to rise again. In women, the incidence remained stable from the 1990s to the
+    mid-2010s, after which it began to decline. Mortality has decreased in the 2000s. The survival rate has
+    continued to increase in the 2000s and is currently above 70% (Figure 26).
+18. Bladder and urinary tract: Among women, mortality increased until the 1990s and has since remained
+    at the same level. Among men, incidence peaked in the mid-1990s. After that, it first decreased and later
+    levelled out. Among men, the incidence is about four times higher than among women. Mortality has
+    decreased since the 1970s. The survival rate has increased and is currently nearly 70% among women
+    and around 75% among men (Figure 26).
+19. Melanoma of the skin: Incidence increased until the mid-2010s. Among women, mortality has remained
+    at the same level since the 1970s. The mortality among men increased until the mid-2010s, but
+    considerably more moderately than the incidence. Survival is currently around 95% (Figure 27).
+20. Squamous cell carcinoma of the skin: Incidence has increased throughout the observation period.
+    Among men, the increase in incidence has accelerated in the 2000s. Mortality has remained very low,
+    and survival has remained above 90% (Figure 27).
+21. Glioma: Incidence has increased throughout the observation period. Mortality increased until the 1990s,
+    after which it has remained at the same level among women and continued to grow among men.
+    The survival rate has increased slowly and is currently around 30% among women and 25% among men
+    (Figure 27).
+22. Meningioma: Incidence increased until the 2000s and has since then remained steady. The incidence
+    among women is more than double that among men. Mortality has been low and has further declined
+    since the 1990s. The survival rate has increased and is currently around 95% (Figure 28).
+23. Thyroid gland: Incidence has increased among women and men. The incidence among women is more
+    than double that among men. Among women, mortality declined from the early 1990s to the early
+    2000s. Among men, mortality has remained at the same level since the early 1990s. The survival rate is
+    currently around 95% among women and 85% among men (Figure 28).
+24. Soft tissues: Incidence increased among women until the 1990s. Among men, the incidence increased
+    throughout the observation period. There have been no changes in mortality in either women or men.
+    Survival is currently at around 60% (Figure 28).
+25. Hodgkin lymphoma: Incidence has increased slightly since the early 1990s, but mortality continued to
+    decline in the 1990s. The survival rate has increased and is currently around 90% (Kuva 29).
+26. Myeloma and other plasma cell tumours: Incidence and mortality increased until the late 1980s
+    among both women and men. Since then, incidence has remained at the same level but mortality has
+    decreased. The survival rate has increased and is currently around 50% among women and 45% among
+    men (Figure 29).
+27. Acute lymphoblastic leukaemia/lymphoma: Incidence has remained at the same level since the 1980s,
+    but mortality has decreased. The survival rate has increased considerably and is currently above 75%
+    (Figure 29).
+28. Chronic lymphatic leukaemia: Incidence and mortality have decreased since the 1980s among both
+    women and men. The survival rate has increased steadily and is currently nearly 85% among women and
+    around 75% among men (Figure 30).
+29. Acute myeloid leukaemia: Incidence has remained at the same level since the 1980s, but mortality has
+    declined. The survival rate has increased clearly since the 1980s and is currently above 25% among
+    women and 20% among men (Figure 30).
+30. Chronic myeloid leukaemia: Incidence and mortality have decreased throughout the observation
+    period for both women and men. The survival rate has increased particularly strongly in the 2000s and
+    is currently around 70% (Figure 30).
+Figure 22: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population)
+and age-standardised five-year relative survival ratio (%) by sex in 1953–2023.
+Figure 23: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population)
+and age-standardised five-year relative survival ratio (%) by sex in 1953–2023.
+Figure 24: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population)
+and age-standardised five-year relative survival ratio (%) by sex in 1953–2023.
+Figure 25: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population)
+and age-standardised five-year relative survival ratio (%) by sex in 1953–2023.
+Figure 26: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population)
+and age-standardised five-year relative survival ratio (%) by sex in 1953–2023.
+Figure 27: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population)
+and age-standardised five-year relative survival ratio (%) by sex in 1953–2023.
+Figure 28: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population)
+and age-standardised five-year relative survival ratio (%) by sex in 1953–2023.
+Figure 29: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population)
+and age-standardised five-year relative survival ratio (%) by sex in 1953–2023.
+Figure 30: Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014 Finnish population)
+and age-standardised five-year relative survival ratio (%) by sex in 1953–2023.
+11 Predictions
+
+The predicted number of new cancer cases diagnosed in 2040 is approximately 48 800 (Table 6). The annual
+number of cases is projected to increase by 25% compared to year 2023. The increase is mainly due to
+population ageing. The number of cancer cases in persons aged 75 and older will increase by 61% from 15 410
+cases to 24 800 cases (Figure 31). The number of cases in persons under 75 years of age will remain almost
+unchanged in the coming years. The age-standardised incidence of cancer is expected to rise by 4%: by 5%
+in women and 4% in men.
+The prediction for prostate cancer is not based on a model that makes use of the observed trend, as the
+irregular incidence trend caused by increasingly common PSA testing is not suitable as a basis for
+the model. The prostate cancer prediction assumed that the incidence in each age group will remain at
+the same level as in 2019–2023. In prostate cancer, the number of cases will increase from 5 631 to 6 470
+(15% increase, Table 6). In breast cancer, the increase from 5 173 to 5 390 cases (4% increase, Table 6) will
+be more moderate than in prostate cancer, as the incidence of breast cancer stops increasing after the age
+of 65. The incidence of prostate cancer increases with age and peaks at 80 years of age.
+When looking at the most common cancers types, the number of cases of melanoma of the skin will
+increase proportionally the most (48%, Table 6). The exceptionally large increase is due to a consider-
+able increase in age-standardised incidence of melanoma of the skin, and the increase is projected to
+continue (by 26% from 2023 to 2040, Table 6). With regard to colorectal cancer, it should be noted that
+the prediction based on observed trends does not take into account the national screening, which is expected
+to significantly reduce the incidence over the next ten years.
+The prediction of the incidence of lung cancer shows a clear difference between men and women (Table 6).
+In women, the age-standardised incidence is projected to increase until 2031. In 2040, the number of
+cases of lung cancer will have increased by 19% compared to 2023. In men, lung cancer will become less
+common, and the age-standardised incidence is predicted to decrease by 17%.
+According to the prediction, age-standardised cancer mortality will continue to decrease (Table 6).
+The mortality from all cancers combined will decrease on average by 12% from 2023 to 2040: by 11%
+in women and 13% in men. In 2040, a total of 15 800 people will die from cancer, which is 16% more than
+in 2023. The largest decrease in mortality will be recorded for melanoma of the skin ((46%) and
+lung (20%) and prostate cancer (20%) in men. Mortality due to lung cancer will also decrease in women
+(on average by 12%), but the prediction varies by age group. Mortality will decrease by 25% in people aged
+65–74. In older women, mortality due to lung cancer will increase by 6%.
+Table 6: Prediction of the number of new cancer cases, the age standardised incidence, the number of cancer deaths and
+the age-standardised mortality in 2040 as well as the relative change (in percentages) from 2023 for all cancers and the
+seven most common cancer type groups. The prediction for lung cancer is presented by sex.
+
+
+
+
+Figure 31: Annual number of new cancer cases diagnosed in 1953–2023 and the projected development until 2040 in
+different age groups..
+
+
+At the end of 2040, there will be a projected 459,000 people in Finland (approx. 7.7% of the population,
+age-standardised proportion 6.2%) who have previously been diagnosed with cancer (Table 7). Cancer
+prevalence will increase by 38% compared to the end of 2023. When the analysis is limited to people diagnosed
+with cancer in the previous five years (i.e. between 2036 and 2040), the prediction is that 141,000 people will
+be alive, which is 28% more than at the end of 2023. The cancer prevalence is therefore expected to increase
+more than the number of new cases, as the prognosis for cancer patients is also expected to continue to
+improve.
+The prevalence will increase particularly in the oldest age groups. At the end of 2040, there will be a projected
+140 000 people aged between 75 and 84 living in Finland with a past cancer diagnosis. This will be a 36%
+increase compared to the end of 2023 (Figure 32). There will be 95 500 people over the age of 85 living
+with cancer, 125% more than at the end of 2023. There will be 38 400 people aged 75–84 and 21 900 people
+aged 85 and over with a cancer diagnosis within the last five years (Figure 33).
+When examined by cancer disease, people with breast cancer and prostate cancer have the highest survival
+rates. At the end of 2040 in Finland, predictions show that there will be 102,000 women who have had breast
+cancer during their lifetime and 77,600 men who have had prostate cancer (Table 7). Of those diagnosed in
+the previous five years, 24,300 people with breast cancer and 27,800 people with prostate cancer will still
+be alive. Based on predictions, the prevalence of colorectal cancer will increase the most, but this is based
+on previous trends and does not take into account the screening programme launched in 2022, which is
+expected to reduce the incidence of colorectal cancer.
+
+
+Table 7: Prediction of number of people alive with a previously diagnosed cancer, of age-standardised prevalence at the end of
+2040 and of relative change (in percentages) from 2023 for all cancers and the most common cancers. Prevalence is presented
+for all individuals and separately for those diagnosed with cancer within the last five years.
+
+
+
+
+Figure 32: Number of people alive with a previous cancer diagnosis, 1953–2023 and projected trend until 2040 for different
+age groups.
+Figure 33: Number of people alive with a previous cancer diagnosis, 1953–2023 and projected trend until 2040 for different age
+groups. The number is limited to persons with a cancer diagnosis within the last five years.
+12		Regional statistics
+Figures Figure 34 – Figure 38 show the age-standardised incidence of cancer, the five-year relative survival
+rate of people diagnosed with prostate, breast (women), colorectal or lung cancer in 2019–2023 and the age-
+standardised mortality in 2019–2023 in the wellbeing services counties and Helsinki. Tables Table 16 – Table 20
+show, in addition to the information above, the number of new cancer cases, the number of people diagnosed
+in 2019–2023 who were alive at the end of 2023, and the number of cancer deaths. These statistics are also
+presented in the tables for collaborative areas and for Finland as a whole. A 95% confidence interval estimating
+the statistical random error is also presented for age-standardised incidence, survival and mortality.
+
+12.1		Prostate cancer
+A total of 26 748 cases of prostate cancer were diagnosed in Finland between 2019 and 2023, which is an
+average of 5 350 new cases per year, with an age-standardised incidence of 191.3. The incidence of prostate
+cancer was significantly higher than the national average in the Inland Finland collaborative area (204.1)
+and in the wellbeing services counties of Päijät-Häme, South Savo, Ostrobothnia, Central Ostrobothnia and
+Lapland. The incidence was significantly lower than the national average in the Southern Finland collaborative
+area (182.6) and in the wellbeing services counties of Satakunta, Kainuu and North Ostrobothnia.
+The age-standardised five-year relative survival rate (five-year prognosis) for prostate cancer patients diagnosed
+between 2019 and 2023 was 93.8% nationwide. There were no significant differences between wellbeing
+services counties in the prognosis.
+At the end of 2023, there were 23 250 people alive in Finland who had been diagnosed with prostate cancer
+no more than five years earlier (i.e. the cancer had been diagnosed between 2019 and 2023). Between 2019
+and 2023, a total of 4 764 men died from prostate cancer, and the age-standardised mortality rate was 37.3.
+Prostate cancer mortality was higher than the national average in the wellbeing services counties of North
+Karelia, Satakunta and Lapland, while in the wellbeing services county of West Uusimaa, it was significantly
+lower than the national average (31.6).
+
+
+
+
+Figure 34: Age-standardised incidence of prostate cancer (per 100,000 person-years) in 2019–2023, five-year relative
+survival rate of patients diagnosed in 2019–2023, and cancer mortality (per 100,000 person-years) in 2019–2023, in the
+wellbeing services counties and Helsinki.
+12.2		Breast cancer (women)
+A total of 25 189 cases of breast cancer were diagnosed in Finland between 2019 and 2023. On average,
+this was 5 038 new cases per year, with an age-standardised incidence of 165.3 in the whole country.
+The age-standardised incidence of breast cancer was significantly lower than the national average in the
+Northern Finland collaborative area (143.5) in all wellbeing services counties, and higher in the Southern and
+Western Finland collaborative areas (172.9 and 172.7). Examined by wellbeing services county, the incidence
+was significantly lower than the national average in the wellbeing services counties of South Savo, North
+Karelia and Ostrobothnia, and higher in Helsinki and the wellbeing services counties of West Uusimaa,
+Vantaa and Kerava, and Southwest Finland.
+The age-standardised five-year relative survival rate (five-year prognosis) for breast cancer patients diagnosed
+be- tween 2019 and 2023 was 93.0% nationwide. The prognosis was significantly better than the national
+prognosis in the Central Ostrobothnia wellbeing services county, while the prognoses for other counties did
+not differ sig- nificantly from the nationwide figure.
+At the end of 2023, there were 22 724 people alive in Finland who had been diagnosed with breast cancer no
+more than five years earlier (i.e. the cancer had been diagnosed between 2019 and 2023). Between 2019 and
+2023, a total of 4 506 women died from breast cancer, and the age-standardised mortality rate for the whole
+of Finland was 26.4. The mortality rate in Helsinki was significantly higher than the national average (32.7),
+while the mortality in the North Ostrobothnia wellbeing services county was lower (20.1).
+
+
+
+
+Figure 35: Age-standardised incidence of breast cancer in women (per 100,000 person-years) in 2019–2023, five- year
+relative survival rate of patients diagnosed in 2019–2023, and cancer mortality (per 100,000 person-years) in 2019–2023,
+in the wellbeing services counties and Helsinki.
+
+
+
+12.3		 Colorectal cancer
+A total of 19 889 cases of colorectal cancer were diagnosed in Finland between 2019 and 2023 On average,
+this was 3 978 new cases per year, with an age-standardised incidence of 65.0 nationwide. Of these,
+9 064 cases were diagnosed in women (incidence 53.9) and 10 825 cases in men (incidence 78.7).
+The age-standardised incidence of colorectal cancer was significantly lower than the national average in the
+Northern and Eastern Finland collab- orative areas (58.6 and 61.7), due in particular to the low incidence in
+the wellbeing services counties of North Karelia, North Savonia and North Ostrobothnia, and higher in the
+wellbeing services counties of Kymenlaakso and Päijät-Häme.
+The age-standardised five-year relative survival rate (five-year prognosis) for colorectal cancer patients
+diagnosed between 2019 and 2023 was 69.8% nationwide. The prognosis was significantly better than
+the national prognosis in the wellbeing services counties of Central Uusimaa and Kanta-Häme, while the
+prognoses for other counties did not differ significantly from the nationwide figure.
+At the end of 2023, there were 13 814 people alive in Finland who had been diagnosed with colorectal cancer
+no more than five years earlier (i.e. the cancer had been diagnosed between 2019 and 2023). Between 2019
+and 2023, a total of 7 002 people died from colorectal cancer, and the age-standardised mortality rate in
+the whole country was 22.3. Mortality rates significantly higher than the national average were recorded in
+the wellbeing services counties of Kymenlaakso (26.4), South Ostrobothnia (26.0), Pirkanmaa (24.6) and
+Satakunta (25.8).
+
+
+
+
+Figure 36: Age-standardised incidence of colorectal cancer (per 100,000 person-years) in 2019–2023, five-year relative
+survival rate of patients diagnosed in 2019–2023, and cancer mortality (per 100,000 person-years) in 2019–2023, in the
+wellbeing services counties and Helsinki.
+
+
+
+12.4		 Lung cancer
+In Finland, a total of 14 926 new cases of lung cancer were diagnosed between 2019 and 2023, of which
+6 030 in women and 8 896 in men. This was an average of 1 206 new cases per year in women and
+1 779 in men. The age-standardised incidence of lung cancer was 35.4 in women and 63.2 in men. The
+incidence of lung cancer in women was significantly higher than the national average in Helsinki (43.6),
+the wellbeing services counties of Vantaa and Kerava (45.2) and Lapland (45.7), and lower than the national
+average in the Eastern Finland collaborative area (27.7). The incidence of lung cancer in men was higher than
+the national average in the wellbeing services county of Lapland (82.4) and lower in the wellbeing services
+county of Central Ostrobothnia (49.0).
+The age-standardised five-year relative survival rate (five-year prognosis) for lung cancer patients
+diagnosed be- tween 2019 and 2023 was 25.6% in women and 16.2% in men nationwide. The figures for
+the wellbeing services counties did not differ significantly from the figures for Finland as a whole. The five-
+year prognosis for men in the wellbeing services county of Central Finland was significantly higher than the
+national average (23.4%).
+At the end of 2023, there were 4 434 people, 2 138 women and 2 296 men, alive in Finland who had been
+diagnosed with lung cancer no more than five years earlier (i.e. the cancer had been diagnosed between
+2019 and 2023). Between 2019 and 2023, a total of 4 377 women and 7 228 men died from lung cancer;
+the age-standardised mortality rate in the whole country was 25.1 for women and 51.7 for men. The age-
+standardised lung cancer mortality rate in women was higher than the national average in the Southern
+Finland (27.7) and Northern Finland (28.6) collaborative areas (in Helsinki and the wellbeing services counties
+of Vantaa and Kerava and Lapland) and lower in the Eastern Finland collaborative area (19.9) (in the wellbeing
+services counties of Central Finland and North Savo) and the wellbeing services county of South Ostrobothnia
+(20.4). The age-standardised mortality rate in men was significantly higher than the national average in the
+wellbeing services counties of Kymenlaakso (59.5) and Lapland (66.7) and lower in the wellbeing services
+counties of North Savo (43.9), Pirkanmaa (45.8) and Central Ostrobothnia (37.6).
+
+
+
+
+Figure 37: Age-standardised incidence of lung cancer in women (per 100,000 person-years) in 2019–2023, five- year relative
+survival rate of patients diagnosed in 2019–2023, and cancer mortality (per 100,000 person-years) in 2019–2023, in the
+wellbeing services counties and Helsinki.
+
+
+
+
+Figure 38: Age-standardised incidence of lung cancer in men (per 100,000 person-years) in 2019–2023, five-year relative
+survival rate of patients diagnosed in 2019–2023, and cancer mortality (per 100,000 person-years) in 2019–2023, in the
+wellbeing services counties and Helsinki.
+13 Educational level and cancer burden
+
+In the statistics presented by level of education, the population was divided into three groups according
+to the highest degree obtained (see Statistical methods, definitions). Figures Figure 39 – Figure 42 show
+the age-standardised cancer incidence and cancer mortality rates for women and men aged 25 and over
+per 100,000 person-years by level of education. In terms of incidence, the analysis covered the ten most
+common cancer types. In terms of mortality, it covered the ten cancer types with the highest mortality rates.
+In the case of women, the examination also covered cervical cancer and liver cancer, which have previously
+been found to differ in incidence or mortality by level of education.
+
+
+
+13.1 Cancer incidence by level of education
+
+In women, the differences between educational levels in the incidence of cancer (Figure 39) were
+proportionally greatest for lung and tracheal cancer. The incidence of lung and tracheal cancer at the
+basic education level was more than double the incidence at the tertiary education level (78.3 vs 31.1, risk
+ratio (RR) at basic level 2.32, 95% confidence interval [2.16, 2.50]). The incidence of cervical cancer was
+highest among those with a basic level of education and lowest among those with a higher education
+(12.9 vs 7.1, RR at basic level 1.79 [1.49, 2.15])), as were liver and pancreatic cancer (liver cancer incidence
+9.2 vs 5, RR at basic level 1.73 [1.43, 2.09] and pancreatic cancer incidence 31.6 vs 24.9, RR at basic level 1.22
+[1.12, 1.34]). The differences in the incidence of melanoma of the skin were also considerable, albeit in the
+opposite direction. The incidence was highest at the tertiary level (44.3) and lowest at the basic level (26.5,
+RR 0.62 [0.57, 0.68] compared to those with a higher education).
+Breast cancer was also more common among those with a tertiary-level education (260.6) than among
+those with a basic education (198.7). At the basic level of education, the RR of breast cancer was 0.77 [0.75,
+0.80] compared to those with a higher education. At the basic level of education, therefore, the incidence of
+breast cancer was almost a quarter (23%) lower than among those with a higher education. The differences
+in the incidence of colorectal cancer were very small: the incidence was approximately 6% higher at the basic
+level (77.6) than at the tertiary level (72.6), RR 1.06 [1.01, 1.12]..
+In men, the greatest differences in cancer incidence between education levels were observed for lung and
+tracheal cancer (Figure 40). The incidence of lung and tracheal cancer at the basic education level was
+approximately 2.5 times higher than among those with a higher education (127.1 vs 47, RR at basic level
+2.67 [2.51, 2.84] compared to the higher education level). The incidence of liver, bladder, pancreatic and
+kidney cancer was also highest among those with a basic education and lowest among those with a higher
+education (liver cancer 26.2 vs 15.1, RR 1.68 [1.49, 1.88]; bladder and urinary tract 64.6 vs 53, RR 1.20 [1.13,
+1.29]; pancreatic cancer 38.9 vs 32.7, RR 1.16 [1.06, 1.26]; and kidney cancer 34.1 vs 29.9, RR 1.10 [1.00, 1.20]).
+Melanoma of the skin, squamous cell carcinoma of the skin and prostate cancer, on the other hand, were
+less common among those with a basic education than among those with a higher education (melanoma
+of the skin 35.3 vs 64.4, RR 0.57 [0.53, 0.61] and squamous cell carcinoma of the skin 57.3 vs 67.6, RR 0.84
+[0.79, 0.89], prostate cancer 249.2 vs 290.2, RR 0.87 [0.85, 0.90]). The differences in the incidence of
+colorectal cancer between the basic and tertiary education levels were small and not statistically significant
+(109.6 vs 107, RR 1.04 [0.99, 1.09]).
+Figure 39: Incidence of cancer in women (per 100,000 person-years and age-standardised to the 2014 Finnish population)
+in the population aged over 25 by level of education in 2019–2023.
+
+
+
+
+Figure 40: Incidence of cancer in men (per 100,000 person-years and age-standardised to the 2014 Finnish population) in
+the population aged over 25 by level of education in 2019–2023.
+13.2		Cancer mortality by level of education
+
+Cancer mortality also showed differences between educational levels. In women, the mortality rate was
+overall highest at the basic level of education (Figure 41). The greatest statistically significant difference was
+observed for cervical cancer, where the mortality was more than 3,5 times higher among those with a basic
+level of education than among those with a higher education (4.1 vs 1.1, RR 3.62 [2.48, 5.28]). For lung and
+tracheal cancer, the difference was 2.5-fold (57.8 vs 19.8, RR 2.71 [2.48, 2.97]). There was also a more than
+1.5-fold difference in liver and stomach cancer mortality between the basic and the tertiary level (liver cancer
+7.9 at basic level vs 4.2 at tertiary level, RR 1.72 [1.40, 2.11]; stomach cancer 9 vs 5, RR 1.64 [1.35, 1.99]).
+The mortality rates for gallbladder and bile duct cancer, endometrial cancer, pancreatic cancer, colorectal
+cancer and ovarian cancer were also highest among those with basic level of education and lowest among
+those with a higher education (gallbladder and bile duct 7.7 vs 5.5, RR 1.36 [1.13, 1.64]; endometrial cancer
+9.5 vs 7.1, RR 1.34 [1.14, 1.59]; pancreatic cancer 29.6 vs 22.7, RR 1.26 [1.14, 1.38]; colorectal cancer 27.9 vs 22.2,
+RR 1.19 [1.08, 1.31]; ovarian cancer 17.6 vs 15, RR 1.12 [1.00, 1.27]). In the case of breast cancer mortality, there
+were no differences between education levels (RR 1.03 [0.95, 1.11]).
+In men, the mortality rate was highest at the basic and lowest at the tertiary level of education for all cancer
+types examined (Figure 42). The difference was particularly marked in the case of lung and tracheal cancer,
+where the mortality among men with basic-level qualifications was more than 2.5 times higher than among
+men with a tertiary-level education (104.1 vs 37.5, RR 2.78 [2.60, 2.98]). The difference in mortality was also
+significant in the case of oesophageal cancer, where the mortality at the basic education level was double the
+mortality at the tertiary level (15.1 vs 7.5, RR 1.97 [1.67, 2.32]). Stomach cancer had a 63% higher and liver
+cancer a 60% higher mortality rate at the basic education level compared to the higher level (stomach cancer
+16.1 vs 10, RR 1.63 [1.41, 1.89]; liver cancer 21.3 vs 12.6, RR 1.60 [1.41, 1.82]). In the case of colorectal cancer
+and prostate cancer, the mortality rate among those with a basic level of education was more than one-third
+higher than among those with a tertiary level of education: 44.2 vs 33.5 (RR 1.35 [1.24, 1.46]) for colorectal
+cancer and 58.4 vs 43.3 (RR 1.35 [1.25, 1.45]) for prostate cancer.
+
+
+
+
+Figure 41: Cancer mortality in women (per 100,000 person-years and age-standardised to the 2014 Finnish pop- ulation) in
+the population aged over 25 by level of education in 2019–2023.
+Figure 42: Cancer mortality in men (per 100,000 person-years and age-standardised to the 2014 Finnish popula- tion) in
+the population aged over 25 by level of education in 2019–2023.
+14		Tables
+14.1		Incidence, mortality and prevalence
+
+Table 8: Number and age-standardised rate of new cancer cases and deaths in 2023 and number and age-standardised
+proportion of cancer survivors in the population on 31 December 2023, female.
+Table 8: (continuation)
+Table 9: Number and age-standardised rate of new cancer cases and deaths in 2023 and number and age-standardised
+proportion of cancer survivors in the population on 31 December 2023, male.
+Table 9: (continuation)
+14.2		Survival of cancer patients
+
+Table 10: Five-year relative survival rates in cancer patients followed up in 2021–2023 by age group, female.
+Table 11: Five-year relative survival rates in cancer patients followed up in 2021–2023 by age group, male.
+14.3		Long-term changes, incidence
+
+Table 12: Average annual percent change in incidence in 1990–2023, female.
+Table 13: Average annual percent change in incidence in 1990–2023, male.
+14.4		Long-term changes, mortality
+
+Table 14: Average annual percent change in cancer mortality in 1990–2023, female.
+Table 15: Average annual percent change in cancer mortality in 1990–2023, male.
+14.4		 Regional statistik
+
+Table 16: Age-standardised incidence of prostate cancer (number and ratio per 100,000 person-years) in 2019–2023,
+five-year relative survival rate for patients diagnosed in 2019–2023 (prevalence), number of patients diagnosed in
+2019–2023 who were alive at the end of 2023 and mortality (number and ratio per 100,000 person-years) in 2019–2023, in
+the wellbeing services counties and Helsinki, in the collaborative areas and nationwide.
+Table 17: Age-standardised incidence of breast cancer in women (number and ratio per 100,000 person-years) in
+2019–2023, five-year relative survival rate for patients diagnosed in 2019–2023 (prevalence), number of patients diagnosed
+in 2019–2023 who were alive at the end of 2023 and mortality (number and ratio per 100,000 person- years) in 2019–2023,
+in the wellbeing services counties and Helsinki, in the collaborative areas and nationwide.
+Table 18: Age-standardised incidence of colorectal cancer (number and ratio per 100,000 person-years) in 2019–2023,
+five-year relative survival rate for patients diagnosed in 2019–2023 (prevalence), number of patients diag- nosed in
+2019–2023 who were alive at the end of 2023 and mortality (number and ratio per 100,000 person-years) in 2019–2023, in
+the wellbeing services counties and Helsinki, in the collaborative areas and nationwide.
+Table 19: Age-standardised incidence of lung cancer in women (number and ratio per 100,000 person-years) in
+2019–2023, five-year relative survival rate for patients diagnosed in 2019–2023 (prevalence), number of patients diagnosed
+in 2019–2023 who were alive at the end of 2023 and mortality (number and ratio per 100,000 person- years) in 2019–2023,
+in the wellbeing services counties and Helsinki, in the collaborative areas and nationwide.
+Table 20: Age-standardised incidence of lung cancer in men (number and ratio per 100,000 person-years) in
+2019–2023, five-year relative survival rate for patients diagnosed in 2019–2023 (prevalence), number of patients diagnosed in
+2019–2023 who were alive at the end of 2023 and mortality (number and ratio per 100,000 person- years) in 2019–2023, in
+the wellbeing services counties and Helsinki, in the collaborative areas and nationwide.
+List of Figures
+
+1    Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014
+     Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2023. ........ 6
+2 Number and incidence of new cancer cases (per 100,000 person-years and age standardised to
+  the 2014 Finnish population), stratified by cancer type in men (Figures A and B) and women (C and D)
+  in 1953–2023. Other digestive organs include cancer of the oesophagus, small intestine, anus,
+  liver, gallbladder and bile ducts, pancreas and other or unspecified digestive organst ...............................7
+3 Number of new cancer deaths and mortality rate (per 100,000 person-years and age standardised to
+  the 2014 Finnish population), stratified by cancer type, in men (Figures A and B) and women (C and D)
+  in 1953–2023. Other digestive organs include cancer of the oesophagus, small intestine, anus,
+  liver, gallbladder and bile ducts, pancreas and other or unspecified digestive organs................................ 8
+4 Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014
+  Finnish population) in 1953–2023, and projected development until 2040 by sex. ................................... 9
+5 Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014
+  Finnish population) in the population aged 25 and over by sex and level of education in 1986–2023 ..... 9
+6 Age structure of the Finnish population by sex in 1953 and 2023 .............................................................. 11
+7 Incidence of cancer among women and men (per 100,000 person-years and age standardised to
+  the 2014 Finnish population) for the most common cancer types in 2023 ................................................18
+8 Number of new cancer cases in women and men for the most common cancer types in 2023...............19
+9 Incidence of cancer among women and men aged under 20 (per 100,000 person-years)
+  for the most common cancer types in 2023 ................................................................................................. 20
+10 Incidence of cancer among women and men aged 20–69 (per 100,000 person-years)
+   for the most common cancer types in 2023. ................................................................................................ 20
+11 Incidence of cancer among women and men aged 70 and over (per 100,000 person-years)
+   for the most common cancer types in 2023 ..................................................................................................21
+12 Cancer mortality (per 100,000 person-years and age standardised to the 2014 Finnish population)
+   in women and men for the cancer types with the highest mortality rate in 2023 .................................... 22
+13 Number of cancer deaths in women and men for the cancer types with the highest mortality rate
+   in 2023 .............................................................................................................................................................23
+14 Cancer mortality (per 100,000 person-years) in women and men aged 20–69 for the cancer types
+   with the highest mortality rate in 2023 ........................................................................................................ 24
+15 Cancer mortality (per 100,000 person-years) in women and men aged 70 and over
+   for the cancer types with the highest mortality rate in 2023 ...................................................................... 24
+16 Number of people living with cancer at the end of 2023. ............................................................................25
+17 Five-year relative survival ratios (%) in patients followed up in 2021-2023 by sex and cancer type.
+   The survival ratios for laryngeal cancer in women and breast cancer in men are not presented due
+   to a small number of cases. ........................................................................................................................... 27
+18 Five-year relative survival ratios (%) in female patients followed up in 2021-2023 by age group
+   (under 55, 55–74 and 75 and over) for the seven most common cancer types in women
+   (excl. mature B-cell neoplasms and cutaneous squamous cell carcinoma). .............................................. 28
+19 Five-year relative survival ratios (%) in male patients followed up in 2021-2023 by age group
+   (under 55, 55–74 and 75 and over) for the seven most common cancer types in men
+   (excl. mature B-cell neoplasms and cutaneous squamous cell carcinoma).. ............................................. 28
+20 Average age of onset, life expectancy after diagnosis and years of life lost to cancer for women
+   by cancer type in patients diagnosed 2014–2023.......................................................................................... 31
+21 Average age of onset, life expectancy after diagnosis and years of life lost to cancer for men
+   by cancer type in patients diagnosed 2014–2023..........................................................................................32
+22 Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014
+   Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2023. ...... 36
+23 Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014
+   Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2023 ........37
+24 Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014
+   Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2023 ........38
+25 Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014
+   Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2023 ........39
+26 Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014
+   Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2023 .......40
+27 Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014
+   Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2023 ........41
+28 Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014
+   Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2023 ....... 42
+29 Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014
+   Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2023 ........43
+30 Cancer incidence and mortality (per 100,000 person-years and age-standardised to the 2014
+   Finnish population) and age-standardised five-year relative survival ratio (%) by sex in 1953–2023 ....... 44
+31 Annual number of new cancer cases diagnosed in 1953–2023 and the projected development
+   until 2040 in different age groups ..............................................................................................................46
+32 Number of people alive with a previous cancer diagnosis, 1953–2023 and projected trend
+   until 2040 for different age groups. ............................................................................................................. 47
+33 Number of people alive with a previous cancer diagnosis, 1953–2023 and projected trend
+   until 2040 for different age groups. The number is limited to persons with a cancer diagnosis
+   within the last five years.. .............................................................................................................................. 48
+34 Age-standardised incidence of prostate cancer (per 100,000 person-years) in 2019–2023,
+   five- year relative survival rate of patients diagnosed in 2019–2023, and cancer mortality
+   (per 100,000 person-years) in 2019–2023, in the wellbeing services counties and Helsinki.................. 49
+35 Age-standardised incidence of breast cancer in women (per 100,000 person-years) in 2019–2023,
+   five-year relative survival rate of patients diagnosed in 2019–2023, and cancer mortality
+   (per 100,000 person-years) in 2019–2023, in the wellbeing services counties and Helsinki.................. 50
+36 Age-standardised incidence of colorectal cancer (per 100,000 person-years) in 2019–2023,
+   five- year relative survival rate of patients diagnosed in 2019–2023, and cancer mortality
+   (per 100,000person-years) in 2019–2023, in the wellbeing services counties and Helsinki.................... 51
+37 Age-standardised incidence of lung cancer in women (per 100,000 person-years) in 2019–2023,
+   five-year relative survival rate of patients diagnosed in 2019–2023, and cancer mortality
+   (per 100,000 person-years) in 2019–2023, in the wellbeing services counties and Helsinki...................52
+38 Age-standardised incidence of lung cancer in men (per 100,000 person-years) in 2019–2023,
+   five-year relative survival rate of patients diagnosed in 2019–2023, and cancer mortality
+   (per 100,000 person-years) in 2019–2023, in the wellbeing services counties and Helsink .....................52
+39 Incidence of cancer in women (per 100,000 person-years and age-standardised to the 2014
+   Finnish population) in the population aged over 25 by level of education in 2019–2023. ..........................54
+40 Incidence of cancer in men (per 100,000 person-years and age-standardised to the 2014
+   Finnish population) in the population aged over 25 by level of education in 2019–2023.. .........................54
+41 Cancer mortality in women (per 100,000 person-years and age-standardised to the 2014
+   Finnish population) in the population aged over 25 by level of education in 2019–2023. .......................... 55
+42 Cancer mortality in men (per 100,000 person-years and age-standardised to the 2014
+   Finnish population) in the population aged over 25 by level of education in 2019–2023. ......................... 56
+
+
+
+List of Tables
+1    New cancer cases and cancer deaths in 2023, cancer prevalence and five-year relative survival
+     ratio of patients in the Finnish population separately for women and men ............................................... 6
+2 Starting year of time series for incidence, mortality, survival and prevalence for malignant disease
+  groups of the lymphoid and haematopoietic tissues. ................................................................................... 15
+3 Percentage of microscopically verified cancer cases (MV) and cancer cases confirmed by death
+  certificate only (DCO) by cancer disease.. ..................................................................................................... 17
+4 Lifetime risk (%) of developing and dying from cancer. The calculation is based on cancer
+  incidence, cancer mortality and overall mortality in the population in 2019–2023...................................21
+5 Number of years of life lost to cancer in a single year, by gender and cancer type. Calculation includes
+  cancer cases diagnosed in 2014–2023. .......................................................................................................... 30
+6 Prediction of the number of new cancer cases, the age standardised incidence, the number of cancer
+  deaths and the age-standardised mortality in 2040 as well as the relative change (in percentages) from
+  2023 for all cancers and the seven most common cancer type groups. The prediction for lung cancer is
+  presented by sex..............................................................................................................................................46
+7 Prediction of number of people alive with a previously diagnosed cancer, of age-standardised
+  prevalence at the end of 2040 and of relative change (in percentages) from 2023 for all cancers
+  and the most common cancers. Prevalence is presented for all individuals and separately for
+  those diagnosed with cancer within the last five years.. .............................................................................. 47
+8 Number and age-standardised rate of new cancer cases and deaths in 2023 and number and
+  age-standardised proportion of cancer survivors in the population on 31 December 2023, female ...........57
+9 Number and age-standardised rate of new cancer cases and deaths in 2023 and number and
+  age-standardised proportion of cancer survivors in the population on 31 December 2023, male ........... 59
+10 Five-year relative survival rates in cancer patients followed up in 2021–2023 by age group, female .......61
+11 Five-year relative survival rates in cancer patients followed up in 2021–2023 by age group, male ......... 62
+12 Average annual percent change in incidence in 1990–2023, female..........................................................63
+13 Average annual percent change in incidence in 1990–2023, male ............................................................64
+14 Average annual percent change in cancer mortality in 1990–2023, female.............................................. 65
+15 SAverage annual percent change in cancer mortality in 1990–2023, male ..............................................66
+16 Age-standardised incidence of prostate cancer (number and ratio per 100,000 person-years)
+   in 2019–2023, five-year relative survival rate for patients diagnosed in 2019–2023 (prevalence),
+   number of patients diagnosed in 2019–2023 who were alive at the end of 2023 and mortality
+   (number and ratio per 100,000 person-years) in 2019–2023, in the wellbeing services counties
+   and Helsinki, in the collaborative areas and nationwide............................................................................. 67
+17 Age-standardised incidence of breast cancer in women (number and ratio per 100,000 person-years)
+   in 2019–2023, five-year relative survival rate for patients diagnosed in 2019–2023 (prevalence),
+   number of patients diagnosed in 2019–2023 who were alive at the end of 2023 and mortality
+   (number and ratio per 100,000 person-years) in 2019–2023, in the wellbeing services counties
+   and Helsinki, in the collaborative areas and nationwide.............................................................................68
+18 Age-standardised incidence of colorectal cancer (number and ratio per 100,000 person-years)
+   in 2019–2023, five-year relative survival rate for patients diagnosed in 2019–2023 (prevalence),
+   number of patients diagnosed in 2019–2023 who were alive at the end of 2023 and mortality
+   (number and ratio per 100,000 person-years) in 2019–2023, in the wellbeing services counties
+   and Helsinki, in the collaborative areas and nationwide.............................................................................69
+19 Age-standardised incidence of lung cancer in women (number and ratio per 100,000 person-years)
+   in 2019–2023, five-year relative survival rate for patients diagnosed in 2019–2023 (prevalence),
+   number of patients diagnosed in 2019–2023 who were alive at the end of 2023 and mortality
+   (number and ratio per 100,000 person-years) in 2019–2023, in the wellbeing services counties
+   and Helsinki, in the collaborative areas and nationwide............................................................................. 70
+20 Age-standardised incidence of lung cancer in men (number and ratio per 100,000 person-years)
+   in 2019–2023, five-year relative survival rate for patients diagnosed in 2019–2023 (prevalence),
+   number of patients diagnosed in 2019–2023 who were alive at the end of 2023 and mortality
+   (number and ratio per 100,000 person-years) in 2019–2023, in the wellbeing services counties
+   and Helsinki, in the collaborative areas and nationwide.............................................................................. 71
+
