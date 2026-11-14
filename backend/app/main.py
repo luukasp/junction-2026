@@ -10,6 +10,7 @@ from app.ai_routes import router as ai_router
 from app.config import get_settings
 from app.counties import router as counties_router
 from app.db import get_connection
+from app.demographics import router as demographics_router
 from app.models import DATASETS, ingestion_state, review_proposals
 from app.pathway import router as pathway_router
 from app.schemas import Page
@@ -28,6 +29,7 @@ Dataset = Literal[
 
 
 app.include_router(counties_router)
+app.include_router(demographics_router)
 app.include_router(pathway_router)
 
 
