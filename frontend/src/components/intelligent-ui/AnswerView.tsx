@@ -59,16 +59,16 @@ function Source({ evidence, sourcePrefix }: { evidence: Evidence; sourcePrefix: 
   </details>
 }
 
-export function AnswerView({ response }: { response: AIResponse }) {
+export function AnswerView({ response, showSummary = true }: { response: AIResponse; showSummary?: boolean }) {
   const [failed, setFailed] = useState(false)
   const sourcePrefix = `evidence-${useId().replaceAll(':', '')}`
   const cited = new Set([...response.answer.findings, ...response.answer.proposals].flatMap(item => item.evidence_ids).concat(visualEvidence(response).map(item => item.id)))
   return <div className="mt-4 grid gap-5">
-    <div>
+    {showSummary && <div>
       <h4 className="text-sm font-medium">At a glance</h4>
       <p className="mt-2 text-sm leading-relaxed text-secondary">{concise(response.answer.summary, 280)}</p>
       {response.answer.summary.length > 280 && <details className="mt-2 text-xs text-muted"><summary className="cursor-pointer hover:text-accent">Read full summary</summary><p className="mt-3 text-sm leading-relaxed text-secondary">{response.answer.summary}</p></details>}
-    </div>
+    </div>}
     <EvidenceVisuals response={response} sourcePrefix={sourcePrefix} />
     {failed ? <div className="grid gap-3 text-sm text-secondary">{[...response.answer.proposals, ...response.answer.findings].map((item, index) => <details key={index}><summary className="cursor-pointer">{concise(item.title, 110)}</summary><ul className="mt-3 grid list-disc gap-2 pl-4">{shortPoints(item.detail, item.bullets).map((text, i) => <li key={i}>{text}</li>)}</ul><p className="mt-3">{item.detail}</p>{'owner' in item && <p>Proposed owner · {String(item.owner)}</p>}{'measure' in item && <p>Track · {String(item.measure)}</p>}<p className="mt-2 text-xs">{item.evidence_ids.join(', ')}</p></details>)}</div> : <Renderer response={answerProgram(response)} library={library} isStreaming={false} onError={errors => { if (errors.length) setFailed(true) }} />}
     <details className="rounded-lg bg-raised p-4">

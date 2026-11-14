@@ -254,3 +254,89 @@ def test_visual_briefing_schema_limits_prose():
     assert schema["properties"]["proposals"]["maxItems"] == 3
     assert schema["$defs"]["Finding"]["properties"]["bullets"]["maxItems"] == 3
     assert schema["$defs"]["Finding"]["properties"]["detail"]["maxLength"] == 600
+
+
+def _events(response):
+    return [json.loads(line[5:]) for line in response.text.splitlines() if line.startswith("data:")]
+
+
+def test_partial_string_decodes_incomplete_json():
+    from app.ai_routes import partial_string
+
+    assert partial_string('{"reply": "Hel', "reply") == "Hel"
+    assert partial_string('{"reply": "a\\"b\\n', "reply") == 'a"b\n'
+    assert partial_string('{"reply": "x\\u00', "reply") == "x"
+    assert partial_string('{"reply": "done", "summary": "s"}', "reply") == "done"
+    assert partial_string('{"summ', "reply") is None
+
+
+def test_chat_stream_emits_progress_deltas_and_done(client):
+    class StreamingProvider(FakeProvider):
+        def stream(self, system, prompt, schema=None):
+            text = json.dumps({"reply": "Screening lags Finland.", **self.generate(system, prompt)})
+            for i in range(0, len(text), 7):
+                yield text[i : i + 7]
+
+    app.dependency_overrides[get_provider] = StreamingProvider
+    response = client.post("/api/v1/counties/HVA90/chat/stream", json={"question": "Status?"})
+    assert response.headers["content-type"].startswith("text/event-stream")
+    events = _events(response)
+    assert events[0]["type"] == "status"
+    deltas = [e["text"] for e in events if e["type"] == "delta"]
+    assert deltas[-1] == "Screening lags Finland." and len(deltas) > 1
+    done = events[-1]
+    assert done["type"] == "done"
+    assert done["response"]["answer"]["reply"] == "Screening lags Finland."
+
+
+def test_stream_errors_become_error_event(client):
+    class Broken(FakeProvider):
+        def generate(self, system, prompt, schema=None):
+            raise LLMError("AI provider rate limit reached; retry later")
+
+    app.dependency_overrides[get_provider] = Broken
+    response = client.post("/api/v1/counties/HVA90/chat/stream", json={"question": "Status?"})
+    assert _events(response)[-1] == {
+        "type": "error",
+        "detail": "AI provider rate limit reached; retry later",
+    }
+
+
+def test_proposal_stream_returns_saved_proposal(client):
+    events = _events(client.post("/api/v1/counties/HVA01/proposal/stream?force=true"))
+    assert events[-1]["type"] == "proposal"
+    assert events[-1]["proposal"]["answer"]["reply"]
+
+
+@pytest.mark.parametrize("provider", ["gemini", "openai-compatible"])
+def test_provider_stream_adapters(monkeypatch, provider):
+    if provider == "gemini":
+        lines = [
+            'data: {"candidates":[{"content":{"parts":[{"text":"{\\"ok\\":"}]}}]}',
+            'data: {"candidates":[{"content":{"parts":[{"text":"true}"}]},"finishReason":"STOP"}]}',
+        ]
+    else:
+        lines = [
+            'data: {"choices":[{"delta":{"content":"{\\"ok\\":"}}]}',
+            'data: {"choices":[{"delta":{"content":"true}"},"finish_reason":"stop"}]}',
+            "data: [DONE]",
+        ]
+
+    class Response:
+        status_code, is_success = 200, True
+
+        def iter_lines(self):
+            return iter(lines)
+
+    class Context:
+        def __enter__(self):
+            return Response()
+
+        def __exit__(self, *args):
+            return False
+
+    monkeypatch.setattr(httpx.Client, "stream", lambda self, *a, **k: Context())
+    adapter = HTTPProvider(
+        Settings(llm_provider=provider, gemini_api_key="k", llm_api_key="k", _env_file=None)
+    )
+    assert "".join(adapter.stream("system", "question")) == '{"ok":true}'
