@@ -1,0 +1,418 @@
+[
+  {
+    "id": "porvoo",
+    "regionId": "HVA01",
+    "name": "Porvoo Hospital",
+    "city": "Porvoo",
+    "address": "Sairaalantie 1",
+    "provider": "HUS",
+    "type": "General hospital",
+    "sourceUrl": "https://www.hus.fi/en/patient/hospitals-and-other-units/porvoo-hospital",
+    "coordinates": [
+      25.6970214,
+      60.3778049
+    ],
+    "locationSourceUrl": "https://www.openstreetmap.org/way/260411981",
+    "postalCode": "06150"
+  },
+  {
+    "id": "hyvinkaa",
+    "regionId": "HVA02",
+    "name": "Hyvinkää Hospital",
+    "city": "Hyvinkää",
+    "address": "Sairaalankatu 1",
+    "provider": "HUS",
+    "type": "General hospital",
+    "sourceUrl": "https://www.hus.fi/en/patient/hospitals-and-other-units/hyvinkaa-hospital",
+    "coordinates": [
+      24.8289657,
+      60.6100833
+    ],
+    "locationSourceUrl": "https://www.openstreetmap.org/way/27746622",
+    "postalCode": "05850"
+  },
+  {
+    "id": "jorvi",
+    "regionId": "HVA03",
+    "name": "Jorvi Hospital",
+    "city": "Espoo",
+    "address": "Karvasmäentie 8",
+    "provider": "HUS",
+    "type": "General hospital",
+    "sourceUrl": "https://www.hus.fi/en/patient/hospitals-and-other-units/jorvi-hospital",
+    "coordinates": [
+      24.6891229,
+      60.2217434
+    ],
+    "locationSourceUrl": "https://www.openstreetmap.org/way/499397116",
+    "postalCode": "02740"
+  },
+  {
+    "id": "lohja",
+    "regionId": "HVA03",
+    "name": "Lohja Hospital",
+    "city": "Lohja",
+    "address": "Sairaalatie 8",
+    "provider": "HUS",
+    "type": "General hospital",
+    "sourceUrl": "https://www.hus.fi/en/patient/hospitals-and-other-units/lohja-hospital",
+    "coordinates": [
+      24.0179733,
+      60.223515
+    ],
+    "locationSourceUrl": "https://www.openstreetmap.org/way/245472846",
+    "postalCode": "08200"
+  },
+  {
+    "id": "peijas",
+    "regionId": "HVA04",
+    "name": "Peijas Hospital",
+    "city": "Vantaa",
+    "address": "Sairaalakatu 1",
+    "provider": "HUS",
+    "type": "General hospital",
+    "sourceUrl": "https://www.hus.fi/en/patient/hospitals-and-other-units/peijas-hospital",
+    "coordinates": [
+      25.0593356,
+      60.331531
+    ],
+    "locationSourceUrl": "https://www.openstreetmap.org/way/400743814",
+    "postalCode": "01400"
+  },
+  {
+    "id": "tyks",
+    "regionId": "HVA05",
+    "name": "Turku University Hospital · T Hospital",
+    "city": "Turku",
+    "address": "Hämeentie 11",
+    "provider": "Varha / Tyks",
+    "type": "University hospital",
+    "sourceUrl": "https://www.tyks.fi/potilaille-ja-laheisille/sairaalat-ja-toimipisteet/tyks-t-sairaala",
+    "coordinates": [
+      22.2961977,
+      60.4537188
+    ],
+    "locationSourceUrl": "https://www.openstreetmap.org/relation/10852347",
+    "postalCode": "20521"
+  },
+  {
+    "id": "satasairaala",
+    "regionId": "HVA06",
+    "name": "Satasairaala",
+    "city": "Pori",
+    "address": "Sairaalantie 3",
+    "provider": "Satakunta wellbeing services county",
+    "type": "Central hospital",
+    "sourceUrl": "https://satakunnanhyvinvointialue.fi/wp-content/uploads/2025/09/Satasairaala_Aluekartta_09_2025.pdf",
+    "coordinates": [
+      21.7808144,
+      61.472941
+    ],
+    "locationSourceUrl": "https://api.palvelutietovaranto.suomi.fi/api/v11/ServiceChannel/97f61a35-21a0-440c-9976-7d65930053e5",
+    "postalCode": "28500"
+  },
+  {
+    "id": "ahvenisto",
+    "regionId": "HVA07",
+    "name": "Ahvenisto Hospital (Assi)",
+    "city": "Hämeenlinna",
+    "address": "Sairaalakatu 3 B, entrance E1",
+    "provider": "Oma Häme",
+    "type": "Central hospital",
+    "sourceUrl": "https://omahame.fi/saapuminen-ahveniston-sairaalaan",
+    "coordinates": [
+      24.4189848,
+      60.9873206
+    ],
+    "locationSourceUrl": "https://api.palvelutietovaranto.suomi.fi/api/v11/ServiceChannel/f8f0b0f6-0901-406f-8a88-abfacc967f52",
+    "postalCode": "13530"
+  },
+  {
+    "id": "tays",
+    "regionId": "HVA08",
+    "name": "Tampere University Hospital (Tays)",
+    "city": "Tampere",
+    "address": "Elämänaukio 2",
+    "provider": "Pirkanmaa wellbeing services county",
+    "type": "University hospital",
+    "sourceUrl": "https://pirha.fi/toimipisteet/sairaalat-ja-hoitoyksikot/tays-keskussairaala",
+    "coordinates": [
+      23.8139132,
+      61.5047983
+    ],
+    "locationSourceUrl": "https://www.openstreetmap.org/way/693303416",
+    "postalCode": "33520"
+  },
+  {
+    "id": "paijat-hame",
+    "regionId": "HVA09",
+    "name": "Päijät-Häme Central Hospital",
+    "city": "Lahti",
+    "address": "Keskussairaalankatu 7",
+    "provider": "Päijät-Häme wellbeing services county",
+    "type": "Central hospital",
+    "sourceUrl": "https://paijatha.fi/asiointiopas/keskussairaalan-palvelut/",
+    "coordinates": [
+      25.5682104,
+      60.9911145
+    ],
+    "locationSourceUrl": "https://api.palvelutietovaranto.suomi.fi/api/v11/ServiceChannel/24341bf3-4608-4854-9256-f9027c5fa3cf",
+    "postalCode": "15850"
+  },
+  {
+    "id": "kymenlaakso",
+    "regionId": "HVA10",
+    "name": "Kymenlaakso Central Hospital",
+    "city": "Kotka",
+    "address": "Kotkantie 41",
+    "provider": "Kymenlaakso wellbeing services county",
+    "type": "Central hospital",
+    "sourceUrl": "https://kymenhva.fi/kymenlaakson-keskussairaala/",
+    "coordinates": [
+      26.9127393,
+      60.4770389
+    ],
+    "locationSourceUrl": "https://api.palvelutietovaranto.suomi.fi/api/v11/ServiceChannel/abb0490a-dda3-48cf-a6df-37c4d86fa61b",
+    "postalCode": "48210"
+  },
+  {
+    "id": "south-karelia",
+    "regionId": "HVA11",
+    "name": "South Karelia Central Hospital",
+    "city": "Lappeenranta",
+    "address": "Valto Käkelän katu 1",
+    "provider": "South Karelia wellbeing services county",
+    "type": "Central hospital",
+    "sourceUrl": "https://www.ekhva.fi/toimipaikat/etela-karjalan-keskussairaala/",
+    "coordinates": [
+      28.2096696,
+      61.0651301
+    ],
+    "locationSourceUrl": "https://api.palvelutietovaranto.suomi.fi/api/v11/ServiceChannel/36d55abb-26c6-4da7-872c-72fed2d8fe21",
+    "postalCode": "53130"
+  },
+  {
+    "id": "mikkeli",
+    "regionId": "HVA12",
+    "name": "Mikkeli Central Hospital",
+    "city": "Mikkeli",
+    "address": "Porrassalmenkatu 35–37",
+    "provider": "Eloisa",
+    "type": "Central hospital",
+    "sourceUrl": "https://etelasavonha.fi/asiakkaan-opas/toimipisteet/mikkelin-keskussairaala/",
+    "coordinates": [
+      27.2779179,
+      61.6922393
+    ],
+    "locationSourceUrl": "https://api.palvelutietovaranto.suomi.fi/api/v11/ServiceChannel/210a6334-6a89-41e6-8e76-02aaca9d825c",
+    "postalCode": "50100"
+  },
+  {
+    "id": "savonlinna",
+    "regionId": "HVA12",
+    "name": "Savonlinna Hospital",
+    "city": "Savonlinna",
+    "address": "Keskussairaalantie 6",
+    "provider": "Eloisa",
+    "type": "General hospital",
+    "sourceUrl": "https://www.suomi.fi/palvelut/palvelupiste/savonlinnan-sairaala-etela-savon-hyvinvointialue/1283c72c-c1a9-4542-a5cf-0e94c93ef1ad",
+    "coordinates": [
+      28.8537966,
+      61.871354
+    ],
+    "locationSourceUrl": "https://api.palvelutietovaranto.suomi.fi/api/v11/ServiceChannel/1283c72c-c1a9-4542-a5cf-0e94c93ef1ad",
+    "postalCode": "57120"
+  },
+  {
+    "id": "kys",
+    "regionId": "HVA13",
+    "name": "Kuopio University Hospital (KYS)",
+    "city": "Kuopio",
+    "address": "Puijonlaaksontie 2",
+    "provider": "North Savo wellbeing services county",
+    "type": "University hospital",
+    "sourceUrl": "https://pshyvinvointialue.fi/fi/kys-kuopion-yliopistollinen-sairaala",
+    "coordinates": [
+      27.6474026,
+      62.8970104
+    ],
+    "locationSourceUrl": "https://api.palvelutietovaranto.suomi.fi/api/v11/ServiceChannel/5d6d3e2a-4091-4a62-8075-a02514292b65",
+    "postalCode": "70210"
+  },
+  {
+    "id": "north-karelia",
+    "regionId": "HVA14",
+    "name": "North Karelia Central Hospital",
+    "city": "Joensuu",
+    "address": "Tikkamäentie 16",
+    "provider": "Siun sote",
+    "type": "Central hospital",
+    "sourceUrl": "https://www.suomi.fi/palvelut/palvelupiste/pohjois-karjalan-keskussairaala-pohjois-karjalan-hyvinvointialue-siun-sote/1b493b79-c81b-4524-9e2a-88b2c44cbc3e",
+    "coordinates": [
+      29.779786,
+      62.591448
+    ],
+    "locationSourceUrl": "https://api.palvelutietovaranto.suomi.fi/api/v11/ServiceChannel/1b493b79-c81b-4524-9e2a-88b2c44cbc3e",
+    "postalCode": "80210"
+  },
+  {
+    "id": "nova",
+    "regionId": "HVA15",
+    "name": "Hospital Nova",
+    "city": "Jyväskylä",
+    "address": "Hoitajantie 3",
+    "provider": "Central Finland wellbeing services county",
+    "type": "Central hospital",
+    "sourceUrl": "https://www.hyvaks.fi/sairaala-nova/saapuminen",
+    "coordinates": [
+      25.7047027,
+      62.2299618
+    ],
+    "locationSourceUrl": "https://api.palvelutietovaranto.suomi.fi/api/v11/ServiceChannel/1a45009e-d4cd-49c2-960f-5da027d6ac89",
+    "postalCode": "40620"
+  },
+  {
+    "id": "seinajoki",
+    "regionId": "HVA16",
+    "name": "Seinäjoki Central Hospital",
+    "city": "Seinäjoki",
+    "address": "Hanneksenrinne 7",
+    "provider": "South Ostrobothnia wellbeing services county",
+    "type": "Central hospital",
+    "sourceUrl": "https://www.hyvaep.fi/toimipiste/seinajoen-keskussairaala/",
+    "coordinates": [
+      22.8211336,
+      62.7715006
+    ],
+    "locationSourceUrl": "https://api.palvelutietovaranto.suomi.fi/api/v11/ServiceChannel/c5e113cd-b229-4991-afc3-dce2f8c15639",
+    "postalCode": "60220"
+  },
+  {
+    "id": "vaasa",
+    "regionId": "HVA17",
+    "name": "Vaasa Central Hospital",
+    "city": "Vaasa",
+    "address": "Hietalahdenkatu 2–4",
+    "provider": "Ostrobothnia wellbeing services county",
+    "type": "Central hospital",
+    "sourceUrl": "https://www.suomi.fi/palvelut/palvelupiste/paivystys-vaasan-keskussairaala-pohjanmaan-hyvinvointialue/b93f3f65-0f55-4fa7-97bb-298b64d64f7c",
+    "coordinates": [
+      21.6157441,
+      63.0839038
+    ],
+    "locationSourceUrl": "https://api.palvelutietovaranto.suomi.fi/api/v11/ServiceChannel/b93f3f65-0f55-4fa7-97bb-298b64d64f7c",
+    "postalCode": "65130"
+  },
+  {
+    "id": "kokkola",
+    "regionId": "HVA18",
+    "name": "Central Ostrobothnia Central Hospital",
+    "city": "Kokkola",
+    "address": "Mariankatu 16–20",
+    "provider": "Soite",
+    "type": "Central hospital",
+    "sourceUrl": "https://soite.fi/office/keski-pohjanmaan-keskussairaala/",
+    "coordinates": [
+      23.1143853,
+      63.8456412
+    ],
+    "locationSourceUrl": "https://api.palvelutietovaranto.suomi.fi/api/v11/ServiceChannel/3f2589b2-a37a-42f2-b298-2a09869f782d",
+    "postalCode": "67200"
+  },
+  {
+    "id": "oys",
+    "regionId": "HVA19",
+    "name": "Oulu University Hospital (OYS)",
+    "city": "Oulu",
+    "address": "Kajaanintie 50",
+    "provider": "Pohde",
+    "type": "University hospital",
+    "sourceUrl": "https://pohde.fi/sairaala/oulun-yliopistollinen-sairaala-oys/",
+    "coordinates": [
+      25.5180982,
+      65.0070934
+    ],
+    "locationSourceUrl": "https://api.palvelutietovaranto.suomi.fi/api/v11/ServiceChannel/a7c6d7c3-6196-4804-9617-2484b4a0841b",
+    "postalCode": "90220"
+  },
+  {
+    "id": "kainuu",
+    "regionId": "HVA20",
+    "name": "Kainuu Central Hospital",
+    "city": "Kajaani",
+    "address": "Sotkamontie 13",
+    "provider": "Kainuu wellbeing services county",
+    "type": "Central hospital",
+    "sourceUrl": "https://hyvinvointialue.kainuu.fi/toimipaikat/kainuun-keskussairaala",
+    "coordinates": [
+      27.7320917,
+      64.213937
+    ],
+    "locationSourceUrl": "https://api.palvelutietovaranto.suomi.fi/api/v11/ServiceChannel/d6fc307a-a52e-4e3a-8134-cd30bd38cd47",
+    "postalCode": "87300"
+  },
+  {
+    "id": "lapland",
+    "regionId": "HVA21",
+    "name": "Lapland Central Hospital",
+    "city": "Rovaniemi",
+    "address": "Ounasrinteentie 22",
+    "provider": "Lapland wellbeing services county",
+    "type": "Central hospital",
+    "sourceUrl": "https://lapha.fi/saapuminen-ja-pysakointi",
+    "coordinates": [
+      25.7768834,
+      66.4931665
+    ],
+    "locationSourceUrl": "https://api.palvelutietovaranto.suomi.fi/api/v11/ServiceChannel/e6fe45b2-c2c1-441b-b12e-7d707ec5384d",
+    "postalCode": "96400"
+  },
+  {
+    "id": "lansi-pohja",
+    "regionId": "HVA21",
+    "name": "Länsi-Pohja Hospital",
+    "city": "Kemi",
+    "address": "Kauppakatu 25",
+    "provider": "Lapland wellbeing services county",
+    "type": "General hospital",
+    "sourceUrl": "https://lapha.fi/saapuminen-ja-pysakointi",
+    "coordinates": [
+      24.55654,
+      65.7336624
+    ],
+    "locationSourceUrl": "https://api.palvelutietovaranto.suomi.fi/api/v11/ServiceChannel/445ab296-caff-43ec-bc07-4753a3529f55",
+    "postalCode": "94100"
+  },
+  {
+    "id": "meilahti",
+    "regionId": "HVA90",
+    "name": "Meilahti Bridge Hospital",
+    "city": "Helsinki",
+    "address": "Haartmaninkatu 4",
+    "provider": "HUS Helsinki University Hospital",
+    "type": "University hospital",
+    "sourceUrl": "https://www.hus.fi/en/patient/hospitals-and-other-units/meilahti-bridge-hospital",
+    "coordinates": [
+      24.9059816,
+      60.1883134
+    ],
+    "locationSourceUrl": "https://api.palvelutietovaranto.suomi.fi/api/v11/ServiceChannel/d05dbb26-629b-4c15-bb47-9d1da9398e2f",
+    "postalCode": "00290"
+  },
+  {
+    "id": "aland",
+    "regionId": "HVA91",
+    "name": "Åland Central Hospital",
+    "city": "Mariehamn",
+    "address": "Doktorsvägen 1",
+    "provider": "Ålands hälso- och sjukvård (ÅHS)",
+    "type": "Central hospital",
+    "sourceUrl": "https://www.ahs.ax/kontakt",
+    "coordinates": [
+      19.9324706,
+      60.1156662
+    ],
+    "locationSourceUrl": "https://www.openstreetmap.org/way/360782167",
+    "postalCode": "22111"
+  }
+]
