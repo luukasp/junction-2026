@@ -7,15 +7,16 @@ from pydantic import BaseModel
 from sqlalchemy import Connection, func, select, text
 from sqlalchemy.exc import SQLAlchemyError
 
+from app.ai_routes import router as ai_router
 from app.config import get_settings
 from app.db import get_connection
-from app.models import DATASETS, ingestion_state
+from app.models import DATASETS, ingestion_state, review_proposals
 
 app = FastAPI(title="Equal Care API", version="0.1.0")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=get_settings().cors_origins,
-    allow_methods=["GET"],
+    allow_methods=["GET", "POST"],
     allow_headers=["*"],
 )
 ConnectionDep = Annotated[Connection, Depends(get_connection)]
@@ -45,7 +46,7 @@ def health():
 def ready(conn: ConnectionDep):
     try:
         conn.execute(text("SELECT 1"))
-        for table in DATASETS.values():
+        for table in [*DATASETS.values(), review_proposals]:
             conn.execute(select(table).limit(0))
         state = conn.execute(select(ingestion_state.c.imported_at)).scalar_one_or_none()
     except SQLAlchemyError as exc:
@@ -111,3 +112,6 @@ def list_data(
         .all()
     )
     return Page(items=[dict(row) for row in rows], total=total, limit=limit, offset=offset)
+
+
+app.include_router(ai_router)

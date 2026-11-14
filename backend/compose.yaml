@@ -17,6 +17,7 @@ services:
       retries: 20
   api:
     build: .
+    env_file: .env
     environment:
       DATABASE_URL: mysql+pymysql://${MARIADB_USER:-equal_care}:${MARIADB_PASSWORD:-local_dev_password}@db:3306/${MARIADB_DATABASE:-equal_care}?charset=utf8mb4
       CORS_ORIGINS: '${CORS_ORIGINS:-["http://localhost:5173","http://127.0.0.1:5173"]}'

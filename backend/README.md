@@ -8,7 +8,7 @@ configuration and tests live here; input data remains in `../data/processed`.
 From this directory:
 
 ```bash
-cp .env.example .env
+test -f .env || cp .env.example .env
 docker compose up --build -d
 docker compose exec api backend ingest
 ```
@@ -19,8 +19,8 @@ volume. Compose waits for MariaDB and creates missing tables before starting the
 The separate import command loads all 341 CSVs; startup does not automatically import data.
 
 Default credentials and localhost bindings are for local development. Set credentials
-in `.env` before the first database start. The read API is unauthenticated; database
-writes are available only through the administrative CLI.
+in `.env` before the first database start. The local-development API is unauthenticated, including proposal generation and chat.
+Keep it bound to localhost; add access controls before exposing it to other users.
 
 ```bash
 docker compose logs -f api
@@ -32,7 +32,7 @@ docker compose down             # preserve the database volume
 Requires Python 3.11+ and a running MariaDB instance. From `backend/`:
 
 ```bash
-cp .env.example .env
+test -f .env || cp .env.example .env
 uv sync --extra dev
 docker compose up -d db
 uv run backend init-db
@@ -142,14 +142,10 @@ and filter values are parameterized.
 /api/v1/data/source-rows?table_id=lung_2019_2023_t010
 ```
 
-Set `VITE_API_URL=http://localhost:8000` in your frontend environment:
-
-```ts
-const baseUrl = import.meta.env.VITE_API_URL ?? "http://localhost:8000";
-const response = await fetch(`${baseUrl}/api/v1/data/regions`);
-if (!response.ok) throw new Error(`API error: ${response.status}`);
-const { items: regions } = await response.json();
-```
+The frontend development server proxies `/api` to `http://127.0.0.1:8000`.
+For separate hosting, set `VITE_API_BASE_URL` to the backend origin at frontend build
+time, and allow that frontend origin in `CORS_ORIGINS`. Never put API keys in a
+`VITE_` variable. The dashboard, map, county list, proposals and chat all use the API.
 
 CORS allows `http://localhost:5173` and `http://127.0.0.1:5173` by default.
 Set `CORS_ORIGINS` to a JSON array to allow other frontend origins.
@@ -173,3 +169,69 @@ TEST_DATABASE_URL='mysql+pymysql://user:password@localhost:3306/test_database' u
 The suite covers full-data counts, deduplication, NULL preservation, national codes,
 unchanged/forced imports, conflict rejection, malformed CSVs, rollback after a
 mid-import failure, API filters, CORS and database-unavailable responses.
+
+## AI county reviews and executive chat
+
+`backend/.env` is loaded by absolute source path, regardless of working directory.
+Keep the existing `GEMINI_API_KEY` there. Gemini calls use `x-goog-api-key`, and
+provider error bodies are never returned to the browser or printed by the CLI.
+
+```dotenv
+LLM_PROVIDER=gemini
+LLM_MODEL=gemini-4-carbon
+```
+
+To use another provider implementing Chat Completions with JSON-object output:
+
+```dotenv
+LLM_PROVIDER=openai-compatible
+LLM_BASE_URL=https://your-provider.example/v1
+LLM_MODEL=your-model-id
+LLM_API_KEY=your-server-side-key
+```
+
+Restart the backend after changing settings. `LLM_TIMEOUT_SECONDS` defaults to 120.
+The provider boundary is `app/llm.py`; add another adapter there for a different wire
+protocol. No frontend changes are needed to switch models or compatible providers.
+
+Initialize the added table and generate persisted reviews for every area:
+
+```bash
+uv run backend init-db
+uv run backend ingest
+uv run backend generate-proposals
+# One county, or explicitly create a new version:
+uv run backend generate-proposals --area-code HVA90
+uv run backend generate-proposals --area-code HVA90 --force
+```
+
+Generation skips an existing review for the same county, dataset fingerprint,
+provider and model. Each successful county is committed independently; rerunning a
+partially failed batch resumes missing reviews. Nonzero exit means some areas failed.
+The UI can generate/regenerate one county and retrieves its latest saved review.
+
+- `GET /api/v1/dashboard`: database-backed map and summary data.
+- `GET /api/v1/counties/{area_code}/proposal`: latest saved review, or null.
+- `POST /api/v1/counties/{area_code}/proposal?force=false`: generate and persist.
+- `POST /api/v1/counties/{area_code}/chat`: `{question, history: [{role, content}]}`.
+
+`review_proposals` stores validated structured output, generation time, model/provider,
+source fingerprint, the exact retrieved rows, and computed quality indicators. It is
+excluded from data reimports. Older evidence snapshots remain auditable even when
+source row IDs change; changed fingerprints show a stale-review notice in the UI.
+Chat retrieves county data afresh and is retained only while that briefing is open.
+
+Retrieval uses exact county codes, question terms and recency, with at most 24
+observations per dataset and diversity across screening programs / StatFin datasets.
+The full original dimensions, periods, units, confidence intervals, warnings and source
+URLs travel with each selected row. Coverage counts and missing numeric cells describe
+all county rows, not a model confidence score. National totals and nonmatching
+geographies are not silently substituted. This is bounded retrieval, not an exhaustive
+analysis or semantic search over the strategy PDFs. Model text still needs human review;
+validated citation IDs prove the cited row exists, not that every inference is correct.
+
+The frontend uses OpenUI's renderer and restricted components adapted from
+[Open Intelligent UI](https://github.com/thesysdev/open-intelligent-ui), with its MIT
+notice included. Validated JSON becomes escaped OpenUI text/cards; generated HTML,
+JavaScript, arbitrary model links and UI actions are not executed. Original source links
+come from retrieved database rows. Renderer errors fall back to readable text.

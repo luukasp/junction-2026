@@ -183,3 +183,17 @@ DATASETS = {
     "source-tables": source_tables,
     "source-rows": source_rows,
 }
+
+# Evidence snapshots remain valid audit records even after source data is reimported.
+review_proposals = table(
+    "review_proposals",
+    identity(),
+    Column("area_code", String(10), nullable=False, index=True),
+    Column("created_at", DateTime, nullable=False),
+    Column("provider", String(40), nullable=False),
+    Column("model", String(150), nullable=False),
+    Column("fingerprint", String(64), nullable=False),
+    Column("answer", JSON, nullable=False),
+    Column("evidence", JSON, nullable=False),
+    Column("quality", JSON, nullable=False),
+)

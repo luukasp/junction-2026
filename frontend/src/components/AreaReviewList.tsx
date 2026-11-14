@@ -1,11 +1,13 @@
 import { useState } from 'react'
 import { ArrowUpRight } from 'lucide-react'
-import { count, getCoverageBand, percent, reportingRegions } from '../data/regions'
+import { count, getCoverageBand, percent } from '../data/regions'
+import { useDashboard } from '../data/DashboardContext'
 import { CoverageSwatch } from './CoverageSwatch'
 
 type Props = { selectedRegionId: string | null; onRegionSelect: (id: string) => void }
 
 export function AreaReviewList({ selectedRegionId, onRegionSelect }: Props) {
+  const { reportingRegions } = useDashboard()
   const [sortBy, setSortBy] = useState<'missing' | 'share'>('missing')
   const ranked = [...reportingRegions].sort((a, b) =>
     b[sortBy] - a[sortBy] || a.regionName.localeCompare(b.regionName),

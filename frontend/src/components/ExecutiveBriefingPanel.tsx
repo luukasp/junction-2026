@@ -1,12 +1,16 @@
 import { X } from 'lucide-react'
 import { twMerge } from 'tailwind-merge'
-import { useEffect, useRef } from 'react'
-import { count, getCoverageBand, observationWindow, percent, pooledShare, recommendation, sourceUrl, type RegionData } from '../data/regions'
+import { lazy, Suspense, useEffect, useRef } from 'react'
+import { count, getCoverageBand, percent, type RegionData } from '../data/regions'
+import { useDashboard } from '../data/DashboardContext'
 import { CoverageSwatch } from './CoverageSwatch'
+
+const CountyAI = lazy(() => import('./CountyAI').then(module => ({ default: module.CountyAI })))
 
 type Props = { regionData: RegionData | null; onClose: () => void }
 
 export function ExecutiveBriefingPanel({ regionData, onClose }: Props) {
+  const { observationWindow, pooledShare, sourceUrl, period } = useDashboard()
   const closeButton = useRef<HTMLButtonElement>(null)
   const open = regionData !== null
 
@@ -49,7 +53,7 @@ export function ExecutiveBriefingPanel({ regionData, onClose }: Props) {
           {difference !== null && (
             <div className="mt-4 rounded-lg border border-line bg-raised px-3 py-3 text-sm text-secondary">
               <p><span className="font-mono text-ink">{percent(pooledShare)}</span> across all reporting areas</p>
-              <p className="mt-1 text-xs text-muted">{difference === 0 ? 'Matches the pooled share at this precision' : `${Math.abs(difference).toFixed(1)} percentage points ${difference > 0 ? 'above' : 'below'} the pooled share`} · 2019–2023 diagnoses</p>
+              <p className="mt-1 text-xs text-muted">{difference === 0 ? 'Matches the pooled share at this precision' : `${Math.abs(difference).toFixed(1)} percentage points ${difference > 0 ? 'above' : 'below'} the pooled share`} · {period} diagnoses</p>
             </div>
           )}
           <div className="mt-6 divide-y divide-line border-y border-line">
@@ -62,16 +66,9 @@ export function ExecutiveBriefingPanel({ regionData, onClose }: Props) {
               <h3 className="text-sm font-semibold">Treatment documentation</h3>
               <p className="mt-2 text-sm text-secondary">{observationWindow}</p>
             </section>
-            {share !== null && (
-              <section className="py-4">
-                <h3 className="text-sm font-semibold">Review proposal</h3>
-                <p className="mt-2 text-sm leading-relaxed text-secondary">{recommendation.proposal}.</p>
-                <p className="mt-3 text-sm text-muted">Proposed owner · {recommendation.owner}</p>
-                <p className="mt-2 text-sm text-muted">Track {recommendation.measure.join(', ')}.</p>
-                <p className="mt-2 text-xs text-muted">Requires local clinical validation</p>
-              </section>
-            )}
+
           </div>
+          <Suspense fallback={<p className="mt-4 text-sm text-muted">Loading review tools…</p>}><CountyAI key={regionData.regionId} areaCode={regionData.regionId} /></Suspense>
           <a href={sourceUrl} className="mt-4 inline-block text-sm text-accent underline decoration-accent/35 underline-offset-4 hover:decoration-accent focus-visible:outline-2 focus-visible:outline-accent">Finnish Cancer Registry source report</a>
         </>
       )}

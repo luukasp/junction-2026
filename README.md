@@ -11,3 +11,7 @@ Start with [the data guide](docs/DATA_GUIDE.md), which explains usable datasets,
 - [Recommendation evidence](data/catalog/recommendations.json): concrete proposal templates with source references.
 
 Collection scripts are in [scripts/](scripts/). No patient data or synthetic observations are included.
+
+## Prototype dashboard
+
+Open `dashboard/index.html` in a browser for the interactive Finland county heatmap, evidence checks and draft action plans. No installation or server is needed. See [dashboard instructions](dashboard/README.md) for data rebuilding and interpretation.

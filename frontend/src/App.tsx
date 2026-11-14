@@ -1,12 +1,34 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { Activity, ClipboardList, MapPin, TriangleAlert } from 'lucide-react'
 import { KPICard } from './components/KPICard'
 import { MapContainer } from './components/MapContainer'
 import { ExecutiveBriefingPanel } from './components/ExecutiveBriefingPanel'
 import { AreaReviewList } from './components/AreaReviewList'
-import { count, percent, period, pooledShare, regions, regionsById, reportingRegions, totalMissing, totalPatients } from './data/regions'
+import { count, percent } from './data/regions'
+import { DashboardProvider, useDashboard, type Dashboard } from './data/DashboardContext'
+import { api } from './lib/api'
 
 export default function App() {
+  const [data, setData] = useState<Dashboard | null>(null)
+  const [error, setError] = useState('')
+  const [attempt, setAttempt] = useState(0)
+  useEffect(() => {
+    const controller = new AbortController()
+    api<Dashboard>('/dashboard', { signal: controller.signal }).then(setData).catch(e => {
+      if (!controller.signal.aborted) setError(e.message)
+    })
+    return () => controller.abort()
+  }, [attempt])
+  if (!data || !data.data_loaded) return <main className="mx-auto max-w-7xl p-8 text-secondary" aria-live="polite">
+    <h1 className="text-lg text-ink">National Cancer Care Pathway</h1>
+    <p className="mt-4">{error || (data ? 'The database has no imported registry data.' : 'Loading registry data…')}</p>
+    <button className="mt-4 rounded-lg border border-line px-4 py-2 focus-visible:outline-2 focus-visible:outline-accent" onClick={() => { setError(''); setAttempt(a => a + 1) }}>Retry</button>
+  </main>
+  return <DashboardProvider data={data}><DashboardView /></DashboardProvider>
+}
+
+function DashboardView() {
+  const { period, pooledShare, regions, regionsById, reportingRegions, totalMissing, totalPatients } = useDashboard()
   const [selectedRegionId, setSelectedRegionId] = useState<string | null>(null)
   const [briefingOpen, setBriefingOpen] = useState(false)
   const region = regionsById.get(selectedRegionId ?? '') ?? null

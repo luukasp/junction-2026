@@ -1,5 +1,6 @@
 import { ComposableMap, Geographies, Geography } from 'react-simple-maps'
-import { getCoverageBand, percent, regions, regionsById, sourceUrl, type CoverageBand } from '../data/regions'
+import { getCoverageBand, percent, type CoverageBand } from '../data/regions'
+import { useDashboard } from '../data/DashboardContext'
 import { CoverageSwatch } from './CoverageSwatch'
 import { coverageColors } from './coverageColors'
 
@@ -8,6 +9,7 @@ type Props = { selectedRegionId: string | null; onRegionSelect: (id: string) => 
 const bands = Object.keys(coverageColors) as CoverageBand[]
 
 export function MapContainer({ selectedRegionId, onRegionSelect, onOpenBriefing }: Props) {
+  const { regions, regionsById, sourceUrl } = useDashboard()
   return (
     <section aria-labelledby="map-title" className="@container min-w-0 overflow-hidden rounded-xl border border-line bg-panel">
       <div className="flex flex-wrap items-center justify-between gap-4 border-b border-line px-4 py-4 sm:px-6">
