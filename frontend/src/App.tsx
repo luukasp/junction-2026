@@ -57,7 +57,7 @@ function DashboardView() {
         </section>
         <p className="text-sm leading-relaxed text-secondary">Use these figures to prioritize a documentation review. Missing records can reflect incomplete reporting. Assess treatment delivery and delays with separate evidence.</p>
         <div className="grid min-w-0 items-start gap-5 lg:grid-cols-[minmax(0,3fr)_minmax(0,2fr)]">
-          <MapContainer selectedRegionId={selectedRegionId} onRegionSelect={selectRegion} onOpenBriefing={() => setBriefingOpen(true)} />
+          <MapContainer selectedRegionId={selectedRegionId} onRegionSelect={setSelectedRegionId} onOpenBriefing={() => setBriefingOpen(true)} />
           <AreaReviewList selectedRegionId={selectedRegionId} onRegionSelect={selectRegion} />
         </div>
       </main>
