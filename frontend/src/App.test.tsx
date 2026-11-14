@@ -29,6 +29,16 @@ describe('Equal Care Finland', () => {
     const briefing = screen.getByRole('complementary')
     expect(within(briefing).getByText(county.headline)).toBeDefined()
     expect(within(briefing).getByText(county.actions[0].title)).toBeDefined()
+    const action = within(briefing).getByRole('button', { name: new RegExp(county.actions[0].title) })
+    const actionDetails = document.getElementById(action.getAttribute('aria-controls')!)!
+    expect(action.getAttribute('aria-expanded')).toBe('false')
+    expect(actionDetails.hidden).toBe(true)
+    fireEvent.click(action)
+    expect(action.getAttribute('aria-expanded')).toBe('true')
+    expect(actionDetails.hidden).toBe(false)
+    expect(within(actionDetails).getByText(county.actions[0].owner)).toBeDefined()
+    fireEvent.click(action)
+    expect(actionDetails.hidden).toBe(true)
     expect(within(briefing).getByText(/AI review and chat need the backend/)).toBeDefined()
     const click = vi.spyOn(HTMLAnchorElement.prototype, 'click').mockImplementation(() => {})
     fireEvent.click(within(briefing).getByRole('button', { name: 'Export action plan' }))
@@ -59,5 +69,69 @@ describe('Equal Care Finland', () => {
     vi.stubGlobal('fetch', vi.fn(async (url: string) => url.endsWith('/dashboard') ? json({ regions: [], data_loaded: false }) : { ok: false, status: 404, json: async () => ({}) } as Response))
     render(<App />)
     expect(await screen.findByText('Some live data is unavailable — showing cached snapshot')).toBeDefined()
+  })
+
+  it('carries the selected county between dashboards and resets expanded county content when switching counties', async () => {
+    vi.stubGlobal('fetch', vi.fn(async (url: string) => {
+      if (url.endsWith('/dashboard')) return json({ ...lung, data_loaded: true })
+      if (url.endsWith('/pathway')) return json(fixture)
+      if (url.endsWith('/proposal')) return json({ proposal: null })
+      return { ok: false } as Response
+    }))
+    render(<App />)
+    await screen.findByText(fixture.national_headline)
+    fireEvent.click(within(screen.getByRole('table')).getByRole('button', { name: 'Southwest Finland' }))
+    expect(screen.getByRole('complementary')).toBeDefined()
+    const navigation = screen.getByRole('navigation', { name: 'Dashboard navigation' })
+    fireEvent.click(within(navigation).getByRole('button', { name: 'County Review' }))
+
+    expect(screen.getByRole('heading', { name: 'County Review' })).toBeDefined()
+    expect(within(navigation).getByRole('button', { name: 'County Review' }).getAttribute('aria-current')).toBe('page')
+    expect(screen.queryByRole('complementary')).toBeNull()
+    expect(screen.queryByRole('table')).toBeNull()
+    const selector = screen.getByRole('combobox', { name: 'County' }) as HTMLSelectElement
+    expect(selector.value).toBe('HVA05')
+    const action = screen.getByRole('button', { name: /Close lung treatment-record gaps/ })
+    expect(action.getAttribute('aria-expanded')).toBe('false')
+    expect(within(action).getByText('Act')).toBeDefined()
+    fireEvent.click(action)
+    fireEvent.click(screen.getByRole('button', { name: 'Review tools and county questions' }))
+    expect(await screen.findByRole('button', { name: 'Generate review' })).toBeDefined()
+
+    fireEvent.change(selector, { target: { value: 'HVA10' } })
+    expect(screen.getByRole('heading', { name: 'Kymenlaakso' })).toBeDefined()
+    expect(screen.getByText(/No action is triggered for this county/)).toBeDefined()
+    expect(screen.queryByRole('button', { name: /Close lung treatment-record gaps/ })).toBeNull()
+    expect(screen.getByRole('button', { name: 'Review tools and county questions' }).getAttribute('aria-expanded')).toBe('false')
+
+    fireEvent.change(selector, { target: { value: 'HVA05' } })
+    expect(screen.getByRole('button', { name: /Close lung treatment-record gaps/ }).getAttribute('aria-expanded')).toBe('false')
+    fireEvent.click(within(navigation).getByRole('button', { name: 'National Overview' }))
+    expect(screen.getByRole('heading', { name: 'National Overview' })).toBeDefined()
+    expect((screen.getByRole('combobox', { name: 'County' }) as HTMLSelectElement).value).toBe('HVA05')
+  })
+
+  it('shows county evidence on demand and labels the rest-of-Finland comparator accurately offline', async () => {
+    const pathway = structuredClone(fixture)
+    pathway.counties[0].values.lung_noinfo.comparator_kind = 'leave_one_out'
+    vi.stubGlobal('fetch', vi.fn(async (url: string) => {
+      if (url.endsWith('/pathway')) return json(pathway)
+      throw new TypeError('Failed to fetch')
+    }))
+    render(<App />)
+    await screen.findByText(/showing cached snapshot/)
+    fireEvent.click(screen.getByRole('button', { name: 'County Review' }))
+    fireEvent.change(screen.getByRole('combobox', { name: 'County' }), { target: { value: 'HVA05' } })
+    const indicators = screen.getByText('Inspect indicators · 2').closest('details')!
+    expect(indicators.open).toBe(false)
+    fireEvent.click(within(indicators).getByText('Inspect indicators · 2'))
+    expect(indicators.open).toBe(true)
+    const signal = within(indicators).getByText('Lung cancer patients without a treatment record').closest('details')!
+    fireEvent.click(within(signal).getByText('Lung cancer patients without a treatment record'))
+    expect(signal.open).toBe(true)
+    expect(within(signal).getByText(/Rest of Finland:/)).toBeDefined()
+    expect(within(signal).getByRole('link', { name: 'Source report' }).getAttribute('href')).toBe('https://example.org/lung')
+    fireEvent.click(screen.getByRole('button', { name: 'Review tools and county questions' }))
+    expect(screen.getByText(/AI review and chat need the backend/)).toBeDefined()
   })
 })

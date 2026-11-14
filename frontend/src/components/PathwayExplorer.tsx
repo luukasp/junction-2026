@@ -17,7 +17,7 @@ export function PathwayExplorer({ snapshot, indicatorId, onIndicatorChange, sele
         <h2 id="pathway-title" className="text-lg font-semibold">Where in the pathway the gap emerges</h2>
         <p className="text-xs text-muted">{county ? `Status for ${county.name}` : 'Counties flagged per stage'}</p>
       </div>
-      <ol aria-label="Care pathway stages" className="grid grid-cols-2 gap-px bg-line sm:grid-cols-3 lg:grid-cols-6">
+      <ol aria-label="Care pathway stages" className="grid grid-cols-2 gap-px bg-line sm:grid-cols-3 xl:grid-cols-6">
         {groups.map(({ stage, indicators }, index) => {
           const counts = stageCounts(snapshot, stage.id)
           const countyVerdict = county ? asVerdict(county.stage_verdicts[stage.id]) : null
