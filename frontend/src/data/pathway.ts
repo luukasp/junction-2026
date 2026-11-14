@@ -5,9 +5,12 @@ export type PathwayStage = { id: string; label: string; hint: string }
 export type PathwayIndicator = {
   id: string; label: string; short: string; stage: string; unit: string; polarity: string
   kind: string; period: string; source_url: string; is_proxy: boolean
+  desc?: string; caveat?: string
 }
 export type IndicatorValue = { v: number | null; lo?: number | null; hi?: number | null; n?: number | null; d?: number | null }
-export type CountyValue = IndicatorValue & { comparator?: number | null; verdict: VerdictId }
+export type CountyValue = IndicatorValue & {
+  comparator?: number | null; comparator_kind?: string; verdict: VerdictId; period?: string; reason?: string
+}
 export type Citation = { label: string; url?: string | null }
 export type PathwayAction = {
   playbook_id: string; title: string; pathway_stage: string; owner: string; baseline: string; target: string

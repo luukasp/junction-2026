@@ -3,7 +3,8 @@ import { twMerge } from 'tailwind-merge'
 import { lazy, Suspense, useEffect, useRef } from 'react'
 import { count, getCoverageBand, percent, type RegionData } from '../data/regions'
 import { useDashboard } from '../data/DashboardContext'
-import { asVerdict, downloadText, formatCount, formatValue, planMarkdown, verdictLabels, verdictRank, type PathwayAction, type PathwaySnapshot } from '../data/pathway'
+import { asVerdict, downloadText, formatCount, formatValue, planMarkdown, verdictLabels, verdictRank, type PathwaySnapshot } from '../data/pathway'
+import { ActionCard } from './ActionCard'
 import { CoverageSwatch } from './CoverageSwatch'
 import { VerdictBadge, VerdictDot } from './VerdictBadge'
 
@@ -60,7 +61,7 @@ export function ExecutiveBriefingPanel({ regionData, onClose }: Props) {
             <section aria-labelledby="actions-title" className="mt-6">
               <h3 id="actions-title" className="text-sm font-semibold">Actions</h3>
               {county.actions.length
-                ? <ol className="mt-3 grid gap-4">{county.actions.map((action, index) => <ActionCard key={`${action.playbook_id}-${index}`} action={action} number={index + 1} stage={pathway.stages.find(s => s.id === action.pathway_stage)?.label ?? action.pathway_stage} />)}</ol>
+                ? <ol className="mt-3 grid gap-4">{county.actions.map((action, index) => <ActionCard key={`${county.code}-${action.playbook_id}-${index}`} action={action} verdict={county.stage_verdicts[action.pathway_stage]} number={index + 1} stage={pathway.stages.find(s => s.id === action.pathway_stage)?.label ?? action.pathway_stage} />)}</ol>
                 : <p className="mt-2 text-sm text-secondary">No action is triggered for this area in the snapshot. Keep monitoring the signals above.</p>}
             </section>
           </> : <LungFinding regionData={regionData} share={share} difference={difference} pooledShare={pooledShare} period={period} />}
@@ -107,32 +108,6 @@ function Signals({ snapshot, code }: { snapshot: PathwaySnapshot; code: string }
       })}
     </ul>
   </details>
-}
-
-function ActionCard({ action, number, stage }: { action: PathwayAction; number: number; stage: string }) {
-  return <li className="rounded-lg border border-line p-4">
-    <p className="font-mono text-xs text-muted">Action {String(number).padStart(2, '0')} · {stage}</p>
-    <h4 className="mt-2 text-sm font-medium leading-relaxed text-ink">{action.title}</h4>
-    {action.verdict && <p className="mt-2 text-xs leading-relaxed text-secondary"><VerdictBadge verdict={action.verdict} />{action.reason ? <span className="ml-2">{action.reason}</span> : null}</p>}
-    <dl className="mt-3 grid gap-3 text-sm sm:grid-cols-2">
-      <div><dt className="text-xs text-muted">Baseline</dt><dd className="mt-1 text-secondary">{action.baseline}</dd></div>
-      <div><dt className="text-xs text-muted">Target</dt><dd className="mt-1 text-secondary">{action.target}</dd></div>
-      <div><dt className="text-xs text-muted">Annual volume</dt><dd className="mt-1 text-secondary">{action.annual_volume}</dd></div>
-      <div><dt className="text-xs text-muted">Owner</dt><dd className="mt-1 text-secondary">{action.owner}</dd></div>
-    </dl>
-    {action.first_90_days.length > 0 && <div className="mt-4">
-      <p className="text-xs text-muted">First 90 days{action.timeline ? ` · ${action.timeline}` : ''}</p>
-      <ol className="mt-2 grid list-decimal gap-1 pl-5 text-sm leading-relaxed text-secondary">{action.first_90_days.map((step, i) => <li key={i}>{step}</li>)}</ol>
-    </div>}
-    {action.concrete_steps.length > 0 && <details className="mt-3 text-sm">
-      <summary className="cursor-pointer text-xs text-muted hover:text-accent">Further steps · {action.concrete_steps.length}</summary>
-      <ul className="mt-2 grid list-disc gap-1 pl-5 leading-relaxed text-secondary">{action.concrete_steps.map((step, i) => <li key={i}>{step}</li>)}</ul>
-    </details>}
-    {action.escalation && <p className="mt-3 border-t border-line pt-3 text-sm leading-relaxed text-secondary"><span className="text-xs text-muted">Escalate if no change · </span>{action.escalation}</p>}
-    {action.citations.length > 0 && <ul className="mt-3 grid gap-1 text-xs" aria-label="Sources">
-      {action.citations.map((c, i) => <li key={i}>{c.url ? <a href={c.url} target="_blank" rel="noreferrer" className={link}>{c.label}</a> : <span className="text-muted">{c.label}</span>}</li>)}
-    </ul>}
-  </li>
 }
 
 function LungFinding({ regionData, share, difference, pooledShare, period }: { regionData: RegionData; share: number | null; difference: number | null; pooledShare: number; period: string }) {
