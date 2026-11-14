@@ -1,6 +1,6 @@
 {
   "status": "passed",
-  "checks_passed": 3868,
+  "checks_passed": 3870,
   "source_integrity": {
     "count": 406,
     "checks": [
@@ -413,7 +413,7 @@
     ]
   },
   "analytical": {
-    "count": 3462,
+    "count": 3464,
     "groups": {
       "Regions": 1,
       "Outcome geography": 1,
@@ -424,7 +424,7 @@
       "Published % reproduces from counts": 175,
       "Lung": 25,
       "Lung stage table": 2,
-      "Snapshot": 639,
+      "Snapshot": 641,
       "Leave-one-out comparator arithmetic": 240
     },
     "checks": [
@@ -2429,6 +2429,7 @@
       "CI ordering: snapshot HVA02 surv_prostate_male",
       "Snapshot: known indicator and verdict HVA02 mort_prostate_male",
       "CI ordering: snapshot HVA02 mort_prostate_male",
+      "Snapshot: cited action HVA02 pathway_equity_monitoring",
       "Snapshot: stage verdicts complete HVA03",
       "Snapshot: headline HVA03",
       "Snapshot: known indicator and verdict HVA03 scr_breast_att",
@@ -3479,6 +3480,7 @@
       "CI ordering: snapshot HVA17 surv_prostate_male",
       "Snapshot: known indicator and verdict HVA17 mort_prostate_male",
       "CI ordering: snapshot HVA17 mort_prostate_male",
+      "Snapshot: cited action HVA17 pathway_equity_monitoring",
       "Snapshot: stage verdicts complete HVA18",
       "Snapshot: headline HVA18",
       "Snapshot: known indicator and verdict HVA18 scr_breast_att",

@@ -22,12 +22,16 @@ beforeEach(() => {
 afterEach(() => { cleanup(); vi.unstubAllGlobals(); vi.restoreAllMocks(); document.body.style.overflow = '' })
 
 describe('Executive briefing full screen', () => {
-  it('preserves expanded actions and a draft question when entering and leaving full screen', async () => {
+  it('preserves action collapse/expand state and a draft question when entering and leaving full screen', async () => {
     render(<Briefing />)
     fireEvent.click(screen.getByRole('button', { name: 'Open briefing' }))
     const panel = screen.getByRole('complementary', { name: 'Executive briefing' })
     const action = within(panel).getByRole('button', { name: /Close lung treatment-record gaps/ })
+    expect(action.getAttribute('aria-expanded')).toBe('true')
     fireEvent.click(action)
+    expect(action.getAttribute('aria-expanded')).toBe('false')
+    fireEvent.click(action)
+    expect(action.getAttribute('aria-expanded')).toBe('true')
     const question = await within(panel).findByRole('textbox', { name: 'Your question' })
     fireEvent.change(question, { target: { value: 'Which gap should we review first?' } })
 

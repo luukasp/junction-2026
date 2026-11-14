@@ -88,10 +88,16 @@ def check_snapshot(s):
             cits = a.get('citations') or []
             need(cits and all(isinstance(x.get('label'), str) and is_url(x.get('url')) for x in cits), f'{pid}: citations need label and URL')
     need(any(c['stage_verdicts'].get('referral') != 'nodata' for c in s['counties']), 'referral stage is nodata everywhere')
-    need(any(c.get('actions') for c in s['counties']), 'no county has any action')
+    need(all(c.get('actions') for c in s['counties']), 'every county must have at least one cited action')
+    need(all(a.get('cost_estimate') and a.get('resource_summary') for c in s['counties'] for a in c['actions']),
+         'every county action must include cost_estimate and resource_summary')
+    need(isinstance(s.get('equity_strata'), list) and len(s['equity_strata']) >= 8, 'equity_strata missing or incomplete')
+    need(isinstance(s.get('national_actions'), list) and len(s['national_actions']) >= 5, 'national_actions missing or incomplete')
     val = s.get('validation', {})
     need(val.get('passed') is True and val.get('source_integrity', 0) > 0 and val.get('analytical', 0) > 0,
          'validation block missing or not passed')
+    need(val.get('citations_verified') == val.get('citations_total') and val.get('citations_total', 0) >= 24,
+         'all playbook citations must be verified against local source extracts')
 
 
 def check_recommendations(recs):

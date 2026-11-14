@@ -1,9 +1,9 @@
-import { Download, Maximize2, Minimize2, X } from 'lucide-react'
+import { Download, Maximize2, Minimize2, Printer, X } from 'lucide-react'
 import { twMerge } from 'tailwind-merge'
 import { lazy, Suspense, useEffect, useRef, useState, type KeyboardEvent } from 'react'
 import { count, getCoverageBand, percent, type RegionData } from '../data/regions'
 import { useDashboard } from '../data/DashboardContext'
-import { asVerdict, downloadText, formatCount, formatValue, planMarkdown, verdictLabels, verdictRank, type PathwaySnapshot } from '../data/pathway'
+import { asVerdict, comparatorLabel, downloadText, formatCount, formatValue, planMarkdown, verdictColors, verdictLabels, verdictRank, type PathwaySnapshot } from '../data/pathway'
 import { ActionCard } from './ActionCard'
 import { CoverageSwatch } from './CoverageSwatch'
 import { VerdictBadge, VerdictDot } from './VerdictBadge'
@@ -100,10 +100,16 @@ export function ExecutiveBriefingPanel({ regionData, onClose }: Props) {
               <p className="mt-2 text-3xl font-medium text-ink">{regionData.regionName}</p>
               {county && pathway && <p className={twMerge('mt-4 text-base leading-relaxed text-ink', fullscreen && 'mt-2 max-w-4xl')}>{county.headline}</p>}
             </div>
-            {county && pathway && <button type="button" onClick={() => downloadText(`action-plan-${county.code}.md`, planMarkdown(pathway, county))}
-              className={twMerge('mt-4 inline-flex h-10 shrink-0 items-center gap-2 rounded-lg bg-ink px-4 text-sm font-medium text-page transition-colors duration-150 ease-out hover:bg-secondary focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent motion-reduce:transition-none', fullscreen && 'mt-0')}>
-              <Download size={16} strokeWidth={1.5} aria-hidden />Export action plan
-            </button>}
+            {county && pathway && <div className={twMerge('mt-4 flex flex-wrap items-center gap-2', fullscreen && 'mt-0')}>
+              <button type="button" onClick={() => downloadText(`action-plan-${county.code}.md`, planMarkdown(pathway, county))}
+                className="inline-flex h-10 shrink-0 items-center gap-2 rounded-lg bg-ink px-4 text-sm font-medium text-page transition-colors duration-150 ease-out hover:bg-secondary focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent motion-reduce:transition-none">
+                <Download size={16} strokeWidth={1.5} aria-hidden />Export action plan
+              </button>
+              <button type="button" onClick={() => window.print()}
+                className="inline-flex h-10 shrink-0 items-center gap-2 rounded-lg border border-line px-3 text-sm text-secondary hover:bg-raised focus-visible:outline-2 focus-visible:outline-accent">
+                <Printer size={16} strokeWidth={1.5} aria-hidden />Print / PDF
+              </button>
+            </div>}
           </div>
           <div className={twMerge(fullscreen && 'mt-6 grid gap-6 lg:min-h-0 lg:flex-1 lg:grid-cols-2 lg:overflow-hidden', fullscreen && county && pathway && 'xl:grid-cols-[minmax(0,1fr)_minmax(0,1.15fr)_minmax(0,1.15fr)]')}>
             <div className={twMerge('min-w-0', fullscreen && 'lg:overflow-y-auto lg:overscroll-contain lg:pr-2')}>
@@ -156,12 +162,19 @@ function Signals({ snapshot, code }: { snapshot: PathwaySnapshot; code: string }
     <ul className="divide-y divide-line border-t border-line">
       {rows.map(indicator => {
         const value = county.values[indicator.id]
-        const national = value.comparator ?? snapshot.national[indicator.id]?.v
+        const comp = value.comparator ?? snapshot.national[indicator.id]?.v
+        const compLabel = comparatorLabel(value, indicator.id)
+        const isPct = indicator.unit === '%' && value.v != null
         return <li key={indicator.id} className="grid grid-cols-[minmax(0,1fr)_auto] gap-x-3 gap-y-1 px-3 py-3 text-sm">
           <span className="text-secondary">{indicator.label}{indicator.is_proxy ? ' (proxy)' : ''}</span>
           <span className="text-right font-mono tabular-nums text-ink">{formatValue(value.v, indicator.unit)}</span>
-          <span className="flex items-center gap-2 text-xs text-muted"><VerdictDot verdict={value.verdict} />{verdictLabels[asVerdict(value.verdict)]} · national {formatValue(national, indicator.unit)} · {indicator.period}</span>
+          <span className="flex items-center gap-2 text-xs text-muted"><VerdictDot verdict={value.verdict} />{verdictLabels[asVerdict(value.verdict)]} · {compLabel} {formatValue(comp, indicator.unit)} · {indicator.period}</span>
           <span className="text-right font-mono text-xs tabular-nums text-muted">{formatCount(value)}</span>
+          {isPct && <div className="col-span-2 mt-1 relative h-1.5 rounded-full bg-line/70" aria-hidden>
+            {value.lo != null && value.hi != null && <span className="absolute inset-y-0 rounded-full bg-secondary/25" style={{ left: `${Math.max(0, Math.min(100, value.lo))}%`, width: `${Math.max(1, Math.min(100, value.hi) - Math.max(0, value.lo))}%` }} />}
+            <span className="absolute top-1/2 size-2 -translate-x-1/2 -translate-y-1/2 rounded-full" style={{ left: `${Math.max(0, Math.min(100, value.v!))}%`, backgroundColor: verdictColors[asVerdict(value.verdict)] }} />
+            {comp != null && <span className="absolute -top-0.5 bottom-[-2px] w-0.5 bg-ink" style={{ left: `${Math.max(0, Math.min(100, comp))}%` }} />}
+          </div>}
         </li>
       })}
     </ul>

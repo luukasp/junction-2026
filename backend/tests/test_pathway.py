@@ -326,3 +326,32 @@ def test_no_fallback_without_snapshot_or_when_review_exists(api, engine, snapsho
         generate_proposal(conn, "HVA06", GroundedProvider(), force=True)
     # A stored review exists, so regeneration failures are reported, not masked.
     assert api.post("/api/v1/counties/HVA06/proposal?force=true").status_code == 502
+
+
+def test_chat_and_chat_stream_fallback_when_llm_unconfigured(api, snapshot, no_llm_key):
+    app.dependency_overrides[get_provider] = UnavailableProvider
+    resp = api.post(
+        "/api/v1/counties/HVA05/chat",
+        json={"question": "What should we review first, and who owns it?"},
+    )
+    assert resp.status_code == 200
+    body = resp.json()
+    assert body["provider"] == "deterministic"
+    assert "County screening and endoscopy leads" in body["answer"]["reply"]
+    ids = {e["id"] for e in body["evidence"]}
+    assert set(body["answer"]["proposals"][0]["evidence_ids"]) <= ids
+
+    stream_resp = api.post(
+        "/api/v1/counties/HVA05/chat/stream",
+        json={"question": "Which data gaps limit this picture?"},
+    )
+    assert stream_resp.status_code == 200
+    events = [
+        json.loads(line[5:])
+        for line in stream_resp.text.splitlines()
+        if line.startswith("data:")
+    ]
+    assert any(e["type"] == "delta" for e in events)
+    assert events[-1]["type"] == "done"
+    assert events[-1]["response"]["provider"] == "deterministic"
+    assert "47.7%" in events[-1]["response"]["answer"]["reply"]

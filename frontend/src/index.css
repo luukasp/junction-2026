@@ -38,3 +38,15 @@
 body {
   min-width: 280px;
 }
+
+@media print {
+  #dashboard-navigation,
+  button:not([aria-expanded="true"]),
+  form {
+    display: none !important;
+  }
+  body {
+    background: #ffffff !important;
+    color: #111111 !important;
+  }
+}

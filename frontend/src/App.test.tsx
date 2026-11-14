@@ -62,13 +62,12 @@ describe('Equal Care Finland', () => {
     expect(within(briefing).getByText(county.actions[0].title)).toBeDefined()
     const action = within(briefing).getByRole('button', { name: new RegExp(county.actions[0].title) })
     const actionDetails = document.getElementById(action.getAttribute('aria-controls')!)!
-    expect(action.getAttribute('aria-expanded')).toBe('false')
-    expect(actionDetails.hidden).toBe(true)
-    fireEvent.click(action)
+    // Priority action #1 opens automatically for 2-minute executive comprehension
     expect(action.getAttribute('aria-expanded')).toBe('true')
     expect(actionDetails.hidden).toBe(false)
     expect(within(actionDetails).getByText(county.actions[0].owner)).toBeDefined()
     fireEvent.click(action)
+    expect(action.getAttribute('aria-expanded')).toBe('false')
     expect(actionDetails.hidden).toBe(true)
     expect(within(briefing).getByText(/AI review and chat need the backend/)).toBeDefined()
     const click = vi.spyOn(HTMLAnchorElement.prototype, 'click').mockImplementation(() => {})
@@ -77,7 +76,7 @@ describe('Equal Care Finland', () => {
     expect(click).toHaveBeenCalledOnce()
   })
 
-  it('uses live pathway data, and stage buttons drive the map and the area list', async () => {
+  it('uses live pathway data, opens on composite bottleneck overview, and stage buttons drive the map and area list', async () => {
     vi.stubGlobal('fetch', vi.fn(async (url: string) => {
       if (url.endsWith('/api/v1/dashboard')) return json({ ...lung, data_loaded: true })
       if (url.endsWith('/api/v1/pathway')) return json(fixture)
@@ -87,9 +86,11 @@ describe('Equal Care Finland', () => {
     expect(await screen.findByText(fixture.national_headline)).toBeDefined()
     expect(screen.queryByText(/showing cached snapshot/)).toBeNull()
     expect(screen.getByRole('heading', { name: 'Where to act first' })).toBeDefined()
-    expect(screen.getByText('43.1%')).toBeDefined()
+    expect(screen.getByRole('button', { name: /All 6 stages/ }).getAttribute('aria-pressed')).toBe('true')
     const stages = screen.getByRole('list', { name: 'Care pathway stages' })
     expect((within(stages).getByRole('button', { name: /Referral/ }) as HTMLButtonElement).disabled).toBe(true)
+    fireEvent.click(within(stages).getByRole('button', { name: /Treatment/ }))
+    expect(screen.getByText('43.1%')).toBeDefined()
     fireEvent.click(within(stages).getByRole('button', { name: /Detection/ }))
     expect(within(stages).getByRole('button', { name: /Detection/ }).getAttribute('aria-pressed')).toBe('true')
     expect(screen.getByText('72.5%')).toBeDefined()
@@ -126,9 +127,10 @@ describe('Equal Care Finland', () => {
     const selector = screen.getByRole('combobox', { name: 'County' }) as HTMLSelectElement
     expect(selector.value).toBe('HVA05')
     const action = screen.getByRole('button', { name: /Close lung treatment-record gaps/ })
-    expect(action.getAttribute('aria-expanded')).toBe('false')
+    expect(action.getAttribute('aria-expanded')).toBe('true')
     expect(within(action).getByText('Act')).toBeDefined()
     fireEvent.click(action)
+    expect(action.getAttribute('aria-expanded')).toBe('false')
     expect(await within(tools).findByRole('button', { name: 'Generate review' })).toBeDefined()
     fireEvent.change(within(tools).getByRole('textbox', { name: 'Your question' }), { target: { value: 'Check our current county' } })
 
@@ -141,7 +143,7 @@ describe('Equal Care Finland', () => {
     expect((within(nextTools).getByRole('textbox', { name: 'Your question' }) as HTMLTextAreaElement).value).toBe('')
 
     fireEvent.change(selector, { target: { value: 'HVA05' } })
-    expect(screen.getByRole('button', { name: /Close lung treatment-record gaps/ }).getAttribute('aria-expanded')).toBe('false')
+    expect(screen.getByRole('button', { name: /Close lung treatment-record gaps/ }).getAttribute('aria-expanded')).toBe('true')
     fireEvent.click(within(navigation).getByRole('button', { name: 'National Overview' }))
     expect(screen.getByRole('heading', { name: 'National Overview' })).toBeDefined()
     expect((screen.getByRole('combobox', { name: 'County' }) as HTMLSelectElement).value).toBe('HVA05')
@@ -170,7 +172,7 @@ describe('Equal Care Finland', () => {
     expect(screen.getByText(/AI review and chat need the backend/)).toBeDefined()
   })
 
-  it('puts Analytics first in navigation and switches national outcome charts using published values', async () => {
+  it('puts National Overview first in navigation and switches national outcome charts using published values', async () => {
     const pathway = structuredClone(fixture)
     pathway.indicators.push(
       { ...fixture.indicators[0], id: 'surv_lung_male', label: 'Five-year lung survival in men', short: 'Lung (men) survival', stage: 'outcome', period: '2020-2024' },
@@ -186,7 +188,7 @@ describe('Equal Care Finland', () => {
     render(<App />)
     await screen.findByText(fixture.national_headline)
     const navigation = screen.getByRole('navigation', { name: 'Dashboard navigation' })
-    expect(within(within(navigation).getByRole('group', { name: 'Dashboards' })).getAllByRole('button')[0].textContent).toBe('Analytics')
+    expect(within(within(navigation).getByRole('group', { name: 'Dashboards' })).getAllByRole('button')[0].textContent).toBe('National Overview')
     fireEvent.click(within(navigation).getByRole('button', { name: 'Analytics' }))
     expect(screen.getByRole('heading', { name: 'Analytics' })).toBeDefined()
     expect(within(screen.getByRole('region', { name: 'Overall national status' })).getByText(/1 of 2 counties/)).toBeDefined()
@@ -198,5 +200,23 @@ describe('Equal Care Finland', () => {
     expect(screen.getByRole('img', { name: /Referral: 0 Act, 0 Verify data, 0 Monitor, 0 In line, 2 No data/ })).toBeDefined()
     fireEvent.click(within(navigation).getByRole('button', { name: 'National Overview' }))
     expect(screen.getByRole('heading', { name: 'National Overview' })).toBeDefined()
+  })
+
+  it('renders costed playbooks, workload simulator, peers and 7-point checks offline from the full snapshot', async () => {
+    vi.stubGlobal('fetch', vi.fn().mockRejectedValue(new TypeError('Failed to fetch')))
+    render(<App />)
+    await screen.findByText('Backend offline — showing cached snapshot')
+    const navigation = screen.getByRole('navigation', { name: 'Dashboard navigation' })
+    fireEvent.click(within(navigation).getByRole('button', { name: 'County Review' }))
+    fireEvent.change(screen.getByRole('combobox', { name: 'County' }), { target: { value: 'HVA10' } })
+    expect(screen.getByRole('heading', { name: 'What-if ambition & capacity simulator' })).toBeDefined()
+    expect(screen.getByRole('heading', { name: 'Demographic peers & context' })).toBeDefined()
+    fireEvent.click(screen.getByRole('radio', { name: '50% gap (Year 1)' }))
+    expect(screen.getByText(/Why Verify data vs\. Act\?/)).toBeDefined()
+
+    fireEvent.click(within(navigation).getByRole('button', { name: 'Analytics' }))
+    expect(screen.getByRole('heading', { name: 'National implementation roadmap (2026–2031 roll-up)' })).toBeDefined()
+    expect(screen.getByRole('heading', { name: /Equity beyond geography/ })).toBeDefined()
+    expect(screen.getByRole('heading', { name: /Data quality, validation/ })).toBeDefined()
   })
 })

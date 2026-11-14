@@ -1,21 +1,30 @@
 import { ChevronRight } from 'lucide-react'
-import { asVerdict, formatValue, polarityText, stageCounts, stageGroups, verdictLabels, type PathwayIndicator, type PathwaySnapshot } from '../data/pathway'
+import { asVerdict, formatValue, OVERALL_PATHWAY_ID, polarityText, stageCounts, stageGroups, verdictLabels, worstCountyVerdict, type PathwayIndicator, type PathwaySnapshot } from '../data/pathway'
 import { VerdictDot } from './VerdictBadge'
 
 type Props = { snapshot: PathwaySnapshot; indicatorId: string | null; onIndicatorChange: (id: string) => void; selectedCountyId: string | null }
 
 export function PathwayExplorer({ snapshot, indicatorId, onIndicatorChange, selectedCountyId }: Props) {
   const groups = stageGroups(snapshot)
-  const indicator = snapshot.indicators.find(i => i.id === indicatorId) ?? null
-  const activeStage = groups.find(g => g.indicators.some(i => i.id === indicatorId))?.stage.id ?? null
+  const isOverall = indicatorId === OVERALL_PATHWAY_ID
+  const indicator = !isOverall ? snapshot.indicators.find(i => i.id === indicatorId) ?? null : null
+  const activeStage = !isOverall ? groups.find(g => g.indicators.some(i => i.id === indicatorId))?.stage.id ?? null : null
   const county = snapshot.counties.find(c => c.code === selectedCountyId) ?? null
   const active = groups.find(g => g.stage.id === activeStage)
+  const overallAct = snapshot.counties.filter(c => worstCountyVerdict(snapshot, c).verdict === 'act').length
+  const overallVerify = snapshot.counties.filter(c => worstCountyVerdict(snapshot, c).verdict === 'verify').length
 
   return (
     <section aria-labelledby="pathway-title" className="rounded-xl border border-line bg-panel">
-      <div className="flex flex-wrap items-baseline justify-between gap-2 border-b border-line px-4 py-4 sm:px-5">
-        <h2 id="pathway-title" className="text-lg font-semibold">Where in the pathway the gap emerges</h2>
-        <p className="text-xs text-muted">{county ? `Status for ${county.name}` : 'Counties flagged per stage'}</p>
+      <div className="flex flex-wrap items-center justify-between gap-3 border-b border-line px-4 py-4 sm:px-5">
+        <div>
+          <h2 id="pathway-title" className="text-lg font-semibold">Where in the pathway the gap emerges</h2>
+          <p className="mt-0.5 text-xs text-muted">{county ? `Status for ${county.name}` : isOverall ? 'Composite view across all 6 stages · select a stage to drill into an indicator' : 'Counties flagged per stage'}</p>
+        </div>
+        <button type="button" aria-pressed={isOverall} onClick={() => onIndicatorChange(OVERALL_PATHWAY_ID)}
+          className={`rounded-lg border px-3 py-1.5 text-xs font-medium transition-colors focus-visible:outline-2 focus-visible:outline-accent ${isOverall ? 'border-accent bg-raised text-accent' : 'border-line text-secondary hover:bg-raised hover:text-ink'}`}>
+          All 6 stages ({overallAct} Act · {overallVerify} Verify)
+        </button>
       </div>
       <ol aria-label="Care pathway stages" className="grid grid-cols-2 gap-px bg-line sm:grid-cols-3 xl:grid-cols-6">
         {groups.map(({ stage, indicators }, index) => {

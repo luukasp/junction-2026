@@ -21,7 +21,7 @@ const Text = defineComponent({
 })
 const Card = defineComponent({
   name: 'Card', description: 'Finding or review proposal with its references',
-  props: z.object({ title: z.string(), detail: z.string(), references: z.string(), owner: z.string(), measure: z.string(), bullets: z.array(z.string()), number: z.number() }),
+  props: z.object({ title: z.string(), detail: z.string(), references: z.string(), owner: z.string(), measure: z.string(), bullets: z.array(z.string()), number: z.number(), meta: z.array(z.string()).optional() }),
   component: ({ props }) => <section className="border-l-2 border-accent/50 py-1 pl-4">
     <p className="mb-2 font-mono text-xs text-muted">Action {props.number.toString().padStart(2, '0')}</p>
     <h5 className="text-sm font-medium leading-relaxed">{concise(props.title, 110)}</h5>
@@ -30,6 +30,7 @@ const Card = defineComponent({
       <div><dt className="text-muted">Proposed owner</dt><dd className="mt-1 text-secondary">{concise(props.owner, 100)}</dd></div>
       <div><dt className="text-muted">Success measure</dt><dd className="mt-1 text-secondary">{concise(props.measure)}</dd></div>
     </dl>
+    {props.meta && props.meta.length > 0 && <ul className="mt-2 grid gap-1 border-t border-line pt-2 text-xs text-secondary">{props.meta.map((line, i) => <li key={i}>{line}</li>)}</ul>}
     <details className="mt-3 text-xs text-muted"><summary className="cursor-pointer hover:text-accent">Rationale and evidence</summary><p className="mt-3 text-sm leading-relaxed text-secondary">{props.detail}</p><p className="mt-2">{props.title}</p><p className="mt-2">Proposed owner · {props.owner}</p><p className="mt-2">Track · {props.measure}</p><p className="mt-2 break-words font-mono">{props.references}</p></details>
   </section>,
 })

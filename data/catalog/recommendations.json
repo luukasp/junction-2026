@@ -38,6 +38,17 @@
       "unit": "invited people who did not attend",
       "description": "Invited (or picked) persons minus attenders in the latest programme year (d − n)."
     },
+    "resource_rule": {
+      "unit_hours": 0.015,
+      "fixed_hours": 40,
+      "unit_cost_lo": 1.8,
+      "unit_cost_hi": 3.2,
+      "fixed_cost_lo": 2400,
+      "fixed_cost_hi": 4200,
+      "capacity_unit": "automated reminders / yr",
+      "capacity_per_case": 1.0,
+      "basis": "Suomi.fi + postal reminder batch dispatch (incl. free replacement FIT kit on request) plus ~40 h one-time IT/procurement setup."
+    },
     "evidence": [
       {
         "label": "FICAN colorectal screening quality manual 2026, §10.5 reminder letter",
@@ -116,14 +127,33 @@
       "unit": "FIT positives without a recorded colonoscopy",
       "description": "Test positives minus attended colonoscopies in the latest programme year (d − n)."
     },
+    "resource_rule": {
+      "unit_hours": 1.1,
+      "fixed_hours": 24,
+      "unit_cost_lo": 260,
+      "unit_cost_hi": 460,
+      "fixed_cost_lo": 1500,
+      "fixed_cost_hi": 2800,
+      "capacity_unit": "colonoscopy & nurse-reconciliation slots / yr",
+      "capacity_per_case": 0.65,
+      "basis": "~20 min screening-nurse call-back & EHR reconciliation per unresolved FIT+ case, plus ~45 min specialist colonoscopy slot (~€420–€580 unit benchmark) for ~65% net unexamined cases."
+    },
     "evidence": [
       {
         "label": "FICAN colorectal screening quality manual 2026, §11.2.1 nurse call-back after a positive test",
         "path": "data/raw/evidence/manual_Suolistosyovan-seulonnan-laatukasikirja.pdf",
         "section": "11.2.1",
         "pdf_page": 22,
-        "quote": "seulontahoitajan tulee soittaa hänelle",
+        "quote": "hoitajan tulee soittaa hänelle",
         "url": "https://fican.fi/wp-content/uploads/2026/06/Suolistosyovan-seulonnan-laatukasikirja.pdf#page=22"
+      },
+      {
+        "label": "FICAN colorectal screening quality manual 2026, §12 one-month target to colonoscopy",
+        "path": "data/raw/evidence/manual_Suolistosyovan-seulonnan-laatukasikirja.pdf",
+        "section": "12",
+        "pdf_page": 24,
+        "quote": "kolonoskopiaan pääsyyn on yksi kuukausi",
+        "url": "https://fican.fi/wp-content/uploads/2026/06/Suolistosyovan-seulonnan-laatukasikirja.pdf#page=24"
       },
       {
         "label": "FICAN colorectal screening quality manual 2026, §11.3 change of home municipality",
@@ -183,6 +213,17 @@
       "method": "shortfall_latest_year",
       "unit": "referred women without a recorded colposcopy",
       "description": "Women referred to colposcopy minus women who attended colposcopy in the latest programme year (d − n)."
+    },
+    "resource_rule": {
+      "unit_hours": 0.85,
+      "fixed_hours": 24,
+      "unit_cost_lo": 180,
+      "unit_cost_hi": 310,
+      "fixed_cost_lo": 1500,
+      "fixed_cost_hi": 2600,
+      "capacity_unit": "colposcopy outpatient & re-booking slots / yr",
+      "capacity_per_case": 0.65,
+      "basis": "~20 min gynaecology nurse reconciliation/re-booking per unresolved referral plus ~30 min colposcopy clinic slot (~€260–€380 unit benchmark) for net unexamined cases."
     },
     "evidence": [
       {
@@ -256,6 +297,17 @@
       "method": "numerator_per_year",
       "unit": "patient charts to audit",
       "description": "Adverse cases (patients without a treatment record; for MDT, patients without an MDT code; for breast, referrals with a missing outcome) divided by the years pooled (5 for 2019–2023). Uses the lung no-record count when the county publishes it."
+    },
+    "resource_rule": {
+      "unit_hours": 0.4,
+      "fixed_hours": 90,
+      "unit_cost_lo": 35,
+      "unit_cost_hi": 55,
+      "fixed_cost_lo": 5800,
+      "fixed_cost_hi": 9600,
+      "capacity_unit": "clinical chart & HILMO/FCR code audits / yr",
+      "capacity_per_case": 1.0,
+      "basis": "~20–25 min oncology coder/nurse chart reconciliation + physician sign-off per unrecorded case, plus ~90 h one-time WZC15/WZC20 & automated clinical-notification EHR mapping."
     },
     "evidence": [
       {
@@ -333,6 +385,17 @@
       "unit": "patients a year short of the rest-of-Finland curative rate",
       "description": "(comparator − county share) × patients, divided by the years pooled (5)."
     },
+    "resource_rule": {
+      "unit_hours": 14.0,
+      "fixed_hours": 760,
+      "unit_cost_lo": 1100,
+      "unit_cost_hi": 1800,
+      "fixed_cost_lo": 34000,
+      "fixed_cost_hi": 58000,
+      "capacity_unit": "fast-track chest CT, biopsy & weekly MDT workups / yr",
+      "capacity_per_case": 1.0,
+      "basis": "0.5–0.8 FTE thoracic pathway nurse coordinator (~€34k–€58k/yr) plus priority direct GP-to-chest-CT, bronchoscopy/biopsy and MDT slot ring-fencing per incremental patient."
+    },
     "evidence": [
       {
         "label": "National cancer strategy implementation roadmap 2026–2031, action 2.5.2 (standardised referral criteria, direct investigation routes)",
@@ -365,6 +428,7 @@
       {
         "label": "Regional cancer centres in Sweden, standardised care pathway (SVF) example",
         "path": "data/raw/evidence/sweden_svf_colorectal.html",
+        "quote": "Standardiserat vårdförlopp tjock- och ändtarmscancer",
         "url": "https://kunskapsbanken.cancercentrum.se/diagnoser/tjock-och-andtarmscancer/vardforlopp/"
       }
     ],
@@ -421,6 +485,17 @@
       "unit": "new diagnoses a year in scope",
       "description": "Incident cases 2020–2024 divided by 5."
     },
+    "resource_rule": {
+      "unit_hours": 0.12,
+      "fixed_hours": 64,
+      "unit_cost_lo": 12,
+      "unit_cost_hi": 20,
+      "fixed_cost_lo": 5400,
+      "fixed_cost_hi": 8800,
+      "capacity_unit": "annual YTA peer-review cohort cases analysed",
+      "capacity_per_case": 1.0,
+      "basis": "~64 h/yr across oncology, surgery, pathology leads and registry analyst for structured demographic-peer benchmarking under Roadmap 3.2.2."
+    },
     "evidence": [
       {
         "label": "National cancer strategy implementation roadmap 2026–2031, action 3.2.2 (national peer development, annual reviews)",
@@ -441,6 +516,7 @@
       {
         "label": "Finnish Cancer Registry, Cancer in Finland 2024: regional survival and mortality tables",
         "path": "data/raw/cancer/cancer_in_finland_2024.html",
+        "quote": "early detection, access to treatment, and treatment (patient prognosis)",
         "url": "https://cancerregistry.fi/assets/themes/ssy3/factsheets/cancer_in_finland_2024.html"
       }
     ],
@@ -451,5 +527,90 @@
     ],
     "goal": "Goal 3.2.2 peer development and 3.2.3 response mechanisms",
     "evidence_status": "Strategy-supported process; causal drivers unverified; requires clinical review"
+  },
+  {
+    "id": "pathway_equity_monitoring",
+    "title": "Maintain pathway performance and audit sub-county equity & timestamps",
+    "pathway_stage": "detection",
+    "triggers": [
+      "scr_breast_att",
+      "scr_cervix_att",
+      "scr_crc_att",
+      "lung_curative",
+      "lung_noinfo"
+    ],
+    "fallback_only": true,
+    "trigger": "Headline county stages are in line or monitor-only, where sub-county language/rural equity gaps or missing pathway timestamps can still mask local delays",
+    "proposal": "Audit sub-county screening attendance by language and municipality, pilot prospective referral-to-treatment timestamps, and share practices as a YTA benchmark peer",
+    "owner": "County cancer-pathway quality lead and screening organiser",
+    "measure": [
+      "screening attendance gap by language and postcode",
+      "automated clinical-notification coverage",
+      "prospective referral-to-treatment median and p90 days"
+    ],
+    "concrete_steps": [
+      "Stratify the county's latest breast, cervical and colorectal screening attendance by native language (Finnish, Swedish, other) and municipality so strong county averages do not mask pockets with 20+ pp lower uptake.",
+      "Verify that screening data are reported monthly to the Finnish Cancer Registry (roadmap 2.4.5) and that automated clinical notifications incl. TNM stage progress toward the 90% 2030 target (roadmap 3.2.1).",
+      "Start prospective recording of the four cancer-pathway timestamps (referral received, first specialist contact, diagnosis, treatment start) to close the national referral-delay data gap (roadmap 3.1.2).",
+      "Participate as a benchmark peer in the collaboration-area (YTA) annual quality review (roadmap 3.2.2) and watch any monitor-level indicators on the next registry release."
+    ],
+    "target": "Keep {short} at or above the {comparator_name} benchmark ({comparator}; now {value}) while achieving ≥90% automated stage/clinical notifications by 2030 (roadmap 3.2.1)",
+    "timeline": "Sub-county equity & timestamp check within 90 days; annual YTA benchmark review",
+    "first_90_days": [
+      "Break down screening uptake by registered language (Finnish, Swedish, other) and municipality",
+      "Confirm monthly screening-register feeds (roadmap 2.4.5) and TNM stage notification coverage",
+      "Enable prospective 4-timestamp pathway logging for new lung, breast and colorectal referrals"
+    ],
+    "escalation": "If sub-county language or municipal screening gaps exceed 10 percentage points or any monitor indicator crosses outside the 95% CI, activate the stage-specific action playbook immediately.",
+    "volume_rule": {
+      "method": "shortfall_latest_year",
+      "unit": "non-attenders or pathway records in annual equity watch",
+      "description": "Latest annual non-attender count (d − n) or monitored cohort size for preventive sub-county equity auditing."
+    },
+    "resource_rule": {
+      "unit_hours": 0.005,
+      "fixed_hours": 36,
+      "unit_cost_lo": 0.4,
+      "unit_cost_hi": 0.9,
+      "fixed_cost_lo": 2600,
+      "fixed_cost_hi": 4400,
+      "capacity_unit": "quarterly sub-county equity & timestamp review cycles / yr",
+      "capacity_per_case": 0.0,
+      "basis": "~36 h/yr of quality-lead and BI/registry analyst time (~€2.6k–€4.4k/yr) for quarterly sub-county equity disaggregation and timestamp monitoring."
+    },
+    "evidence": [
+      {
+        "label": "National cancer strategy implementation roadmap 2026–2031, action 2.4.5 (monthly screening register reporting)",
+        "path": "Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf",
+        "action": "2.4.5",
+        "pdf_page": 50,
+        "quote": "tulee raportoida kuukausittain seulontarekistereihin",
+        "url": "https://files.hackjunction.app/resources/Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf#page=50"
+      },
+      {
+        "label": "National cancer strategy implementation roadmap 2026–2031, action 3.2.1 (90% automated clinical notifications incl. stage)",
+        "path": "Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf",
+        "action": "3.2.1",
+        "pdf_page": 60,
+        "quote": "tavoitteena 90 % tapauksista automatisoidusti",
+        "url": "https://files.hackjunction.app/resources/Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf#page=60"
+      },
+      {
+        "label": "National cancer strategy implementation roadmap 2026–2031, action 3.2.2 (annual national peer benchmarking)",
+        "path": "Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf",
+        "action": "3.2.2",
+        "pdf_page": 60,
+        "quote": "vertaisarvioinnit toteutetaan kerran vuodessa",
+        "url": "https://files.hackjunction.app/resources/Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf#page=60"
+      }
+    ],
+    "strategy_actions": [
+      "2.4.5",
+      "3.1.2",
+      "3.2.1",
+      "3.2.2"
+    ],
+    "goal": "Goal 2.4.5 & Goal 3 (3.1.2, 3.2.1, 3.2.2) preventive monitoring and sub-county equity assurance",
+    "evidence_status": "Strategy-supported preventive governance; maintains in-line performance and closes sub-county data blind spots"
   }
 ]

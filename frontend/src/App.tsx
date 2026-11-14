@@ -5,13 +5,14 @@ import { MapContainer } from './components/MapContainer'
 import { ExecutiveBriefingPanel } from './components/ExecutiveBriefingPanel'
 import { AreaReviewList } from './components/AreaReviewList'
 import { IndicatorAreaList } from './components/IndicatorAreaList'
+import { NationalMatrix } from './components/NationalMatrix'
 import { PathwayExplorer } from './components/PathwayExplorer'
 import { Sidebar } from './components/Sidebar'
 import { CountyReview } from './components/CountyReview'
 import { Analytics } from './components/Analytics'
 import { count, percent } from './data/regions'
 import { DashboardProvider, useDashboard } from './data/DashboardContext'
-import { defaultIndicatorId, fallbackHeadline } from './data/pathway'
+import { fallbackHeadline, OVERALL_PATHWAY_ID } from './data/pathway'
 import { loadData, type LoadedData } from './data/loadData'
 
 const PRODUCT_NAME = 'Equal Care Finland'
@@ -44,11 +45,14 @@ function DashboardView({ notice, onRetry }: { notice: string; onRetry: () => voi
   const [navigationOpen, setNavigationOpen] = useState(true)
   const openNavigationButton = useRef<HTMLButtonElement>(null)
   const [view, setView] = useState<'analytics' | 'national' | 'county'>('national')
-  const [indicatorId, setIndicatorId] = useState<string | null>(() => pathway ? defaultIndicatorId(pathway) : null)
+  const [indicatorId, setIndicatorId] = useState<string | null>(() => pathway ? OVERALL_PATHWAY_ID : null)
   const region = regionsById.get(selectedRegionId ?? '') ?? null
   const headline = pathway?.national_headline || fallbackHeadline(regions)
   const flagged = pathway?.counties.filter(c => Object.values(c.stage_verdicts).includes('act')).length ?? 0
-  const pathwayIndicator = pathway && indicatorId && pathway.indicators.some(i => i.id === indicatorId) ? indicatorId : null
+  const verifyOnly = pathway?.counties.filter(c => !Object.values(c.stage_verdicts).includes('act') && Object.values(c.stage_verdicts).includes('verify')).length ?? 0
+  const totalActions = pathway?.counties.reduce((s, c) => s + c.actions.length, 0) ?? 0
+  const totalChecks = pathway?.validation ? pathway.validation.source_integrity + pathway.validation.analytical : null
+  const pathwayIndicator = pathway && indicatorId && (indicatorId === OVERALL_PATHWAY_ID || pathway.indicators.some(i => i.id === indicatorId)) ? indicatorId : null
 
   useEffect(() => {
     if (!navigationOpen) openNavigationButton.current?.focus()
@@ -89,11 +93,11 @@ function DashboardView({ notice, onRetry }: { notice: string; onRetry: () => voi
             <p className="max-w-4xl text-xl leading-snug text-ink sm:text-2xl">{headline}</p>
           </section>}
           <section aria-label="Summary" className="grid divide-y divide-line overflow-hidden rounded-xl border border-line bg-panel lg:grid-cols-3 lg:divide-x lg:divide-y-0">
-            <KPICard title="Lung cancer patients without a treatment record" value={count(totalMissing)} detail={`${percent(pooledShare)} of ${count(totalPatients)} patients in ${reportingRegions.length} reporting areas, ${period.replace('-', '–')}`} icon={TriangleAlert} />
             {pathway
-              ? <KPICard title="Areas with an Act signal" value={`${flagged} / ${pathway.counties.length}`} detail="At least one pathway stage clearly worse than national" icon={MapPin} />
+              ? <KPICard title="Areas with an Act signal" value={`${flagged} / ${pathway.counties.length}`} detail={`${totalActions} cited, costed county actions · ${verifyOnly} more areas flagged Verify data first`} icon={MapPin} />
               : <KPICard title="Areas with published data" value={`${reportingRegions.length} / ${regions.length}`} detail="Includes Helsinki" icon={MapPin} />}
-            <KPICard title="Indicators tracked" value={String(pathway?.indicators.length ?? 1)} detail={pathway ? `Across ${pathway.stages.length} care pathway stages` : 'Lung treatment records'} icon={ClipboardList} />
+            <KPICard title="Lung cancer patients without a treatment record" value={count(totalMissing)} detail={`${percent(pooledShare)} of ${count(totalPatients)} patients in ${reportingRegions.length} reporting areas, ${period.replace('-', '–')} (audit before judging care)`} icon={TriangleAlert} />
+            <KPICard title="Indicators tracked" value={String(pathway?.indicators.length ?? 1)} detail={pathway ? `Across ${pathway.stages.length} care pathway stages${totalChecks ? ` · ${count(totalChecks)} automated checks passed` : ''}` : 'Lung treatment records'} icon={ClipboardList} />
           </section>
           {pathway && pathway.indicators.length > 0 && <PathwayExplorer snapshot={pathway} indicatorId={pathwayIndicator} onIndicatorChange={setIndicatorId} selectedCountyId={selectedRegionId} />}
           <div className="grid min-w-0 items-start gap-6 xl:grid-cols-[minmax(0,3fr)_minmax(0,2fr)]">
@@ -102,6 +106,19 @@ function DashboardView({ notice, onRetry }: { notice: string; onRetry: () => voi
               ? <IndicatorAreaList snapshot={pathway} indicatorId={pathwayIndicator} selectedRegionId={selectedRegionId} onRegionSelect={selectRegion} />
               : <AreaReviewList selectedRegionId={selectedRegionId} onRegionSelect={selectRegion} />}
           </div>
+          {pathway && pathway.stages.length > 0 && (
+            <NationalMatrix
+              snapshot={pathway}
+              selectedRegionId={selectedRegionId}
+              onSelectCountyStage={(code, stageId) => {
+                if (stageId) {
+                  const firstInd = pathway.indicators.find(i => i.stage === stageId)
+                  if (firstInd) setIndicatorId(firstInd.id)
+                }
+                selectRegion(code)
+              }}
+            />
+          )}
           <p className="text-xs leading-relaxed text-muted">Figures are descriptive and not risk-adjusted. Missing records can reflect incomplete reporting rather than missing treatment. Referral stages use proxies.{pathway?.placeholder ? ' This build bundles a lung-only placeholder snapshot.' : ''}</p>
         </main>}
       </div>

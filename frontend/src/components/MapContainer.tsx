@@ -9,7 +9,7 @@ import { fitGeography, MAP_EXTENT, MAP_HEIGHT, MAP_WIDTH, MAX_ZOOM, MIN_ZOOM, NA
 import { CoverageSwatch } from './CoverageSwatch'
 import { coverageColors } from './coverageColors'
 import { CareCenterMarkers } from './CareCenterMarkers'
-import { asVerdict, formatValue, verdictColors, verdictLabels, verdictOrder } from '../data/pathway'
+import { asVerdict, formatValue, OVERALL_PATHWAY_ID, verdictColors, verdictLabels, verdictOrder, worstCountyVerdict } from '../data/pathway'
 import { VerdictDot } from './VerdictBadge'
 
 type Props = { selectedRegionId: string | null; onRegionSelect: (id: string) => void; onOpenBriefing: () => void; indicatorId?: string | null }
@@ -19,7 +19,9 @@ const featureId = (feature: Feature<Geometry>) => `HVA${String(feature.propertie
 
 export function MapContainer({ selectedRegionId, onRegionSelect, onOpenBriefing, indicatorId = null }: Props) {
   const { regions, regionsById, sourceUrl, pathway, countiesById } = useDashboard()
-  const indicator = indicatorId ? pathway?.indicators.find(item => item.id === indicatorId) ?? null : null
+  const isOverall = Boolean(pathway && indicatorId === OVERALL_PATHWAY_ID)
+  const indicator = !isOverall && indicatorId ? pathway?.indicators.find(item => item.id === indicatorId) ?? null : null
+  const usesLeaveOneOut = Boolean(indicator && pathway?.counties.some(c => c.values[indicator.id]?.comparator_kind === 'leave_one_out'))
   const [geography, setGeography] = useState<FeatureCollection | null>(null)
   const [loadError, setLoadError] = useState(false)
   const [attempt, setAttempt] = useState(0)
@@ -88,8 +90,8 @@ export function MapContainer({ selectedRegionId, onRegionSelect, onOpenBriefing,
     <section aria-labelledby="map-title" className="@container min-w-0 overflow-hidden rounded-xl border border-line bg-panel">
       <div className="flex flex-wrap items-center justify-between gap-4 border-b border-line px-4 py-4 sm:px-6">
         <div>
-          <h2 id="map-title" className="text-lg font-semibold">{indicator ? 'Status by area' : 'Treatment records by area'}</h2>
-          <p className="mt-1 text-sm text-secondary">{indicator ? `${indicator.label} · ${indicator.period}` : 'Share of lung cancer patients without a treatment record'}</p>
+          <h2 id="map-title" className="text-lg font-semibold">{isOverall ? 'Overall pathway bottleneck by area' : indicator ? 'Status by area' : 'Treatment records by area'}</h2>
+          <p className="mt-1 text-sm text-secondary">{isOverall ? 'Most severe verdict across all 6 care-pathway stages · click any county for its action plan' : indicator ? `${indicator.label} · ${indicator.period}` : 'Share of lung cancer patients without a treatment record'}</p>
         </div>
         <div className="flex flex-wrap items-end gap-2">
           <label className="grid min-w-0 gap-1 text-xs text-muted">
@@ -138,14 +140,18 @@ export function MapContainer({ selectedRegionId, onRegionSelect, onOpenBriefing,
                   const id = featureId(county)
                   const region = regionsById.get(id)
                   const share = region?.share ?? null
-                  const value = indicator ? countiesById.get(id)?.values[indicator.id] : undefined
-                  const verdict = asVerdict(value?.verdict)
-                  const label = indicator ? `${region?.regionName}, ${formatValue(value?.v, indicator.unit)}, ${verdictLabels[verdict]}` : `${region?.regionName}, ${share === null ? 'data unavailable' : percent(share)}`
+                  const countyEntry = countiesById.get(id)
+                  const overall = isOverall && pathway && countyEntry ? worstCountyVerdict(pathway, countyEntry) : null
+                  const value = indicator ? countyEntry?.values[indicator.id] : undefined
+                  const verdict = overall ? overall.verdict : asVerdict(value?.verdict)
+                  const label = overall
+                    ? `${region?.regionName}, ${verdictLabels[verdict]}${overall.earliestStage ? ` (${overall.earliestStage})` : ''}`
+                    : indicator ? `${region?.regionName}, ${formatValue(value?.v, indicator.unit)}, ${verdictLabels[verdict]}` : `${region?.regionName}, ${share === null ? 'data unavailable' : percent(share)}`
                   const selected = selectedRegionId === id
                   return <Geography key={county.rsmKey} geography={county}
                     role={region ? 'button' : undefined} tabIndex={region ? 0 : -1}
                     aria-label={region ? label : undefined}
-                    aria-pressed={region ? selected : undefined} fill={indicator ? verdictColors[verdict] : coverageColors[getCoverageBand(share)]}
+                    aria-pressed={region ? selected : undefined} fill={(isOverall || indicator) ? verdictColors[verdict] : coverageColors[getCoverageBand(share)]}
                     stroke={selected ? 'var(--color-ink)' : 'var(--color-map)'} strokeWidth={selected ? 2 : 1} vectorEffect="non-scaling-stroke"
                     className={region ? 'cursor-pointer outline-none [-webkit-tap-highlight-color:transparent] transition-[fill,stroke] duration-150 ease-out hover:fill-ink focus-visible:stroke-accent focus-visible:stroke-2 motion-reduce:transition-none' : undefined}
                     onClick={region ? () => selectCounty(id) : undefined}
@@ -191,13 +197,13 @@ export function MapContainer({ selectedRegionId, onRegionSelect, onOpenBriefing,
             </div>
           </section>
           <div className="border-t border-line pt-4">
-            <h3 className="text-sm font-medium">{indicator ? 'Status against national' : 'Missing record share'}</h3>
-            {indicator ? <ul aria-label="Map legend" className="mt-3 grid grid-cols-2 gap-x-4 gap-y-2 text-sm text-secondary @min-[560px]:grid-cols-1">
+            <h3 className="text-sm font-medium">{isOverall ? 'Worst stage verdict' : indicator ? (usesLeaveOneOut ? 'Status vs rest of Finland' : 'Status against national') : 'Missing record share'}</h3>
+            {(isOverall || indicator) ? <ul aria-label="Map legend" className="mt-3 grid grid-cols-2 gap-x-4 gap-y-2 text-sm text-secondary @min-[560px]:grid-cols-1">
               {verdictOrder.map(id => <li key={id} className="flex items-center gap-2" title={pathway?.verdicts[id]?.desc}><VerdictDot verdict={id} /><span className="text-xs">{verdictLabels[id]}</span></li>)}
             </ul> : <ul aria-label="Map legend" className="mt-3 grid grid-cols-2 gap-x-4 gap-y-2 text-sm text-secondary @min-[560px]:grid-cols-1">
               {bands.map(band => <li key={band} className="flex items-center gap-2"><CoverageSwatch band={band} /><span className="font-mono text-xs">{band}</span></li>)}
             </ul>}
-            <p className="mt-2 text-xs text-muted">{indicator ? 'Each area is compared with the national value using its 95% interval' : 'Color bands group observed rates for display'}</p>
+            <p className="mt-2 text-xs text-muted">{isOverall ? 'Composite triage across all 6 stages: Act requires care-pathway action; Verify data requires record audit first' : indicator ? `Each area is compared with the ${usesLeaveOneOut ? 'rest-of-Finland (leave-one-out)' : 'national'} benchmark using its 95% interval` : 'Color bands group observed rates for display'}</p>
             <a href={indicator?.source_url || sourceUrl} className="mt-3 inline-block text-xs text-accent underline decoration-accent/35 underline-offset-4 hover:decoration-accent focus-visible:outline-2 focus-visible:outline-accent">{indicator ? 'Indicator source' : 'Finnish Cancer Registry'}</a>
           </div>
         </div>

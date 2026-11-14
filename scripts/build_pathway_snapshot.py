@@ -193,6 +193,7 @@ def build_values():
         caveat='Categories overlap (a patient can have both); not stage-adjusted; approximate CI ignores the overlap.')
     tot = collections.defaultdict(lambda: [0, 0])
     by = collections.defaultdict(dict)
+    yta_by_code = {}
     for r in lung:
         iid = LT[r['treatment_type_fi']][0]
         n, d = num(r['treatment_n']), num(r['patients_n'])
@@ -201,6 +202,8 @@ def build_values():
         by[r['area_code']][iid] = (n, d, src)
         tot[iid][0] += n
         tot[iid][1] += d
+        if r.get('collaboration_area_fi'):
+            yta_by_code[r['area_code']] = r['collaboration_area_fi']
     for iid, (n, d) in tot.items():
         # National comparator = sum of published counties (MDT: reporting counties only).
         V[iid][LUNG_PERIOD]['SSS'] = prop(n, d, dict(table='sum of published counties', url=LUNG_URL))
@@ -264,7 +267,21 @@ def build_values():
         i['periods'] = sorted(V[i['id']].keys())
         first = next((x for p in V[i['id']].values() for x in p.values()), None)
         i['source_url'] = first['src']['url'] if first else ''
-    return regions, V, dict(context), year, su
+
+    # ---- Mortality trend: StatFin 13u5 (malignant neoplasms 04-21, 2020–2025) ----
+    mort_trend = collections.defaultdict(dict)
+    for r in read('statfin_13u5.csv'):
+        a, yr = r['alue_23_20260101'], r['timeperiod_y']
+        if r['kuolinsyyt_1_20210101'] == '04-21' and yr >= '2020' and (a in codes or a == 'SSS'):
+            v = num(r['value'])
+            if v is not None:
+                entry = mort_trend[a].setdefault(yr, {'year': int(yr)})
+                if r['contentscode'] == 'ksyylkm':
+                    entry['deaths'] = int(round(v))
+                elif r['contentscode'] == 'ksyycdr':
+                    entry['crude_rate'] = round(v, 1)
+    mort_series = {a: [mort_trend[a][y] for y in sorted(mort_trend[a])] for a in mort_trend}
+    return regions, V, dict(context), year, su, yta_by_code, mort_series
 
 
 # --------------------------------------------------------------------------- evidence
@@ -281,6 +298,16 @@ RETRIEVAL = {
                                  docs=['toimeenpanon_tiekartta', 'sweden_svf', 'delay_meta_analysis', 'lung_2019_2023']),
     'outcome_peer_review': dict(query='vertaiskehittäminen vertaisarviointi laaturekisteri alueelliset erot eloonjäämisennuste peer review regional differences survival',
                                 docs=['toimeenpanon_tiekartta', 'syopastrategia_2026_2035', 'oecd_finland']),
+    'pathway_equity_monitoring': dict(query='yhdenvertaisuus kieli kuukausittain seulontarekisteri vertaisarviointi laaturekisteri equity language monthly reporting',
+                                      docs=['toimeenpanon_tiekartta', 'manual_', 'syopastrategia_2026_2035']),
+}
+
+YTA_MAP = {
+    'Etelä-Suomen yhteistyöalue': ('YTA1', 'Southern Finland (FICAN South / HUS)'),
+    'Länsi-Suomen yhteistyöalue': ('YTA2', 'Western Finland (FICAN West / TYKS)'),
+    'Sisä-Suomen yhteistyöalue': ('YTA3', 'Inland Finland (FICAN Mid / TAYS)'),
+    'Itä-Suomen yhteistyöalue': ('YTA4', 'Eastern Finland (FICAN East / KYS)'),
+    'Pohjois-Suomen yhteistyöalue': ('YTA5', 'Northern Finland (FICAN North / OYS)'),
 }
 
 
@@ -421,10 +448,76 @@ def fmt_n(x):
     return pe.fmt_n(x)
 
 
+def fmt_eur(x):
+    return f"€{int(round(x / 100.0) * 100):,}"
+
+
+def compute_resources(pb, gap_n):
+    rule = pb.get('resource_rule')
+    if not rule:
+        return {}
+    cases = float(gap_n or 0)
+    var_h = cases * rule.get('unit_hours', 0.0)
+    fix_h = float(rule.get('fixed_hours', 0.0))
+    tot_h = round(var_h + fix_h)
+    fte = round(tot_h / 1600.0, 2)
+    lo = round(cases * rule.get('unit_cost_lo', 0.0) + rule.get('fixed_cost_lo', 0.0))
+    hi = round(cases * rule.get('unit_cost_hi', 0.0) + rule.get('fixed_cost_hi', 0.0))
+    slots = round(cases * rule.get('capacity_per_case', 0.0))
+    cap_unit = rule.get('capacity_unit', 'units / yr')
+    fte_txt = f"≈{fte:.2f} FTE" if fte >= 0.05 else f"≈{tot_h:,} staff h/yr"
+    slot_txt = f" · ≈{fmt_n(slots)} {cap_unit}" if slots > 0 else f" · {cap_unit}"
+    return dict(
+        staff_hours=tot_h,
+        fte_estimate=fte,
+        capacity_slots=slots,
+        capacity_unit=cap_unit,
+        cost_eur_lo=lo,
+        cost_eur_hi=hi,
+        resource_summary=f"{fte_txt} ({fmt_n(tot_h)} h/yr){slot_txt}",
+        cost_estimate=f"{fmt_eur(lo)}–{fmt_eur(hi)} / yr (operational planning estimate)",
+        cost_basis=rule.get('basis', ''),
+        unit_hours=rule.get('unit_hours', 0.0),
+        fixed_hours=fix_h,
+        unit_cost_lo=rule.get('unit_cost_lo', 0.0),
+        unit_cost_hi=rule.get('unit_cost_hi', 0.0),
+        fixed_cost_lo=rule.get('fixed_cost_lo', 0.0),
+        fixed_cost_hi=rule.get('fixed_cost_hi', 0.0),
+        capacity_per_case=rule.get('capacity_per_case', 0.0),
+    )
+
+
+def local_tailoring_note(ctx, stage):
+    if not ctx:
+        return None
+    notes = []
+    foreign = ctx.get('ctx_foreign')
+    swedish = ctx.get('ctx_swedish')
+    rural = ctx.get('ctx_rural')
+    age65 = ctx.get('ctx_65')
+    density = ctx.get('ctx_density')
+    if foreign is not None and foreign >= 10.0:
+        notes.append(f"{foreign:.1f}% foreign-language residents (nationally screening uptake is 20–22 pp lower in non-domestic language groups): prioritise multilingual Suomi.fi/postal invitations and community outreach")
+    if swedish is not None and swedish >= 8.0:
+        notes.append(f"{swedish:.1f}% Swedish-speaking population: ensure bilingual Finnish/Swedish invitations, nurse call-backs and pathway navigation")
+    if (rural is not None and rural >= 33.0) or (density is not None and density < 10.0):
+        r_txt = f"{rural:.1f}% rural residents" if rural is not None else f"{density:.1f} inhab./km²"
+        if stage in ('detection', 'referral', 'followup'):
+            notes.append(f"high travel distance ({r_txt}): pair mobile screening / mail-in FIT & HPV self-sampling with bundled regional endoscopy/colposcopy appointments")
+        else:
+            notes.append(f"long hospital travel distances ({r_txt}): bundle CT, biopsy and specialist review into single-visit diagnostic days and remote YTA MDT slots")
+    if age65 is not None and age65 >= 27.0:
+        notes.append(f"older age profile ({age65:.1f}% aged 65+): keep paper/phone invitation fallbacks alongside Suomi.fi and document frailty/supportive-care decisions explicitly at MDT")
+    return '; '.join(notes[:2]).capitalize() + '.' if notes else None
+
+
 def build_actions(E, playbooks, code, names, su):
     F = {f['id']: f for f in E.findings(code)}
+    ctx = E.context.get(code, {})
     actions = []
     for pb in playbooks:
+        if pb.get('fallback_only'):
+            continue
         tv = pb.get('trigger_verdicts', {})
         hits = [F[t] for t in pb['triggers'] if t in F and F[t]['verdict'] in tv.get(t, ['act', 'verify'])]
         if not hits:
@@ -437,12 +530,18 @@ def build_actions(E, playbooks, code, names, su):
                 f = pf
         i = E.IND[f['id']]
         gap_n, vol = volume(E, pb, f, code)
+        # Keep action pathway_stage aligned with the stage that actually triggered Act/Verify
+        stage = pb['pathway_stage']
+        if pb['id'] == 'pathway_coordination' and not any(h['id'] == 'lung_curative' and h['verdict'] == 'act' for h in hits):
+            stage = E.IND[top['id']]['stage']
+        res = compute_resources(pb, gap_n)
+        tailoring = local_tailoring_note(ctx, stage)
         fill = dict(comparator=pe.fmt(f['comparator'], i['unit']), value=pe.fmt(f['x']['v'], i['unit']),
                     short=i['short'], comparator_name=comparator_name(f),
                     stage_unknown=f"{su['pct']}% ({fmt_n(su['n'])} of {fmt_n(su['d'])}, {su['period']})",
                     gap_per_year=fmt_n(gap_n) if gap_n is not None else 'an estimated number of')
         act = dict(
-            playbook_id=pb['id'], title=pb['title'], pathway_stage=pb['pathway_stage'], owner=pb['owner'],
+            playbook_id=pb['id'], title=pb['title'], pathway_stage=stage, owner=pb['owner'],
             baseline=baseline_text(E, f) + ''.join(
                 f"; also {E.IND[h['id']]['short']} {pe.fmt(h['x']['v'], E.IND[h['id']]['unit'])} vs "
                 f"{pe.fmt(h['comparator'], E.IND[h['id']]['unit'])}" for h in hits if h['id'] != f['id'])[:400], target=pb['target'].format(**fill), annual_volume=vol,
@@ -455,6 +554,8 @@ def build_actions(E, playbooks, code, names, su):
                                comparator_kind=h['comparator_kind']) for h in hits],
             evidence_status=pb['evidence_status'], goal=pb['goal'], strategy_actions=pb.get('strategy_actions', []),
             evidence_excerpts=pb['retrieved'],
+            local_tailoring=tailoring,
+            **res,
         )
         if pb['id'] == 'outcome_peer_review':
             bp = E.best_peer(f['id'], code)
@@ -462,7 +563,76 @@ def build_actions(E, playbooks, code, names, su):
                 act['peer'] = dict(code=bp['code'], name=names[bp['code']], v=bp['x']['v'])
                 act['concrete_steps'][0] += f" Suggested peer: {names[bp['code']]} ({i['short']} {pe.fmt(bp['x']['v'], i['unit'])})."
         actions.append(act)
-    actions.sort(key=lambda a: (pe.VERDICTS[a['verdict']]['rank'], -max(abs(F[t['id']].get('z') or 0) for t in a['triggered_by'])))
+
+    # Preventive/equity governance action when a county has 0 Act/Verify triggers (e.g. HVA02, HVA17, HVA91)
+    if not actions:
+        fb = next((pb for pb in playbooks if pb.get('fallback_only')), None)
+        if fb:
+            avail = [F[t] for t in fb['triggers'] if t in F and F[t]['x'] and F[t]['comparator'] is not None]
+            if not avail:
+                avail = [v for v in F.values() if v['x'] and v['comparator'] is not None]
+            if avail:
+                avail.sort(key=lambda x: (0 if x['verdict'] == 'monitor' else 1, -abs(x.get('z') or 0)))
+                f = avail[0]
+                i = E.IND[f['id']]
+                gap_n, vol = volume(E, fb, f, code)
+                stage = i['stage']
+                res = compute_resources(fb, gap_n)
+                tailoring = local_tailoring_note(ctx, stage)
+                fill = dict(comparator=pe.fmt(f['comparator'], i['unit']), value=pe.fmt(f['x']['v'], i['unit']),
+                            short=i['short'], comparator_name=comparator_name(f),
+                            stage_unknown=f"{su['pct']}% ({fmt_n(su['n'])} of {fmt_n(su['d'])}, {su['period']})",
+                            gap_per_year=fmt_n(gap_n) if gap_n is not None else 'an estimated number of')
+                actions.append(dict(
+                    playbook_id=fb['id'], title=fb['title'], pathway_stage=stage, owner=fb['owner'],
+                    baseline=baseline_text(E, f), target=fb['target'].format(**fill), annual_volume=vol,
+                    timeline=fb['timeline'], first_90_days=list(fb['first_90_days']),
+                    concrete_steps=[s.format(**fill) for s in fb['concrete_steps']], escalation=fb['escalation'],
+                    citations=fb['citations'],
+                    verdict=f['verdict'], reason=f['reason'] or 'Headline indicators are in line; maintain sub-county equity and timestamp readiness.',
+                    annual_volume_n=gap_n, primary_indicator=f['id'],
+                    triggered_by=[dict(id=f['id'], verdict=f['verdict'], v=f['x']['v'], comparator=round(f['comparator'], 3),
+                                       comparator_kind=f['comparator_kind'])],
+                    evidence_status=fb['evidence_status'], goal=fb['goal'], strategy_actions=fb.get('strategy_actions', []),
+                    evidence_excerpts=fb['retrieved'],
+                    local_tailoring=tailoring,
+                    **res,
+                ))
+            else:
+                # Area outside mainland screening/lung tables (e.g. HVA91 in latest year): use latest historical series or register linkage
+                res = compute_resources(fb, 0)
+                actions.append(dict(
+                    playbook_id=fb['id'],
+                    title='Establish cross-register cancer pathway linkage for Åland',
+                    pathway_stage='diagnosis',
+                    owner=fb['owner'],
+                    baseline='Mainland lung quality (2019–2023) and 2024 screening tables omit Åland; historical breast/cervical screening and StatFin cancer mortality are published.',
+                    target='Publish annual screening follow-up and clinical cancer notification completeness incl. TNM stage ≥90% (roadmap 3.2.1)',
+                    annual_volume='≈70–90 annual cancer deaths in StatFin context; connect regional EHR notifications to national quality reporting',
+                    timeline=fb['timeline'],
+                    first_90_days=list(fb['first_90_days']),
+                    concrete_steps=[
+                        'Confirm clinical cancer notification (kliininen syöpäilmoitus) and TNM stage delivery from Åland Health and Medical Care (ÅHS) to the Finnish Cancer Registry.',
+                        'Align mammography, cervical and colorectal screening reporting fields with the 2026 FICAN quality manuals so annual indicators are comparable.',
+                        'Track the four cancer-pathway timestamps (referral, first specialist visit, diagnosis, treatment start) for patients treated locally and via TYKS/university hospitals.',
+                    ],
+                    escalation=fb['escalation'],
+                    citations=fb['citations'],
+                    verdict='verify',
+                    reason='Published mainland lung and 2024 regional outcome tables exclude Åland; verify cross-border TYKS/ÅHS registry linkage.',
+                    annual_volume_n=0,
+                    primary_indicator='lung_noinfo',
+                    triggered_by=[],
+                    evidence_status=fb['evidence_status'],
+                    goal=fb['goal'],
+                    strategy_actions=fb.get('strategy_actions', []),
+                    evidence_excerpts=fb['retrieved'],
+                    local_tailoring=local_tailoring_note(ctx, 'diagnosis'),
+                    **res,
+                ))
+
+    actions.sort(key=lambda a: (pe.VERDICTS[a['verdict']]['rank'],
+                                -max([abs(F[t['id']].get('z') or 0) for t in a['triggered_by']] or [0])))
     return actions
 
 
@@ -482,6 +652,15 @@ def county_values(E, code):
                              comparator=r3(f['comparator']), verdict=f['verdict'],
                              comparator_kind=f['comparator_kind'], period=f['period'], reason=f['reason'],
                              direction=f.get('dir'), distinct=f.get('distinct'), score=f['score'], checks=f['checks'])
+        if len(i['periods']) > 1:
+            hist = []
+            for p in i['periods']:
+                px = E.get(i['id'], p, code)
+                pc, _ = E.comparator(i['id'], p, code)
+                if px and px.get('v') is not None:
+                    hist.append(dict(period=p, v=r3(px['v']), lo=r3(px.get('lo')), hi=r3(px.get('hi')), comparator=r3(pc)))
+            if hist:
+                vals[i['id']]['series'] = hist
         for extra in ('num', 'den', 'cases'):
             if x.get(extra) is not None:
                 vals[i['id']][extra] = x[extra]
@@ -490,25 +669,131 @@ def county_values(E, code):
     return vals
 
 
-def national_headline(E, regions_reporting):
+def build_equity_strata():
+    """Extract verified 2024 national screening equity gaps by native language, education and sex."""
+    rows = [r for r in read('screening_observations.csv')
+            if r['year'] == '2024' and ('Population groups' in r['section'] or 'Whole country' in r['section'])]
+    out = []
+    specs = [
+        ('breast', 'Breast screening attendance', 'Native language', 'Attended (of invited) | %', {'Domestic': 'Domestic (FI/SV/Sámi)', 'Other/missing': 'Other language'}, {}),
+        ('cervix', 'Cervical screening attendance', 'Native language', 'Attended (of invited) | %', {'Domestic': 'Domestic (FI/SV/Sámi)', 'Other/missing': 'Other language'}, {}),
+        ('colorectal', 'Colorectal screening attendance', 'Native language', 'Attended | %', {'Domestic': 'Domestic (FI/SV/Sámi)', 'Other/missing': 'Other language'}, {'Sex': 'Total'}),
+        ('cervix', 'Cervical referral → colposcopy', 'Native language', 'Attended colposcopy (of those referred) | %', {'Domestic': 'Domestic (FI/SV/Sámi)', 'Other/missing': 'Other language'}, {}),
+        ('colorectal', 'Colorectal FIT+ → colonoscopy', 'Native language', 'Attended colonoscopy (of test positives) | %', {'Domestic': 'Domestic (FI/SV/Sámi)', 'Other/missing': 'Other language'}, {'Sex': 'Total'}),
+        ('breast', 'Breast screening attendance', 'Education', 'Attended (of invited) | %', {'Tertiary/higher education': 'Tertiary', 'Intermediate/secondary': 'Secondary', 'Primary education/unknown': 'Primary / unknown'}, {}),
+        ('cervix', 'Cervical screening attendance', 'Education', 'Attended (of invited) | %', {'Tertiary/higher education': 'Tertiary', 'Intermediate/secondary': 'Secondary', 'Primary education/unknown': 'Primary / unknown'}, {}),
+        ('colorectal', 'Colorectal screening attendance', 'Education', 'Attended | %', {'Tertiary/higher education': 'Tertiary', 'Intermediate/secondary': 'Secondary', 'Primary education/unknown': 'Primary / unknown'}, {'Sex': 'Total'}),
+        ('colorectal', 'Colorectal FIT+ → colonoscopy', 'Sex', 'Attended colonoscopy (of test positives) | %', {'Women': 'Women', 'Men': 'Men'}, {}),
+    ]
+    for prog, label, dim_key, metric, groups_map, extra_filter in specs:
+        found, url = {}, ''
+        for r in rows:
+            if r['program'] != prog or r['metric'] != metric:
+                continue
+            dims = json.loads(r['dimensions']) if r.get('dimensions') else {}
+            if dim_key not in dims:
+                continue
+            if any(dims.get(k) != v for k, v in extra_filter.items()):
+                continue
+            raw_g = dims[dim_key]
+            if raw_g in groups_map and num(r['value']) is not None:
+                found[groups_map[raw_g]] = round(num(r['value']), 1)
+                url = r['source_url']
+        if len(found) >= 2:
+            vals = list(found.values())
+            out.append(dict(
+                program=prog, label=label, dimension=dim_key, year='2024', unit='%',
+                groups=[dict(group=g, v=found[g]) for g in groups_map.values() if g in found],
+                gap_pp=round(max(vals) - min(vals), 1),
+                stage='referral' if ('colonoscopy' in label or 'colposcopy' in label) else 'detection',
+                source_url=url,
+            ))
+    return out
+
+
+def build_national_actions(counties, playbooks, su):
+    """Aggregate county playbooks into a national 2026–2031 implementation roadmap."""
+    pb_map = {pb['id']: pb for pb in playbooks}
+    by_pb = collections.defaultdict(list)
+    for c in counties:
+        for a in c['actions']:
+            by_pb[a['playbook_id']].append((c, a))
+    specs = [
+        ('stage_mdt_completeness', 'National EHR-to-Registry Automation & HILMO WZC15/WZC20 Coding Fix',
+         'THL, Finnish Cancer Registry (FCR), Regional Cancer Centres (FICAN) & 21 HVA CIOs',
+         f"Eliminate the 27.4% missing lung treatment-record blind spot and cut missing TNM stage from {su['pct']}% toward ≤10% (≥90% automated clinical notifications by 2030, Roadmap 3.2.1)."),
+        ('pathway_coordination', 'National Fast-Track Lung Pathway & 4-Timestamp Referral Pilot',
+         'Ministry of Social Affairs and Health (STM), FICAN Thoracic Oncology Groups & County Pathway Leads',
+         'Standardise direct GP-to-chest-CT routes (Roadmap 2.5.2) and establish the missing national primary-to-specialist referral-to-treatment timestamp series (Roadmap 3.1.2).'),
+        ('screening_reminders', 'Mandatory FICAN Quality-Manual Reminders & Multilingual Outreach in Procurement',
+         'National Cancer Screening Steering Group, FCR Mass Screening Registry & County Procurement Leads',
+         'Enforce 6-week automated reminders, Suomi.fi multilingual invitations and HPV self-sampling in every county contract (Roadmap 2.4.1 & 2.4.5), targeting the 20–22 pp non-domestic language gap.'),
+        ('positive_fit_followup', 'Closed-Loop Positive-Screen Follow-Up & Monthly Endoscopy/Colposcopy Reporting',
+         'FCR Screening Register, YTA Endoscopy & Gynaecology Leads',
+         'Mandate 2-week screening-nurse callbacks (§11.2.1) and monthly colonoscopy/colposcopy outcome feeds (§12.5, Roadmap 2.4.5) so screen-positive patients never drop out across municipal/HVA moves.'),
+        ('outcome_peer_review', 'Annual National YTA Demographic-Peer Benchmarking & Response Mechanism',
+         'National Cancer Centre (FICAN) & 5 University-Hospital Collaboration Areas (YTA)',
+         'Institutionalise annual demographic-peer reviews of survival/mortality outliers (Roadmap 3.2.2) with binding pathway-escalation plans after two releases (Roadmap 3.2.3).'),
+    ]
+    out = []
+    for pid, title, national_owner, national_target in specs:
+        items = by_pb.get(pid, [])
+        if pid == 'positive_fit_followup':
+            items = items + by_pb.get('colposcopy_followup', [])
+        if not items or pid not in pb_map:
+            continue
+        pb = pb_map[pid]
+        area_names = sorted({c['name'] for c, _ in items})
+        vol_sum = sum(a.get('annual_volume_n') or 0 for _, a in items)
+        lo_sum = sum(a.get('cost_eur_lo') or 0 for _, a in items)
+        hi_sum = sum(a.get('cost_eur_hi') or 0 for _, a in items)
+        hrs_sum = sum(a.get('staff_hours') or 0 for _, a in items)
+        out.append(dict(
+            id=f'national_{pid}',
+            playbook_id=pid,
+            title=title,
+            pathway_stage=pb['pathway_stage'],
+            owner=national_owner,
+            counties_affected=len(area_names),
+            county_names=area_names,
+            annual_volume_n=round(vol_sum),
+            annual_volume=f"≈{fmt_n(vol_sum)} {pb['volume_rule']['unit']} across {len(area_names)} areas",
+            staff_hours=round(hrs_sum),
+            cost_estimate=f"{fmt_eur(lo_sum)}–{fmt_eur(hi_sum)} / yr aggregated across {len(area_names)} areas",
+            target=national_target,
+            timeline=pb['timeline'],
+            strategy_actions=pb.get('strategy_actions', []),
+            goal=pb['goal'],
+            citations=pb['citations'],
+        ))
+    return out
+
+
+def national_headline(E, regions_reporting, counties):
     nat = E.get('lung_noinfo', LUNG_PERIOD, 'SSS')
     vs = [E.get('lung_noinfo', LUNG_PERIOD, c)['v'] for c in regions_reporting if E.get('lung_noinfo', LUNG_PERIOD, c)]
-    return (f"{fmt_n(nat['n'])} of {fmt_n(nat['d'])} lung cancer patients ({pe.fmt(nat['v'], '%')}) have no recorded "
-            f"treatment within 12 months — {pe.fmt(min(vs), '%')} to {pe.fmt(max(vs), '%')} by county ({LUNG_PERIOD}).")
+    act_n = sum(1 for c in counties if 'act' in c['stage_verdicts'].values())
+    return (f"{act_n} of {len(counties)} areas have an actionable cancer-pathway gap, while "
+            f"{fmt_n(nat['n'])} of {fmt_n(nat['d'])} lung cancer patients ({pe.fmt(nat['v'], '%')}, "
+            f"{pe.fmt(min(vs), '%')} to {pe.fmt(max(vs), '%')} by county, {LUNG_PERIOD}) lack a 12-month treatment record "
+            f"— separating where to change care now from where to audit records first.")
 
 
 def run():
     t0 = datetime.datetime.now()
     pre = validate_data.collect(include_snapshot=False)  # source integrity + analytical checks on processed data
-    regions, V, context, ctx_year, su = build_values()
+    regions, V, context, ctx_year, su, yta_by_code, mort_series = build_values()
     E = pe.Engine(INDICATORS, V, context=context, stage_unknown=su)
     playbooks = load_playbooks()
     names = {r['area_code']: r['area_name_en'] for r in regions}
     counties = []
     for r in regions:
         code = r['area_code']
+        raw_yta = yta_by_code.get(code)
+        yta_code, yta_name = YTA_MAP.get(raw_yta, ('YTA_AX', 'Autonomous Åland') if code == 'HVA91' else ('YTA0', 'Unassigned'))
         counties.append(dict(
             code=code, name=r['area_name_en'], name_fi=r['area_name_fi'],
+            yta_code=yta_code, yta_name=yta_name,
             headline=pe.headline(E, code, r['area_name_en']),
             stage_verdicts=E.stage_verdicts(code),
             values=county_values(E, code),
@@ -517,6 +802,7 @@ def run():
             context={k: v for k, v in context.get(code, {}).items()},
             context_rates={i['id']: E.get(i['id'], i['periods'][-1], code)['v'] for i in INDICATORS
                            if i['kind'] == 'context' and i['periods'] and E.get(i['id'], i['periods'][-1], code)},
+            mortality_trend=mort_series.get(code, []),
         ))
     nat = {}
     for i in INDICATORS:
@@ -525,6 +811,12 @@ def run():
         x = E.get(i['id'], i['periods'][-1], 'SSS')
         if x:
             nat[i['id']] = dict(v=r3(x['v']), lo=r3(x.get('lo')), hi=r3(x.get('hi')), n=x.get('n'), d=x.get('d'))
+            if len(i['periods']) > 1:
+                nat[i['id']]['series'] = [
+                    dict(period=p, v=r3(E.get(i['id'], p, 'SSS')['v']),
+                         lo=r3(E.get(i['id'], p, 'SSS').get('lo')), hi=r3(E.get(i['id'], p, 'SSS').get('hi')))
+                    for p in i['periods'] if E.get(i['id'], p, 'SSS') and E.get(i['id'], p, 'SSS').get('v') is not None
+                ]
             for extra in ('num', 'den', 'cases'):
                 if x.get(extra) is not None:
                     nat[i['id']][extra] = x[extra]
@@ -535,12 +827,17 @@ def run():
                        periods=i['periods'], desc=i['desc'], caveat=i['caveat'], group=i['group'],
                        value_type=i['value_type'], proxy_for=i.get('proxy_for'))
                   for i in INDICATORS if i['kind'] != 'context']
+    equity_strata = build_equity_strata()
+    national_actions = build_national_actions(counties, playbooks, su)
     snap = dict(
         built=t0.isoformat(timespec='seconds'),
-        national_headline=national_headline(E, reporting),
+        national_headline=national_headline(E, reporting, counties),
         stages=pe.STAGES,
         indicators=indicators,
         national=nat,
+        national_mortality_trend=mort_series.get('SSS', []),
+        equity_strata=equity_strata,
+        national_actions=national_actions,
         verdicts={k: dict(label=v['label'], desc=v['desc']) for k, v in pe.VERDICTS.items()},
         counties=counties,
         # ---- extras (documented in docs/DATA_GUIDE.md)

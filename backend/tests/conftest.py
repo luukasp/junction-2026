@@ -6,10 +6,16 @@ from fastapi.testclient import TestClient
 from sqlalchemy import create_engine
 from sqlalchemy.pool import StaticPool
 
+from app.config import get_settings
 from app.db import get_connection
 from app.ingestion import ingest
 from app.main import app
 from app.models import metadata
+
+# Isolate tests from any local developer .env credentials unless explicitly set in a test.
+os.environ.setdefault("GEMINI_API_KEY", "")
+os.environ.setdefault("LLM_API_KEY", "")
+get_settings.cache_clear()
 
 DATA_DIR = Path(__file__).resolve().parents[2] / "data" / "processed"
 

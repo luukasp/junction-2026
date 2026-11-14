@@ -70,6 +70,13 @@ LUNG_TREAT = ['lung_curative', 'lung_lifeprolong', 'lung_symptomatic', 'lung_cur
 # Lung treatment signals whose verdict depends on recording completeness (task b).
 LUNG_CURATIVE_SIGNALS = ['lung_curative', 'lung_cur_ratio']
 QUALITY_CHECKS = ['precision', 'complete', 'casemix', 'persist', 'plausible']
+FLAG_TEXT = {
+    'precision': 'wide confidence interval (small sample)',
+    'persist': 'not yet persistent across ≥3 annual releases',
+    'complete': 'incomplete or delayed register feed',
+    'casemix': 'unadjusted age/stage/population mix',
+    'plausible': 'implausibly large gap (likely register artefact)',
+}
 # Heuristic thresholds (documented in docs/DATA_GUIDE.md).
 MATERIAL_PP = 2.0        # adverse gaps smaller than this (percentage points) are 'monitor', not action
 IMPLAUSIBLE_PP = 25.0    # gaps larger than this are treated as likely register artefacts
@@ -289,7 +296,7 @@ class Engine:
         fails = sum(c['status'] == 'fail' for c in quality)
         warns = sum(c['status'] == 'warn' for c in quality)
         persist_pass = any(c['id'] == 'persist' and c['status'] == 'pass' for c in quality)
-        r['flags'] = [c['label'] for c in r['checks'] if c['status'] == 'fail' and c['id'] != 'chance']
+        r['flags'] = [FLAG_TEXT.get(c['id'], c['label']) for c in r['checks'] if c['status'] == 'fail' and c['id'] != 'chance']
 
         # ---- verdict
         if not pol:
@@ -328,7 +335,7 @@ class Engine:
         else:
             r['verdict'] = 'verify'
             r['reason'] = 'Adverse and outside the interval, but quality checks flag: ' + \
-                ', '.join(c['label'].lower() for c in quality if c['status'] in ('fail', 'warn')) + '.'
+                ', '.join(FLAG_TEXT.get(c['id'], c['label'].lower()) for c in quality if c['status'] in ('fail', 'warn')) + '.'
         return r
 
     # ------------------------------------------------------------------ aggregation

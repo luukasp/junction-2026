@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import lung from './countyLungTreatment.json'
 import bundled from './pathway_snapshot.json'
-import { asVerdict, defaultIndicatorId, fallbackHeadline, formatValue, planMarkdown, stageCounts, stageGroups, verdictLabels, type PathwaySnapshot } from './pathway'
+import { asVerdict, comparatorLabel, defaultIndicatorId, fallbackHeadline, formatValue, nationalPlanMarkdown, planMarkdown, stageCounts, stageGroups, verdictLabels, type PathwaySnapshot } from './pathway'
 import { fixture } from '../test/pathwayFixture'
 
 describe('pathway snapshot helpers', () => {
@@ -43,8 +43,19 @@ describe('pathway snapshot helpers', () => {
     const codes = new Set(snapshot.counties.map(c => c.code))
     for (const region of lung.regions) expect(codes.has(region.regionId), region.regionId).toBe(true)
     for (const county of snapshot.counties) {
+      expect(county.actions.length, `${county.code} should have >=1 action`).toBeGreaterThan(0)
       for (const value of Object.values(county.values)) expect(verdictLabels[asVerdict(value.verdict)]).toBeDefined()
-      for (const action of county.actions) expect(action.title && action.owner && action.baseline && action.target).toBeTruthy()
+      for (const action of county.actions) {
+        expect(action.title && action.owner && action.baseline && action.target).toBeTruthy()
+        expect(action.cost_estimate && action.resource_summary).toBeTruthy()
+      }
     }
+    const looCounty = snapshot.counties.find(c => c.values.lung_noinfo?.comparator_kind === 'leave_one_out')!
+    expect(comparatorLabel(looCounty.values.lung_noinfo, 'lung_noinfo')).toBe('rest of Finland')
+    expect(planMarkdown(snapshot, looCounty)).toContain('vs rest of Finland')
+    expect(planMarkdown(snapshot, looCounty)).toContain('Indicative annual budget:')
+    const natMd = nationalPlanMarkdown(snapshot)
+    expect(natMd).toContain('# National Cancer Care Implementation Roadmap')
+    expect(natMd).toContain('Roadmap actions:')
   })
 })

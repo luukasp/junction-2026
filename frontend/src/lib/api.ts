@@ -1,6 +1,17 @@
 export type Evidence = { id: string; dataset: string; row: Record<string, unknown> }
 export type Finding = { title: string; detail: string; bullets?: string[]; evidence_ids: string[] }
-export type Proposal = Finding & { owner: string; measure: string }
+export type Proposal = Finding & {
+  owner: string
+  measure: string
+  pathway_stage?: string | null
+  baseline?: string | null
+  target?: string | null
+  timeline?: string | null
+  concrete_steps?: string[]
+  estimated_annual_volume?: number | null
+  resource_summary?: string | null
+  cost_estimate?: string | null
+}
 export type Answer = { reply?: string; summary: string; findings: Finding[]; proposals: Proposal[]; visual_evidence_ids?: string[]; limitations: string[] }
 export type Quality = {
   imported_at: string
@@ -9,7 +20,7 @@ export type Quality = {
   limitations: string[]
 }
 export type AIResponse = { answer: Answer; evidence: Evidence[]; quality: Quality; model: string; provider: string }
-export type SavedProposal = AIResponse & { id: number; area_code: string; created_at: string; stale: boolean }
+export type SavedProposal = AIResponse & { id: number | null; area_code: string; created_at: string; stale: boolean; fallback?: boolean }
 
 const base = (import.meta.env.VITE_API_BASE_URL ?? '').replace(/\/$/, '')
 export async function api<T>(path: string, options: RequestInit = {}): Promise<T> {

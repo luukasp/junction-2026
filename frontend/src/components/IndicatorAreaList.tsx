@@ -1,12 +1,56 @@
 import { useState } from 'react'
 import { ArrowUpRight } from 'lucide-react'
-import { asVerdict, formatCount, formatValue, lowerIsBetter, verdictLabels, verdictRank, type PathwaySnapshot } from '../data/pathway'
+import { asVerdict, formatCount, formatValue, lowerIsBetter, OVERALL_PATHWAY_ID, verdictLabels, verdictRank, worstCountyVerdict, type PathwaySnapshot } from '../data/pathway'
 import { VerdictDot } from './VerdictBadge'
 
 type Props = { snapshot: PathwaySnapshot; indicatorId: string; selectedRegionId: string | null; onRegionSelect: (id: string) => void }
 
 export function IndicatorAreaList({ snapshot, indicatorId, selectedRegionId, onRegionSelect }: Props) {
   const [sortBy, setSortBy] = useState<'priority' | 'volume'>('priority')
+  if (indicatorId === OVERALL_PATHWAY_ID) {
+    const overallRows = snapshot.counties.map(county => ({ county, summary: worstCountyVerdict(snapshot, county) }))
+      .sort((a, b) => verdictRank(a.summary.verdict) - verdictRank(b.summary.verdict)
+        || b.summary.actStages - a.summary.actStages
+        || b.county.actions.length - a.county.actions.length
+        || a.county.name.localeCompare(b.county.name))
+    return (
+      <section aria-labelledby="review-title" className="flex min-w-0 flex-col overflow-hidden rounded-xl border border-line bg-panel">
+        <div className="border-b border-line p-4 sm:p-5">
+          <h2 id="review-title" className="text-lg font-semibold">Where to act first</h2>
+          <p className="mt-1 text-sm leading-relaxed text-secondary">All 6 pathway stages · ranked by bottleneck severity and action count. Select an area for its costed 90-day plan.</p>
+        </div>
+        <div className="max-h-[520px] overflow-auto">
+          <table className="w-full border-collapse text-sm">
+            <caption className="sr-only">Areas ordered by overall pathway bottleneck status</caption>
+            <thead className="sticky top-0 z-10 border-b border-line bg-panel text-xs text-muted">
+              <tr>
+                <th scope="col" className="px-4 py-3 text-left font-medium">Area</th>
+                <th scope="col" className="px-2 py-3 text-right font-medium">First gap</th>
+                <th scope="col" className="px-4 py-3 text-left font-medium">Status</th>
+              </tr>
+            </thead>
+            <tbody className="divide-y divide-line">
+              {overallRows.map(({ county, summary }) => (
+                <tr key={county.code} className={county.code === selectedRegionId ? 'bg-raised' : 'hover:bg-raised'}>
+                  <th scope="row" className="p-0 text-left font-medium">
+                    <button type="button" onClick={() => onRegionSelect(county.code)} className="flex w-full items-center gap-2 px-4 py-3 text-left focus-visible:outline-2 focus-visible:-outline-offset-2 focus-visible:outline-accent">
+                      <span>{county.name}</span>
+                      <ArrowUpRight size={14} aria-hidden className="ml-auto shrink-0 text-muted" />
+                    </button>
+                  </th>
+                  <td className="px-2 text-right">
+                    <span className="block text-xs text-secondary">{summary.earliestStage ?? '—'}</span>
+                    <span className="block font-mono text-[11px] tabular-nums text-muted">{county.actions.length} {county.actions.length === 1 ? 'action' : 'actions'}</span>
+                  </td>
+                  <td className="px-4"><span className="flex items-center gap-2 text-xs text-secondary"><VerdictDot verdict={summary.verdict} />{verdictLabels[summary.verdict]}</span></td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    )
+  }
   const indicator = snapshot.indicators.find(i => i.id === indicatorId)
   if (!indicator) return null
   const worse = lowerIsBetter(indicator) ? 1 : -1

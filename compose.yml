@@ -20,18 +20,17 @@ services:
       retries: 20
   api:
     build: ./backend
+    env_file:
+      - path: ./backend/.env
+        required: false
+      - path: ./.env
+        required: false
     environment:
       DATABASE_URL: mysql+pymysql://${MARIADB_USER:-equal_care}:${MARIADB_PASSWORD:-local_dev_password}@db:3306/${MARIADB_DATABASE:-equal_care}?charset=utf8mb4
       CORS_ORIGINS: '${CORS_ORIGINS:-["http://localhost:5173","http://127.0.0.1:5173"]}'
       DATA_DIR: /srv/data/processed
       PATHWAY_SNAPSHOT_PATH: ${PATHWAY_SNAPSHOT_PATH:-/srv/data/processed/pathway_snapshot.json}
       CATALOG_DIR: ${CATALOG_DIR:-/srv/data/catalog}
-      GEMINI_API_KEY: ${GEMINI_API_KEY:-}
-      LLM_PROVIDER: ${LLM_PROVIDER:-gemini}
-      LLM_MODEL: ${LLM_MODEL:-gemini-4-carbon}
-      LLM_API_KEY: ${LLM_API_KEY:-}
-      LLM_BASE_URL: ${LLM_BASE_URL:-https://api.openai.com/v1}
-      LLM_TIMEOUT_SECONDS: ${LLM_TIMEOUT_SECONDS:-120}
     ports:
       - "127.0.0.1:8000:8000"
     volumes:

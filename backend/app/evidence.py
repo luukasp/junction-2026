@@ -216,6 +216,7 @@ def pathway_evidence(snapshot, entry):
     indicators = {i["id"]: i for i in snapshot.get("indicators", [])}
     stages = {s.get("id"): s.get("label") for s in snapshot.get("stages", [])}
     national = snapshot.get("national", {})
+    by_code = {c.get("code"): c for c in snapshot.get("counties", []) if isinstance(c, dict)}
     evidence = [
         {
             "id": f"pathway:{code}:summary",
@@ -223,6 +224,7 @@ def pathway_evidence(snapshot, entry):
             "row": {
                 "area_code": code,
                 "area": entry.get("name"),
+                "collaboration_area": entry.get("yta_name"),
                 "metric": "Pathway headline",
                 "headline": _flat(entry.get("headline")),
                 "national_headline": _flat(snapshot.get("national_headline")),
@@ -234,9 +236,70 @@ def pathway_evidence(snapshot, entry):
             },
         }
     ]
+    if entry.get("peers") or entry.get("context"):
+        peer_lines = []
+        for p in entry.get("peers") or []:
+            peer_entry = by_code.get(p.get("code")) or {}
+            peer_vals = peer_entry.get("values") or {}
+            cur = (peer_vals.get("lung_curative") or {}).get("v")
+            crc = (peer_vals.get("scr_crc_att") or {}).get("v")
+            bits = [f"{p.get('name')} ({p.get('code')}, dist {p.get('distance')})"]
+            if cur is not None:
+                bits.append(f"curative lung {cur}%")
+            if crc is not None:
+                bits.append(f"bowel screening {crc}%")
+            peer_lines.append(", ".join(bits))
+        ctx = entry.get("context") or {}
+        evidence.append(
+            {
+                "id": f"pathway:{code}:peers",
+                "dataset": "pathway",
+                "row": {
+                    "area_code": code,
+                    "metric": "Demographic peers and population context",
+                    "collaboration_area": entry.get("yta_name"),
+                    "peers": "; ".join(peer_lines) if peer_lines else None,
+                    "age_65_plus_pct": ctx.get("ctx_65"),
+                    "rural_pct": ctx.get("ctx_rural"),
+                    "foreign_language_pct": ctx.get("ctx_foreign"),
+                    "swedish_language_pct": ctx.get("ctx_swedish"),
+                    "density_per_km2": ctx.get("ctx_density"),
+                    "source_url": "https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/vaerak/statfin_vaerak_pxt_11ra.px",
+                },
+            }
+        )
+    if snapshot.get("equity_strata"):
+        eq_lines = [
+            f"{row.get('label')} ({row.get('dimension')}, {row.get('year')}): "
+            + ", ".join(f"{g.get('group')} {g.get('v')}%" for g in row.get("groups") or [])
+            + f" (gap {row.get('gap_pp')} pp)"
+            for row in snapshot["equity_strata"][:6]
+        ]
+        eq_url = next(
+            (r.get("source_url") for r in snapshot["equity_strata"] if r.get("source_url")),
+            "https://stats.cancerregistry.fi/joukkistilastot/breast.html",
+        )
+        evidence.append(
+            {
+                "id": "pathway:national:equity",
+                "dataset": "pathway",
+                "row": {
+                    "area_code": "SSS",
+                    "metric": "National screening equity by language, education and sex (2024)",
+                    "disparities": "; ".join(eq_lines),
+                    "source_url": eq_url,
+                },
+            }
+        )
     for ind_id, value in (entry.get("values") or {}).items():
         meta = indicators.get(ind_id, {})
         nat = national.get(ind_id) or {}
+        ckind = value.get("comparator_kind")
+        clabel = "rest of Finland" if ckind == "leave_one_out" else "Finland national"
+        series = value.get("series") or []
+        trend_txt = (
+            ", ".join(f"{pt.get('period')}: {pt.get('v')}" for pt in series) if len(series) > 1 else None
+        )
         evidence.append(
             {
                 "id": f"pathway:{code}:{ind_id}",
@@ -257,7 +320,11 @@ def pathway_evidence(snapshot, entry):
                     "numerator": value.get("n"),
                     "denominator": value.get("d"),
                     "comparator": _flat(value.get("comparator")),
+                    "comparator_kind": ckind,
+                    "comparator_label": clabel,
                     "verdict": _flat(value.get("verdict")),
+                    "reason": _flat(value.get("reason")),
+                    "trend": trend_txt,
                     "national_value": nat.get("v"),
                     "national_ci_lower": nat.get("lo"),
                     "national_ci_upper": nat.get("hi"),
@@ -285,6 +352,11 @@ def pathway_evidence(snapshot, entry):
                     "baseline": _flat(action.get("baseline")),
                     "target": _flat(action.get("target")),
                     "annual_volume": _flat(action.get("annual_volume")),
+                    "resource_summary": _flat(action.get("resource_summary")),
+                    "cost_estimate": _flat(action.get("cost_estimate")),
+                    "local_tailoring": _flat(action.get("local_tailoring")),
+                    "strategy_actions": _flat(action.get("strategy_actions") or []),
+                    "goal": _flat(action.get("goal")),
                     "timeline": _flat(action.get("timeline")),
                     "first_90_days": _flat(action.get("first_90_days")),
                     "concrete_steps": _flat(action.get("concrete_steps") or []),
