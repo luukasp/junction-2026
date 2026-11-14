@@ -77,4 +77,13 @@ describe('evidence-backed OpenUI answers', () => {
     expect(html).toContain('83.8%')
     expect(html).toContain('Attended (of invited)')
   })
+  it('shows readable labels instead of Finnish codes, snake_case fields and raw JSON', () => {
+    const readable: AIResponse = { ...response, answer: { ...response.answer, findings: [{ title: 'Records', detail: 'Review', evidence_ids: ['treatments:1', 'screening:1'] }], visual_evidence_ids: ['screening:1'] }, evidence: [
+      { id: 'treatments:1', dataset: 'treatments', row: { treatment_type_fi: 'Ei hoitotietoa', patients_n: 710, share_pct: 33.8, collaboration_area_fi: 'Pohjois-Suomen yhteistyöalue' } },
+      { id: 'screening:1', dataset: 'screening', row: { program: 'breast', year: 2024, metric: 'Attended (of invited) | %', unit: 'percent', value: 83.8, strata: { 'Age group': '50-69', sex_code: 'Naiset' } } },
+    ] }
+    const html = renderToStaticMarkup(<AnswerView response={readable} />)
+    for (const text of ['No treatment record', 'Treatment category', 'Share (%)', 'Patients', 'Northern Finland collaborative area', 'Age group: 50-69', 'Sex code: Women']) expect(html).toContain(text)
+    for (const text of ['Ei hoitotietoa', 'treatment_type_fi', 'share pct', 'collaboration area fi', '{&quot;']) expect(html).not.toContain(text)
+  })
 })

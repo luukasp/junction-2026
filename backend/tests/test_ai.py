@@ -64,8 +64,14 @@ def test_dashboard_and_county_grounding(client, engine):
     with engine.connect() as conn:
         context = county_evidence(conn, "HVA90", "screening participation")
     assert context["evidence"]
-    assert all(e["row"]["area_code"] == "HVA90" for e in context["evidence"])
-    assert all(e["row"]["source_url"].startswith("https://") for e in context["evidence"])
+    county_rows = [
+        e
+        for e in context["evidence"]
+        if e["dataset"] in {"screening", "statfin", "outcomes", "treatments"}
+    ]
+    assert county_rows
+    assert all(e["row"]["area_code"] == "HVA90" for e in county_rows)
+    assert all(e["row"]["source_url"].startswith("https://") for e in county_rows)
     assert len(context["quality"]["coverage"]) == 4
     assert client.get("/api/v1/counties/invalid/proposal").status_code == 404
 

@@ -7,7 +7,7 @@ import { z } from 'zod/v4'
 import { answerProgram } from './answerProgram'
 import { concise, shortPoints } from './briefingText'
 import { CompletenessChart, EvidenceVisuals } from './EvidenceVisuals'
-import { sourceId, visualEvidence } from './visualData'
+import { fieldLabel, readableValue, sourceId, visualEvidence } from './visualData'
 import type { AIResponse, Evidence } from '../../lib/api'
 
 const Col = defineComponent({
@@ -48,11 +48,11 @@ const library = createLibrary({ components: [Col, Text, Card, Finding], root: 'C
 function Source({ evidence, sourcePrefix }: { evidence: Evidence; sourcePrefix: string }) {
   const url = typeof evidence.row.source_url === 'string' && /^https?:\/\//.test(evidence.row.source_url) ? evidence.row.source_url : undefined
   return <details id={sourceId(sourcePrefix, evidence.id)} className="scroll-mt-4 rounded-lg border border-line p-3">
-    <summary className="cursor-pointer break-words text-xs text-accent">{evidence.id} · {String(evidence.row.metric ?? evidence.row.metric_label ?? evidence.row.treatment_type_fi ?? evidence.row.cancer ?? evidence.dataset)}</summary>
+    <summary className="cursor-pointer break-words text-xs text-accent">{evidence.id} · {readableValue(evidence.row.metric ?? evidence.row.metric_label ?? evidence.row.treatment_type_fi ?? evidence.row.cancer ?? evidence.dataset)}</summary>
     <dl className="mt-3 grid gap-2 text-xs">
       {Object.entries(evidence.row).filter(([key]) => !['source_url', 'id'].includes(key)).map(([key, value]) => <div key={key} className="grid grid-cols-[minmax(0,1fr)_minmax(0,2fr)] gap-3">
-        <dt className="break-words text-muted">{key.replaceAll('_', ' ')}</dt>
-        <dd className="break-words text-secondary">{value === null ? 'Missing / suppressed' : typeof value === 'object' ? JSON.stringify(value) : String(value)}</dd>
+        <dt className="break-words text-muted">{fieldLabel(key)}</dt>
+        <dd className="break-words text-secondary">{readableValue(value)}</dd>
       </div>)}
     </dl>
     {url && <a className="mt-3 inline-block text-xs text-accent underline" href={url} target="_blank" rel="noreferrer">Open original source</a>}
@@ -81,7 +81,7 @@ export function AnswerView({ response }: { response: AIResponse }) {
       {!response.quality.screening_mainland_coverage && <p className="mt-3 text-xs text-accent">This area is outside mainland screening coverage. Check source availability before interpreting screening rows.</p>}
       <CompletenessChart response={response} />
       <div className="mt-3 grid gap-3">
-        {response.quality.coverage.map(c => <p key={c.dataset} className="text-xs leading-relaxed text-secondary"><span className="font-medium text-ink">{c.dataset}</span> · {c.rows} rows available · {c.selected_rows} retrieved · {c.missing_values}/{c.numeric_cells} numeric cells missing{c.latest_year ? ` · latest year ${c.latest_year}` : ''}</p>)}
+        {response.quality.coverage.map(c => <p key={c.dataset} className="text-xs leading-relaxed text-secondary"><span className="font-medium capitalize text-ink">{c.dataset}</span> · {c.rows} rows available · {c.selected_rows} retrieved · {c.missing_values}/{c.numeric_cells} numeric cells missing{c.latest_year ? ` · latest year ${c.latest_year}` : ''}</p>)}
         {response.quality.limitations.map(text => <p key={text} className="text-xs leading-relaxed text-muted">{text}</p>)}
         {response.evidence.filter(e => cited.has(e.id)).map(e => <Source key={e.id} evidence={e} sourcePrefix={sourcePrefix} />)}
       </div>

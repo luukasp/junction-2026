@@ -10,13 +10,13 @@ From this directory:
 ```bash
 test -f .env || cp .env.example .env
 docker compose up --build -d
-docker compose exec api backend ingest
 ```
 
 The API runs at http://localhost:8000, Swagger at http://localhost:8000/docs,
 and OpenAPI at http://localhost:8000/openapi.json. MariaDB is persisted in a named
-volume. Compose waits for MariaDB and creates missing tables before starting the API.
-The separate import command loads all 341 CSVs; startup does not automatically import data.
+volume. Compose waits for MariaDB, then runs `backend init-db && backend ingest` before
+starting the API. Ingestion is idempotent: an unchanged snapshot (same file hashes) is a
+no-op, so restarts are fast; a changed snapshot is replaced in one transaction.
 
 Default credentials and localhost bindings are for local development. Set credentials
 in `.env` before the first database start. The local-development API is unauthenticated, including proposal generation and chat.
@@ -269,9 +269,9 @@ TEST_DATABASE_URL='mysql+pymysql://user:password@localhost:3306/test_database' u
 The suite covers full-data counts, deduplication, NULL preservation, national codes,
 unchanged/forced imports, conflict rejection, malformed CSVs, rollback after a
 mid-import failure, county isolation, latest-year aggregates, missing-data coverage,
-duplicate-geography exclusion, existing-index upgrades, API filters, CORS and
-database-unavailable responses.
-mid-import failure, API filters, CORS and database-unavailable responses.
+duplicate-geography exclusion, existing-index upgrades, API filters, CORS,
+database-unavailable responses, the pathway endpoints, AI grounding/ranking and the
+deterministic briefing fallback (`tests/test_pathway.py`, using a small fixture snapshot).
 
 ## AI county reviews and executive chat
 
@@ -303,6 +303,7 @@ Initialize the added table and generate persisted reviews for every area:
 uv run backend init-db
 uv run backend ingest
 uv run backend generate-proposals
+uv run backend generate-proposals --all      # same as above, explicit pre-seeding
 # One county, or explicitly create a new version:
 uv run backend generate-proposals --area-code HVA90
 uv run backend generate-proposals --area-code HVA90 --force
@@ -314,8 +315,11 @@ partially failed batch resumes missing reviews. Nonzero exit means some areas fa
 The UI can generate/regenerate one county and retrieves its latest saved review.
 
 - `GET /api/v1/dashboard`: database-backed map and summary data.
-- `GET /api/v1/counties/{area_code}/proposal`: latest saved review, or null.
-- `POST /api/v1/counties/{area_code}/proposal?force=false`: generate and persist.
+- `GET /api/v1/counties/{area_code}/proposal`: latest saved review; if none exists and no
+  LLM key is configured, a deterministic briefing (see below); otherwise null.
+- `POST /api/v1/counties/{area_code}/proposal?force=false`: generate and persist. If the
+  provider is unreachable/unconfigured and the county has no stored review, returns the
+  deterministic briefing (unsaved) instead of 502.
 - `POST /api/v1/counties/{area_code}/chat`: `{question, history: [{role, content}]}`.
 
 `review_proposals` stores validated structured output, generation time, model/provider,
@@ -330,8 +334,15 @@ applies to these visual selections. The frontend builds charts from the stored s
 values, never from model-generated chart numbers. Older saved reviews gain the same
 compact presentation immediately, with full paragraphs available in expandable details.
 
-Retrieval uses exact county codes, question terms and recency, with at most 24
+Retrieval uses exact county codes, question terms (matched against semantic label fields
+only: program, metric, cause/sex labels, cancer, treatment type, never URLs or warnings),
+headline priority (all-population strata and percentages before counts and sub-strata) and
+recency (`year`, or the end year of `diagnosis_period`/`incidence_period`), with at most 24
 observations per dataset and diversity across screening programs / StatFin datasets.
+StatFin is restricted to key series: deaths and crude death rates for all causes, all
+malignant neoplasms and screening/lung-related cancers (13u5), and core population
+structure (11ra: residents, 65+ share, average age, density, language/foreign background,
+rural share).
 The full original dimensions, periods, units, confidence intervals, warnings and source
 URLs travel with each selected row. Coverage counts and missing numeric cells describe
 all county rows, not a model confidence score. National totals and nonmatching
@@ -344,3 +355,58 @@ The frontend uses OpenUI's renderer and restricted components adapted from
 notice included. Validated JSON becomes escaped OpenUI text/cards; generated HTML,
 JavaScript, arbitrary model links and UI actions are not executed. Original source links
 come from retrieved database rows. Renderer errors fall back to readable text.
+
+### Grounding sources and citable evidence ids
+
+The model may cite only ids present in the retrieved evidence; any other id (e.g. an
+invented `action:` or `policy:` id) fails validation, triggers one repair attempt and is
+never stored.
+
+| Evidence id | Source |
+| --- | --- |
+| `pathway:<code>:summary` | Snapshot headline, national headline and stage verdicts |
+| `pathway:<code>:<indicator>` | Snapshot value, CI, n/d, verdict and national comparator |
+| `action:<playbook_id>` | County action: stage, owner, baseline, target, volume, timeline, steps, citations |
+| `policy:<id>` | `catalog/recommendations.json` (trigger, owner, measures, cited section/page/URL) |
+| `policy_chunk:<chunk_id>` | Top-6 BM25 matches from `evidence_chunks.jsonl` (URL, page/section, excerpt) |
+| `national:<dataset>:<id>` | Whole-Finland rows: outcomes (`SSS`), key StatFin series, matching screening % |
+| `screening:<id>`, `statfin:<id>`, `outcomes:<id>`, `treatments:<id>` | County registry rows (as before) |
+
+`CATALOG_DIR` (default `DATA_DIR/../catalog`) and `PATHWAY_SNAPSHOT_PATH` (default
+`DATA_DIR/pathway_snapshot.json`) override the file locations. Missing files simply omit
+that evidence type; `quality.grounding` reports what was available. The review fingerprint
+also covers the snapshot build and recommendations, so a rebuilt snapshot marks reviews stale.
+
+Proposals carry optional action-plan fields: `pathway_stage`, `baseline`, `target`,
+`timeline`, `concrete_steps` (≤5) and `estimated_annual_volume` (number or null). The prompt
+requires each proposal to cite an `action:`/`policy:` id and a pathway stage, to lead with the
+key message and to put caveats afterwards. Older stored proposals without these fields are
+returned unchanged and remain valid.
+
+## Pathway snapshot API
+
+`../data/processed/pathway_snapshot.json` is built by the data pipeline (not the backend)
+and served read-only, reloaded automatically when the file changes.
+
+| Endpoint | Response |
+| --- | --- |
+| `GET /api/v1/pathway` | Whole snapshot: `built`, `national_headline`, `stages[]`, `indicators[]`, `national{}`, `verdicts`, `counties[]` |
+| `GET /api/v1/pathway/{area_code}` | One county: `code`, `name`, `headline`, `stage_verdicts`, `values{<ind>: {v, lo, hi, n, d, comparator, verdict}}`, `actions[]` |
+
+Both return 503 with a clear `detail` if the snapshot is missing or invalid; the county
+route returns 404 for a code not in the snapshot.
+
+## Demo checklist
+
+```bash
+docker compose up --build -d          # init-db + idempotent ingest + API
+# Optional with a GEMINI_API_KEY in .env: pre-seed every county so the demo never waits
+docker compose exec api backend generate-proposals --all
+```
+
+Without an API key (or when the provider is down), opening a county briefing still works:
+the backend builds a deterministic, unsaved briefing from the snapshot's actions
+(`provider: "deterministic"`, `model: "pathway-snapshot"`, `fallback: true`, `id: null`).
+Its summary is the county headline, findings are stage verdicts with cited indicator rows,
+and proposals are the snapshot actions with baseline, target, timeline, steps and volume.
+It needs `pathway_snapshot.json`; without it the endpoint behaves as before.

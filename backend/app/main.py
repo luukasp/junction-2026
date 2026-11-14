@@ -3,7 +3,7 @@ from typing import Annotated, Literal
 from fastapi import Depends, FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
-from sqlalchemy import Connection, select, text
+from sqlalchemy import Connection, func, select, text
 from sqlalchemy.exc import SQLAlchemyError
 
 from app.ai_routes import router as ai_router
@@ -11,6 +11,8 @@ from app.config import get_settings
 from app.counties import router as counties_router
 from app.db import get_connection
 from app.models import DATASETS, ingestion_state, review_proposals
+from app.pathway import router as pathway_router
+from app.schemas import Page
 
 app = FastAPI(title="Equal Care API", version="0.1.0")
 app.add_middleware(
@@ -26,6 +28,7 @@ Dataset = Literal[
 
 
 app.include_router(counties_router)
+app.include_router(pathway_router)
 
 
 @app.exception_handler(SQLAlchemyError)

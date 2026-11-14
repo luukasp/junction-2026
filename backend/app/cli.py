@@ -12,7 +12,7 @@ from app.config import get_settings
 from app.db import get_engine, init_schema
 from app.ingestion import IngestionError, ingest, prepare, read_snapshot
 from app.llm import get_provider
-from app.models import metadata, regions
+from app.models import regions
 
 
 def main():
@@ -29,7 +29,11 @@ def main():
                 "--force", action="store_true", help="Reimport an unchanged snapshot"
             )
     proposals = commands.add_parser("generate-proposals", help="Generate and store county reviews")
-    proposals.add_argument("--area-code", help="One county; omit for all counties")
+    scope = proposals.add_mutually_exclusive_group()
+    scope.add_argument("--area-code", help="One county; omit (or pass --all) for all counties")
+    scope.add_argument(
+        "--all", action="store_true", help="Pre-seed reviews for every county (default)"
+    )
     proposals.add_argument("--force", action="store_true", help="Generate new versions")
     args = parser.parse_args()
     try:

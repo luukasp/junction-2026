@@ -1,6 +1,13 @@
 [
   {
     "id": "screening_reminders",
+    "title": "Raise screening participation with reminders and accessible invitations",
+    "pathway_stage": "detection",
+    "triggers": [
+      "scr_breast_att",
+      "scr_cervix_att",
+      "scr_crc_att"
+    ],
     "trigger": "Low participation after checking invitation delivery and cohort composition",
     "proposal": "Audit invitations, provide appropriate language materials, and implement the screening reminder workflow",
     "owner": "County screening programme lead",
@@ -9,19 +16,76 @@
       "participation by language and sex",
       "reminder reach"
     ],
+    "concrete_steps": [
+      "Pull the non-attender list for the latest programme round from the screening register and break it down by language (Finnish, Swedish, other), age group and postcode area.",
+      "Audit invitation delivery (undeliverable letters, outdated addresses) so delivery failures are not counted as refusals.",
+      "Automate the reminder in the invitation system: breast, a reminder invitation 6 weeks after the first (breast manual §6.4); colorectal, a reminder letter with a free replacement kit if no sample arrives within 6 weeks (colorectal manual §10.5); cervical, a reminder 4–8 weeks after the first invitation (cervical manual §8.3).",
+      "Send invitations and reminders in the person's registered language using the Finnish Cancer Registry templates (Finnish, Swedish, English), and through suomi.fi where the person has enabled it.",
+      "For cervical screening, offer a pre-booked time and place and an HPV self-sampling kit to non-attenders after the reminder (cervical manual §8.4).",
+      "Write the reminder requirements into the screening service procurement contract (roadmap action 2.4.1)."
+    ],
+    "target": "{short} at or above the {comparator_name} rate ({comparator}; now {value}) in the next programme round; a reminder sent to 100% of eligible non-attenders",
+    "timeline": "Reminder workflow live within 3 months; effect read from the next annual screening statistics (12–18 months)",
+    "first_90_days": [
+      "Name the programme owner and pull the latest non-attender list",
+      "Audit undeliverable invitations and the invitation language",
+      "Switch on the automated reminder (6 weeks breast and colorectal, 4–8 weeks cervical)",
+      "Agree monthly participation reporting with the Finnish Cancer Registry (roadmap 2.4.5)"
+    ],
+    "escalation": "If participation stays below the rest-of-Finland rate after one round with reminders, commission an equity analysis by language and area and take it to the collaboration-area (YTA) screening steering group.",
+    "volume_rule": {
+      "method": "shortfall_latest_year",
+      "unit": "invited people who did not attend",
+      "description": "Invited (or picked) persons minus attenders in the latest programme year (d − n)."
+    },
     "evidence": [
       {
+        "label": "FICAN colorectal screening quality manual 2026, §10.5 reminder letter",
         "path": "data/raw/evidence/manual_Suolistosyovan-seulonnan-laatukasikirja.pdf",
         "section": "10.5",
         "pdf_page": 21,
-        "url": "https://fican.fi/wp-content/uploads/2026/06/Suolistosyovan-seulonnan-laatukasikirja.pdf"
+        "quote": "kuuden viikon kuluessa ensikutsusta",
+        "url": "https://fican.fi/wp-content/uploads/2026/06/Suolistosyovan-seulonnan-laatukasikirja.pdf#page=21"
+      },
+      {
+        "label": "FICAN breast screening quality manual 2026, §6.4 reminder invitation",
+        "path": "data/raw/evidence/manual_Rintasyovan-seulonnan-laatukasikirja.pdf",
+        "section": "6.4",
+        "pdf_page": 14,
+        "quote": "kutsun kuuden (6) viikon päästä",
+        "url": "https://fican.fi/wp-content/uploads/2026/06/Rintasyovan-seulonnan-laatukasikirja.pdf#page=14"
+      },
+      {
+        "label": "FICAN cervical screening quality manual 2026, §8.3–8.4 reminder and self-sampling",
+        "path": "data/raw/evidence/manual_Kohdunkaulan-syovan-seulonnan-laatukasikirja.pdf",
+        "section": "8.3",
+        "pdf_page": 19,
+        "quote": "kirjeen 4–8 viikon päästä ensimmäisen kutsun",
+        "url": "https://fican.fi/wp-content/uploads/2026/06/Kohdunkaulan-syovan-seulonnan-laatukasikirja.pdf#page=19"
+      },
+      {
+        "label": "National cancer strategy implementation roadmap 2026–2031, action 2.4.1 (quality manuals in procurement)",
+        "path": "Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf",
+        "action": "2.4.1",
+        "pdf_page": 47,
+        "quote": "Otetaan seulontaohjelmien laatukäsikirjat käyttöön",
+        "url": "https://files.hackjunction.app/resources/Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf#page=47"
       }
+    ],
+    "strategy_actions": [
+      "2.4.1",
+      "2.4.5"
     ],
     "goal": "Goal 2; supporting detection pathway, not sufficient as the only Goal 3 measure",
     "evidence_status": "Policy/guidance-supported proposal; local benefit unestimated; requires clinical validation"
   },
   {
     "id": "positive_fit_followup",
+    "title": "Close the loop after a positive FIT",
+    "pathway_stage": "referral",
+    "triggers": [
+      "scr_crc_colo"
+    ],
     "trigger": "Low recorded colonoscopy completion among positive tests",
     "proposal": "Audit screening-nurse contact and diagnostic follow-up, account for clinical exclusions and alternatives, then address verified workflow gaps",
     "owner": "County screening and endoscopy leads",
@@ -31,18 +95,138 @@
       "record completeness",
       "prospective time to follow-up"
     ],
+    "concrete_steps": [
+      "List every FIT-positive person in the latest programme year without a recorded colonoscopy and reconcile each against endoscopy-unit and HILMO records (colonoscopies outside the programme count as completed follow-up).",
+      "Record a reason for every unresolved case: declined, clinically excluded, examined elsewhere, moved county after the positive test (the screening chain breaks on a move, colorectal manual §11.3), or lost to follow-up.",
+      "Make the screening nurse phone every positive person who has not made contact within about two weeks, as colorectal manual §11.2.1 requires.",
+      "Send completed colonoscopies to the screening register monthly (roadmap 2.4.5) so the loop closes visibly.",
+      "Record the date of the positive result and of the colonoscopy for every case and report the median and 90th-percentile interval quarterly."
+    ],
+    "target": "Colonoscopy recorded for at least {comparator} of FIT positives ({comparator_name} rate; now {value}); a documented reason for every remaining case",
+    "timeline": "Reconciliation within 3 months; nurse call-back permanent; re-measure on the next annual statistics",
+    "first_90_days": [
+      "Pull the list of FIT positives without a recorded colonoscopy",
+      "Reconcile against endoscopy and HILMO records and code a reason for each case",
+      "Start the two-week screening-nurse call-back",
+      "Agree monthly reporting of colonoscopy results to the screening register"
+    ],
+    "escalation": "If verified non-attendance persists after the call-back, review endoscopy capacity and travel distance with the collaboration-area endoscopy units and report to the YTA screening steering group.",
+    "volume_rule": {
+      "method": "shortfall_latest_year",
+      "unit": "FIT positives without a recorded colonoscopy",
+      "description": "Test positives minus attended colonoscopies in the latest programme year (d − n)."
+    },
     "evidence": [
       {
+        "label": "FICAN colorectal screening quality manual 2026, §11.2.1 nurse call-back after a positive test",
         "path": "data/raw/evidence/manual_Suolistosyovan-seulonnan-laatukasikirja.pdf",
-        "section": "11",
-        "url": "https://fican.fi/wp-content/uploads/2026/06/Suolistosyovan-seulonnan-laatukasikirja.pdf"
+        "section": "11.2.1",
+        "pdf_page": 22,
+        "quote": "seulontahoitajan tulee soittaa hänelle",
+        "url": "https://fican.fi/wp-content/uploads/2026/06/Suolistosyovan-seulonnan-laatukasikirja.pdf#page=22"
+      },
+      {
+        "label": "FICAN colorectal screening quality manual 2026, §11.3 change of home municipality",
+        "path": "data/raw/evidence/manual_Suolistosyovan-seulonnan-laatukasikirja.pdf",
+        "section": "11.3",
+        "pdf_page": 23,
+        "quote": "ketjunsa katkeaa",
+        "url": "https://fican.fi/wp-content/uploads/2026/06/Suolistosyovan-seulonnan-laatukasikirja.pdf#page=23"
+      },
+      {
+        "label": "National cancer strategy implementation roadmap 2026–2031, action 2.4.5 (monthly screening data)",
+        "path": "Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf",
+        "action": "2.4.5",
+        "pdf_page": 50,
+        "quote": "tulee raportoida kuukausittain seulontarekistereihin",
+        "url": "https://files.hackjunction.app/resources/Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf#page=50"
       }
+    ],
+    "strategy_actions": [
+      "2.4.1",
+      "2.4.5"
     ],
     "goal": "Detection-to-diagnosis; prospective times can support Goal 3 pathway monitoring",
     "evidence_status": "Policy/guidance-supported proposal; local benefit unestimated; requires clinical validation"
   },
   {
+    "id": "colposcopy_followup",
+    "title": "Close the loop after a colposcopy referral",
+    "pathway_stage": "referral",
+    "triggers": [
+      "scr_cervix_colpo"
+    ],
+    "trigger": "Low recorded colposcopy attendance among women referred from cervical screening",
+    "proposal": "Track every referred woman to a colposcopy result: re-book non-attenders, make colposcopy units report to the screening organiser, then fix verified gaps",
+    "owner": "County cervical screening and gynaecology leads",
+    "measure": [
+      "colposcopy attended within the urgency window",
+      "referred women with no recorded colposcopy",
+      "colposcopy reports received by the screening organiser"
+    ],
+    "concrete_steps": [
+      "List women referred to colposcopy from programme screening without a recorded colposcopy and reconcile against gynaecology outpatient records.",
+      "Check each case against the urgency schedule in the cervical manual (Käypä hoito): HSIL or ASC-H within one month, AGC-NOS within two months, LSIL at the latest within six months.",
+      "Require colposcopy units to report to the screening organiser whether and when colposcopy was done and the colposcopic diagnosis (cervical manual §12.5).",
+      "Re-book non-attenders with a named contact person and a pre-booked appointment.",
+      "Report quarterly the share of referred women examined within the urgency window."
+    ],
+    "target": "Colposcopy recorded for at least {comparator} of referred women ({comparator_name} rate; now {value}); every high-grade referral seen within one month",
+    "timeline": "Reconciliation within 3 months; unit reporting agreed within 6 months; re-measure on the next annual statistics",
+    "first_90_days": [
+      "Pull the list of referred women without a recorded colposcopy",
+      "Reconcile against gynaecology records and re-book non-attenders",
+      "Agree the §12.5 reporting fields with every colposcopy unit"
+    ],
+    "escalation": "If high-grade referrals are not seen within one month after reconciliation, escalate capacity to the collaboration-area gynaecology lead.",
+    "volume_rule": {
+      "method": "shortfall_latest_year",
+      "unit": "referred women without a recorded colposcopy",
+      "description": "Women referred to colposcopy minus women who attended colposcopy in the latest programme year (d − n)."
+    },
+    "evidence": [
+      {
+        "label": "FICAN cervical screening quality manual 2026, colposcopy urgency table",
+        "path": "data/raw/evidence/manual_Kohdunkaulan-syovan-seulonnan-laatukasikirja.pdf",
+        "section": "11",
+        "pdf_page": 27,
+        "quote": "kolposkopia yhden kuukauden kuluessa",
+        "url": "https://fican.fi/wp-content/uploads/2026/06/Kohdunkaulan-syovan-seulonnan-laatukasikirja.pdf#page=27"
+      },
+      {
+        "label": "FICAN cervical screening quality manual 2026, §12.5 colposcopy quality monitoring",
+        "path": "data/raw/evidence/manual_Kohdunkaulan-syovan-seulonnan-laatukasikirja.pdf",
+        "section": "12.5",
+        "pdf_page": 30,
+        "quote": "onko kolposkopia tehty ja jos, milloin",
+        "url": "https://fican.fi/wp-content/uploads/2026/06/Kohdunkaulan-syovan-seulonnan-laatukasikirja.pdf#page=30"
+      }
+    ],
+    "strategy_actions": [
+      "2.4.1"
+    ],
+    "goal": "Detection-to-diagnosis; Goal 2 screening quality with Goal 3 pathway relevance",
+    "evidence_status": "Guidance-supported proposal; local benefit unestimated; requires clinical validation"
+  },
+  {
     "id": "stage_mdt_completeness",
+    "title": "Verify lung treatment, stage and MDT records",
+    "pathway_stage": "diagnosis",
+    "triggers": [
+      "lung_noinfo",
+      "lung_mdt",
+      "scr_breast_missing",
+      "lung_curative",
+      "lung_cur_ratio"
+    ],
+    "trigger_verdicts": {
+      "lung_curative": [
+        "verify"
+      ],
+      "lung_cur_ratio": [
+        "verify"
+      ]
+    },
     "trigger": "Incomplete stage or MDT recording, or unexplained regional treatment-pattern differences",
     "proposal": "Conduct a joint clinical and coding review, standardise documentation and registry delivery, and monitor missingness before attributing differences to care quality",
     "owner": "County oncology lead and registry/data team",
@@ -51,42 +235,221 @@
       "validated MDT recording",
       "clinical-notification completeness"
     ],
+    "concrete_steps": [
+      "Pull the county's lung cancer patients without any HILMO treatment record within 12 months of diagnosis and review each chart: treated in another county, treated but not coded, best supportive care decision, or died before treatment.",
+      "Check that MDT meetings are coded in HILMO with WZC15/WZC20 even when the patient is not present; the lung quality report notes that only direct patient contacts reach HILMO.",
+      "Audit the clinical cancer notification (kliininen syöpäilmoitus) to the Finnish Cancer Registry for the stage (TNM) field; nationally stage is missing for {stage_unknown} of lung cancers.",
+      "Automate the clinical notification from the oncology record (roadmap 3.2.1 targets 90% automated notifications by 2030 and 90% data coverage including stage).",
+      "For breast screening referrals with a missing outcome, send the final diagnosis back to the screening register.",
+      "Send corrected records to the registry and re-run this snapshot before judging treatment rates."
+    ],
+    "target": "{short} back in line with the {comparator_name} rate ({comparator}; now {value}) after record reconciliation; stage recorded for at least 90% of new cases (roadmap 3.2.1)",
+    "timeline": "Chart audit of the latest diagnosis year within 3 months; coding fixes within 6 months; notification automation by 2030",
+    "first_90_days": [
+      "Pull the list of lung cancer patients without a treatment record for the latest diagnosis year",
+      "Reconcile against oncology, surgery, radiotherapy and palliative care records",
+      "Check WZC15/WZC20 coding of MDT meetings",
+      "Report corrected records to the Finnish Cancer Registry"
+    ],
+    "escalation": "If the share without a record stays above the rest-of-Finland rate after reconciliation, treat it as a care gap: start a clinical review of untreated patients (pathway_coordination playbook).",
+    "volume_rule": {
+      "method": "numerator_per_year",
+      "unit": "patient charts to audit",
+      "description": "Adverse cases (patients without a treatment record; for MDT, patients without an MDT code; for breast, referrals with a missing outcome) divided by the years pooled (5 for 2019–2023). Uses the lung no-record count when the county publishes it."
+    },
     "evidence": [
       {
+        "label": "Finnish Cancer Registry, lung cancer quality report 2019–2023 (MDT recording and missing stage)",
         "path": "data/raw/quality/lung_2019_2023.html",
+        "quote": "vain suoriin potilaskontakteihin liittyvät tiedot viedään HILMO:on",
         "url": "https://cancerregistry.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html"
       },
       {
+        "label": "National cancer strategy implementation roadmap 2026–2031, action 3.2.1 (90% coverage incl. stage; automated clinical notifications)",
         "path": "Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf",
         "action": "3.2.1",
-        "pdf_page": 60
+        "pdf_page": 60,
+        "quote": "tavoitteena 90 % tapauksista automatisoidusti",
+        "url": "https://files.hackjunction.app/resources/Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf#page=60"
+      },
+      {
+        "label": "Finnish Cancer Registry, clinical notification statistics by wellbeing services county",
+        "path": "data/raw/evidence/clinical_notifications.html",
+        "quote": "hyvinvointialueittain ja yhteistyöalueittain",
+        "url": "https://cancerregistry.fi/tilastot/kliinisten-ilmoitusten-tilasto/"
       }
     ],
+    "strategy_actions": [
+      "3.2.1",
+      "3.2.2"
+    ],
     "goal": "Goal 3.2.1 and 3.2.2",
-    "evidence_status": "Policy/guidance-supported proposal; local benefit unestimated; requires clinical validation"
+    "evidence_status": "Policy/guidance-supported proposal; local benefit unestimated; requires clinical validation",
+    "primary_indicator": "lung_noinfo"
   },
   {
     "id": "pathway_coordination",
-    "trigger": "Clinically verified referral or treatment delays, measured with agreed timestamp definitions",
-    "proposal": "Pilot a pathway coordinator and standardised milestones; review unresolved referrals with clinical teams and collect aggregate timestamp quality and interval measures",
-    "owner": "Primary and specialist care pathway leads",
-    "measure": [
-      "timestamp completeness",
-      "median and p90 interval",
-      "eligible patients within cancer-specific target"
+    "title": "Coordinate a fast-track lung cancer pathway",
+    "pathway_stage": "treatment",
+    "triggers": [
+      "lung_curative",
+      "lung_cur_ratio"
     ],
+    "trigger_verdicts": {
+      "lung_curative": [
+        "act"
+      ],
+      "lung_cur_ratio": [
+        "act"
+      ]
+    },
+    "trigger": "Curative lung treatment share clearly below the rest of Finland while treatment records are at least as complete as elsewhere",
+    "proposal": "Pilot a pathway coordinator and standardised milestones from suspicion to treatment; review untreated patients with clinical teams and collect aggregate timestamp quality and interval measures",
+    "owner": "Primary and specialist care pathway leads (pulmonology, thoracic surgery, oncology)",
+    "measure": [
+      "share of patients reaching curative treatment",
+      "timestamp completeness",
+      "median and p90 interval from referral to treatment",
+      "eligible patients within the cancer-specific target"
+    ],
+    "concrete_steps": [
+      "Agree standardised referral criteria for suspected lung cancer with primary care and a direct GP route to chest CT without a separate specialist visit first (roadmap 2.5.2: standardised referral criteria and direct investigation routes); the clinical red-flag criteria are set by the county pulmonology lead.",
+      "Name a lung cancer pathway coordinator who tracks every suspected case from referral to treatment decision and books CT, bronchoscopy or biopsy, and MDT slots.",
+      "Discuss every new lung cancer at a weekly MDT before any non-curative decision, and code the meeting (WZC15) so it is visible in HILMO.",
+      "Collect four timestamps for each patient (referral received, first specialist contact, diagnosis, treatment start) and report the median and 90th-percentile intervals monthly; Swedish SVF milestones are an external model, not a Finnish target.",
+      "Review the county's patients who received symptomatic care only within 12 months for missed curative opportunities (stage, performance status, time to diagnosis)."
+    ],
+    "target": "Curative-treatment share at or above the {comparator_name} rate ({comparator}; now {value}); about {gap_per_year} more patients a year reaching curative treatment",
+    "timeline": "Coordinator and referral criteria within 6 months; timestamps from month 3; curative share re-measured on the next registry quality report",
+    "first_90_days": [
+      "Appoint the pathway coordinator and agree the referral criteria with primary care",
+      "Open a direct GP-to-chest-CT route for patients who meet the criteria",
+      "Start recording the four pathway timestamps for every new suspected case",
+      "Review symptomatic-care-only patients from the latest diagnosis year"
+    ],
+    "escalation": "If the curative share does not move within 12 months, take the case review to the regional cancer centre and the collaboration-area (YTA) thoracic oncology group (roadmap 3.2.3).",
+    "volume_rule": {
+      "method": "gap_to_comparator_per_year",
+      "unit": "patients a year short of the rest-of-Finland curative rate",
+      "description": "(comparator − county share) × patients, divided by the years pooled (5)."
+    },
     "evidence": [
       {
+        "label": "National cancer strategy implementation roadmap 2026–2031, action 2.5.2 (standardised referral criteria, direct investigation routes)",
         "path": "Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf",
-        "action": "3.1.2",
-        "pdf_page": 57
+        "action": "2.5.2",
+        "pdf_page": 52,
+        "quote": "suorat tutkimusreitit",
+        "url": "https://files.hackjunction.app/resources/Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf#page=52"
       },
       {
+        "label": "National cancer strategy implementation roadmap 2026–2031, action 3.1.2 (cancer-specific pathways and target times)",
+        "path": "Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf",
+        "action": "3.1.2",
+        "pdf_page": 57,
+        "quote": "Potilaat pääsevät hoitoon tavoiteaikojen puitteissa",
+        "url": "https://files.hackjunction.app/resources/Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf#page=57"
+      },
+      {
+        "label": "Finnish Cancer Registry, lung cancer quality report 2019–2023 (only about a quarter reach curative treatment)",
+        "path": "data/raw/quality/lung_2019_2023.html",
+        "quote": "vain noin neljännes potilaista ohjautui parantavaan hoitoon",
+        "url": "https://cancerregistry.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html"
+      },
+      {
+        "label": "Hanna et al. 2020, BMJ: mortality due to cancer treatment delay (systematic review and meta-analysis)",
+        "path": "data/raw/evidence/delay_meta_analysis.html",
+        "quote": "Even a four week delay of cancer treatment is associated with increased mortality",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7610021/"
+      },
+      {
+        "label": "Regional cancer centres in Sweden, standardised care pathway (SVF) example",
         "path": "data/raw/evidence/sweden_svf_colorectal.html",
         "url": "https://kunskapsbanken.cancercentrum.se/diagnoser/tjock-och-andtarmscancer/vardforlopp/"
       }
     ],
+    "strategy_actions": [
+      "2.5.2",
+      "3.1.2",
+      "3.1.4"
+    ],
     "goal": "Goal 3.1.2; Swedish guidance is an external model, not a Finnish target",
-    "evidence_status": "Policy/guidance-supported proposal; local benefit unestimated; requires clinical validation"
+    "evidence_status": "Policy/guidance-supported proposal; local benefit unestimated; requires clinical validation",
+    "primary_indicator": "lung_curative"
+  },
+  {
+    "id": "outcome_peer_review",
+    "title": "Peer review of a survival or mortality gap",
+    "pathway_stage": "outcome",
+    "triggers": [
+      "surv_lung_male",
+      "surv_lung_female",
+      "surv_breast_female",
+      "surv_colorectal_both",
+      "surv_prostate_male",
+      "mort_lung_male",
+      "mort_lung_female",
+      "mort_breast_female",
+      "mort_colorectal_both",
+      "mort_prostate_male"
+    ],
+    "trigger": "Survival below or mortality above the national comparator, outside the county interval",
+    "proposal": "Run a structured peer review with a comparable county that has better outcomes: compare stage at diagnosis, diagnostic route and treatment mix, agree one pathway change, and re-measure annually",
+    "owner": "County cancer centre lead with the collaboration-area (YTA) quality group",
+    "measure": [
+      "stage distribution at diagnosis",
+      "share diagnosed via emergency route",
+      "5-year relative survival trend"
+    ],
+    "concrete_steps": [
+      "Pick a peer county with a similar population profile and a better outcome for the same cancer (the snapshot lists demographic peers) and exchange aggregate pathway data.",
+      "Compare stage at diagnosis, the share with histological confirmation, the diagnostic route and the treatment mix for the cancer with the gap.",
+      "Check whether the gap is explained by incidence or risk factors (mortality reflects incidence as well as care) before attributing it to the pathway.",
+      "Agree one concrete pathway change with a named owner and record it with the YTA quality group.",
+      "Re-measure every year; national peer reviews are held once a year (roadmap 3.2.2), and persistent gaps go to the response mechanism in roadmap 3.2.3."
+    ],
+    "target": "{short} moving toward the {comparator_name} value ({comparator}; now {value}) in the next annual Cancer in Finland release; one agreed pathway change implemented within 12 months",
+    "timeline": "Peer review within 6 months; annual re-measurement",
+    "first_90_days": [
+      "Choose the peer county and agree a data-exchange template",
+      "Pull stage, diagnostic route and treatment mix for the cancer with the gap",
+      "Schedule the joint review with both counties' clinical leads"
+    ],
+    "escalation": "If the gap persists for two consecutive annual releases, report it to the regional cancer centre under roadmap action 3.2.3 (response to peer-review findings).",
+    "volume_rule": {
+      "method": "cases_per_year",
+      "unit": "new diagnoses a year in scope",
+      "description": "Incident cases 2020–2024 divided by 5."
+    },
+    "evidence": [
+      {
+        "label": "National cancer strategy implementation roadmap 2026–2031, action 3.2.2 (national peer development, annual reviews)",
+        "path": "Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf",
+        "action": "3.2.2",
+        "pdf_page": 60,
+        "quote": "vertaisarvioinnit toteutetaan kerran vuodessa",
+        "url": "https://files.hackjunction.app/resources/Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf#page=60"
+      },
+      {
+        "label": "National cancer strategy implementation roadmap 2026–2031, action 3.2.3 (responding to peer-review findings)",
+        "path": "Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf",
+        "action": "3.2.3",
+        "pdf_page": 61,
+        "quote": "joilla vertaisarvioinnin tuloksiin ja mahdollisiin",
+        "url": "https://files.hackjunction.app/resources/Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf#page=61"
+      },
+      {
+        "label": "Finnish Cancer Registry, Cancer in Finland 2024: regional survival and mortality tables",
+        "path": "data/raw/cancer/cancer_in_finland_2024.html",
+        "url": "https://cancerregistry.fi/assets/themes/ssy3/factsheets/cancer_in_finland_2024.html"
+      }
+    ],
+    "strategy_actions": [
+      "3.2.2",
+      "3.2.3",
+      "3.1.4"
+    ],
+    "goal": "Goal 3.2.2 peer development and 3.2.3 response mechanisms",
+    "evidence_status": "Strategy-supported process; causal drivers unverified; requires clinical review"
   }
 ]

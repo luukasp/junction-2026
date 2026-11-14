@@ -29,6 +29,6 @@ services:
     depends_on:
       db:
         condition: service_healthy
-    command: ["sh", "-c", "backend init-db && uvicorn app.main:app --host 0.0.0.0 --port 8000"]
+    command: ["sh", "-c", "backend init-db && backend ingest && uvicorn app.main:app --host 0.0.0.0 --port 8000"]
 volumes:
   mariadb_data:

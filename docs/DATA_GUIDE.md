@@ -37,8 +37,9 @@ The supplied implementation roadmap is the controlling challenge reference. Thes
 - `data/catalog/tables.json`: table identifier, source document, heading path, original header rows, caption, footer, row count and CSV path. Screening pages often have no individual table anchor: use the heading path, year and table ID to locate a table.
 - `data/catalog/provided_files.json`: hashes of the supplied PDFs and brief.
 - `data/catalog/processing_summary.json`: current counts.
-- `data/catalog/validation.json`: checks and access failures.
-- `data/processed/evidence_chunks.jsonl`: retrieval-ready text chunks, source paths/URLs and PDF page numbers for an AI analyst; overlapping chunks are contextual evidence, not extra observations.
+- `data/catalog/validation.json`: checks and access failures, split into `source_integrity` (hashes, PDF signatures, CSV shapes, StatFin flattening) and `analytical` (interval ordering, numerators within denominators, county sums equal national totals, published percentages reproduce from counts, snapshot completeness and comparator arithmetic).
+- `data/processed/pathway_snapshot.json`: generated county pathway verdicts, headlines and cited action plans (see below). Do not edit by hand.
+- `data/processed/evidence_chunks.jsonl`: retrieval-ready text chunks, source paths/URLs and PDF page numbers for an AI analyst; overlapping chunks are contextual evidence, not extra observations. The challenge PDFs carry their public `files.hackjunction.app` URLs; only `challenge.md` has no URL, and it is never cited.
 - `data/raw/`: original downloaded HTML/JSON/PDF and extracted text. HTML includes original embedded charts; no chart images have been converted into guessed numbers.
 - `data/catalog/statfin_*_query.json`: reproducible StatFin selections. Metadata JSON preserves source units, notes, classification and update details.
 - Myeloma tables are extracted directly from embedded R DT JSON, including rows hidden by initial filtering/pagination. Plotly traces remain available in raw HTML; they are not treated as extra independent observations.
@@ -62,14 +63,43 @@ In long screening files, `value_raw` retains the source cell, while `value` is n
 
 ## Evidence for concrete recommendations
 
-See `data/catalog/recommendations.json` for source-linked proposal templates. These are implementation proposals supported by policy/guidance; their effects have not been estimated from Finnish county aggregates.
+`data/catalog/recommendations.json` is the single source of truth for the six action playbooks: `screening_reminders` (detection), `positive_fit_followup` and `colposcopy_followup` (referral), `stage_mdt_completeness` (diagnosis and records), `pathway_coordination` (fast-track lung pathway; treatment) and `outcome_peer_review` (outcome). Each entry has the original fields (`trigger`, `proposal`, `owner`, `measure`, `evidence`, `goal`, `evidence_status`) plus `title`, `pathway_stage`, `triggers` (indicator ids, optionally `trigger_verdicts`), 3–6 `concrete_steps`, a measurable `target`, `timeline`, `first_90_days`, `escalation` and a `volume_rule`. `target` and steps are templates; the snapshot builder fills in the county value, comparator and the national stage-unknown figure.
 
-- For poor participation: audit invitation delivery, provide language-appropriate materials, and implement the colorectal manual's reminder process. Owner: county screening lead; measure invitation delivery, participation and equity gaps. The 2026 colorectal manual §10.5 describes a reminder after six weeks.
-- For gaps after a positive FIT: audit contact with the screening nurse and the complete diagnostic follow-up route, including legitimate alternatives and exclusions. Owner: screening/endoscopy leads; measure completed follow-up and missing records separately. The observed completion percentage alone does not establish a capacity shortage or inappropriate care.
-- For inconsistent stage/MDT recording: jointly review clinical workflows and coding, standardise stage and MDT documentation, and monitor missingness. Owner: county oncology lead and registry/data team; measure stage coverage and validation against clinical activity.
-- For pathway delays: pilot a coordinator and standardised referral milestones with prospective aggregate reporting. Owner: primary/specialist pathway leads. Report timestamp completeness first, then median/p90 days and eligible patients within a clinically agreed target. This requires additional data.
+Every playbook cites at least one public URL. Where a citation has a `quote`, the builder checks that the phrase occurs in the archived text of the source (on the cited PDF page) and records the result as `verified`. Examples of the cited operational rules: reminder after six weeks (colorectal manual §10.5, breast manual §6.4) or 4–8 weeks (cervical manual §8.3); the screening nurse phones FIT positives who have not made contact within about two weeks (colorectal §11.2.1); colposcopy urgency (HSIL within one month) and unit reporting duties (cervical manual table p. 27, §12.5); 90% automated clinical notifications by 2030 and 90% registry coverage including stage (roadmap 3.2.1); standardised referral criteria and direct investigation routes (roadmap 2.5.2); annual national peer reviews (roadmap 3.2.2).
 
-The treatment-delay meta-analysis is relevant background on the association between delay and mortality. It does not justify applying one hazard ratio to every cancer, treatment or Finnish county, or presenting a simulated mortality reduction as observed evidence.
+These are implementation proposals supported by policy or guidance. Their effects have not been estimated from Finnish county aggregates. Annual volumes describe workload (charts to audit, people to remind), not expected health benefit. The treatment-delay meta-analysis is background on the association between delay and mortality. It does not justify applying one hazard ratio to every cancer, treatment or Finnish county, or presenting a simulated mortality reduction as observed evidence.
+
+## Pathway snapshot and evidence checks
+
+`scripts/build_pathway_snapshot.py` builds `data/processed/pathway_snapshot.json` from the curated CSVs; the logic is in `scripts/pathway_engine.py`. The backend serves the file unchanged and the frontend bundles a copy (`npm run snapshot`). Schema: `built`, `national_headline`, `stages`, `indicators` (with `is_proxy`), `national`, `verdicts`, and `counties` (23 areas: `headline`, `stage_verdicts`, `values` with comparator and verdict, cited `actions`). Extra fields: per-value `checks`, `reason`, `comparator_kind`; per-county `peers`; top-level `method`, `stage_unknown`, `playbooks`, `data_gaps`, `limitations`, `validation` and `analytical_checks`.
+
+**Pathway stages.** Detection (screening attendance), follow-up (breast referral outcome recorded), referral, diagnosis and records (lung no-treatment record, MDT code), treatment (lung curative, life-prolonging and symptomatic care) and outcome (age-standardised five-year relative survival and mortality, 2020–2024). Incidence and population data are context only.
+
+**Referral proxies.** There is no public county series for primary-to-specialist referral or its delay. The referral stage therefore uses three proxies, flagged `is_proxy: true`: colonoscopy after a positive FIT, colposcopy after a screening referral (both: did a screen-positive person reach specialist diagnostics?), and the ratio of lung patients with recorded curative treatment to those with recorded symptomatic care (a low ratio suggests patients reach specialist care late, or lack treatment access). None measures time.
+
+**Comparator.** Wherever counts are published, the comparator is leave-one-out ("rest of Finland"): (national n − county n) / (national d − county d), so a large county is not compared with itself. The national row for screening is the published total (county sums equal it; checked). Lung comparators pool the published counties; the MDT comparator covers only the 18 counties with a published MDT row. Survival and mortality are age-standardised rates without published counts, so they are compared with the published national value, which includes the county.
+
+**Signal.** A difference is flagged when the comparator lies outside the county 95% interval (Wilson for proportions, published intervals for rates, log-scale Katz interval for the lung ratio; the ratio interval ignores the overlap between categories). This is an exploratory rule, not a formal test: comparator uncertainty and multiple comparisons (22 indicators × 23 areas) are not modelled.
+
+**Checks per value.** Precision (interval half-width), comparator outside interval, persistence across annual releases (screening only), recording completeness, case-mix adjustment, corroboration by related indicators, and plausibility. The lung case-mix check states the stage-unknown share read from Table 4 of the lung quality report (`data/raw/quality/lung_2019_2023.txt`: 7,097 of 14,873, 47.7%), not a hard-coded value.
+
+**Verdicts.**
+
+| Verdict | Label | Rule |
+|---|---|---|
+| `act` | Act | Adverse, outside the interval, at least 2 percentage points from the comparator (for % indicators), no quality check failed and at most one warning (two if the gap persisted in at least three annual releases). |
+| `verify` | Verify data | Adverse and outside the interval, but a recording indicator (lung no-record, MDT, missing breast outcome), a failed or repeated quality check, or an implausibly large gap (> 25 pp, or outside ½–2× for rates) points to the records first. |
+| `monitor` | Monitor | Adverse but the comparator is inside the interval; statistically clear but under 2 pp; or a clear difference where higher is not inherently better (life-prolonging and symptomatic care). |
+| `ok` | In line | Comparator inside the interval, or better than the comparator. Not proof of equivalence. |
+| `nodata` | No data | Not published for this area. |
+
+The stage verdict is the most severe value verdict in that stage. Thresholds are judgement calls documented in `pathway_engine.py`; they are not calibrated probabilities.
+
+**Lung treatment rule.** Lung treatment indicators are no longer automatically down-graded for missing case-mix adjustment. A significantly low curative share (or curative-to-symptomatic ratio) is `verify` when the county share of patients without any treatment record is above its rest-of-Finland comparator, because missing records could explain the gap. When the no-record share is at or below the comparator, it is `act`: a likely treatment-access or late-detection gap. Stage, age and comorbidity remain unadjusted.
+
+**Headlines and actions.** Each county gets one sentence naming the earliest pathway stage with an `act` signal and its likely meaning (for example, low curative lung treatment together with poor lung survival → likely treatment-access or late-detection gap). The national headline is computed from the lung no-record counts. A playbook is attached when one of its trigger indicators is `act` or `verify` (the fast-track lung playbook only on `act`; the records playbook on lung `verify`). Actions carry a computed baseline, filled target, annual volume (for example 619 Southwest Finland lung patients without a treatment record over five years ≈ 124 charts a year), citations with URLs and retrieved excerpts with URLs. Outcome peer reviews suggest the nearest demographic peer (Statistics Finland 11ra: age 65+, rural share, density, foreign- and Swedish-language shares) with a better value.
+
+**Limitations specific to the snapshot.** Verdicts are triage signals for local review, not proof of cause or care quality. Missing treatment records do not prove absence of treatment. Lung categories overlap. Pooled 2019–2023 lung data cannot show trends. Åland is absent from lung and outcome tables. Some screening values are clearly register artefacts (for example, Southwest Finland colposcopy 2024: 4 of 190); the plausibility check routes these to `verify`. Comparing a county with the national value for survival and mortality slightly understates large-county differences.
 
 ## Gaps to resolve with mentors
 
@@ -94,7 +124,11 @@ python scripts/process_data.py
 python scripts/build_demo_data.py
 python scripts/build_evidence_index.py
 python scripts/validate_data.py
+python scripts/build_pathway_snapshot.py   # or: make data (also copies the snapshot into the frontend)
+python scripts/smoke_pathway.py            # or: make check-data
 ```
+
+`build_pathway_snapshot.py` reruns source-integrity and analytical validation before writing the snapshot and rewrites `data/catalog/validation.json`; it needs only the Python standard library. It fails if validation fails.
 
 Successful downloads are cached. Failed requests are retried on a subsequent collection run. `--refresh` downloads sources again and replaces their snapshots; changing a POST query also invalidates its cache. Source-table IDs are positional within a report, so preserve the catalog/snapshot with any published analysis.
 

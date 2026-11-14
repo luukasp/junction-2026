@@ -1,5 +1,5 @@
 import type { AIResponse, Evidence } from '../../lib/api'
-import { labels, number, numeric, percentage, sourceId, visualEvidence } from './visualData'
+import { labels, number, numeric, percentage, sourceId, strataChips, visualEvidence } from './visualData'
 
 function EvidenceLink({ evidence, sourcePrefix }: { evidence: Evidence; sourcePrefix: string }) {
   return <a href={`#${sourceId(sourcePrefix, evidence.id)}`} className="text-xs text-muted underline decoration-line underline-offset-4 hover:text-accent" onClick={event => {
@@ -24,7 +24,7 @@ function ScreeningMeasures({ evidence, sourcePrefix }: { evidence: Evidence[]; s
         <p className="mb-1 text-xs capitalize text-muted">{String(item.row.program)} screening · {String(item.row.year)}</p>
         <div className="mb-2 flex items-start justify-between gap-4"><span className="text-xs leading-relaxed text-secondary">{String(item.row.metric).replace(/\s*\|\s*%$/, '')}</span><span className="shrink-0 font-mono text-sm tabular-nums text-ink">{number(item.row.value as number)}%</span></div>
         <div role="img" aria-label={`${String(item.row.program)}: ${String(item.row.metric)}, ${number(item.row.value as number)} percent`} className="h-3 overflow-hidden rounded-sm bg-line"><div className="h-full bg-accent/80" style={{ width: `${item.row.value}%` }} /></div>
-        {item.row.strata && Object.keys(item.row.strata as object).length > 0 ? <p className="mt-2 text-xs text-muted">Stratum · {JSON.stringify(item.row.strata)}</p> : null}
+        {strataChips(item.row.strata).length > 0 && <ul aria-label="Group" className="mt-2 flex flex-wrap gap-1">{strataChips(item.row.strata).map(chip => <li key={chip} className="rounded-md border border-line px-2 py-0.5 text-xs text-muted">{chip}</li>)}</ul>}
         <div className="mt-2"><EvidenceLink evidence={item} sourcePrefix={sourcePrefix} /></div>
       </div>)}
     </div>
@@ -70,7 +70,7 @@ export function EvidenceVisuals({ response, sourcePrefix }: { response: AIRespon
         <div className="h-full bg-secondary/25" style={{ width: `${100 - width}%` }} />
       </div>
       <div className="mt-3 grid grid-cols-2 gap-4 text-xs">
-        <p className="text-secondary"><span className="mb-1 block font-mono tabular-nums text-ink">{number(missing)}</span><span className="mr-2 inline-block size-2 rounded-sm bg-accent" />No record</p>
+        <p className="text-secondary"><span className="mb-1 block font-mono tabular-nums text-ink">{number(missing)}</span><span className="mr-2 inline-block size-2 rounded-sm bg-accent" />No treatment record</p>
         <p className="text-secondary"><span className="mb-1 block font-mono tabular-nums text-ink">{number(recorded)}</span><span className="mr-2 inline-block size-2 rounded-sm bg-secondary/40" />With a record</p>
       </div>
       <p className="mt-4 text-xs leading-relaxed text-muted">A missing record does not mean treatment was not provided.</p>
@@ -101,7 +101,7 @@ export function CompletenessChart({ response }: { response: AIResponse }) {
   return <figure className="mt-4 grid gap-3" aria-label="Missing numeric values by dataset">
     <figcaption className="text-xs text-secondary">Missing numeric values in county data</figcaption>
     {response.quality.coverage.map(item => <div key={item.dataset}>
-      <div className="mb-1 flex justify-between gap-3 text-xs text-muted"><span>{item.dataset}</span><span className="font-mono tabular-nums">{item.numeric_cells ? `${number(100 * item.missing_values / item.numeric_cells)}% missing` : 'No data'}</span></div>
+      <div className="mb-1 flex justify-between gap-3 text-xs text-muted"><span className="capitalize">{item.dataset}</span><span className="font-mono tabular-nums">{item.numeric_cells ? `${number(100 * item.missing_values / item.numeric_cells)}% missing` : 'No data'}</span></div>
       {item.numeric_cells > 0 && <div className="h-2 overflow-hidden rounded-sm bg-line"><div className="h-full bg-secondary" style={{ width: `${Math.min(100, Math.max(0, 100 * item.missing_values / item.numeric_cells))}%` }} /></div>}
     </div>)}
   </figure>

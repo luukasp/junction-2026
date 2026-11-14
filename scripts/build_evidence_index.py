@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Create retrieval-ready text chunks with document and page provenance."""
-import hashlib, json, pathlib
+import hashlib, json, pathlib, re, unicodedata
+from urllib.parse import unquote
 from process_data import ROOT, RAW, CAT, OUT
 
 def run():
@@ -10,9 +11,11 @@ def run():
         text=p.with_suffix('.txt')
         if r['status']=='downloaded' and text.exists():
             docs.append((key,text,r['path'],r['source_url'],p.suffix=='.pdf'))
+    # Challenge-provided PDFs are published at the URLs listed in challenge.md.
+    provided_urls={unicodedata.normalize('NFC',unquote(u.rsplit('/',1)[-1])):u for u in re.findall(r'https://files\.hackjunction\.app/resources/\S+?\.pdf',(ROOT/'challenge.md').read_text())}
     for p in ROOT.glob('*.pdf'):
         text=RAW/'provided'/f'{p.stem}.txt'
-        if text.exists():docs.append((p.name,text,p.name,None,True))
+        if text.exists():docs.append((p.name,text,p.name,provided_urls.get(unicodedata.normalize('NFC',p.name)),True))
     docs.append(('challenge.md',ROOT/'challenge.md','challenge.md',None,False))
     chunks=[]
     for key,path,original,url,is_pdf in docs:
