@@ -6,18 +6,17 @@ from fastapi.responses import JSONResponse
 from sqlalchemy import Connection, select, text
 from sqlalchemy.exc import SQLAlchemyError
 
+from app.ai_routes import router as ai_router
 from app.config import get_settings
 from app.counties import router as counties_router
 from app.db import get_connection
-from app.models import DATASETS, ingestion_state
-from app.queries import paginate
-from app.schemas import Page
+from app.models import DATASETS, ingestion_state, review_proposals
 
 app = FastAPI(title="Equal Care API", version="0.1.0")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=get_settings().cors_origins,
-    allow_methods=["GET"],
+    allow_methods=["GET", "POST"],
     allow_headers=["*"],
 )
 ConnectionDep = Annotated[Connection, Depends(get_connection)]
@@ -43,7 +42,7 @@ def health():
 def ready(conn: ConnectionDep):
     try:
         conn.execute(text("SELECT 1"))
-        for table in DATASETS.values():
+        for table in [*DATASETS.values(), review_proposals]:
             conn.execute(select(table).limit(0))
         state = conn.execute(select(ingestion_state.c.imported_at)).scalar_one_or_none()
     except SQLAlchemyError as exc:
@@ -96,4 +95,19 @@ def list_data(
             if key not in table.c:
                 raise HTTPException(422, f"Filter '{key}' is not supported for {dataset}")
             clauses.append(table.c[key] == value)
-    return paginate(conn, table, clauses, limit, offset)
+    total = conn.scalar(select(func.count()).select_from(table).where(*clauses))
+    rows = (
+        conn.execute(
+            select(table)
+            .where(*clauses)
+            .order_by(*table.primary_key.columns)
+            .limit(limit)
+            .offset(offset)
+        )
+        .mappings()
+        .all()
+    )
+    return Page(items=[dict(row) for row in rows], total=total, limit=limit, offset=offset)
+
+
+app.include_router(ai_router)

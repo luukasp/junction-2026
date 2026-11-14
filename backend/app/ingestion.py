@@ -264,9 +264,12 @@ def ingest(engine, root: Path, *, force=False):
                     return {"status": "unchanged", "row_counts": previous["row_counts"]}
                 rows = prepare(snapshot)
                 # DML only: MariaDB DDL/TRUNCATE would implicitly commit and break rollback.
-                for table in reversed(m.metadata.sorted_tables):
+                data_tables = [
+                    t for t in m.metadata.sorted_tables if t.name in rows or t is m.ingestion_state
+                ]
+                for table in reversed(data_tables):
                     conn.execute(delete(table))
-                for table in m.metadata.sorted_tables:
+                for table in data_tables:
                     if table is m.ingestion_state:
                         continue
                     values = rows[table.name]

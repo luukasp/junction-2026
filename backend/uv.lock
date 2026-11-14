@@ -233,6 +233,7 @@ version = "0.1.0"
 source = { editable = "." }
 dependencies = [
     { name = "fastapi" },
+    { name = "httpx" },
     { name = "pydantic-settings" },
     { name = "pymysql", extra = ["rsa"] },
     { name = "sqlalchemy" },
@@ -249,6 +250,7 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "fastapi", specifier = ">=0.115,<1" },
+    { name = "httpx", specifier = ">=0.27,<1" },
     { name = "httpx", marker = "extra == 'dev'", specifier = ">=0.27,<1" },
     { name = "pydantic-settings", specifier = ">=2.6,<3" },
     { name = "pymysql", extras = ["rsa"], specifier = ">=1.1,<2" },

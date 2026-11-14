@@ -174,3 +174,21 @@ CREATE TABLE source_rows (
 )ENGINE=InnoDB CHARSET=utf8mb4 COLLATE utf8mb4_bin
 
 ;
+
+
+
+CREATE TABLE review_proposals (
+	id INTEGER NOT NULL AUTO_INCREMENT,
+	area_code VARCHAR(10) NOT NULL,
+	created_at DATETIME NOT NULL,
+	provider VARCHAR(40) NOT NULL,
+	model VARCHAR(150) NOT NULL,
+	fingerprint VARCHAR(64) NOT NULL,
+	answer JSON NOT NULL,
+	evidence JSON NOT NULL,
+	quality JSON NOT NULL,
+	CONSTRAINT pk_review_proposals PRIMARY KEY (id)
+)ENGINE=InnoDB CHARSET=utf8mb4 COLLATE utf8mb4_bin
+
+;
+CREATE INDEX ix_review_proposals_area_code ON review_proposals (area_code);
