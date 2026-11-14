@@ -16,6 +16,37 @@ beforeEach(() => {
 afterEach(() => { cleanup(); vi.unstubAllGlobals(); vi.restoreAllMocks() })
 
 describe('Equal Care Finland', () => {
+  it('closes and reopens navigation with keyboard focus and the current dashboard preserved', async () => {
+    vi.stubGlobal('fetch', vi.fn(async (url: string) => {
+      if (url.endsWith('/dashboard')) return json({ ...lung, data_loaded: true })
+      if (url.endsWith('/pathway')) return json(fixture)
+      return { ok: false } as Response
+    }))
+    render(<App />)
+    await screen.findByText(fixture.national_headline)
+
+    for (const dashboard of ['Analytics', 'National Overview', 'County Review']) {
+      const navigation = screen.getByRole('navigation', { name: 'Dashboard navigation' })
+      fireEvent.click(within(navigation).getByRole('button', { name: dashboard }))
+      fireEvent.click(within(navigation).getByRole('button', { name: 'Close navigation panel' }))
+
+      expect(screen.queryByRole('navigation', { name: 'Dashboard navigation' })).toBeNull()
+      expect(screen.queryByRole('radio', { name: 'System' })).toBeNull()
+      expect(screen.getByRole('heading', { name: dashboard })).toBeDefined()
+      const reopen = screen.getByRole('button', { name: 'Open navigation panel' })
+      expect(reopen.getAttribute('aria-expanded')).toBe('false')
+      expect(document.activeElement).toBe(reopen)
+
+      fireEvent.click(reopen)
+      const restored = screen.getByRole('navigation', { name: 'Dashboard navigation' })
+      expect(within(restored).getByRole('button', { name: dashboard }).getAttribute('aria-current')).toBe('page')
+      expect(screen.getByRole('heading', { name: dashboard })).toBeDefined()
+      expect(within(restored).getByRole('group', { name: 'Appearance' })).toBeDefined()
+      expect(document.activeElement).toBe(within(restored).getByRole('button', { name: 'Close navigation panel' }))
+      expect(screen.queryByRole('button', { name: 'Open navigation panel' })).toBeNull()
+    }
+  })
+
   it('falls back to the bundled snapshot when the backend is down and exports an action plan', async () => {
     vi.stubGlobal('fetch', vi.fn().mockRejectedValue(new TypeError('Failed to fetch')))
     render(<App />)
@@ -87,7 +118,10 @@ describe('Equal Care Finland', () => {
 
     expect(screen.getByRole('heading', { name: 'County Review' })).toBeDefined()
     expect(within(navigation).getByRole('button', { name: 'County Review' }).getAttribute('aria-current')).toBe('page')
-    expect(screen.queryByRole('complementary')).toBeNull()
+    expect(screen.queryByRole('complementary', { name: 'Executive briefing' })).toBeNull()
+    const tools = screen.getByRole('complementary', { name: 'Review tools and county questions' })
+    expect(within(tools).getByRole('heading', { name: 'Review tools and county questions' })).toBeDefined()
+    expect(screen.queryByRole('button', { name: 'Review tools and county questions' })).toBeNull()
     expect(screen.queryByRole('table')).toBeNull()
     const selector = screen.getByRole('combobox', { name: 'County' }) as HTMLSelectElement
     expect(selector.value).toBe('HVA05')
@@ -95,14 +129,16 @@ describe('Equal Care Finland', () => {
     expect(action.getAttribute('aria-expanded')).toBe('false')
     expect(within(action).getByText('Act')).toBeDefined()
     fireEvent.click(action)
-    fireEvent.click(screen.getByRole('button', { name: 'Review tools and county questions' }))
-    expect(await screen.findByRole('button', { name: 'Generate review' })).toBeDefined()
+    expect(await within(tools).findByRole('button', { name: 'Generate review' })).toBeDefined()
+    fireEvent.change(within(tools).getByRole('textbox', { name: 'Your question' }), { target: { value: 'Check our current county' } })
 
     fireEvent.change(selector, { target: { value: 'HVA10' } })
     expect(screen.getByRole('heading', { name: 'Kymenlaakso' })).toBeDefined()
     expect(screen.getByText(/No action is triggered for this county/)).toBeDefined()
     expect(screen.queryByRole('button', { name: /Close lung treatment-record gaps/ })).toBeNull()
-    expect(screen.getByRole('button', { name: 'Review tools and county questions' }).getAttribute('aria-expanded')).toBe('false')
+    const nextTools = screen.getByRole('complementary', { name: 'Review tools and county questions' })
+    expect(await within(nextTools).findByRole('button', { name: 'Generate review' })).toBeDefined()
+    expect((within(nextTools).getByRole('textbox', { name: 'Your question' }) as HTMLTextAreaElement).value).toBe('')
 
     fireEvent.change(selector, { target: { value: 'HVA05' } })
     expect(screen.getByRole('button', { name: /Close lung treatment-record gaps/ }).getAttribute('aria-expanded')).toBe('false')
@@ -131,7 +167,6 @@ describe('Equal Care Finland', () => {
     expect(signal.open).toBe(true)
     expect(within(signal).getByText(/Rest of Finland:/)).toBeDefined()
     expect(within(signal).getByRole('link', { name: 'Source report' }).getAttribute('href')).toBe('https://example.org/lung')
-    fireEvent.click(screen.getByRole('button', { name: 'Review tools and county questions' }))
     expect(screen.getByText(/AI review and chat need the backend/)).toBeDefined()
   })
 
@@ -151,7 +186,7 @@ describe('Equal Care Finland', () => {
     render(<App />)
     await screen.findByText(fixture.national_headline)
     const navigation = screen.getByRole('navigation', { name: 'Dashboard navigation' })
-    expect(within(navigation).getAllByRole('button')[0].textContent).toBe('Analytics')
+    expect(within(within(navigation).getByRole('group', { name: 'Dashboards' })).getAllByRole('button')[0].textContent).toBe('Analytics')
     fireEvent.click(within(navigation).getByRole('button', { name: 'Analytics' }))
     expect(screen.getByRole('heading', { name: 'Analytics' })).toBeDefined()
     expect(within(screen.getByRole('region', { name: 'Overall national status' })).getByText(/1 of 2 counties/)).toBeDefined()

@@ -1,9 +1,19 @@
 <!doctype html>
-<html lang="en" class="dark">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#161819" />
+    <meta name="theme-color" content="#f5f6f4" />
+    <script>
+      // Apply the saved preference before the app and styles load.
+      (() => {
+        let theme = 'system'
+        try { theme = localStorage.getItem('equal-care-theme') || 'system' } catch {}
+        const dark = theme === 'dark' || (theme !== 'light' && window.matchMedia?.('(prefers-color-scheme: dark)').matches)
+        document.documentElement.classList.toggle('dark', Boolean(dark))
+        document.querySelector('meta[name="theme-color"]').content = dark ? '#161819' : '#f5f6f4'
+      })()
+    </script>
     <title>Equal Care Finland</title>
   </head>
   <body>
