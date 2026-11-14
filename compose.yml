@@ -1,5 +1,5 @@
 # Preserve the existing backend stack and database volume after moving this file.
-name: backend
+name: equal-care
 
 services:
   db:
