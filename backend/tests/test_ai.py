@@ -5,7 +5,7 @@ import pytest
 from fastapi.testclient import TestClient
 from sqlalchemy import func, select
 
-from app.ai_routes import generate_proposal
+from app.ai_routes import Answer, generate_proposal
 from app.config import Settings
 from app.db import get_connection
 from app.evidence import county_evidence
@@ -228,3 +228,23 @@ def test_empty_review_is_repaired_before_storage(engine):
         result = generate_proposal(conn, "HVA03", provider, force=True)
     assert provider.calls == 2
     assert result["answer"]["proposals"]
+
+
+def test_visual_references_must_resolve(client):
+    class InvalidVisualProvider(FakeProvider):
+        def generate(self, system, prompt, schema=None):
+            result = super().generate(system, prompt)
+            result["visual_evidence_ids"] = ["invented:123"]
+            return result
+
+    app.dependency_overrides[get_provider] = InvalidVisualProvider
+    response = client.post("/api/v1/counties/HVA90/chat", json={"question": "Show key figures"})
+    assert response.status_code == 502
+
+
+def test_visual_briefing_schema_limits_prose():
+    schema = Answer.model_json_schema()
+    assert schema["properties"]["summary"]["maxLength"] == 350
+    assert schema["properties"]["proposals"]["maxItems"] == 3
+    assert schema["$defs"]["Finding"]["properties"]["bullets"]["maxItems"] == 3
+    assert schema["$defs"]["Finding"]["properties"]["detail"]["maxLength"] == 600

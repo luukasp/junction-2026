@@ -34,7 +34,7 @@ export function ExecutiveBriefingPanel({ regionData, onClose }: Props) {
       inert={!open}
       onKeyDown={(event) => { if (event.key === 'Escape') onClose() }}
       className={twMerge(
-        'fixed inset-y-0 right-0 z-30 h-dvh w-full max-w-md overflow-y-auto border-l border-line bg-panel p-6 transition-transform duration-300 ease-out motion-reduce:transition-none sm:p-8',
+        'fixed inset-y-0 right-0 z-30 h-dvh w-full max-w-xl overflow-y-auto border-l border-line bg-panel p-6 transition-transform duration-300 ease-out motion-reduce:transition-none sm:p-8',
         open ? 'translate-x-0' : 'pointer-events-none translate-x-full',
       )}
     >

@@ -1,7 +1,7 @@
 export type Evidence = { id: string; dataset: string; row: Record<string, unknown> }
-export type Finding = { title: string; detail: string; evidence_ids: string[] }
+export type Finding = { title: string; detail: string; bullets?: string[]; evidence_ids: string[] }
 export type Proposal = Finding & { owner: string; measure: string }
-export type Answer = { summary: string; findings: Finding[]; proposals: Proposal[]; limitations: string[] }
+export type Answer = { summary: string; findings: Finding[]; proposals: Proposal[]; visual_evidence_ids?: string[]; limitations: string[] }
 export type Quality = {
   imported_at: string
   screening_mainland_coverage: boolean

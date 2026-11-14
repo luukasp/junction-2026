@@ -20,21 +20,25 @@ ProviderDep = Annotated[LLMProvider, Depends(get_provider)]
 
 class Finding(BaseModel):
     model_config = ConfigDict(extra="forbid")
-    title: str = Field(min_length=1, max_length=200)
-    detail: str = Field(min_length=1, max_length=3000)
+    title: str = Field(min_length=1, max_length=100)
+    detail: str = Field(min_length=1, max_length=600)
+    bullets: list[Annotated[str, Field(min_length=1, max_length=180)]] = Field(
+        default_factory=list, max_length=3
+    )
     evidence_ids: list[str] = Field(min_length=1, max_length=12)
 
 
 class Proposal(Finding):
-    owner: str = Field(min_length=1, max_length=200)
-    measure: str = Field(min_length=1, max_length=1000)
+    owner: str = Field(min_length=1, max_length=100)
+    measure: str = Field(min_length=1, max_length=180)
 
 
 class Answer(BaseModel):
     model_config = ConfigDict(extra="forbid")
-    summary: str = Field(min_length=1, max_length=4000)
-    findings: list[Finding] = Field(max_length=8)
-    proposals: list[Proposal] = Field(max_length=6)
+    summary: str = Field(min_length=1, max_length=350)
+    findings: list[Finding] = Field(max_length=4)
+    proposals: list[Proposal] = Field(max_length=3)
+    visual_evidence_ids: list[str] = Field(default_factory=list, max_length=12)
     limitations: list[str] = Field(min_length=1, max_length=12)
 
 
@@ -58,10 +62,21 @@ validation, not patient advice or findings of negligence. Owners and measures ar
 Cite evidence IDs for EVERY finding and proposal. No external URLs in generated text.
 The summary must only synthesize cited findings; put unsupported questions in limitations.
 If the county has no evidence, return empty findings/proposals and explain the gap.
-Be concise: at most 4 findings and 3 proposals, each detail at most three sentences.
-Keep the summary to two sentences. Use at most 12 evidence IDs per item.
+Write for a visual executive briefing, never a wall of text.
+Summary: ONE short takeaway, at most 35 words / 350 characters. Do not cram all numbers into it.
+Titles: short, specific labels, at most 10 words / 100 characters.
+Each finding and proposal: 2–3 bullets of at most 20 words / 180 characters each.
+Each bullet makes ONE point: a key figure, its meaning, or the next action. Do not repeat figures.
+Detail: at most 2 short sentences / 600 characters, reserved for expandable context.
+Proposed owner: a short role. Measure: one concrete metric, at most 180 characters.
+Choose visual_evidence_ids for the most relevant chartable rows: treatment share_pct, treatment
+counts, or percentage screening metrics. The UI draws charts from their verified source values.
+Never put made-up chart values, ASCII graphs, Markdown tables, or HTML in prose.
+Use at most 12 evidence IDs per item. Keep limitations short and specific.
 Return a JSON object only with summary (string), findings (array of {title, detail, evidence_ids}),
-proposals (array of {title, detail, evidence_ids, owner, measure}), limitations (array of strings).
+proposals (array of {title, detail, bullets, evidence_ids, owner, measure}),
+visual_evidence_ids (array of existing evidence IDs), limitations (array of strings).
+Findings also include bullets (array of strings).
 For a county review, produce 1–3 actionable proposals if evidence exists. For chat, answer the
 question directly and include proposals only if relevant. Always explain uncertainty.
 """
@@ -85,6 +100,8 @@ def generate_answer(provider, context, question, history=None, *, require_propos
                 for eid in item.evidence_ids
             ):
                 raise ValueError("Unknown citations; use only supplied evidence IDs")
+            if any(eid not in valid_ids for eid in answer.visual_evidence_ids):
+                raise ValueError("Unknown visual references; use only supplied evidence IDs")
             if require_proposals and valid_ids and not answer.proposals:
                 raise ValueError("A county review must include at least one cited review proposal")
             return answer.model_dump()

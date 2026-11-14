@@ -221,6 +221,12 @@ excluded from data reimports. Older evidence snapshots remain auditable even whe
 source row IDs change; changed fingerprints show a stale-review notice in the UI.
 Chat retrieves county data afresh and is retained only while that briefing is open.
 
+Responses use a short takeaway, up to three bullets per finding/action, and optional
+`visual_evidence_ids` selecting existing evidence rows. Reference validation also
+applies to these visual selections. The frontend builds charts from the stored source
+values, never from model-generated chart numbers. Older saved reviews gain the same
+compact presentation immediately, with full paragraphs available in expandable details.
+
 Retrieval uses exact county codes, question terms and recency, with at most 24
 observations per dataset and diversity across screening programs / StatFin datasets.
 The full original dimensions, periods, units, confidence intervals, warnings and source
