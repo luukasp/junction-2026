@@ -1,3 +1,6 @@
+# Preserve the existing backend stack and database volume after moving this file.
+name: equal-care
+
 services:
   db:
     image: mariadb:11.4
@@ -16,19 +19,39 @@ services:
       timeout: 5s
       retries: 20
   api:
-    build: .
-    env_file: .env
+    build: ./backend
     environment:
       DATABASE_URL: mysql+pymysql://${MARIADB_USER:-equal_care}:${MARIADB_PASSWORD:-local_dev_password}@db:3306/${MARIADB_DATABASE:-equal_care}?charset=utf8mb4
       CORS_ORIGINS: '${CORS_ORIGINS:-["http://localhost:5173","http://127.0.0.1:5173"]}'
       DATA_DIR: /srv/data/processed
+      PATHWAY_SNAPSHOT_PATH: ${PATHWAY_SNAPSHOT_PATH:-/srv/data/processed/pathway_snapshot.json}
+      CATALOG_DIR: ${CATALOG_DIR:-/srv/data/catalog}
+      GEMINI_API_KEY: ${GEMINI_API_KEY:-}
+      LLM_PROVIDER: ${LLM_PROVIDER:-gemini}
+      LLM_MODEL: ${LLM_MODEL:-gemini-4-carbon}
+      LLM_API_KEY: ${LLM_API_KEY:-}
+      LLM_BASE_URL: ${LLM_BASE_URL:-https://api.openai.com/v1}
+      LLM_TIMEOUT_SECONDS: ${LLM_TIMEOUT_SECONDS:-120}
     ports:
       - "127.0.0.1:8000:8000"
     volumes:
-      - ../data:/srv/data:ro
+      - ./data:/srv/data:ro
     depends_on:
       db:
         condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health/ready', timeout=5)"]
+      interval: 5s
+      timeout: 5s
+      start_period: 60s
+      retries: 20
     command: ["sh", "-c", "backend init-db && backend ingest && uvicorn app.main:app --host 0.0.0.0 --port 8000"]
+  frontend:
+    build: ./frontend
+    ports:
+      - "127.0.0.1:5173:80"
+    depends_on:
+      api:
+        condition: service_healthy
 volumes:
   mariadb_data:

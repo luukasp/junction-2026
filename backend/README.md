@@ -1,18 +1,20 @@
 # Equal Care backend
 
-FastAPI + SQLAlchemy + MariaDB scaffold for a React/Vite client. All backend code,
-configuration and tests live here; input data remains in `../data/processed`.
+FastAPI + SQLAlchemy + MariaDB scaffold for a React/Vite client. Backend code and
+tests live here; stack configuration lives at the repository root. Input data remains
+in `../data/processed`.
 
 ## Run with Docker
 
-From this directory:
+From the repository root:
 
 ```bash
 test -f .env || cp .env.example .env
 docker compose up --build -d
 ```
 
-The API runs at http://localhost:8000, Swagger at http://localhost:8000/docs,
+The frontend runs at http://localhost:5173. The API runs at http://localhost:8000,
+Swagger at http://localhost:8000/docs,
 and OpenAPI at http://localhost:8000/openapi.json. MariaDB is persisted in a named
 volume. Compose waits for MariaDB, then runs `backend init-db && backend ingest` before
 starting the API. Ingestion is idempotent: an unchanged snapshot (same file hashes) is a
@@ -32,9 +34,9 @@ docker compose down             # preserve the database volume
 Requires Python 3.11+ and a running MariaDB instance. From `backend/`:
 
 ```bash
-test -f .env || cp .env.example .env
+test -f ../.env || cp ../.env.example ../.env
 uv sync --extra dev
-docker compose up -d db
+docker compose -f ../compose.yml up -d db
 uv run backend init-db
 uv run backend validate
 uv run backend ingest
@@ -244,7 +246,7 @@ Swagger documents the new county routes and response schemas at `/docs`.
 To add the county indexes to an existing Docker installation and deploy the API:
 
 ```bash
-docker compose up --build -d api
+docker compose -f ../compose.yml up --build -d api
 ```
 
 The startup `backend init-db` command creates missing indexes automatically.
@@ -275,7 +277,7 @@ deterministic briefing fallback (`tests/test_pathway.py`, using a small fixture 
 
 ## AI county reviews and executive chat
 
-`backend/.env` is loaded by absolute source path, regardless of working directory.
+The repository-root `.env` is loaded by absolute source path, regardless of working directory.
 Keep the existing `GEMINI_API_KEY` there. Gemini calls use `x-goog-api-key`, and
 provider error bodies are never returned to the browser or printed by the CLI.
 
@@ -399,7 +401,8 @@ route returns 404 for a code not in the snapshot.
 ## Demo checklist
 
 ```bash
-docker compose up --build -d          # init-db + idempotent ingest + API
+# From the repository root:
+docker compose up --build -d          # init-db + idempotent ingest + API + frontend
 # Optional with a GEMINI_API_KEY in .env: pre-seed every county so the demo never waits
 docker compose exec api backend generate-proposals --all
 ```

@@ -12,9 +12,9 @@ The React app in [`frontend/`](frontend/README.md) is the product. It works with
 # Fastest: offline, bundled snapshot (no database, no API key)
 cd frontend && npm ci && npm run dev          # http://localhost:5173 → "Backend offline — showing cached snapshot"
 
-# Full stack: MariaDB + FastAPI + AI county reviews
-make demo                                     # docker compose: init-db → ingest → uvicorn :8000
-cd frontend && npm run dev
+# Full stack: MariaDB + FastAPI + frontend + AI county reviews
+test -f .env || cp .env.example .env           # optionally configure LLM credentials
+make demo                                     # frontend http://localhost:5173, API :8000
 ```
 
 Two-minute walkthrough: read the national headline → pick a pathway stage → the map recolours by verdict (**Act / Verify data / Monitor / In line**) → click a county → its briefing shows where the gap emerges, the stage verdicts, and action cards with baseline, target, annual workload, owner, first-90-days steps, escalation and sources → **Export action plan** (Markdown).
