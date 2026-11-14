@@ -8,10 +8,15 @@ export type Quality = {
   coverage: { dataset: string; rows: number; selected_rows: number; missing_values: number; numeric_cells: number; latest_year: number | null }[]
   limitations: string[]
 }
-export type AIResponse = { answer: Answer; evidence: Evidence[]; quality: Quality; model: string; provider: string }
+export type AIResponse = { answer: Answer; evidence: Evidence[]; quality: Quality; model: string; provider: string; conversation_id?: string; version?: number }
+export type Conversation = { id: string; area_code: string; version: number; turns: { question: string; response: AIResponse }[] }
 export type SavedProposal = AIResponse & { id: number; area_code: string; created_at: string; stale: boolean }
 
 const base = (import.meta.env.VITE_API_BASE_URL ?? '').replace(/\/$/, '')
+export class ApiError extends Error {
+  status: number
+  constructor(message: string, status: number) { super(message); this.status = status }
+}
 export async function api<T>(path: string, options: RequestInit = {}): Promise<T> {
   const response = await fetch(`${base}/api/v1${path}`, {
     ...options,
@@ -19,7 +24,7 @@ export async function api<T>(path: string, options: RequestInit = {}): Promise<T
   })
   if (!response.ok) {
     const body = await response.json().catch(() => null)
-    throw new Error(typeof body?.detail === 'string' ? body.detail : `Request failed (${response.status})`)
+    throw new ApiError(typeof body?.detail === 'string' ? body.detail : `Request failed (${response.status})`, response.status)
   }
   return response.json() as Promise<T>
 }
@@ -27,7 +32,7 @@ export async function api<T>(path: string, options: RequestInit = {}): Promise<T
 export type StreamEvent =
   | { type: 'status'; stage: string; message: string }
   | { type: 'delta'; text: string }
-  | { type: 'error'; detail: string }
+  | { type: 'error'; detail: string; status?: number }
   | { type: 'done'; response: AIResponse }
   | { type: 'proposal'; proposal: SavedProposal }
 
@@ -40,22 +45,26 @@ export async function streamApi(path: string, options: RequestInit, onEvent: (ev
   })
   if (!response.ok || !response.body) {
     const body = await response.json().catch(() => null)
-    throw new Error(typeof body?.detail === 'string' ? body.detail : `Request failed (${response.status})`)
+    throw new ApiError(typeof body?.detail === 'string' ? body.detail : `Request failed (${response.status})`, response.status)
   }
   const reader = response.body.pipeThrough(new TextDecoderStream()).getReader()
   let buffer = ''
-  for (;;) {
-    const { value, done } = await reader.read()
-    if (done) break
-    buffer += value
-    const blocks = buffer.split('\n\n')
-    buffer = blocks.pop() ?? ''
-    for (const block of blocks) {
-      const data = block.split('\n').filter(line => line.startsWith('data:')).map(line => line.slice(5).trimStart()).join('\n')
-      if (!data) continue
-      const event = JSON.parse(data) as StreamEvent
-      if (event.type === 'error') throw new Error(event.detail)
-      onEvent(event)
+  try {
+    for (;;) {
+      const { value, done } = await reader.read()
+      if (done) break
+      buffer += value
+      const blocks = buffer.split('\n\n')
+      buffer = blocks.pop() ?? ''
+      for (const block of blocks) {
+        const data = block.split('\n').filter(line => line.startsWith('data:')).map(line => line.slice(5).trimStart()).join('\n')
+        if (!data) continue
+        const event = JSON.parse(data) as StreamEvent
+        if (event.type === 'error') throw new ApiError(event.detail, event.status ?? 502)
+        onEvent(event)
+        if (event.type === 'done' || event.type === 'proposal') return
+      }
     }
-  }
+    throw new Error('Generation ended before completing. Please retry.')
+  } finally { await reader.cancel().catch(() => {}); reader.releaseLock() }
 }

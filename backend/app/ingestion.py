@@ -39,7 +39,7 @@ def read_snapshot(root: Path):
     if catalog_path.exists():
         paths.append(catalog_path)
     try:
-        snapshot = {str(p.relative_to(root.parent)): p.read_bytes() for p in paths}
+        snapshot = {p.relative_to(root.parent).as_posix(): p.read_bytes() for p in paths}
     except OSError as exc:
         raise IngestionError(str(exc)) from exc
     manifest = {name: hashlib.sha256(data).hexdigest() for name, data in snapshot.items()}

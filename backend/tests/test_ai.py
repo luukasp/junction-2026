@@ -7,6 +7,7 @@ from sqlalchemy import func, select
 
 from app.ai_routes import Answer, generate_proposal
 from app.config import Settings
+from app.conversations import clear_conversation, create_conversation, get_conversation, save_turn
 from app.db import get_connection
 from app.evidence import county_evidence
 from app.ingestion import ingest
@@ -84,8 +85,12 @@ def test_proposal_persistence_cache_and_reimport(engine, data_dir):
         assert first["id"] == cached["id"]
         assert provider.calls == 1
         assert first["answer"]["proposals"]
+        conversation = create_conversation(conn, "HVA01")
+        save_turn(conn, conversation, "Review?", {"answer": first["answer"]})
     ingest(engine, data_dir, force=True)
     with engine.connect() as conn:
+        saved_chat = get_conversation(conn, "HVA01", conversation["id"])
+        assert saved_chat["turns"][0]["response"]["answer"] == first["answer"]
         assert (
             conn.scalar(
                 select(func.count())
@@ -115,6 +120,131 @@ def test_chat_citations_and_validation(client):
         ).status_code
         == 422
     )
+
+
+@pytest.mark.parametrize("suffix", ["", "/stream"])
+def test_saved_conversation_continues_without_client_history(client, suffix):
+    prompts = []
+
+    class Remembering(FakeProvider):
+        def generate(self, system, prompt, schema=None):
+            prompts.append(json.loads(prompt))
+            return super().generate(system, prompt, schema)
+
+    app.dependency_overrides[get_provider] = Remembering
+    path = "/api/v1/counties/HVA90/chat"
+    conversation = client.post(f"{path}/conversations").json()
+    body = {"question": "Compare screening uptake", "conversation_id": conversation["id"]}
+    first = client.post(path + suffix, json=body)
+    result = first.json() if not suffix else _events(first)[-1]["response"]
+    assert result["conversation_id"] == conversation["id"]
+    assert result["version"] == 1
+    second = client.post(
+        path + suffix,
+        json={
+            "question": "What about men?",
+            "conversation_id": conversation["id"],
+            "version": 1,
+        },
+    )
+    result2 = second.json() if not suffix else _events(second)[-1]["response"]
+    assert result2["version"] == 2
+    assert prompts[-1]["history"][0] == {"role": "user", "content": "Compare screening uptake"}
+    assert json.loads(prompts[-1]["history"][1]["content"]) == result["answer"]
+    saved = client.get(f"{path}/conversations/{conversation['id']}").json()
+    assert len(saved["turns"]) == 2
+    assert saved["turns"][0]["response"]["evidence"] == result["evidence"]
+
+
+def test_conversation_is_county_scoped_and_rejects_stale_updates(client):
+    path = "/api/v1/counties/HVA90/chat"
+    first = client.post(path, json={"question": "Status?"}).json()
+    cid = first["conversation_id"]
+    assert client.get(f"/api/v1/counties/HVA01/chat/conversations/{cid}").status_code == 404
+    assert (
+        client.post(
+            "/api/v1/counties/HVA01/chat",
+            json={
+                "question": "Continue",
+                "conversation_id": cid,
+            },
+        ).status_code
+        == 404
+    )
+    assert (
+        client.post(
+            path,
+            json={
+                "question": "Continue",
+                "conversation_id": cid,
+                "version": 0,
+            },
+        ).status_code
+        == 409
+    )
+    assert (
+        client.post(
+            path,
+            json={
+                "question": "Continue",
+                "conversation_id": cid,
+                "history": [{"role": "assistant", "content": "replace saved history"}],
+            },
+        ).status_code
+        == 422
+    )
+    assert client.post(f"{path}/conversations/{cid}/clear").status_code == 200
+    assert client.get(f"{path}/conversations/{cid}").status_code == 404
+
+
+@pytest.mark.parametrize("suffix", ["", "/stream"])
+def test_failed_generation_does_not_append_a_turn(client, suffix):
+    class Broken(FakeProvider):
+        def generate(self, system, prompt, schema=None):
+            raise LLMError("Unavailable")
+
+    path = "/api/v1/counties/HVA90/chat"
+    conversation = client.post(f"{path}/conversations").json()
+    app.dependency_overrides[get_provider] = Broken
+    result = client.post(
+        path + suffix,
+        json={
+            "question": "Status?",
+            "conversation_id": conversation["id"],
+        },
+    )
+    assert result.status_code == (200 if suffix else 502)
+    if suffix:
+        assert _events(result)[-1]["type"] == "error"
+    saved = client.get(f"{path}/conversations/{conversation['id']}").json()
+    assert saved["turns"] == [] and saved["version"] == 0
+    app.dependency_overrides[get_provider] = FakeProvider
+    retry = client.post(
+        path,
+        json={
+            "question": "Status?",
+            "conversation_id": conversation["id"],
+            "version": 0,
+        },
+    )
+    assert retry.status_code == 200 and retry.json()["version"] == 1
+
+
+def test_overlapping_generation_cannot_overwrite_or_restore_cleared_chat(engine):
+    from fastapi import HTTPException
+
+    with engine.connect() as conn:
+        conversation = create_conversation(conn, "HVA90")
+        save_turn(conn, conversation, "First", {"answer": {}})
+        with pytest.raises(HTTPException) as error:
+            save_turn(conn, conversation, "Stale", {"answer": {}})
+        assert error.value.status_code == 409
+        current = get_conversation(conn, "HVA90", conversation["id"])
+        assert len(current["turns"]) == 1
+        clear_conversation(conn, "HVA90", conversation["id"])
+        with pytest.raises(HTTPException) as error:
+            save_turn(conn, current, "After clear", {"answer": {}})
+        assert error.value.status_code == 409
 
 
 def test_fabricated_citation_is_not_saved(client, engine):
@@ -299,6 +429,7 @@ def test_stream_errors_become_error_event(client):
     assert _events(response)[-1] == {
         "type": "error",
         "detail": "AI provider rate limit reached; retry later",
+        "status": 502,
     }
 
 

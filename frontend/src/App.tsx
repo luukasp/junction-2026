@@ -9,6 +9,8 @@ import { PathwayExplorer } from './components/PathwayExplorer'
 import { Sidebar } from './components/Sidebar'
 import { CountyReview } from './components/CountyReview'
 import { Analytics } from './components/Analytics'
+import { GenerationActivity } from './components/GenerationActivity'
+import { AIGenerationProvider } from './data/AIGenerationContext'
 import { count, percent } from './data/regions'
 import { DashboardProvider, useDashboard } from './data/DashboardContext'
 import { defaultIndicatorId, fallbackHeadline } from './data/pathway'
@@ -17,6 +19,10 @@ import { loadData, type LoadedData } from './data/loadData'
 const PRODUCT_NAME = 'Equal Care Finland'
 
 export default function App() {
+  return <AIGenerationProvider><AppData /></AIGenerationProvider>
+}
+
+function AppData() {
   const [loaded, setLoaded] = useState<LoadedData | null>(null)
   const [error, setError] = useState('')
   const [attempt, setAttempt] = useState(0)
@@ -77,6 +83,7 @@ function DashboardView({ notice, onRetry }: { notice: string; onRetry: () => voi
             </div>
           </div>
         </header>
+        <GenerationActivity onOpenCounty={areaCode => { setSelectedRegionId(areaCode); setView('national'); setBriefingOpen(true) }} />
         {offline && notice && <div role="status" className="border-b border-line bg-raised">
           <p className="mx-auto flex max-w-7xl flex-wrap items-center gap-2 px-4 py-2 text-sm text-secondary sm:px-8">
             <WifiOff size={16} strokeWidth={1.5} aria-hidden className="text-muted" />{notice}

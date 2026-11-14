@@ -322,13 +322,25 @@ The UI can generate/regenerate one county and retrieves its latest saved review.
 - `POST /api/v1/counties/{area_code}/proposal?force=false`: generate and persist. If the
   provider is unreachable/unconfigured and the county has no stored review, returns the
   deterministic briefing (unsaved) instead of 502.
-- `POST /api/v1/counties/{area_code}/chat`: `{question, history: [{role, content}]}`.
+- `POST /api/v1/counties/{area_code}/chat/conversations`: create an empty conversation.
+- `GET /api/v1/counties/{area_code}/chat/conversations/{id}`: restore saved turns.
+- `POST /api/v1/counties/{area_code}/chat/conversations/{id}/clear`: delete the conversation.
+- `POST /api/v1/counties/{area_code}/chat` (or `/chat/stream` for SSE):
+  `{question, conversation_id, version}`. Responses include `conversation_id` and the
+  new `version`. Omit the ID to start a conversation; legacy `history` is accepted only
+  when starting one. An outdated version returns 409; restore the conversation and retry.
 
 `review_proposals` stores validated structured output, generation time, model/provider,
 source fingerprint, the exact retrieved rows, and computed quality indicators. It is
 excluded from data reimports. Older evidence snapshots remain auditable even when
 source row IDs change; changed fingerprints show a stale-review notice in the UI.
-Chat retrieves county data afresh and is retained only while that briefing is open.
+Chat retrieves county data afresh and retains completed turns, structured answers and
+their evidence in `chat_conversations`, independently of data reimports. Generation uses
+the latest 12 saved messages for context. Failed or incomplete answers never add a turn.
+The browser remembers each county's conversation ID in local storage and restores it
+when the briefing reopens or the page reloads. Clear chat deletes the saved conversation.
+Run `backend init-db` once on existing installations to create the new table. Conversations
+use the same unauthenticated, localhost-only access model as the other AI routes.
 
 Responses use a short takeaway, up to three bullets per finding/action, and optional
 `visual_evidence_ids` selecting existing evidence rows. Reference validation also

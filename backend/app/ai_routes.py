@@ -3,6 +3,7 @@ import logging
 import re
 from datetime import datetime, timezone
 from typing import Annotated, Literal
+from uuid import UUID
 
 from fastapi import APIRouter, Depends, HTTPException
 from fastapi.responses import StreamingResponse
@@ -10,6 +11,14 @@ from pydantic import BaseModel, ConfigDict, Field, ValidationError
 from sqlalchemy import Connection, insert, select
 
 from app.config import get_settings
+from app.conversations import (
+    clear_conversation,
+    conversation_history,
+    create_conversation,
+    get_conversation,
+    save_turn,
+)
+from app.counties import require_county
 from app.db import get_connection
 from app.evidence import county_evidence, dashboard
 from app.llm import LLMError, LLMProvider, get_provider, stream_text
@@ -63,6 +72,8 @@ class Message(BaseModel):
 class ChatRequest(BaseModel):
     question: str = Field(min_length=1, max_length=2000)
     history: list[Message] = Field(default_factory=list, max_length=12)
+    conversation_id: UUID | None = None
+    version: int | None = Field(default=None, ge=0)
 
 
 SYSTEM = """# Role
@@ -465,7 +476,8 @@ def _sse(events, final_type):
                 if event["type"] == final_type:
                     return
         except HTTPException as exc:
-            yield f"data: {json.dumps({'type': 'error', 'detail': exc.detail})}\n\n"
+            error = {"type": "error", "detail": exc.detail, "status": exc.status_code}
+            yield f"data: {json.dumps(error)}\n\n"
         except Exception:
             logging.getLogger(__name__).exception("AI stream failed")
             yield f"data: {json.dumps({'type': 'error', 'detail': 'AI request failed'})}\n\n"
@@ -513,20 +525,73 @@ def create_proposal(
 
 @router.post("/counties/{area_code}/chat")
 def chat(area_code: str, body: ChatRequest, conn: ConnectionDep, provider: ProviderDep):
+    conversation = prepare_conversation(conn, area_code, body)
+    for event in iter_chat(conn, area_code, body, provider, conversation):
+        if event["type"] == "done":
+            return event["response"]
+
+
+@router.post("/counties/{area_code}/chat/conversations")
+def start_conversation(area_code: str, conn: ConnectionDep):
+    require_county(area_code, conn)
+    return create_conversation(conn, area_code)
+
+
+@router.get("/counties/{area_code}/chat/conversations/{conversation_id}")
+def read_conversation(area_code: str, conversation_id: UUID, conn: ConnectionDep):
+    return get_conversation(conn, area_code, conversation_id)
+
+
+@router.post("/counties/{area_code}/chat/conversations/{conversation_id}/clear")
+def reset_conversation(area_code: str, conversation_id: UUID, conn: ConnectionDep):
+    clear_conversation(conn, area_code, conversation_id)
+    return {"cleared": True}
+
+
+def prepare_conversation(conn, area_code, body):
     if not body.question.strip():
         raise HTTPException(422, "Enter a question")
-    context = county_evidence(conn, area_code, body.question)
+    if body.conversation_id:
+        if body.history:
+            raise HTTPException(422, "History is managed by the saved conversation")
+        conversation = get_conversation(conn, area_code, body.conversation_id)
+        if body.version is not None and body.version != conversation["version"]:
+            raise HTTPException(409, "Conversation changed; reopen it before sending again")
+    else:
+        require_county(area_code, conn)
+        conversation = create_conversation(conn, area_code, [m.model_dump() for m in body.history])
     conn.commit()
-    answer = generate_answer(
-        provider, context, body.question, [m.model_dump() for m in body.history]
-    )
-    return {
-        "answer": answer,
-        "evidence": context["evidence"],
-        "quality": context["quality"],
-        "model": get_settings().llm_model,
-        "provider": get_settings().llm_provider,
+    return conversation
+
+
+def iter_chat(conn, area_code, body, provider, conversation):
+    history = conversation_history(conversation)
+    yield {"type": "status", "stage": "retrieving", "message": "Searching county evidence"}
+    # Keep follow-up retrieval on topic when a question only says e.g. "What about men?".
+    query = " ".join([m["content"] for m in history if m["role"] == "user"][-2:])
+    context = county_evidence(conn, area_code, f"{query} {body.question}".strip())
+    conn.commit()
+    yield {
+        "type": "status",
+        "stage": "retrieved",
+        "message": f"Found {len(context['evidence'])} relevant evidence rows",
     }
+    settings = get_settings()
+    for event in iter_answer(provider, context, body.question, history):
+        if event["type"] != "answer":
+            yield event
+            continue
+        response = {
+            "answer": event["answer"],
+            "evidence": context["evidence"],
+            "quality": context["quality"],
+            "model": settings.llm_model,
+            "provider": settings.llm_provider,
+        }
+        yield {
+            "type": "done",
+            "response": save_turn(conn, conversation, body.question, response),
+        }
 
 
 @router.post("/counties/{area_code}/proposal/stream")
@@ -540,33 +605,5 @@ def create_proposal_stream(
 
 @router.post("/counties/{area_code}/chat/stream")
 def chat_stream(area_code: str, body: ChatRequest, conn: ConnectionDep, provider: ProviderDep):
-    if not body.question.strip():
-        raise HTTPException(422, "Enter a question")
-    history = [m.model_dump() for m in body.history]
-
-    def events():
-        yield {"type": "status", "stage": "retrieving", "message": "Searching county evidence"}
-        context = county_evidence(conn, area_code, body.question)
-        conn.commit()
-        yield {
-            "type": "status",
-            "stage": "retrieved",
-            "message": f"Found {len(context['evidence'])} relevant evidence rows",
-        }
-        settings = get_settings()
-        for event in iter_answer(provider, context, body.question, history):
-            if event["type"] != "answer":
-                yield event
-                continue
-            yield {
-                "type": "done",
-                "response": {
-                    "answer": event["answer"],
-                    "evidence": context["evidence"],
-                    "quality": context["quality"],
-                    "model": settings.llm_model,
-                    "provider": settings.llm_provider,
-                },
-            }
-
-    return _sse(events, "done")
+    conversation = prepare_conversation(conn, area_code, body)
+    return _sse(lambda: iter_chat(conn, area_code, body, provider, conversation), "done")

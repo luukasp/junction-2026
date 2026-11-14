@@ -199,3 +199,14 @@ review_proposals = table(
     Column("evidence", JSON, nullable=False),
     Column("quality", JSON, nullable=False),
 )
+
+chat_conversations = table(
+    "chat_conversations",
+    Column("id", String(36), primary_key=True),
+    Column("area_code", String(10), nullable=False, index=True),
+    Column("created_at", DateTime, nullable=False),
+    Column("updated_at", DateTime, nullable=False),
+    Column("version", Integer, nullable=False),
+    Column("history", JSON, nullable=False),
+    Column("turns", JSON, nullable=False),
+)

@@ -10,7 +10,7 @@ from app.ai_routes import router as ai_router
 from app.config import get_settings
 from app.counties import router as counties_router
 from app.db import get_connection
-from app.models import DATASETS, ingestion_state, review_proposals
+from app.models import DATASETS, chat_conversations, ingestion_state, review_proposals
 from app.pathway import router as pathway_router
 from app.schemas import Page
 
@@ -45,7 +45,7 @@ def health():
 def ready(conn: ConnectionDep):
     try:
         conn.execute(text("SELECT 1"))
-        for table in [*DATASETS.values(), review_proposals]:
+        for table in [*DATASETS.values(), review_proposals, chat_conversations]:
             conn.execute(select(table).limit(0))
         state = conn.execute(select(ingestion_state.c.imported_at)).scalar_one_or_none()
     except SQLAlchemyError as exc:

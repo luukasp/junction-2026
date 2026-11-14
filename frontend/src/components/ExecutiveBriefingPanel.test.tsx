@@ -3,16 +3,17 @@ import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest'
 import { cleanup, fireEvent, render, screen, within } from '@testing-library/react'
 import { useState } from 'react'
 import { DashboardProvider } from '../data/DashboardContext'
+import { AIGenerationProvider } from '../data/AIGenerationContext'
 import lung from '../data/countyLungTreatment.json'
 import { fixture } from '../test/pathwayFixture'
 import { ExecutiveBriefingPanel } from './ExecutiveBriefingPanel'
 
 function Briefing() {
   const [open, setOpen] = useState(false)
-  return <DashboardProvider data={{ ...lung, data_loaded: true }} pathway={fixture}>
+  return <AIGenerationProvider><DashboardProvider data={{ ...lung, data_loaded: true }} pathway={fixture}>
     <button type="button" onClick={() => setOpen(true)}>Open briefing</button>
     <ExecutiveBriefingPanel regionData={open ? lung.regions.find(region => region.regionId === 'HVA05')! : null} onClose={() => setOpen(false)} />
-  </DashboardProvider>
+  </DashboardProvider></AIGenerationProvider>
 }
 
 beforeEach(() => {

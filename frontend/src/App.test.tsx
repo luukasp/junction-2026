@@ -1,11 +1,12 @@
 // @vitest-environment jsdom
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest'
-import { cleanup, fireEvent, render, screen, within } from '@testing-library/react'
+import { act, cleanup, fireEvent, render, screen, waitFor, within } from '@testing-library/react'
 import App from './App'
 import bundled from './data/pathway_snapshot.json'
 import lung from './data/countyLungTreatment.json'
 import type { PathwaySnapshot } from './data/pathway'
 import { fixture } from './test/pathwayFixture'
+import { openEventStream } from './test/sse'
 
 const snapshot = bundled as unknown as PathwaySnapshot
 const json = (body: unknown) => ({ ok: true, json: async () => body }) as Response
@@ -13,9 +14,69 @@ const json = (body: unknown) => ({ ok: true, json: async () => body }) as Respon
 beforeEach(() => {
   vi.stubGlobal('URL', Object.assign(URL, { createObjectURL: vi.fn(() => 'blob:plan'), revokeObjectURL: vi.fn() }))
 })
-afterEach(() => { cleanup(); vi.unstubAllGlobals(); vi.restoreAllMocks() })
+afterEach(() => { cleanup(); localStorage.clear(); vi.unstubAllGlobals(); vi.restoreAllMocks() })
 
 describe('Equal Care Finland', () => {
+  it.each(['review', 'chat'] as const)('shows %s progress across dashboards and reopens the ongoing attempt', async kind => {
+    const stream = openEventStream()
+    let signal: AbortSignal | null | undefined
+    const fetchMock = vi.fn(async (url: string, init?: RequestInit) => {
+      if (url.endsWith('/dashboard')) return json({ ...lung, data_loaded: true })
+      if (url.endsWith('/pathway')) return json(fixture)
+      if (url.endsWith('/conversations')) return json({ id: 'ongoing-chat', version: 0, turns: [] })
+      if (url.endsWith('/stream')) { signal = init?.signal; return stream.response }
+      return json({ proposal: null })
+    })
+    vi.stubGlobal('fetch', fetchMock)
+    render(<App />)
+    await screen.findByText(fixture.national_headline)
+    expect(screen.queryByRole('region', { name: 'AI generation activity' })).toBeNull()
+    fireEvent.click(screen.getByRole('button', { name: 'County Review' }))
+    fireEvent.change(screen.getByRole('combobox', { name: 'County' }), { target: { value: 'HVA05' } })
+    const generate = await screen.findByRole('button', { name: 'Generate review' })
+    await waitFor(() => expect((generate as HTMLButtonElement).disabled).toBe(false))
+    fireEvent.click(kind === 'review' ? generate : screen.getByRole('button', { name: 'How does our screening uptake compare?' }))
+    await waitFor(() => expect(signal).toBeTruthy())
+    await act(async () => {
+      stream.push({ type: 'status', stage: 'drafting', message: 'Drafting from county evidence' })
+      stream.push({ type: 'delta', text: 'Draft before switching' })
+    })
+    fireEvent.click(screen.getByRole('button', { name: 'Analytics' }))
+    const activity = screen.getByRole('region', { name: 'AI generation activity' })
+    const countyName = lung.regions.find(region => region.regionId === 'HVA05')!.regionName
+    expect(within(activity).getByText(`${countyName} · Generating ${kind === 'review' ? 'review' : 'answer'}`)).toBeTruthy()
+    expect(signal?.aborted).toBe(false)
+    await act(async () => {
+      stream.push({ type: 'status', stage: 'checking', message: 'Checking citations' })
+      stream.push({ type: 'delta', text: 'Draft continued in another view' })
+    })
+    expect(within(activity).getByText('Checking citations')).toBeTruthy()
+    fireEvent.click(screen.getByRole('button', { name: 'County Review' }))
+    fireEvent.change(screen.getByRole('combobox', { name: 'County' }), { target: { value: 'HVA10' } })
+    expect(screen.queryByText('Draft continued in another view')).toBeNull()
+    fireEvent.click(within(activity).getByRole('button', { name: `View ${kind === 'review' ? 'review' : 'answer'} progress for ${countyName}` }))
+    const panel = screen.getByRole('complementary', { name: 'Executive briefing' })
+    expect(await within(panel).findByText('Draft continued in another view')).toBeTruthy()
+    expect(within(panel).getByText('Checking citations…')).toBeTruthy()
+    fireEvent.click(within(panel).getByRole('button', { name: 'Close briefing' }))
+    const response = {
+      answer: { reply: 'Completed while away', summary: 'County review', findings: [], proposals: [], limitations: ['Review locally'] },
+      evidence: [], quality: { imported_at: '2026-11-14T12:00:00', screening_mainland_coverage: true, coverage: [], limitations: [] },
+      model: 'test', provider: 'test', conversation_id: 'ongoing-chat', version: 1,
+    }
+    await act(async () => {
+      stream.push(kind === 'review'
+        ? { type: 'proposal', proposal: { ...response, id: 1, area_code: 'HVA05', created_at: '2026-11-14T12:00:00', stale: false } }
+        : { type: 'done', response })
+      stream.finish()
+    })
+    await waitFor(() => expect(screen.queryByRole('region', { name: 'AI generation activity' })).toBeNull())
+    fireEvent.click(screen.getByRole('button', { name: 'County Review' }))
+    const tools = screen.getByRole('complementary', { name: 'Review tools and county questions' })
+    expect(await within(tools).findByText('Completed while away')).toBeTruthy()
+    expect(fetchMock.mock.calls.filter(([url]) => url.endsWith('/stream'))).toHaveLength(1)
+  })
+
   it('closes and reopens navigation with keyboard focus and the current dashboard preserved', async () => {
     vi.stubGlobal('fetch', vi.fn(async (url: string) => {
       if (url.endsWith('/dashboard')) return json({ ...lung, data_loaded: true })

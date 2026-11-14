@@ -82,6 +82,14 @@ rows are shown with readable field names, English translations of Finnish regist
 labels (for example `Ei hoitotietoa` → No treatment record, `Parantava` → Curative)
 and strata as chips.
 
+Review and chat generations run in shared county sessions for the lifetime of the open
+app. Closing a briefing, changing counties or switching dashboards keeps the stream
+running, including its current stage and draft. Active attempts appear below the header;
+View progress reopens that county's briefing. Completed results and errors remain in the
+session when its panel is closed. Chat's Stop generating button cancels its request.
+A full page reload ends in-flight streams; completed conversations are restored from the
+backend using the county's saved conversation ID.
+
 Tests cover the pathway helpers and Markdown export, the offline fallback, stage and
 indicator switching, readable evidence labels and the map.
 

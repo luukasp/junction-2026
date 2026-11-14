@@ -192,3 +192,16 @@ CREATE TABLE review_proposals (
 
 ;
 CREATE INDEX ix_review_proposals_area_code ON review_proposals (area_code);
+
+CREATE TABLE chat_conversations (
+    id VARCHAR(36) NOT NULL,
+    area_code VARCHAR(10) NOT NULL,
+    created_at DATETIME NOT NULL,
+    updated_at DATETIME NOT NULL,
+    version INTEGER NOT NULL,
+    history JSON NOT NULL,
+    turns JSON NOT NULL,
+    CONSTRAINT pk_chat_conversations PRIMARY KEY (id)
+)ENGINE=InnoDB CHARSET=utf8mb4 COLLATE utf8mb4_bin;
+
+CREATE INDEX ix_chat_conversations_area_code ON chat_conversations (area_code);
