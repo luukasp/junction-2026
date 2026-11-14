@@ -88,6 +88,9 @@ Useful lifecycle commands:
 docker compose ps
 docker compose logs -f api
 docker compose down
+docker compose exec api backend init-db
+docker compose exec api backend validate
+docker compose exec api backend ingest
 ```
 
 The database persists in the `mariadb_data` named volume. `docker compose down` preserves it. Unchanged CSV imports are skipped; changed snapshots replace imported source data transactionally. Configure database credentials before the first database start: changing `.env` later does not change credentials already stored in the database volume.
