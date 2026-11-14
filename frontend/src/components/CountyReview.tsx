@@ -4,6 +4,7 @@ import { useDashboard } from '../data/DashboardContext'
 import { asVerdict, downloadText, formatCount, formatInterval, formatValue, planMarkdown, polarityText, verdictRank, type PathwayCounty, type PathwaySnapshot } from '../data/pathway'
 import { ActionCard } from './ActionCard'
 import { VerdictBadge } from './VerdictBadge'
+import { CountyMap } from './CountyMap'
 
 const CountyAI = lazy(() => import('./CountyAI').then(module => ({ default: module.CountyAI })))
 type Props = { selectedCountyId: string | null; onCountyChange: (id: string) => void }
@@ -32,15 +33,15 @@ export function CountyReview({ selectedCountyId, onCountyChange }: Props) {
       </div>
     </div>
     {county && pathway
-      ? <CountyContent key={county.code} county={county} snapshot={pathway} />
-      : <section className="rounded-xl border border-line bg-panel p-6" role="status">
+      ? <CountyContent key={county.code} county={county} snapshot={pathway} onCountyChange={onCountyChange} />
+      : <><section className="rounded-xl border border-line bg-panel p-6" role="status">
         <h3 className="text-lg font-medium">{selected?.name ?? 'No counties available'}</h3>
         <p className="mt-2 text-sm text-secondary">No pathway review is available for this county in the current snapshot. Choose another county to review its signals and actions.</p>
-      </section>}
+      </section>{selected && <CountyMap countyId={selected.code} countyName={selected.name} onCountyChange={onCountyChange} />}</>}
   </main>
 }
 
-function CountyContent({ county, snapshot }: { county: PathwayCounty; snapshot: PathwaySnapshot }) {
+function CountyContent({ county, snapshot, onCountyChange }: { county: PathwayCounty; snapshot: PathwaySnapshot; onCountyChange: (id: string) => void }) {
   const { offline } = useDashboard()
   const [toolsOpen, setToolsOpen] = useState(false)
   const flagged = snapshot.stages.filter(stage => ['act', 'verify'].includes(asVerdict(county.stage_verdicts[stage.id]))).length
@@ -86,6 +87,7 @@ function CountyContent({ county, snapshot }: { county: PathwayCounty; snapshot: 
         </ul>
       </section>
     </div>
+    <CountyMap countyId={county.code} countyName={county.name} onCountyChange={onCountyChange} />
     <CountyIndicators county={county} snapshot={snapshot} />
     <section className="overflow-hidden rounded-xl border border-line bg-panel">
       <h3><button type="button" aria-expanded={toolsOpen} aria-controls="county-review-tools" onClick={() => setToolsOpen(open => !open)}
