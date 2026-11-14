@@ -47,9 +47,10 @@ Alternatively, use `python -m venv .venv` and install with
 `DATA_DIR` defaults to the repository's `data/processed` directory; `--data-dir`
 overrides it for `validate` and `ingest`.
 
-`init-db` creates missing tables, **not migrations for existing tables**. The schema
+`init-db` creates missing tables and indexes, including the county indexes on existing
+installations, without reloading data. It does not alter existing columns. The schema
 is defined in `app/models.py`; `schema.sql` is a generated MariaDB DDL reference.
-Add versioned migrations before changing a persisted production schema.
+Add versioned migrations before changing persisted columns.
 
 ## Schema and duplicate handling
 
@@ -78,6 +79,12 @@ into HVA codes. Registry `area_code` can also be `SSS` for national totals or NU
 for collaboration areas. Consequently area codes are indexed join fields, not
 foreign keys to the county-only region lookup; known registry codes are validated
 on import. Source rows have a composite primary key and a foreign key to source tables.
+
+County screening data is stored in `screening_observations` with indexed `area_code`
+and a composite `(area_code, year, program)` index. StatFin has an `area_code` index
+and a composite `(area_code, dataset, metric_code, year)` index. All published HVA
+rows already carry their county code; national and collaboration-area observations
+remain distinct rather than being assigned to individual counties.
 
 The 333 heterogeneous source CSVs share two archival tables instead of generating
 333 SQL tables (or 81 separate header-layout tables). Headers and positional cell
@@ -117,42 +124,127 @@ IDs are internal and may change after imports; use source identities in clients.
 The importer loads the snapshot in memory, which suits this data bundle; larger
 feeds should use staging tables and bounded streaming imports.
 
-## API and Vite integration
+## County API and Vite integration
 
-- `GET /health` — process health.
-- `GET /health/ready` — database/schema availability and whether data is loaded.
-- `GET /api/v1/datasets` — dataset names and columns.
-- `GET /api/v1/ingestion` — last successful import metadata.
-- `GET /api/v1/data/{dataset}` — paginated records.
+All county routes use the HVA area codes from `regions.csv` (for example `HVA15`).
+The directory includes Helsinki (`HVA90`) and Åland (`HVA91`). Unknown codes and
+aggregate/duplicate geographies (`SSS`, `MA1`, `MA2`, `KU091`) return 404 on county
+routes. A valid county with no observations in a dataset returns an empty page.
 
-Dataset names: `regions`, `screening`, `statfin`, `outcomes`, `treatments`,
-`source-tables`, `source-rows`. Responses use
-`{ "items": [...], "total": 23, "limit": 100, "offset": 0 }`.
-Ordering is by primary key; maximum page size is 1,000.
+| Endpoint | Response / filters |
+| --- | --- |
+| `GET /api/v1/counties` | Paginated county directory |
+| `GET /api/v1/counties/{area_code}` | County labels and geography metadata |
+| `GET /api/v1/counties/{area_code}/screening` | Screening observations; `year`, `program`, `metric` |
+| `GET /api/v1/counties/{area_code}/statfin` | StatFin observations; `year`, `dataset`, `metric_code`, `cause_code` |
+| `GET /api/v1/counties/{area_code}/outcomes` | Cancer outcomes; `cancer`, `sex` |
+| `GET /api/v1/counties/{area_code}/treatments` | Lung treatment observations; `treatment_type_fi` |
+| `GET /api/v1/counties/{area_code}/aggregate` | Latest county indicators and patient series |
+| `GET /api/v1/counties/aggregate` | Totals across all 23 canonical county codes |
 
-Available exact-match filters: `area_code`, `year`, `program`, `cancer`, `sex`,
-`metric`, `metric_code`, `statfin_dataset`, `table_id`. A filter that does not
-apply to the chosen dataset returns 422. SQL identifiers come from a fixed allowlist,
-and filter values are parameterized.
+Collection endpoints accept `limit` (1–1,000) and `offset` and return
+`{ "items": [...], "total": 23, "limit": 100, "offset": 0 }`, ordered by primary key.
+StatFin county datasets are `statfin_11ra` and `statfin_13u5`; `statfin_11ay` is
+national-only and remains available through the legacy data API.
+
+Examples:
 
 ```text
-/api/v1/data/screening?area_code=HVA15&program=breast&year=2024
-/api/v1/data/outcomes?cancer=lung&sex=female
-/api/v1/data/statfin?statfin_dataset=statfin_13u5&year=2024
-/api/v1/data/source-rows?table_id=lung_2019_2023_t010
+/api/v1/counties/HVA15/screening?program=breast&year=2024
+/api/v1/counties/HVA15/statfin?dataset=statfin_13u5&metric_code=ksyylkm&cause_code=04-21&year=2025
+/api/v1/counties/HVA15/outcomes?cancer=lung&sex=female
+/api/v1/counties/HVA15/aggregate
+/api/v1/counties/aggregate?area_codes=HVA15&area_codes=HVA90
 ```
+
+### Aggregate semantics
+
+Both aggregate routes return `area_codes`, `indicators` and `patients`. Pass repeated
+`area_codes` parameters to aggregate a subset; duplicate codes are counted once.
+The default collection aggregate includes all 23 directory entries exactly once.
+It excludes national/mainland totals, `KU091` (duplicate Helsinki) and `MA2`
+(duplicate Åland). It never adds national observations to county observations.
+
+`indicators` contains `residents`, language-group counts, foreign citizens, people
+born abroad, people with foreign background, all-cause `deaths` and `cancer_deaths`.
+Population measures come from `statfin_11ra`; deaths come from `statfin_13u5` using
+`ksyylkm`, with cause `SSS` for all deaths and `04-21` for malignant neoplasms.
+Percentages and rates are not summed, and overlapping indicators are separate series.
+
+Each indicator uses its latest year across canonical county rows (2025 in the current
+snapshot), independently of other indicators. Responses include the year, dataset,
+metric/cause codes, source URLs and coverage. A missing latest county row does not
+fall back to an older year. `value` is NULL if any requested county has a missing or
+status-flagged observation; `available_total` gives the sum of usable observations,
+with `counties_reporting`, `counties_expected` and `missing_area_codes` identifying
+partial coverage. No observations yields NULL rather than zero.
+
+For example, the county aggregate response includes:
+
+```json
+{
+  "area_codes": ["HVA15"],
+  "indicators": {
+    "residents": {
+      "value": 273731,
+      "available_total": 273731,
+      "year": 2025,
+      "dataset": "statfin_11ra",
+      "metric_code": "vaerak-vaesto",
+      "counties_reporting": 1,
+      "counties_expected": 1,
+      "missing_area_codes": []
+    }
+  }
+}
+```
+
+This abbreviated example omits the other indicators and provenance fields.
+
+The supplied StatFin files contain **no patient counts**. Accordingly `patients.total`
+is NULL with an explanation. `patients.by_cancer` provides the latest registry
+prevalence counts per cancer and sex, plus incident cases and deaths, with the
+cohort period and prevalence definition. Current registry periods are 2020–2024,
+not the 2025 StatFin period. Different cancers/sex groups and lung treatment
+categories are never summed into a supposed unique-patient total.
+
+For each registry series, `patients` is NULL when coverage is incomplete, while
+`available_patients` reports the count across published counties. Åland lacks
+curated regional outcomes, so the default all-county patient series have partial
+coverage; a subset of covered counties has complete totals. Rates, confidence
+intervals and detailed provenance remain available from the county outcomes route.
+
+### Client setup and operational routes
 
 Set `VITE_API_URL=http://localhost:8000` in your frontend environment:
 
 ```ts
 const baseUrl = import.meta.env.VITE_API_URL ?? "http://localhost:8000";
-const response = await fetch(`${baseUrl}/api/v1/data/regions`);
+const areaCode = "HVA15";
+const response = await fetch(
+  `${baseUrl}/api/v1/counties/${encodeURIComponent(areaCode)}/aggregate`
+);
 if (!response.ok) throw new Error(`API error: ${response.status}`);
-const { items: regions } = await response.json();
+const summary = await response.json();
+const residents = summary.indicators.residents.value;
 ```
 
 CORS allows `http://localhost:5173` and `http://127.0.0.1:5173` by default.
 Set `CORS_ORIGINS` to a JSON array to allow other frontend origins.
+
+`GET /health`, `GET /health/ready`, `GET /api/v1/datasets` and
+`GET /api/v1/ingestion` remain available. `GET /api/v1/data/{dataset}` is deprecated
+for county clients but retained for compatibility and archival/national data access.
+Swagger documents the new county routes and response schemas at `/docs`.
+
+To add the county indexes to an existing Docker installation and deploy the API:
+
+```bash
+docker compose up --build -d api
+```
+
+The startup `backend init-db` command creates missing indexes automatically.
+No CSV reimport is needed for this update.
 
 ## Verification
 
@@ -172,4 +264,6 @@ TEST_DATABASE_URL='mysql+pymysql://user:password@localhost:3306/test_database' u
 
 The suite covers full-data counts, deduplication, NULL preservation, national codes,
 unchanged/forced imports, conflict rejection, malformed CSVs, rollback after a
-mid-import failure, API filters, CORS and database-unavailable responses.
+mid-import failure, county isolation, latest-year aggregates, missing-data coverage,
+duplicate-geography exclusion, existing-index upgrades, API filters, CORS and
+database-unavailable responses.

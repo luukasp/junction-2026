@@ -6,15 +6,16 @@ from pathlib import Path
 from sqlalchemy.exc import SQLAlchemyError
 
 from app.config import get_settings
-from app.db import get_engine
+from app.db import get_engine, init_schema
 from app.ingestion import IngestionError, ingest, prepare, read_snapshot
-from app.models import metadata
 
 
 def main():
     parser = argparse.ArgumentParser(description="Equal Care database management")
     commands = parser.add_subparsers(dest="command", required=True)
-    commands.add_parser("init-db", help="Create missing tables; does not migrate existing tables")
+    commands.add_parser(
+        "init-db", help="Create missing tables and indexes; preserves existing data"
+    )
     for name in ("ingest", "validate"):
         command = commands.add_parser(name)
         command.add_argument("--data-dir", type=Path, default=get_settings().data_dir)
@@ -25,7 +26,7 @@ def main():
     args = parser.parse_args()
     try:
         if args.command == "init-db":
-            metadata.create_all(get_engine())
+            init_schema(get_engine())
             result = {"status": "schema_ready"}
         elif args.command == "validate":
             rows = prepare(read_snapshot(args.data_dir)[0])

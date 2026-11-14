@@ -2,7 +2,6 @@ import csv
 import io
 
 import pytest
-from fastapi.testclient import TestClient
 from sqlalchemy import event, func, select
 from sqlalchemy.exc import OperationalError
 
@@ -109,18 +108,6 @@ def test_archive_preserves_duplicate_headers_and_raw_cells():
 def test_malformed_csv_is_rejected(data):
     with pytest.raises(IngestionError):
         csv_rows(data, "bad.csv")
-
-
-@pytest.fixture
-def client(engine):
-    def connection():
-        with engine.connect() as conn:
-            yield conn
-
-    app.dependency_overrides[get_connection] = connection
-    with TestClient(app) as client:
-        yield client
-    app.dependency_overrides.clear()
 
 
 def test_api_filters_pagination_and_cors(client):

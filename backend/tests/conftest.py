@@ -2,10 +2,13 @@ import os
 from pathlib import Path
 
 import pytest
+from fastapi.testclient import TestClient
 from sqlalchemy import create_engine
 from sqlalchemy.pool import StaticPool
 
+from app.db import get_connection
 from app.ingestion import ingest
+from app.main import app
 from app.models import metadata
 
 DATA_DIR = Path(__file__).resolve().parents[2] / "data" / "processed"
@@ -32,3 +35,17 @@ def engine():
     yield engine
     metadata.drop_all(engine)
     engine.dispose()
+
+
+@pytest.fixture
+def client(engine):
+    def connection():
+        with engine.connect() as conn:
+            yield conn
+
+    app.dependency_overrides[get_connection] = connection
+    try:
+        with TestClient(app) as client:
+            yield client
+    finally:
+        app.dependency_overrides.clear()

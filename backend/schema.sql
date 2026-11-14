@@ -117,6 +117,8 @@ CREATE TABLE screening_observations (
 
 ;
 
+CREATE INDEX ix_screening_county_year_program ON screening_observations (area_code, year, program);
+
 CREATE INDEX ix_screening_observations_area_code ON screening_observations (area_code);
 
 CREATE INDEX ix_screening_program_year ON screening_observations (program, year);
@@ -155,6 +157,8 @@ CREATE TABLE statfin_observations (
 )ENGINE=InnoDB CHARSET=utf8mb4 COLLATE utf8mb4_bin
 
 ;
+
+CREATE INDEX ix_statfin_county_dataset_metric_year ON statfin_observations (area_code, dataset, metric_code, year);
 
 CREATE INDEX ix_statfin_dataset_year ON statfin_observations (dataset, year);
 

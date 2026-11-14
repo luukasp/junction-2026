@@ -1,15 +1,17 @@
-from typing import Annotated, Any, Literal
+from typing import Annotated, Literal
 
 from fastapi import Depends, FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
-from pydantic import BaseModel
-from sqlalchemy import Connection, func, select, text
+from sqlalchemy import Connection, select, text
 from sqlalchemy.exc import SQLAlchemyError
 
 from app.config import get_settings
+from app.counties import router as counties_router
 from app.db import get_connection
 from app.models import DATASETS, ingestion_state
+from app.queries import paginate
+from app.schemas import Page
 
 app = FastAPI(title="Equal Care API", version="0.1.0")
 app.add_middleware(
@@ -24,11 +26,7 @@ Dataset = Literal[
 ]
 
 
-class Page(BaseModel):
-    items: list[dict[str, Any]]
-    total: int
-    limit: int
-    offset: int
+app.include_router(counties_router)
 
 
 @app.exception_handler(SQLAlchemyError)
@@ -64,7 +62,7 @@ def ingestion_status(conn: ConnectionDep):
     return dict(state) if state else {"status": "not_imported"}
 
 
-@app.get("/api/v1/data/{dataset}", response_model=Page, tags=["data"])
+@app.get("/api/v1/data/{dataset}", response_model=Page, tags=["data"], deprecated=True)
 def list_data(
     dataset: Dataset,
     conn: ConnectionDep,
@@ -98,16 +96,4 @@ def list_data(
             if key not in table.c:
                 raise HTTPException(422, f"Filter '{key}' is not supported for {dataset}")
             clauses.append(table.c[key] == value)
-    total = conn.scalar(select(func.count()).select_from(table).where(*clauses))
-    rows = (
-        conn.execute(
-            select(table)
-            .where(*clauses)
-            .order_by(*table.primary_key.columns)
-            .limit(limit)
-            .offset(offset)
-        )
-        .mappings()
-        .all()
-    )
-    return Page(items=[dict(row) for row in rows], total=total, limit=limit, offset=offset)
+    return paginate(conn, table, clauses, limit, offset)

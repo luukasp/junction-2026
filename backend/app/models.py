@@ -83,6 +83,7 @@ screening = table(
     Column("unit", String(30)),
     UniqueConstraint("table_id", "source_row", "metric"),
     Index("ix_screening_program_year", "program", "year"),
+    Index("ix_screening_county_year_program", "area_code", "year", "program"),
 )
 
 statfin = table(
@@ -106,6 +107,7 @@ statfin = table(
     Column("source_url", Text, nullable=False),
     UniqueConstraint("dataset", "year", "metric_code", "dimension_key"),
     Index("ix_statfin_dataset_year", "dataset", "year"),
+    Index("ix_statfin_county_dataset_metric_year", "area_code", "dataset", "metric_code", "year"),
 )
 
 outcomes = table(
