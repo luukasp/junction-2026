@@ -18,6 +18,6 @@ data:
 	python scripts/build_pathway_snapshot.py
 	cd frontend && npm run snapshot
 
-# Full-stack demo (MariaDB + API). Then run `cd frontend && npm run dev`.
+# Full-stack demo (MariaDB + API + frontend at http://localhost:5173).
 demo:
-	cd backend && docker compose up --build
+	docker compose up --build

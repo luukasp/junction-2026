@@ -13,6 +13,14 @@ npm test
 npm run snapshot   # refresh the bundled offline snapshot
 ```
 
+## Run with Docker
+
+From the repository root, run `test -f .env || cp .env.example .env`, then
+`docker compose up --build -d`. Open http://localhost:5173. The frontend image
+builds the app with Node.js and serves the production assets with Nginx, which
+proxies `/api` and `/health` to the API container. LLM credentials stay in the API
+container; configure them in the root `.env`.
+
 ## What the screen shows
 
 The page opens with a plain-English national headline from the pathway snapshot
