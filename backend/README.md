@@ -126,6 +126,62 @@ IDs are internal and may change after imports; use source identities in clients.
 The importer loads the snapshot in memory, which suits this data bundle; larger
 feeds should use staging tables and bounded streaming imports.
 
+## Demographic API
+
+`GET /api/v1/demographics` returns paginated screening observations with demographic
+filters. `GET /api/v1/demographics/filters` discovers the exact published filter
+values, years, programs and metrics. Both routes accept the same filters:
+
+| Parameter | Values / meaning |
+| --- | --- |
+| `age_group` | Exact published age/band, such as `60`, `30-34`, or `Total` |
+| `gender` | `male`, `female`, `total`, mapped from the source Sex values Men/Women/Total |
+| `socioeconomic_status` | Unavailable in this snapshot; supplying it returns 422 with an explanation |
+| `education_level` | `Primary education/unknown`, `Intermediate/secondary`, `Tertiary/higher education`, `Total` |
+| `language` | Native-language groups: `Domestic`, `Other/missing`, `Total` |
+| `geographic_location` | Published county/collaboration-area name, or `Whole country` |
+| `geography_level` | `county`, `collaboration_area`, `national` |
+| `area_code` | HVA county code, or `SSS` for national observations |
+| `program` | `breast`, `cervix`, `colorectal` |
+| `year`, `metric` | Exact observation year and metric label |
+
+The data route accepts `limit` (1–1,000, default 100) and `offset` (default 0) and
+returns `{items, total, limit, offset}`, ordered by observation ID. Each item retains
+every original screening field, including raw values, suppression markers, dimensions,
+strata and provenance, and adds a `demographics` object with the normalized fields
+above. National observations have `demographics.area_code = "SSS"`, even when the
+original `area_code` is NULL. Missing demographic dimensions remain NULL; they are
+never inferred from the screening program or replaced with `Total`.
+
+Examples (URL-encode spaces and special characters in query values):
+
+```text
+/api/v1/demographics/filters?program=colorectal&year=2024
+/api/v1/demographics?program=colorectal&year=2024&age_group=60&gender=male
+/api/v1/demographics?program=colorectal&year=2024&language=Other%2Fmissing&gender=male
+/api/v1/demographics?education_level=Tertiary%2Fhigher%20education
+/api/v1/demographics?area_code=HVA15&year=2024
+/api/v1/demographics?geographic_location=Eastern%20Finland&geography_level=collaboration_area
+```
+
+Discovery is scoped by all supplied filters. Each entry under `filters` contains
+`available`, `values` and `description`; `available` means the dimension has values
+in the matching observations. Socio-economic status always has `available: false`:
+education is a separate classification, not a substitute. The published data records
+sex rather than gender identity and combines domestic languages rather than separating
+Finnish and Swedish.
+
+Filters are combined with AND on the **same observation**. The source publishes
+separate breakdowns rather than a full demographic cross-tabulation. For example,
+colorectal language and sex can be combined, but county plus education returns an
+empty page because that combination is not published. Unrecognized string group
+values also return an empty page; invalid program/gender/geography-level values and
+pagination return 422. National, county and collaboration-area rows remain distinct
+(Åland appears at both regional levels). Published totals and overlapping age bands
+are preserved; these observations must not be summed across metrics, groups or
+geographic levels. StatFin population counts and registry cancer outcomes remain
+available from their existing county/data routes.
+
 ## County API and Vite integration
 
 All county routes use the HVA area codes from `regions.csv` (for example `HVA15`).

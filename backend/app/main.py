@@ -13,6 +13,7 @@ from app.db import get_connection
 from app.models import DATASETS, chat_conversations, ingestion_state, review_proposals
 from app.pathway import router as pathway_router
 from app.schemas import Page
+from app.demographics import router as demographics_router
 
 app = FastAPI(title="Equal Care API", version="0.1.0")
 app.add_middleware(
@@ -28,6 +29,7 @@ Dataset = Literal[
 
 
 app.include_router(counties_router)
+app.include_router(demographics_router)
 app.include_router(pathway_router)
 
 
