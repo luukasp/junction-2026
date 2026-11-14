@@ -1,9 +1,9 @@
-from typing import Annotated, Literal
+from typing import Annotated, Literal, Any
 
 from fastapi import Depends, FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
-from sqlalchemy import Connection, select, text
+from sqlalchemy import Connection, select, text, func
 from sqlalchemy.exc import SQLAlchemyError
 
 from app.ai_routes import router as ai_router
@@ -11,6 +11,7 @@ from app.config import get_settings
 from app.counties import router as counties_router
 from app.db import get_connection
 from app.models import DATASETS, ingestion_state, review_proposals
+from pydantic import BaseModel
 
 app = FastAPI(title="Equal Care API", version="0.1.0")
 app.add_middleware(
@@ -24,6 +25,12 @@ Dataset = Literal[
     "regions", "screening", "statfin", "outcomes", "treatments", "source-tables", "source-rows"
 ]
 
+
+class Page(BaseModel):
+    items: list[dict[str, Any]]
+    total: int
+    limit: int
+    offset: int
 
 app.include_router(counties_router)
 
