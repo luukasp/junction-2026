@@ -134,4 +134,34 @@ describe('Equal Care Finland', () => {
     fireEvent.click(screen.getByRole('button', { name: 'Review tools and county questions' }))
     expect(screen.getByText(/AI review and chat need the backend/)).toBeDefined()
   })
+
+  it('puts Analytics first in navigation and switches national outcome charts using published values', async () => {
+    const pathway = structuredClone(fixture)
+    pathway.indicators.push(
+      { ...fixture.indicators[0], id: 'surv_lung_male', label: 'Five-year lung survival in men', short: 'Lung (men) survival', stage: 'outcome', period: '2020-2024' },
+      { ...fixture.indicators[0], id: 'mort_lung_male', label: 'Lung mortality in men', short: 'Lung (men) mortality', stage: 'outcome', unit: '/100k', period: '2020-2024' },
+    )
+    pathway.national.surv_lung_male = { v: 16.7 }
+    pathway.national.mort_lung_male = { v: 50.1 }
+    vi.stubGlobal('fetch', vi.fn(async (url: string) => {
+      if (url.endsWith('/dashboard')) return json({ ...lung, data_loaded: true })
+      if (url.endsWith('/pathway')) return json(pathway)
+      return { ok: false } as Response
+    }))
+    render(<App />)
+    await screen.findByText(fixture.national_headline)
+    const navigation = screen.getByRole('navigation', { name: 'Dashboard navigation' })
+    expect(within(navigation).getAllByRole('button')[0].textContent).toBe('Analytics')
+    fireEvent.click(within(navigation).getByRole('button', { name: 'Analytics' }))
+    expect(screen.getByRole('heading', { name: 'Analytics' })).toBeDefined()
+    expect(within(screen.getByRole('region', { name: 'Overall national status' })).getByText(/1 of 2 counties/)).toBeDefined()
+    expect(screen.getByRole('img', { name: 'Bowel screening attendance: 70%, 2024' })).toBeDefined()
+    expect(screen.getByRole('figure', { name: 'National five-year relative survival' })).toBeDefined()
+    fireEvent.click(screen.getByRole('radio', { name: 'Mortality' }))
+    expect(screen.queryByRole('figure', { name: 'National five-year relative survival' })).toBeNull()
+    expect(screen.getByRole('img', { name: 'Lung mortality in men: 50.1 /100k, 2020-2024' })).toBeDefined()
+    expect(screen.getByRole('img', { name: /Referral: 0 Act, 0 Verify data, 0 Monitor, 0 In line, 2 No data/ })).toBeDefined()
+    fireEvent.click(within(navigation).getByRole('button', { name: 'National Overview' }))
+    expect(screen.getByRole('heading', { name: 'National Overview' })).toBeDefined()
+  })
 })
