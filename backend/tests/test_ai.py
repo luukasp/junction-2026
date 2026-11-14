@@ -3,7 +3,7 @@ import json
 import httpx
 import pytest
 from fastapi.testclient import TestClient
-from sqlalchemy import func, select
+from sqlalchemy import func, select, update
 
 from app.ai_routes import Answer, generate_proposal
 from app.config import Settings
@@ -13,7 +13,7 @@ from app.evidence import county_evidence
 from app.ingestion import ingest
 from app.llm import HTTPProvider, LLMError, get_provider
 from app.main import app
-from app.models import review_proposals
+from app.models import equity_briefings, review_proposals, screening
 
 
 class FakeProvider:
@@ -53,6 +53,163 @@ def client(engine):
     with TestClient(app) as client:
         yield client
     app.dependency_overrides.clear()
+
+
+def test_equity_briefing_retrieves_selected_observations_and_preserves_provenance(client):
+    class InspectProvider(FakeProvider):
+        def generate(self, system, prompt, schema=None):
+            self.context = json.loads(prompt)
+            self.system = system
+            return super().generate(system, prompt, schema)
+
+    provider = InspectProvider()
+    app.dependency_overrides[get_provider] = lambda: provider
+    rows = client.get(
+        "/api/v1/demographics",
+        params={
+            "program": "colorectal", "year": 2024,
+            "education_level": "Primary education/unknown", "gender": "total",
+        },
+    ).json()["items"]
+    response = client.post(
+        "/api/v1/demographics/briefing",
+        json={"observation_ids": [row["id"] for row in rows], "question": "Review equity"},
+    )
+    assert response.status_code == 200
+    result = response.json()
+    assert len(result["evidence"]) == len(rows)
+    assert {entry["id"] for entry in result["evidence"]} == {
+        f"screening:{row['id']}" for row in rows
+    }
+    for entry in result["evidence"]:
+        expected = next(row for row in rows if row["id"] == entry["row"]["id"])
+        assert entry["row"]["value"] == expected["value"]
+        assert entry["row"]["source_url"] == expected["source_url"]
+        assert entry["row"]["demographics"] == expected["demographics"]
+    assert provider.context["evidence"] == result["evidence"]
+    assert "screening equity" in provider.system
+    assert result["quality"]["coverage"][0]["selected_rows"] == len(rows)
+    assert result["quality"]["limitations"]
+
+
+@pytest.mark.parametrize("ids", [[], [0], [-1], list(range(1, 122))])
+def test_equity_briefing_bounds_observation_ids(client, ids):
+    response = client.post(
+        "/api/v1/demographics/briefing",
+        json={"observation_ids": ids, "question": "Review equity"},
+    )
+    assert response.status_code == 422
+
+
+def test_equity_briefing_rejects_missing_observations(client):
+    response = client.post(
+        "/api/v1/demographics/briefing",
+        json={"observation_ids": [99999999], "question": "Review equity"},
+    )
+    assert response.status_code == 404
+
+
+def test_equity_briefing_rejects_mixed_source_tables(client):
+    rows = client.get("/api/v1/demographics", params={"limit": 1000}).json()["items"]
+    first = rows[0]
+    other = next(row for row in rows if row["table_id"] != first["table_id"])
+    response = client.post(
+        "/api/v1/demographics/briefing",
+        json={"observation_ids": [first["id"], other["id"]], "question": "Review equity"},
+    )
+    assert response.status_code == 422
+
+
+def test_equity_briefing_rejects_invented_citations(client):
+    class UngroundedProvider(FakeProvider):
+        def generate(self, system, prompt, schema=None):
+            answer = super().generate(system, prompt, schema)
+            answer["findings"][0]["evidence_ids"] = ["screening:invented"]
+            return answer
+
+    provider = UngroundedProvider()
+    app.dependency_overrides[get_provider] = lambda: provider
+    row = client.get("/api/v1/demographics", params={"limit": 1}).json()["items"][0]
+    response = client.post(
+        "/api/v1/demographics/briefing",
+        json={"observation_ids": [row["id"]], "question": "Review equity"},
+    )
+    assert response.status_code == 502
+    assert provider.calls == 2
+
+
+def test_equity_briefing_stream_persists_restores_and_only_regenerates_on_request(client):
+    provider = FakeProvider()
+    app.dependency_overrides[get_provider] = lambda: provider
+    rows = client.get("/api/v1/demographics", params={"limit": 2}).json()["items"]
+    body = {"observation_ids": [row["id"] for row in rows], "question": "Persistent equity test"}
+    assert client.post("/api/v1/demographics/briefing/lookup", json=body).json() == {"briefing": None}
+    response = client.post("/api/v1/demographics/briefing/stream", json=body)
+    assert response.headers["content-type"].startswith("text/event-stream")
+    events = [json.loads(line[6:]) for line in response.text.splitlines() if line.startswith("data: ")]
+    assert [event["stage"] for event in events if event["type"] == "status"] == [
+        "retrieving", "drafting", "checking"
+    ]
+    saved = events[-1]["briefing"]
+    assert events[-1]["type"] == "briefing"
+    assert saved["id"] > 0
+    assert saved["created_at"]
+    assert saved["stale"] is False
+    body["observation_ids"].reverse()
+    restored = client.post("/api/v1/demographics/briefing/lookup", json=body).json()["briefing"]
+    assert restored["id"] == saved["id"]
+    cached = client.post("/api/v1/demographics/briefing", json=body).json()
+    assert cached["id"] == saved["id"]
+    assert provider.calls == 1
+    regenerated = client.post("/api/v1/demographics/briefing?force=true", json=body).json()
+    assert regenerated["id"] > saved["id"]
+    assert provider.calls == 2
+    other_scope = {**body, "question": "Another equity comparison"}
+    assert client.post("/api/v1/demographics/briefing/lookup", json=other_scope).json() == {"briefing": None}
+
+
+def test_equity_briefing_marks_changed_source_values_stale(client, engine):
+    provider = FakeProvider()
+    app.dependency_overrides[get_provider] = lambda: provider
+    row = client.get("/api/v1/demographics", params={"limit": 1}).json()["items"][0]
+    body = {"observation_ids": [row["id"]], "question": "Check source freshness"}
+    saved = client.post("/api/v1/demographics/briefing", json=body).json()
+    try:
+        with engine.begin() as conn:
+            conn.execute(update(screening).where(screening.c.id == row["id"]).values(
+                value=None if row["value"] is not None else 1
+            ))
+        restored = client.post("/api/v1/demographics/briefing/lookup", json=body).json()["briefing"]
+        assert restored["id"] == saved["id"]
+        assert restored["stale"] is True
+        assert provider.calls == 1
+        regenerated = client.post("/api/v1/demographics/briefing", json=body).json()
+        assert regenerated["id"] > saved["id"]
+        assert regenerated["stale"] is False
+        assert provider.calls == 2
+    finally:
+        with engine.begin() as conn:
+            conn.execute(update(screening).where(screening.c.id == row["id"]).values(value=row["value"]))
+
+
+def test_equity_briefing_does_not_save_invalid_generated_citations(client, engine):
+    class UngroundedProvider(FakeProvider):
+        def generate(self, system, prompt, schema=None):
+            answer = super().generate(system, prompt, schema)
+            answer["findings"][0]["evidence_ids"] = ["screening:invalid"]
+            return answer
+
+    app.dependency_overrides[get_provider] = UngroundedProvider
+    with engine.connect() as conn:
+        before = conn.scalar(select(func.count()).select_from(equity_briefings))
+    row = client.get("/api/v1/demographics", params={"limit": 1}).json()["items"][0]
+    body = {"observation_ids": [row["id"]], "question": "Reject invalid persistent briefing"}
+    response = client.post("/api/v1/demographics/briefing/stream", json=body)
+    events = [json.loads(line[6:]) for line in response.text.splitlines() if line.startswith("data: ")]
+    assert events[-1]["type"] == "error"
+    assert events[-1]["status"] == 502
+    with engine.connect() as conn:
+        assert conn.scalar(select(func.count()).select_from(equity_briefings)) == before
 
 
 def test_dashboard_and_county_grounding(client, engine):

@@ -23,6 +23,49 @@ container; configure them in the root `.env`.
 
 ## What the screen shows
 
+Navigation opens on **National Overview**, followed by **County Review** and
+**Equity Analysis**. Equity Analysis replaces the former Analytics dashboard.
+
+### Equity Analysis
+
+The equity dashboard starts with the latest published colorectal screening year
+and an education comparison. Only screening programme and reporting year are
+global filters, applying to both charts and the briefing. The disparity tool
+retains its education, native-language, age, published-sex and geography
+comparison options; the funnel retains its cohort selector. Other analytical
+tools and the demographic API retain their additional filter capabilities.
+Hidden demographic restrictions from older equity selections are not applied.
+Filter values and years come from `GET /api/v1/demographics/filters`; observations
+come from paginated `GET /api/v1/demographics` requests.
+
+The disparity chart compares attendance percentages within one source table and
+matching strata, retaining source counts and a matching published total when
+available. It never pools overlapping age bands or geographic levels. The funnel
+follows one selected comparison cohort using counts from that same table; missing
+stages stay unavailable. Clinical subsets are not represented as losses of care.
+Exact row IDs, metrics, dimensions, source rows and report links are expandable
+below the charts. Unpublished comparisons show an explicit empty state.
+Four KPI cards show the observed gap, lowest attendance, highest attendance and
+average attendance. The average is the unweighted arithmetic mean of numeric
+subgroup rates in the active comparison, excluding totals and unavailable rates;
+it is not a pooled or population-weighted national estimate.
+
+**Open AI briefing** opens an executive-style right-side drawer with independent
+scrolling, close/Escape controls and full-screen expansion. It includes
+deterministic evidence summaries before generation. Equity sessions use the
+shared `AIGenerationStore`: closing the drawer, changing filters or switching
+dashboards does not abort the request. The global activity bar shows streamed
+progress and reopens the exact programme/year/filter/cohort selection.
+`POST /api/v1/demographics/briefing/lookup` restores saved results;
+`POST /api/v1/demographics/briefing/stream` streams generation and persists the
+validated result. Each evidence scope has its own session and server-side saved
+briefing. Explicit regeneration creates a new version, and changed source data or
+model settings mark restored results stale. A configured backend AI provider is
+required; an AI error does not hide the charts. Demographic data has no offline
+snapshot fallback.
+
+### National Overview
+
 The page opens with a plain-English national headline from the pathway snapshot
 (`national_headline`). If it is missing, the headline is computed from the lung
 treatment rows, for example "4,049 of 14,774 lung cancer patients (27.4%) have no

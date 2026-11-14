@@ -7,6 +7,7 @@ import lung from './data/countyLungTreatment.json'
 import type { PathwaySnapshot } from './data/pathway'
 import { fixture } from './test/pathwayFixture'
 import { openEventStream } from './test/sse'
+import { equityCatalog, equityRows, savedEquityBriefing } from './test/equityFixture'
 
 const snapshot = bundled as unknown as PathwaySnapshot
 const json = (body: unknown) => ({ ok: true, json: async () => body }) as Response
@@ -17,6 +18,57 @@ beforeEach(() => {
 afterEach(() => { cleanup(); localStorage.clear(); vi.unstubAllGlobals(); vi.restoreAllMocks() })
 
 describe('Equal Care Finland', () => {
+  it('keeps equity generation running across dashboards and reopens its exact scope from activity', async () => {
+    const stream = openEventStream()
+    let signal: AbortSignal | null | undefined
+    const fetchMock = vi.fn(async (url: string, init?: RequestInit) => {
+      if (url.endsWith('/dashboard')) return json({ ...lung, data_loaded: true })
+      if (url.endsWith('/pathway')) return json(fixture)
+      if (url.includes('/demographics/filters')) return json(equityCatalog)
+      if (url.includes('/demographics?')) return json({ items: equityRows, total: equityRows.length })
+      if (url.endsWith('/demographics/briefing/lookup')) return json({ briefing: null })
+      if (url.includes('/demographics/briefing/stream')) { signal = init?.signal; return stream.response }
+      return json({ proposal: null })
+    })
+    vi.stubGlobal('fetch', fetchMock)
+    render(<App />)
+    await screen.findByText(fixture.national_headline)
+    fireEvent.click(screen.getByRole('button', { name: 'Equity Analysis' }))
+    const opener = screen.getByRole('button', { name: 'Open AI briefing' })
+    await waitFor(() => expect((opener as HTMLButtonElement).disabled).toBe(false))
+    fireEvent.click(opener)
+    const generate = await screen.findByRole('button', { name: 'Generate AI briefing' })
+    await waitFor(() => expect((generate as HTMLButtonElement).disabled).toBe(false))
+    fireEvent.click(generate)
+    await waitFor(() => expect(signal).toBeTruthy())
+    await act(async () => {
+      stream.push({ type: 'status', stage: 'drafting', message: 'Drafting equity findings' })
+      stream.push({ type: 'delta', text: 'An equity draft in progress' })
+    })
+    expect(await screen.findByText('An equity draft in progress')).toBeTruthy()
+    fireEvent.click(screen.getByRole('button', { name: 'Close briefing' }))
+    expect(signal?.aborted).toBe(false)
+    fireEvent.click(screen.getByRole('button', { name: 'National Overview' }))
+    await act(async () => { stream.push({ type: 'status', stage: 'checking', message: 'Checking equity citations' }) })
+    const activity = screen.getByRole('region', { name: 'AI generation activity' })
+    expect(within(activity).getByText('Checking equity citations')).toBeTruthy()
+    expect(signal?.aborted).toBe(false)
+    fireEvent.click(within(activity).getByRole('button', { name: /View briefing progress for Equity Analysis/ }))
+    expect(await screen.findByText('An equity draft in progress')).toBeTruthy()
+    expect((screen.getByRole('combobox', { name: 'Reporting year' }) as HTMLSelectElement).value).toBe('2024')
+    expect((screen.getByRole('combobox', { name: 'Funnel cohort' }) as HTMLSelectElement).value).toBe('Primary education/unknown')
+    await act(async () => { stream.push({ type: 'briefing', briefing: savedEquityBriefing }); stream.finish() })
+    expect(await screen.findByText('A cited equity review.')).toBeTruthy()
+    expect(screen.queryByRole('region', { name: 'AI generation activity' })).toBeNull()
+    fireEvent.click(screen.getByRole('button', { name: 'National Overview' }))
+    fireEvent.click(screen.getByRole('button', { name: 'Equity Analysis' }))
+    const reopen = screen.getByRole('button', { name: 'Open AI briefing' })
+    await waitFor(() => expect((reopen as HTMLButtonElement).disabled).toBe(false))
+    fireEvent.click(reopen)
+    expect(await screen.findByText('A cited equity review.')).toBeTruthy()
+    expect(fetchMock.mock.calls.filter(([url]) => url.includes('/demographics/briefing/stream'))).toHaveLength(1)
+  })
+
   it.each(['review', 'chat'] as const)('shows %s progress across dashboards and reopens the ongoing attempt', async kind => {
     const stream = openEventStream()
     let signal: AbortSignal | null | undefined
@@ -41,7 +93,7 @@ describe('Equal Care Finland', () => {
       stream.push({ type: 'status', stage: 'drafting', message: 'Drafting from county evidence' })
       stream.push({ type: 'delta', text: 'Draft before switching' })
     })
-    fireEvent.click(screen.getByRole('button', { name: 'Analytics' }))
+    fireEvent.click(screen.getByRole('button', { name: 'Equity Analysis' }))
     const activity = screen.getByRole('region', { name: 'AI generation activity' })
     const countyName = lung.regions.find(region => region.regionId === 'HVA05')!.regionName
     expect(within(activity).getByText(`${countyName} · Generating ${kind === 'review' ? 'review' : 'answer'}`)).toBeTruthy()
@@ -86,7 +138,7 @@ describe('Equal Care Finland', () => {
     render(<App />)
     await screen.findByText(fixture.national_headline)
 
-    for (const dashboard of ['Analytics', 'National Overview', 'County Review']) {
+    for (const dashboard of ['Equity Analysis', 'National Overview', 'County Review']) {
       const navigation = screen.getByRole('navigation', { name: 'Dashboard navigation' })
       fireEvent.click(within(navigation).getByRole('button', { name: dashboard }))
       fireEvent.click(within(navigation).getByRole('button', { name: 'Close navigation panel' }))
@@ -231,32 +283,20 @@ describe('Equal Care Finland', () => {
     expect(screen.getByText(/AI review and chat need the backend/)).toBeDefined()
   })
 
-  it('puts Analytics first in navigation and switches national outcome charts using published values', async () => {
-    const pathway = structuredClone(fixture)
-    pathway.indicators.push(
-      { ...fixture.indicators[0], id: 'surv_lung_male', label: 'Five-year lung survival in men', short: 'Lung (men) survival', stage: 'outcome', period: '2020-2024' },
-      { ...fixture.indicators[0], id: 'mort_lung_male', label: 'Lung mortality in men', short: 'Lung (men) mortality', stage: 'outcome', unit: '/100k', period: '2020-2024' },
-    )
-    pathway.national.surv_lung_male = { v: 16.7 }
-    pathway.national.mort_lung_male = { v: 50.1 }
+  it('defaults to National Overview and puts Equity Analysis last in navigation', async () => {
     vi.stubGlobal('fetch', vi.fn(async (url: string) => {
       if (url.endsWith('/dashboard')) return json({ ...lung, data_loaded: true })
-      if (url.endsWith('/pathway')) return json(pathway)
+      if (url.endsWith('/pathway')) return json(fixture)
       return { ok: false } as Response
     }))
     render(<App />)
     await screen.findByText(fixture.national_headline)
     const navigation = screen.getByRole('navigation', { name: 'Dashboard navigation' })
-    expect(within(within(navigation).getByRole('group', { name: 'Dashboards' })).getAllByRole('button')[0].textContent).toBe('Analytics')
-    fireEvent.click(within(navigation).getByRole('button', { name: 'Analytics' }))
-    expect(screen.getByRole('heading', { name: 'Analytics' })).toBeDefined()
-    expect(within(screen.getByRole('region', { name: 'Overall national status' })).getByText(/1 of 2 counties/)).toBeDefined()
-    expect(screen.getByRole('img', { name: 'Bowel screening attendance: 70%, 2024' })).toBeDefined()
-    expect(screen.getByRole('figure', { name: 'National five-year relative survival' })).toBeDefined()
-    fireEvent.click(screen.getByRole('radio', { name: 'Mortality' }))
-    expect(screen.queryByRole('figure', { name: 'National five-year relative survival' })).toBeNull()
-    expect(screen.getByRole('img', { name: 'Lung mortality in men: 50.1 /100k, 2020-2024' })).toBeDefined()
-    expect(screen.getByRole('img', { name: /Referral: 0 Act, 0 Verify data, 0 Monitor, 0 In line, 2 No data/ })).toBeDefined()
+    expect(screen.getByRole('heading', { name: 'National Overview' })).toBeDefined()
+    expect(within(navigation).getByRole('button', { name: 'National Overview' }).getAttribute('aria-current')).toBe('page')
+    expect(within(within(navigation).getByRole('group', { name: 'Dashboards' })).getAllByRole('button').map(button => button.textContent)).toEqual(['National Overview', 'County Review', 'Equity Analysis'])
+    fireEvent.click(within(navigation).getByRole('button', { name: 'Equity Analysis' }))
+    expect(screen.getByRole('heading', { name: 'Equity Analysis' })).toBeDefined()
     fireEvent.click(within(navigation).getByRole('button', { name: 'National Overview' }))
     expect(screen.getByRole('heading', { name: 'National Overview' })).toBeDefined()
   })

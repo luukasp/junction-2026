@@ -128,6 +128,36 @@ feeds should use staging tables and bounded streaming imports.
 
 ## Demographic API
 
+### Evidence-grounded equity briefings
+
+`POST /api/v1/demographics/briefing` accepts `observation_ids` (1-120 positive
+screening observation IDs) and a `question` (1-2000 characters). IDs must all
+exist and belong to one programme, year and source table. Values, demographic
+dimensions and provenance are fetched server-side, never accepted from the
+client. The configured AI provider receives only these observations and their
+limitations. The existing answer validator rejects citations outside the selected
+evidence, with one bounded repair attempt. Responses contain `answer`, `evidence`,
+`quality`, `model` and `provider`, like county chat, without creating a county
+conversation. Validated results are persisted in `equity_briefings`, keyed by
+the selected observation IDs and briefing question, with an evidence fingerprint
+and provider/model metadata. Repeated generation reuses the latest matching
+result; `?force=true` explicitly creates a new version.
+
+`POST /api/v1/demographics/briefing/lookup` accepts the same body and returns
+`{"briefing": null}` or the latest saved result, including `id`, `created_at` and
+`stale`. It never calls an AI provider. Changed source values or model settings
+mark a saved result stale without silently replacing it.
+`POST /api/v1/demographics/briefing/stream` accepts the same body and `force`
+option, emitting `status`, `delta` and final `briefing` SSE events. Invalid
+generated output is not saved. Missing IDs return 404 and incompatible tables
+return 422 on the synchronous routes; streaming errors are terminal `error`
+events. Provider or grounding failures use status 502.
+
+Run `backend init-db` once to add the new table without changing existing data.
+Docker Compose performs this automatically on API startup.
+
+### Published demographic observations
+
 `GET /api/v1/demographics` returns paginated screening observations with demographic
 filters. `GET /api/v1/demographics/filters` discovers the exact published filter
 values, years, programs and metrics. Both routes accept the same filters:

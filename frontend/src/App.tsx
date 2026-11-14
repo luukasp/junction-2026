@@ -8,12 +8,13 @@ import { IndicatorAreaList } from './components/IndicatorAreaList'
 import { PathwayExplorer } from './components/PathwayExplorer'
 import { Sidebar } from './components/Sidebar'
 import { CountyReview } from './components/CountyReview'
-import { Analytics } from './components/Analytics'
+import { EquityAnalysis } from './components/EquityAnalysis'
 import { GenerationActivity } from './components/GenerationActivity'
 import { AIGenerationProvider } from './data/AIGenerationContext'
 import { count, percent } from './data/regions'
 import { DashboardProvider, useDashboard } from './data/DashboardContext'
 import { defaultIndicatorId, fallbackHeadline } from './data/pathway'
+import { defaultEquitySelection } from './data/equity'
 import { loadData, type LoadedData } from './data/loadData'
 
 const PRODUCT_NAME = 'Equal Care Finland'
@@ -47,9 +48,11 @@ function DashboardView({ notice, onRetry }: { notice: string; onRetry: () => voi
   const { period, pooledShare, regions, regionsById, reportingRegions, totalMissing, totalPatients, pathway, offline } = useDashboard()
   const [selectedRegionId, setSelectedRegionId] = useState<string | null>(null)
   const [briefingOpen, setBriefingOpen] = useState(false)
+  const [equitySelection, setEquitySelection] = useState(defaultEquitySelection)
+  const [equityBriefingOpen, setEquityBriefingOpen] = useState(false)
   const [navigationOpen, setNavigationOpen] = useState(true)
   const openNavigationButton = useRef<HTMLButtonElement>(null)
-  const [view, setView] = useState<'analytics' | 'national' | 'county'>('national')
+  const [view, setView] = useState<'equity' | 'national' | 'county'>('national')
   const [indicatorId, setIndicatorId] = useState<string | null>(() => pathway ? defaultIndicatorId(pathway) : null)
   const region = regionsById.get(selectedRegionId ?? '') ?? null
   const headline = pathway?.national_headline || fallbackHeadline(regions)
@@ -68,7 +71,7 @@ function DashboardView({ notice, onRetry }: { notice: string; onRetry: () => voi
   return (
     <div className={`min-h-dvh bg-page text-ink md:grid ${navigationOpen ? 'md:grid-cols-[15rem_minmax(0,1fr)]' : 'md:grid-cols-1'}`}>
       <a href="#dashboard-content" className="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-50 focus:rounded-lg focus:bg-ink focus:p-3 focus:text-page">Skip to dashboard</a>
-      <Sidebar open={navigationOpen} onClose={() => setNavigationOpen(false)} view={view} onNavigate={next => { setView(next); setBriefingOpen(false) }} />
+      <Sidebar open={navigationOpen} onClose={() => setNavigationOpen(false)} view={view} onNavigate={next => { setView(next); setBriefingOpen(false); setEquityBriefingOpen(false) }} />
       <div className="min-w-0">
         <header className="border-b border-line">
           <div className="mx-auto flex max-w-7xl items-start gap-3 px-4 py-4 sm:px-8">
@@ -83,14 +86,14 @@ function DashboardView({ notice, onRetry }: { notice: string; onRetry: () => voi
             </div>
           </div>
         </header>
-        <GenerationActivity onOpenCounty={areaCode => { setSelectedRegionId(areaCode); setView('national'); setBriefingOpen(true) }} />
+        <GenerationActivity onOpenCounty={areaCode => { setSelectedRegionId(areaCode); setView('national'); setBriefingOpen(true) }} onOpenEquity={selection => { setEquitySelection(selection); setEquityBriefingOpen(true); setView('equity') }} />
         {offline && notice && <div role="status" className="border-b border-line bg-raised">
           <p className="mx-auto flex max-w-7xl flex-wrap items-center gap-2 px-4 py-2 text-sm text-secondary sm:px-8">
             <WifiOff size={16} strokeWidth={1.5} aria-hidden className="text-muted" />{notice}
             <button type="button" onClick={onRetry} className="ml-auto rounded-lg border border-line px-3 py-1 text-xs text-accent hover:bg-panel focus-visible:outline-2 focus-visible:outline-accent">Retry live data</button>
           </p>
         </div>}
-        {view === 'analytics' ? <Analytics /> : view === 'county' ? <CountyReview selectedCountyId={selectedRegionId} onCountyChange={setSelectedRegionId} /> : <main id="dashboard-content" className="mx-auto grid max-w-7xl gap-6 px-4 py-6 sm:px-8">
+        {view === 'equity' ? <EquityAnalysis selection={equitySelection} onSelectionChange={setEquitySelection} briefingOpen={equityBriefingOpen} onBriefingOpenChange={setEquityBriefingOpen} /> : view === 'county' ? <CountyReview selectedCountyId={selectedRegionId} onCountyChange={setSelectedRegionId} /> : <main id="dashboard-content" className="mx-auto grid max-w-7xl gap-6 px-4 py-6 sm:px-8">
           <h2 className="text-2xl font-medium">National Overview</h2>
           {headline && <section aria-label="National headline" className="py-2">
             <p className="max-w-4xl text-xl leading-snug text-ink sm:text-2xl">{headline}</p>

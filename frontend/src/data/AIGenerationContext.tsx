@@ -1,5 +1,6 @@
 import { createContext, useContext, useEffect, useState, useSyncExternalStore, type ReactNode } from 'react'
 import { AIGenerationStore } from '../lib/aiGeneration'
+import type { EquityBriefingInput } from './equity'
 
 const Context = createContext<AIGenerationStore | null>(null)
 export function AIGenerationProvider({ children }: { children: ReactNode }) {
@@ -23,4 +24,11 @@ export function useCountyAI(areaCode: string) {
 export function useGenerationActivity() {
   const store = useStore()
   return useSyncExternalStore(store.subscribe, store.getSnapshot)
+}
+// oxlint-disable-next-line react/only-export-components
+export function useEquityAI(input: EquityBriefingInput) {
+  const session = useStore().forEquity(input)
+  const state = useSyncExternalStore(session.subscribe, session.getSnapshot)
+  useEffect(() => { session.initialize() }, [session])
+  return { ...state, session }
 }

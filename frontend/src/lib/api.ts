@@ -11,6 +11,7 @@ export type Quality = {
 export type AIResponse = { answer: Answer; evidence: Evidence[]; quality: Quality; model: string; provider: string; conversation_id?: string; version?: number }
 export type Conversation = { id: string; area_code: string; version: number; turns: { question: string; response: AIResponse }[] }
 export type SavedProposal = AIResponse & { id: number; area_code: string; created_at: string; stale: boolean }
+export type SavedEquityBriefing = AIResponse & { id: number; created_at: string; stale: boolean }
 
 const base = (import.meta.env.VITE_API_BASE_URL ?? '').replace(/\/$/, '')
 export class ApiError extends Error {
@@ -35,6 +36,7 @@ export type StreamEvent =
   | { type: 'error'; detail: string; status?: number }
   | { type: 'done'; response: AIResponse }
   | { type: 'proposal'; proposal: SavedProposal }
+  | { type: 'briefing'; briefing: SavedEquityBriefing }
 
 /** POST and read a Server-Sent Events stream. Rejects on HTTP or terminal `error` events. */
 export async function streamApi(path: string, options: RequestInit, onEvent: (event: StreamEvent) => void): Promise<void> {
@@ -62,7 +64,7 @@ export async function streamApi(path: string, options: RequestInit, onEvent: (ev
         const event = JSON.parse(data) as StreamEvent
         if (event.type === 'error') throw new ApiError(event.detail, event.status ?? 502)
         onEvent(event)
-        if (event.type === 'done' || event.type === 'proposal') return
+        if (event.type === 'done' || event.type === 'proposal' || event.type === 'briefing') return
       }
     }
     throw new Error('Generation ended before completing. Please retry.')

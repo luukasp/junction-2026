@@ -200,6 +200,19 @@ review_proposals = table(
     Column("quality", JSON, nullable=False),
 )
 
+equity_briefings = table(
+    "equity_briefings",
+    identity(),
+    Column("scope_key", String(64), nullable=False, index=True),
+    Column("fingerprint", String(64), nullable=False),
+    Column("created_at", DateTime, nullable=False),
+    Column("provider", String(40), nullable=False),
+    Column("model", String(150), nullable=False),
+    Column("answer", JSON, nullable=False),
+    Column("evidence", JSON, nullable=False),
+    Column("quality", JSON, nullable=False),
+)
+
 chat_conversations = table(
     "chat_conversations",
     Column("id", String(36), primary_key=True),

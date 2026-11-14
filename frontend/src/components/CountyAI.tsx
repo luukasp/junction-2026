@@ -1,7 +1,8 @@
-import { ArrowUp, Check, ClipboardList, Loader2, RotateCcw, Square } from 'lucide-react'
+import { ArrowUp, ClipboardList, Loader2, RotateCcw, Square } from 'lucide-react'
 import { useEffect, useRef, useState, type FormEvent, type KeyboardEvent } from 'react'
 import { useCountyAI } from '../data/AIGenerationContext'
-import type { Message, Step } from '../lib/aiGeneration'
+import type { Message } from '../lib/aiGeneration'
+import { GenerationSteps as Steps } from './GenerationSteps'
 import { AnswerView } from './intelligent-ui/AnswerView'
 import { ChatText } from './intelligent-ui/ChatText'
 
@@ -12,21 +13,6 @@ const suggestions = [
   'What should we review first, and who owns it?',
   'Which data gaps limit this picture?',
 ]
-function Steps({ steps, active }: { steps: Step[]; active: boolean }) {
-  if (!steps.length) return active ? <StepLine message="Starting" active /> : null
-  return <ol className="grid gap-1" aria-label="Progress">
-    {steps.map((step, i) => <StepLine key={i} message={step.message} active={active && i === steps.length - 1} />)}
-  </ol>
-}
-
-function StepLine({ message, active }: { message: string; active: boolean }) {
-  return <li className="flex list-none items-center gap-2 text-xs text-muted">
-    {active
-      ? <Loader2 size={12} strokeWidth={2} aria-hidden className="animate-spin text-accent motion-reduce:animate-none" />
-      : <Check size={12} strokeWidth={2} aria-hidden className="text-muted" />}
-    <span className={active ? 'text-secondary' : ''}>{message}{active ? '…' : ''}</span>
-  </li>
-}
 
 export function CountyAI({ areaCode }: { areaCode: string }) {
   return <CountyAISession key={areaCode} areaCode={areaCode} />

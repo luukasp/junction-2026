@@ -2,7 +2,7 @@ import { useEffect, useRef } from 'react'
 import { Activity, ChartNoAxesCombined, Map, MapPin, PanelLeftClose } from 'lucide-react'
 import { ThemeSwitcher } from './ThemeSwitcher'
 
-type View = 'analytics' | 'national' | 'county'
+type View = 'equity' | 'national' | 'county'
 type Props = { view: View; onNavigate: (view: View) => void; open: boolean; onClose: () => void }
 
 export function Sidebar({ view, onNavigate, open, onClose }: Props) {
@@ -26,7 +26,7 @@ export function Sidebar({ view, onNavigate, open, onClose }: Props) {
     </div>
     <p id="dashboard-navigation-heading" className="mb-2 text-xs text-muted">Dashboards</p>
     <div role="group" aria-labelledby="dashboard-navigation-heading" className="grid grid-cols-2 gap-1 sm:grid-cols-3 md:grid-cols-1">
-      {([{ id: 'analytics', label: 'Analytics', icon: ChartNoAxesCombined }, { id: 'national', label: 'National Overview', icon: Map }, { id: 'county', label: 'County Review', icon: MapPin }] as const).map(item => <button key={item.id} type="button" onClick={() => onNavigate(item.id)} aria-current={view === item.id ? 'page' : undefined}
+      {([{ id: 'national', label: 'National Overview', icon: Map }, { id: 'county', label: 'County Review', icon: MapPin }, { id: 'equity', label: 'Equity Analysis', icon: ChartNoAxesCombined }] as const).map(item => <button key={item.id} type="button" onClick={() => onNavigate(item.id)} aria-current={view === item.id ? 'page' : undefined}
         className={`flex min-h-9 items-center gap-2 rounded-lg px-3 py-2 text-left text-sm transition-colors duration-150 ease-out focus-visible:outline-2 focus-visible:outline-accent motion-reduce:transition-none ${view === item.id ? 'bg-raised text-accent' : 'text-secondary hover:bg-raised hover:text-ink'}`}>
         <item.icon size={16} strokeWidth={1.5} className="shrink-0" aria-hidden />{item.label}
       </button>)}

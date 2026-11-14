@@ -1,4 +1,6 @@
 import { api, ApiError, streamApi, type AIResponse, type Conversation, type SavedProposal, type StreamEvent } from './api'
+import { EquityAISession } from './equityGeneration'
+import type { EquityBriefingInput, EquitySelection } from '../data/equity'
 
 export type Step = { stage: string; message: string }
 export type Progress = { steps: Step[]; text: string }
@@ -6,7 +8,7 @@ export type Message =
   | { id: number; role: 'user'; text: string }
   | { id: number; role: 'assistant'; question: string; progress: Progress; response?: AIResponse; error?: string; stopped?: boolean }
 type Assistant = Extract<Message, { role: 'assistant' }>
-export type GenerationActivity = { areaCode: string; kind: 'review' | 'chat'; message: string }
+export type GenerationActivity = { areaCode: string; kind: 'review' | 'chat'; message: string } | { kind: 'equity'; key: string; label: string; selection: EquitySelection; message: string }
 type State = {
   proposal: SavedProposal | null; loading: boolean; review: Progress | null; reviewError: string
   messages: Message[]; chatBusy: boolean; chatReady: boolean; chatError: string; clearing: boolean
@@ -179,12 +181,18 @@ export class CountyAISession {
 
 export class AIGenerationStore {
   private counties = new Map<string, CountyAISession>()
+  private equity = new Map<string, EquityAISession>()
   private listeners = new Set<() => void>()
   private activity: GenerationActivity[] = []
 
   forCounty = (areaCode: string) => {
     let session = this.counties.get(areaCode)
     if (!session) { session = new CountyAISession(areaCode, this.updateActivity); this.counties.set(areaCode, session) }
+    return session
+  }
+  forEquity = (input: EquityBriefingInput) => {
+    let session = this.equity.get(input.key)
+    if (!session) { session = new EquityAISession(input, this.updateActivity); this.equity.set(input.key, session) }
     return session
   }
   getSnapshot = () => this.activity
@@ -201,6 +209,10 @@ export class AIGenerationStore {
         const last = state.messages.at(-1)
         activity.push({ areaCode, kind: 'chat', message: last?.role === 'assistant' ? last.progress.steps.at(-1)?.message ?? 'Starting answer' : 'Starting answer' })
       }
+    }
+    for (const [key, session] of this.equity) {
+      const progress = session.getSnapshot().progress
+      if (progress) activity.push({ kind: 'equity', key, label: session.input.label, selection: session.input.selection, message: progress.steps.at(-1)?.message ?? 'Starting equity briefing' })
     }
     if (JSON.stringify(activity) === JSON.stringify(this.activity)) return
     this.activity = activity

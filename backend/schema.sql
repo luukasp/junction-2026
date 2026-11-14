@@ -193,6 +193,21 @@ CREATE TABLE review_proposals (
 ;
 CREATE INDEX ix_review_proposals_area_code ON review_proposals (area_code);
 
+CREATE TABLE equity_briefings (
+    id INTEGER NOT NULL AUTO_INCREMENT,
+    scope_key VARCHAR(64) NOT NULL,
+    fingerprint VARCHAR(64) NOT NULL,
+    created_at DATETIME NOT NULL,
+    provider VARCHAR(40) NOT NULL,
+    model VARCHAR(150) NOT NULL,
+    answer JSON NOT NULL,
+    evidence JSON NOT NULL,
+    quality JSON NOT NULL,
+    CONSTRAINT pk_equity_briefings PRIMARY KEY (id)
+)ENGINE=InnoDB CHARSET=utf8mb4 COLLATE utf8mb4_bin;
+
+CREATE INDEX ix_equity_briefings_scope_key ON equity_briefings (scope_key);
+
 CREATE TABLE chat_conversations (
     id VARCHAR(36) NOT NULL,
     area_code VARCHAR(10) NOT NULL,
