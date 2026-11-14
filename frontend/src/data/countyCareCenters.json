@@ -1,0 +1,717 @@
+[
+  {
+    "id": "county-osm-node-941381821",
+    "regionId": "HVA01",
+    "name": "Lapinjärven terveystalo",
+    "coordinates": [
+      26.1978689,
+      60.6238156
+    ],
+    "sourceUrl": "https://www.lapinjarvi.fi/sosiaali-ja-terveyspalvelut/terveydenhuolto/",
+    "locationSourceUrl": "https://www.openstreetmap.org/node/941381821",
+    "city": "Lapinjärvi"
+  },
+  {
+    "id": "county-osm-way-1113181423",
+    "regionId": "HVA02",
+    "name": "Klaukkala health station",
+    "coordinates": [
+      24.7471562,
+      60.379795
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/1113181423",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/1113181423",
+    "city": "Nurmijärvi"
+  },
+  {
+    "id": "county-osm-way-1113189629",
+    "regionId": "HVA02",
+    "name": "Nurmijävi health center",
+    "coordinates": [
+      24.8063955,
+      60.4680649
+    ],
+    "sourceUrl": "https://www.keusote.fi/palvelupaikat/nurmijarven-kirkonkylan-terveysasema/",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/1113189629",
+    "city": "Nurmijärvi"
+  },
+  {
+    "id": "county-osm-way-125089515",
+    "regionId": "HVA02",
+    "name": "South Tuusula Health and Social Welfare Centre",
+    "coordinates": [
+      25.0249862,
+      60.4016162
+    ],
+    "sourceUrl": "https://www.keusote.fi/palvelupaikat/etela-tuusulan-sosiaali-ja-terveysasema/",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/125089515",
+    "city": "Tuusula"
+  },
+  {
+    "id": "county-osm-way-27156980",
+    "regionId": "HVA03",
+    "name": "Espoonlahti Health Centre",
+    "coordinates": [
+      24.660587,
+      60.1489057
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/27156980",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/27156980",
+    "city": "Espoo"
+  },
+  {
+    "id": "county-osm-way-545321103",
+    "regionId": "HVA03",
+    "name": "Hangon terveysasema",
+    "coordinates": [
+      22.9740833,
+      59.8297271
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/545321103",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/545321103",
+    "city": "Hanko"
+  },
+  {
+    "id": "county-osm-way-860064675",
+    "regionId": "HVA03",
+    "name": "Nummelan terveysasema",
+    "coordinates": [
+      24.3233576,
+      60.3451772
+    ],
+    "sourceUrl": "https://www.luvn.fi/",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/860064675",
+    "city": "Nummela"
+  },
+  {
+    "id": "county-osm-way-129693709",
+    "regionId": "HVA03",
+    "name": "Tapiola Health Centre",
+    "coordinates": [
+      24.7980965,
+      60.1783418
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/129693709",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/129693709",
+    "city": "Espoo"
+  },
+  {
+    "id": "county-osm-way-372950158",
+    "regionId": "HVA04",
+    "name": "Katriina hospital",
+    "coordinates": [
+      24.8736909,
+      60.3457624
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/372950158",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/372950158",
+    "city": "Vantaa"
+  },
+  {
+    "id": "county-osm-node-260978035",
+    "regionId": "HVA04",
+    "name": "Kerava Health Centre",
+    "coordinates": [
+      25.0874811,
+      60.4094808
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/node/260978035",
+    "locationSourceUrl": "https://www.openstreetmap.org/node/260978035",
+    "city": "Kerava"
+  },
+  {
+    "id": "county-osm-way-400325897",
+    "regionId": "HVA05",
+    "name": "Kaarinan pääterveysasema",
+    "coordinates": [
+      22.3765111,
+      60.4062705
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/400325897",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/400325897",
+    "city": "Kaarina"
+  },
+  {
+    "id": "county-osm-way-1104929409",
+    "regionId": "HVA05",
+    "name": "Loimaa Hospital",
+    "coordinates": [
+      23.050323,
+      60.852261
+    ],
+    "sourceUrl": "https://www.tyks.fi/potilaille-ja-laheisille/sairaalat-ja-toimipisteet/tyks-loimaan-sairaala",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/1104929409",
+    "city": "Loimaa"
+  },
+  {
+    "id": "county-osm-way-399193083",
+    "regionId": "HVA05",
+    "name": "Salo Regional Hospital",
+    "coordinates": [
+      23.1275937,
+      60.3753581
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/399193083",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/399193083"
+  },
+  {
+    "id": "county-osm-way-399187187",
+    "regionId": "HVA05",
+    "name": "Vakka-Suomi Hospital",
+    "coordinates": [
+      21.4232886,
+      60.7957908
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/399187187",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/399187187",
+    "city": "Uusikaupunki"
+  },
+  {
+    "id": "county-osm-way-1157637037",
+    "regionId": "HVA06",
+    "name": "Harjavallan terveysasema",
+    "coordinates": [
+      22.1504646,
+      61.3108721
+    ],
+    "sourceUrl": "https://satakunnanhyvinvointialue.fi/palvelut/terveyspalvelut/harjavallan-terveysasema/",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/1157637037",
+    "city": "Harjavalta"
+  },
+  {
+    "id": "county-osm-way-128405772",
+    "regionId": "HVA06",
+    "name": "Rauman sairaala",
+    "coordinates": [
+      21.5236539,
+      61.1306034
+    ],
+    "sourceUrl": "https://www.rauma.fi/sosiaali-ja-terveyspalvelut/terveyspalvelut/",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/128405772",
+    "city": "Rauma"
+  },
+  {
+    "id": "county-osm-way-448731780",
+    "regionId": "HVA07",
+    "name": "Forssan sairaala",
+    "coordinates": [
+      23.6377148,
+      60.8207723
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/448731780",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/448731780"
+  },
+  {
+    "id": "county-osm-way-358190930",
+    "regionId": "HVA07",
+    "name": "Kanta-Hämeen keskussairaala, Riihimäen yksikkö",
+    "coordinates": [
+      24.7441454,
+      60.7465238
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/358190930",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/358190930"
+  },
+  {
+    "id": "county-osm-way-424422384",
+    "regionId": "HVA08",
+    "name": "Sastamalan sairaala",
+    "coordinates": [
+      22.9214166,
+      61.3375198
+    ],
+    "sourceUrl": "https://www.pirha.fi/toimipisteet/sairaalat-ja-hoitoyksikot/sastamalan-sairaala",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/424422384",
+    "city": "Sastamala"
+  },
+  {
+    "id": "county-osm-way-68336779",
+    "regionId": "HVA08",
+    "name": "Tays Hatanpään kantasairaala",
+    "coordinates": [
+      23.755202,
+      61.4844747
+    ],
+    "sourceUrl": "https://www.pirha.fi/toimipisteet/sairaalat-ja-hoitoyksikot/tays-hatanpaa",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/68336779",
+    "city": "Tampere"
+  },
+  {
+    "id": "county-osm-way-401419557",
+    "regionId": "HVA08",
+    "name": "Valkeakoski Regional Hospital",
+    "coordinates": [
+      24.0320761,
+      61.2704824
+    ],
+    "sourceUrl": "https://www.pirha.fi/toimipisteet/sairaalat-ja-hoitoyksikot/valkeakosken-sairaala",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/401419557",
+    "city": "Valkeakoski"
+  },
+  {
+    "id": "county-osm-way-1125671798",
+    "regionId": "HVA09",
+    "name": "Hollolan sote-keskus",
+    "coordinates": [
+      25.508744,
+      60.9913052
+    ],
+    "sourceUrl": "https://paijat-sote.fi/sote-keskukset/hollolan-sote-keskus/",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/1125671798",
+    "city": "Hollola"
+  },
+  {
+    "id": "county-osm-way-371870499",
+    "regionId": "HVA09",
+    "name": "Iitin sote-keskus",
+    "coordinates": [
+      26.3430853,
+      60.8967412
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/371870499",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/371870499",
+    "city": "Kausala"
+  },
+  {
+    "id": "county-osm-way-529508122",
+    "regionId": "HVA09",
+    "name": "Nastolan sosiaali- ja terveyskeskus",
+    "coordinates": [
+      25.9260469,
+      60.9461955
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/529508122",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/529508122",
+    "city": "Nastola"
+  },
+  {
+    "id": "county-osm-way-43767362",
+    "regionId": "HVA10",
+    "name": "Haminan terveysasema",
+    "coordinates": [
+      27.1770159,
+      60.5770801
+    ],
+    "sourceUrl": "https://kymenhva.fi/haminan-terveysasema/",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/43767362",
+    "city": "Hamina"
+  },
+  {
+    "id": "county-osm-way-693070015",
+    "regionId": "HVA10",
+    "name": "Ratamokeskus",
+    "coordinates": [
+      26.7002415,
+      60.8770181
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/693070015",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/693070015",
+    "city": "Kouvola"
+  },
+  {
+    "id": "county-osm-way-1347668597",
+    "regionId": "HVA11",
+    "name": "Honkaharjun hyvinvointiasema",
+    "coordinates": [
+      28.8215413,
+      61.2217038
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/1347668597",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/1347668597",
+    "city": "Imatra"
+  },
+  {
+    "id": "county-osm-way-1266458403",
+    "regionId": "HVA11",
+    "name": "Joutseno Wellbeing Centre",
+    "coordinates": [
+      28.5043645,
+      61.1151991
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/1266458403",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/1266458403",
+    "city": "Joutseno"
+  },
+  {
+    "id": "county-osm-way-461741585",
+    "regionId": "HVA11",
+    "name": "Parikkalan hyvinvointikeskus",
+    "coordinates": [
+      29.4980795,
+      61.5592222
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/461741585",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/461741585",
+    "city": "Parikkala"
+  },
+  {
+    "id": "county-osm-way-689544344",
+    "regionId": "HVA12",
+    "name": "Juvan hyvinvointikeskus",
+    "coordinates": [
+      27.8666291,
+      61.8941689
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/689544344",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/689544344",
+    "city": "Juva"
+  },
+  {
+    "id": "county-osm-way-320485265",
+    "regionId": "HVA12",
+    "name": "Kangasniemen sosiaali- ja terveysasema",
+    "coordinates": [
+      26.6366144,
+      61.99286
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/320485265",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/320485265",
+    "city": "Kangasniemi"
+  },
+  {
+    "id": "county-osm-node-415334051",
+    "regionId": "HVA12",
+    "name": "Pieksämäen sairaala",
+    "coordinates": [
+      27.1496364,
+      62.3028253
+    ],
+    "sourceUrl": "https://www.pieksamaki.fi/terveys-ja-hyvinvointi/",
+    "locationSourceUrl": "https://www.openstreetmap.org/node/415334051",
+    "city": "Pieksämäki"
+  },
+  {
+    "id": "county-osm-way-547711510",
+    "regionId": "HVA13",
+    "name": "Aalto-hyvinvointikeskus",
+    "coordinates": [
+      27.8903754,
+      62.3296905
+    ],
+    "sourceUrl": "https://pshyvinvointialue.fi/",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/547711510",
+    "city": "Varkaus"
+  },
+  {
+    "id": "county-osm-way-1093575451",
+    "regionId": "HVA13",
+    "name": "Iisalmen aluesairaala",
+    "coordinates": [
+      27.1822527,
+      63.5630616
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/1093575451",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/1093575451"
+  },
+  {
+    "id": "county-osm-way-179301143",
+    "regionId": "HVA13",
+    "name": "Kiuruveden terveyskeskus",
+    "coordinates": [
+      26.6118213,
+      63.6585463
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/179301143",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/179301143",
+    "city": "Kiuruvesi"
+  },
+  {
+    "id": "county-osm-way-454500423",
+    "regionId": "HVA14",
+    "name": "Kiteen terveyskeskus",
+    "coordinates": [
+      30.1295123,
+      62.0966802
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/454500423",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/454500423",
+    "city": "Kitee"
+  },
+  {
+    "id": "county-osm-way-739817319",
+    "regionId": "HVA14",
+    "name": "Nurmeksen sosiaali- ja terveyskeskus",
+    "coordinates": [
+      29.1145226,
+      63.5539325
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/739817319",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/739817319",
+    "city": "Nurmes"
+  },
+  {
+    "id": "county-osm-way-578591083",
+    "regionId": "HVA14",
+    "name": "Siilaisen terveysasema",
+    "coordinates": [
+      29.7259305,
+      62.6160385
+    ],
+    "sourceUrl": "https://www.siunsote.fi/asiointikanava/siilaisen-terveysasema/",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/578591083",
+    "city": "Joensuu"
+  },
+  {
+    "id": "county-osm-way-812940653",
+    "regionId": "HVA15",
+    "name": "Joutsan sosiaali- ja terveyskeskus",
+    "coordinates": [
+      26.1179743,
+      61.7392545
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/812940653",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/812940653",
+    "city": "Joutsa"
+  },
+  {
+    "id": "county-osm-node-5959768189",
+    "regionId": "HVA15",
+    "name": "Jämsän terveysasema",
+    "coordinates": [
+      25.1885721,
+      61.8757756
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/node/5959768189",
+    "locationSourceUrl": "https://www.openstreetmap.org/node/5959768189",
+    "city": "Jämsä"
+  },
+  {
+    "id": "county-osm-way-544291551",
+    "regionId": "HVA15",
+    "name": "Viitasaaren terveysasema",
+    "coordinates": [
+      25.8514009,
+      63.0706617
+    ],
+    "sourceUrl": "https://hyvaks.fi/asiointi/viitasaaren-terveysasema",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/544291551",
+    "city": "Viitasaari"
+  },
+  {
+    "id": "county-osm-way-1207263903",
+    "regionId": "HVA16",
+    "name": "Alavuden sosiaali- ja terveyskeskus",
+    "coordinates": [
+      23.6269464,
+      62.5864892
+    ],
+    "sourceUrl": "https://www.hyvaep.fi/toimipiste/alavuden-sosiaali-ja-terveyskeskus/",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/1207263903",
+    "city": "Alavus"
+  },
+  {
+    "id": "county-osm-way-1071132180",
+    "regionId": "HVA16",
+    "name": "Järvi-Pohjanmaan sote-keskus, Alajärvi",
+    "coordinates": [
+      23.827652,
+      62.9967453
+    ],
+    "sourceUrl": "https://www.hyvaep.fi/toimipiste/jarvi-pohjanmaan-sote-keskus-alajarvi/",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/1071132180",
+    "city": "Alajärvi"
+  },
+  {
+    "id": "county-osm-way-457721959",
+    "regionId": "HVA16",
+    "name": "Kauhajoen terveyskeskus",
+    "coordinates": [
+      22.1714554,
+      62.4247222
+    ],
+    "sourceUrl": "https://www.hyvaep.fi/",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/457721959",
+    "city": "Kauhajoki"
+  },
+  {
+    "id": "county-osm-way-400785930",
+    "regionId": "HVA17",
+    "name": "Bottenhavets sjukhus – Selkämeren sairaala",
+    "coordinates": [
+      21.40428,
+      62.2727917
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/400785930",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/400785930",
+    "city": "Kristiinankaupunki"
+  },
+  {
+    "id": "county-osm-node-6433220134",
+    "regionId": "HVA17",
+    "name": "Jakobstads sjukhus",
+    "coordinates": [
+      22.721657,
+      63.680493
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/node/6433220134",
+    "locationSourceUrl": "https://www.openstreetmap.org/node/6433220134",
+    "city": "Jakobstad"
+  },
+  {
+    "id": "county-osm-way-27660112",
+    "regionId": "HVA17",
+    "name": "Korsholm hälsovårdscentral",
+    "coordinates": [
+      21.6989091,
+      63.1226822
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/27660112",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/27660112",
+    "city": "Mustasaari"
+  },
+  {
+    "id": "county-osm-way-198842109",
+    "regionId": "HVA18",
+    "name": "Toholammin terveyskeskus",
+    "coordinates": [
+      24.2513724,
+      63.775976
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/198842109",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/198842109"
+  },
+  {
+    "id": "county-osm-way-1123036138",
+    "regionId": "HVA19",
+    "name": "Oulaskankaan sairaala",
+    "coordinates": [
+      24.8387307,
+      64.2673487
+    ],
+    "sourceUrl": "https://oys.fi/oulaskangas/",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/1123036138",
+    "city": "Oulainen"
+  },
+  {
+    "id": "county-osm-node-1416012316",
+    "regionId": "HVA19",
+    "name": "Pudasjärven terveysasema",
+    "coordinates": [
+      26.9870948,
+      65.3593176
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/node/1416012316",
+    "locationSourceUrl": "https://www.openstreetmap.org/node/1416012316",
+    "city": "Pudasjärvi"
+  },
+  {
+    "id": "county-osm-way-1368054185",
+    "regionId": "HVA19",
+    "name": "Raahen sairaala (RAS)",
+    "coordinates": [
+      24.4722596,
+      64.6966848
+    ],
+    "sourceUrl": "https://pohde.fi/sairaala/raahen-sairaala-ras/",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/1368054185",
+    "city": "Raahe"
+  },
+  {
+    "id": "county-osm-way-566349621",
+    "regionId": "HVA20",
+    "name": "Hyrynsalmen terveysasema",
+    "coordinates": [
+      28.4923041,
+      64.6808451
+    ],
+    "sourceUrl": "https://hyvinvointialue.kainuu.fi/toimipaikat/hyrynsalmen-terveysasema",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/566349621",
+    "city": "Hyrynsalmi"
+  },
+  {
+    "id": "county-osm-way-553631462",
+    "regionId": "HVA20",
+    "name": "Kuhmo health centre",
+    "coordinates": [
+      29.5111468,
+      64.1280851
+    ],
+    "sourceUrl": "https://sote.kainuu.fi/toimipisteet/kuhmon-terveyskeskussairaala",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/553631462",
+    "city": "Kuhmo"
+  },
+  {
+    "id": "county-osm-way-606074372",
+    "regionId": "HVA20",
+    "name": "Sotkamon terveyskeskus",
+    "coordinates": [
+      28.3917942,
+      64.1329217
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/606074372",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/606074372",
+    "city": "Sotkamo"
+  },
+  {
+    "id": "county-osm-way-867279232",
+    "regionId": "HVA21",
+    "name": "Kemijärven terveyskeskus Lapponia",
+    "coordinates": [
+      27.442435,
+      66.7052357
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/867279232",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/867279232",
+    "city": "Kemijärvi"
+  },
+  {
+    "id": "county-osm-way-421856460",
+    "regionId": "HVA21",
+    "name": "Kittilän terveyskeskus",
+    "coordinates": [
+      24.9259052,
+      67.6480648
+    ],
+    "sourceUrl": "https://www.kittila.fi/paivystys-ja-ensiapu",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/421856460",
+    "city": "Kittilä"
+  },
+  {
+    "id": "county-osm-way-823507158",
+    "regionId": "HVA21",
+    "name": "Sodankylän Hyvinvointikeskus Sopukka",
+    "coordinates": [
+      26.5740801,
+      67.4113512
+    ],
+    "sourceUrl": "https://www.sodankyla.fi/sosiaali-ja-terveyspalvelut/Pages/Terveyspalvelut.aspx",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/823507158",
+    "city": "Sodankylä"
+  },
+  {
+    "id": "county-osm-way-442872036",
+    "regionId": "HVA90",
+    "name": "Laakso hospital",
+    "coordinates": [
+      24.9177596,
+      60.1924648
+    ],
+    "sourceUrl": "https://www.hel.fi/fi/sosiaali-ja-terveyspalvelut/terveydenhoito/sairaalat-ja-poliklinikat/laakson-sairaala",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/442872036",
+    "city": "Helsinki"
+  },
+  {
+    "id": "county-osm-way-333579518",
+    "regionId": "HVA90",
+    "name": "Malmi Hospital",
+    "coordinates": [
+      24.9993372,
+      60.2534034
+    ],
+    "sourceUrl": "https://www.openstreetmap.org/way/333579518",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/333579518",
+    "city": "Helsinki"
+  },
+  {
+    "id": "county-osm-way-37280744",
+    "regionId": "HVA90",
+    "name": "Surgical Hospital",
+    "coordinates": [
+      24.9493439,
+      60.161501
+    ],
+    "sourceUrl": "https://hus.fi/potilaalle/sairaalat-ja-toimipisteet/kirurginen-sairaala",
+    "locationSourceUrl": "https://www.openstreetmap.org/way/37280744",
+    "city": "Helsinki"
+  }
+]

@@ -1,5 +1,5 @@
-import { useEffect, useState } from 'react'
-import { Activity, ClipboardList, MapPin, TriangleAlert, WifiOff } from 'lucide-react'
+import { useEffect, useRef, useState } from 'react'
+import { Activity, ClipboardList, MapPin, PanelLeftOpen, TriangleAlert, WifiOff } from 'lucide-react'
 import { KPICard } from './components/KPICard'
 import { MapContainer } from './components/MapContainer'
 import { ExecutiveBriefingPanel } from './components/ExecutiveBriefingPanel'
@@ -41,6 +41,8 @@ function DashboardView({ notice, onRetry }: { notice: string; onRetry: () => voi
   const { period, pooledShare, regions, regionsById, reportingRegions, totalMissing, totalPatients, pathway, offline } = useDashboard()
   const [selectedRegionId, setSelectedRegionId] = useState<string | null>(null)
   const [briefingOpen, setBriefingOpen] = useState(false)
+  const [navigationOpen, setNavigationOpen] = useState(true)
+  const openNavigationButton = useRef<HTMLButtonElement>(null)
   const [view, setView] = useState<'analytics' | 'national' | 'county'>('national')
   const [indicatorId, setIndicatorId] = useState<string | null>(() => pathway ? defaultIndicatorId(pathway) : null)
   const region = regionsById.get(selectedRegionId ?? '') ?? null
@@ -48,18 +50,26 @@ function DashboardView({ notice, onRetry }: { notice: string; onRetry: () => voi
   const flagged = pathway?.counties.filter(c => Object.values(c.stage_verdicts).includes('act')).length ?? 0
   const pathwayIndicator = pathway && indicatorId && pathway.indicators.some(i => i.id === indicatorId) ? indicatorId : null
 
+  useEffect(() => {
+    if (!navigationOpen) openNavigationButton.current?.focus()
+  }, [navigationOpen])
+
   function selectRegion(id: string) {
     setSelectedRegionId(id)
     setBriefingOpen(true)
   }
 
   return (
-    <div className="min-h-dvh bg-page text-ink md:grid md:grid-cols-[15rem_minmax(0,1fr)]">
+    <div className={`min-h-dvh bg-page text-ink md:grid ${navigationOpen ? 'md:grid-cols-[15rem_minmax(0,1fr)]' : 'md:grid-cols-1'}`}>
       <a href="#dashboard-content" className="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-50 focus:rounded-lg focus:bg-ink focus:p-3 focus:text-page">Skip to dashboard</a>
-      <Sidebar view={view} onNavigate={next => { setView(next); setBriefingOpen(false) }} />
+      <Sidebar open={navigationOpen} onClose={() => setNavigationOpen(false)} view={view} onNavigate={next => { setView(next); setBriefingOpen(false) }} />
       <div className="min-w-0">
         <header className="border-b border-line">
           <div className="mx-auto flex max-w-7xl items-start gap-3 px-4 py-4 sm:px-8">
+            {!navigationOpen && <button ref={openNavigationButton} type="button" onClick={() => setNavigationOpen(true)} aria-label="Open navigation panel" title="Open navigation panel" aria-controls="dashboard-navigation" aria-expanded={false}
+              className="grid size-8 shrink-0 place-items-center rounded-lg border border-line text-secondary hover:bg-raised hover:text-ink focus-visible:outline-2 focus-visible:outline-accent">
+              <PanelLeftOpen size={16} strokeWidth={1.5} aria-hidden />
+            </button>}
             <Activity size={16} strokeWidth={1.5} className="mt-1 shrink-0 text-accent" aria-hidden />
             <div>
               <h1 className="text-base font-semibold sm:text-lg">{PRODUCT_NAME}</h1>

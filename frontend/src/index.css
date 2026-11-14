@@ -3,6 +3,27 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 @theme {
+  --color-page: #f5f6f4;
+  --color-panel: #ffffff;
+  --color-map: #edf0ed;
+  --color-raised: #e9ece9;
+  --color-line: #d2d8d4;
+  --color-ink: #202725;
+  --color-secondary: #4d5c56;
+  --color-muted: #5e6d67;
+  --color-accent: #216b59;
+  --font-sans: "Segoe UI", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: ui-monospace, Consolas, monospace;
+}
+
+:root {
+  color-scheme: light;
+  background: var(--color-page);
+  color: var(--color-ink);
+}
+
+:root.dark {
+  color-scheme: dark;
   --color-page: #161819;
   --color-panel: #1d2021;
   --color-map: #191c1e;
@@ -12,13 +33,6 @@
   --color-secondary: #bdc4c3;
   --color-muted: #9ba7a7;
   --color-accent: #a8d8cb;
-  --font-sans: "Segoe UI", ui-sans-serif, system-ui, sans-serif;
-  --font-mono: ui-monospace, Consolas, monospace;
-}
-
-:root {
-  color-scheme: dark;
-  background: var(--color-page);
 }
 
 body {

@@ -6,6 +6,7 @@ import { DashboardProvider } from '../data/DashboardContext'
 import snapshot from '../data/countyLungTreatment.json'
 import rawGeography from '../../public/finland.geojson?raw'
 import { CountyMap } from './CountyMap'
+import { getCountyCareCenters } from '../data/countyCareCenters'
 
 const geography = JSON.parse(rawGeography)
 function Harness() {
@@ -26,12 +27,20 @@ describe('county review map', () => {
     const southwest = within(map).getByRole('button', { name: 'Southwest Finland' })
     expect(southwest.getAttribute('aria-pressed')).toBe('true')
     const originalPath = southwest.getAttribute('d')
+    const centers = getCountyCareCenters('HVA05')
+    expect(within(map).getAllByRole('img')).toHaveLength(centers.length)
+    for (const center of centers) {
+      const marker = within(map).getByRole('img', { name: center.name })
+      expect(marker.querySelector('text')?.textContent?.replaceAll(' ', '')).toBe(center.name.replaceAll(' ', ''))
+    }
     expect(within(screen.getByRole('list', { name: 'County care centers' })).getAllByRole('link').length).toBeGreaterThan(0)
     fireEvent.keyDown(within(map).getByRole('button', { name: 'Kymenlaakso' }), { key: 'Enter' })
     const nextMap = screen.getByRole('group', { name: 'County map of Kymenlaakso' })
     expect(within(nextMap).getByRole('button', { name: 'Kymenlaakso' }).getAttribute('aria-pressed')).toBe('true')
     expect(southwest.getAttribute('aria-pressed')).toBe('false')
     expect(southwest.getAttribute('d')).not.toBe(originalPath)
+    expect(within(nextMap).getAllByRole('img')).toHaveLength(getCountyCareCenters('HVA10').length)
+    for (const center of centers) expect(within(nextMap).queryByRole('img', { name: center.name })).toBeNull()
   })
 
   it('offers a retry when boundaries fail to load', async () => {

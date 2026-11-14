@@ -146,7 +146,7 @@ export function MapContainer({ selectedRegionId, onRegionSelect, onOpenBriefing,
                     role={region ? 'button' : undefined} tabIndex={region ? 0 : -1}
                     aria-label={region ? label : undefined}
                     aria-pressed={region ? selected : undefined} fill={indicator ? verdictColors[verdict] : coverageColors[getCoverageBand(share)]}
-                    stroke={selected ? '#f1f2ef' : '#191c1e'} strokeWidth={selected ? 2 : 1} vectorEffect="non-scaling-stroke"
+                    stroke={selected ? 'var(--color-ink)' : 'var(--color-map)'} strokeWidth={selected ? 2 : 1} vectorEffect="non-scaling-stroke"
                     className={region ? 'cursor-pointer outline-none [-webkit-tap-highlight-color:transparent] transition-[fill,stroke] duration-150 ease-out hover:fill-ink focus-visible:stroke-accent focus-visible:stroke-2 motion-reduce:transition-none' : undefined}
                     onClick={region ? () => selectCounty(id) : undefined}
                     onKeyDown={region ? event => {
