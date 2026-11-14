@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-page: #161819;
+  --color-panel: #1d2021;
+  --color-map: #191c1e;
+  --color-raised: #262a2b;
+  --color-line: #34393b;
+  --color-ink: #f1f2ef;
+  --color-secondary: #bdc4c3;
+  --color-muted: #9ba7a7;
+  --color-accent: #a8d8cb;
+  --font-sans: "Segoe UI", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: ui-monospace, Consolas, monospace;
+}
+
+:root {
+  color-scheme: dark;
+  background: var(--color-page);
+}
+
+body {
+  min-width: 280px;
+}

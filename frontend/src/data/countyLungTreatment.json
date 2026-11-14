@@ -1,0 +1,193 @@
+{
+  "commit": "8cc42e9de5549f05608fd03259cc8815170335e3",
+  "period": "2019-2023",
+  "observationWindow": "12 months from registry-defined follow-up start",
+  "sourceUrl": "https://cancerregistry.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+  "recommendation": {
+    "id": "stage_mdt_completeness",
+    "trigger": "Incomplete stage or MDT recording, or unexplained regional treatment-pattern differences",
+    "proposal": "Conduct a joint clinical and coding review, standardise documentation and registry delivery, and monitor missingness before attributing differences to care quality",
+    "owner": "County oncology lead and registry/data team",
+    "measure": [
+      "stage data coverage",
+      "validated MDT recording",
+      "clinical-notification completeness"
+    ],
+    "evidence": [
+      {
+        "path": "data/raw/quality/lung_2019_2023.html",
+        "url": "https://cancerregistry.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html"
+      },
+      {
+        "path": "Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf",
+        "action": "3.2.1",
+        "pdf_page": 60
+      }
+    ],
+    "goal": "Goal 3.2.1 and 3.2.2",
+    "evidence_status": "Policy/guidance-supported proposal; local benefit unestimated; requires clinical validation"
+  },
+  "regions": [
+    {
+      "regionId": "HVA01",
+      "regionName": "East Uusimaa",
+      "patients": 272,
+      "missing": 86,
+      "share": 31.6
+    },
+    {
+      "regionId": "HVA02",
+      "regionName": "Central Uusimaa",
+      "patients": 481,
+      "missing": 127,
+      "share": 26.4
+    },
+    {
+      "regionId": "HVA03",
+      "regionName": "West Uusimaa",
+      "patients": 1058,
+      "missing": 302,
+      "share": 28.5
+    },
+    {
+      "regionId": "HVA04",
+      "regionName": "Vantaa and Kerava",
+      "patients": 595,
+      "missing": 172,
+      "share": 28.9
+    },
+    {
+      "regionId": "HVA05",
+      "regionName": "Southwest Finland",
+      "patients": 1437,
+      "missing": 619,
+      "share": 43.1
+    },
+    {
+      "regionId": "HVA06",
+      "regionName": "Satakunta",
+      "patients": 682,
+      "missing": 203,
+      "share": 29.8
+    },
+    {
+      "regionId": "HVA07",
+      "regionName": "Kanta-Häme",
+      "patients": 546,
+      "missing": 175,
+      "share": 32.1
+    },
+    {
+      "regionId": "HVA08",
+      "regionName": "Pirkanmaa",
+      "patients": 1253,
+      "missing": 224,
+      "share": 17.9
+    },
+    {
+      "regionId": "HVA09",
+      "regionName": "Päijät-Häme",
+      "patients": 659,
+      "missing": 117,
+      "share": 17.8
+    },
+    {
+      "regionId": "HVA10",
+      "regionName": "Kymenlaakso",
+      "patients": 591,
+      "missing": 97,
+      "share": 16.4
+    },
+    {
+      "regionId": "HVA11",
+      "regionName": "South Karelia",
+      "patients": 355,
+      "missing": 152,
+      "share": 42.8
+    },
+    {
+      "regionId": "HVA12",
+      "regionName": "South Savo",
+      "patients": 448,
+      "missing": 104,
+      "share": 23.2
+    },
+    {
+      "regionId": "HVA13",
+      "regionName": "North Savo",
+      "patients": 641,
+      "missing": 124,
+      "share": 19.3
+    },
+    {
+      "regionId": "HVA14",
+      "regionName": "North Karelia",
+      "patients": 510,
+      "missing": 113,
+      "share": 22.2
+    },
+    {
+      "regionId": "HVA15",
+      "regionName": "Central Finland",
+      "patients": 637,
+      "missing": 156,
+      "share": 24.5
+    },
+    {
+      "regionId": "HVA16",
+      "regionName": "South Ostrobothnia",
+      "patients": 540,
+      "missing": 139,
+      "share": 25.7
+    },
+    {
+      "regionId": "HVA17",
+      "regionName": "Ostrobothnia",
+      "patients": 449,
+      "missing": 103,
+      "share": 22.9
+    },
+    {
+      "regionId": "HVA18",
+      "regionName": "Central Ostrobothnia",
+      "patients": 148,
+      "missing": 37,
+      "share": 25.0
+    },
+    {
+      "regionId": "HVA19",
+      "regionName": "North Ostrobothnia",
+      "patients": 1050,
+      "missing": 263,
+      "share": 25.0
+    },
+    {
+      "regionId": "HVA20",
+      "regionName": "Kainuu",
+      "patients": 226,
+      "missing": 64,
+      "share": 28.3
+    },
+    {
+      "regionId": "HVA21",
+      "regionName": "Lapland",
+      "patients": 710,
+      "missing": 240,
+      "share": 33.8
+    },
+    {
+      "regionId": "HVA90",
+      "regionName": "City of Helsinki",
+      "patients": 1486,
+      "missing": 432,
+      "share": 29.1
+    },
+    {
+      "regionId": "HVA91",
+      "regionName": "Åland",
+      "patients": null,
+      "missing": null,
+      "share": null
+    }
+  ]
+}
